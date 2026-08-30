@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/621737919855699c23.png)
+![IMG](assets/images/2b8f7b831efc7038326640b3aea222efed77dfd2b11f95f10b39b6b166c1d729.png)
 [trans]
 #### Overview
 This strategy is a crossover strategy based on two moving averages, EMA and SMA. When the slower EMA crosses the faster SMA from bottom to top, a buy signal is generated; when the slower EMA crosses the faster SMA from top to bottom, a sell signal is generated. This strategy is designed to capture an upward trend in a bull market while providing some support.

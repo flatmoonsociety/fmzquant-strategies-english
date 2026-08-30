@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1f1fd9d67d42bcf9ccc.png)
+![IMG](assets/images/68b3e565a2e286ebf9149fb96c3c9188b96d33ef235085037cc9ae6caa85207b.png)
  [trans]
 ### Overview
 This strategy uses the pivot point of the CCI indicator to calculate dynamic support and resistance levels, and combines trend judgment to find buy and sell signals. This strategy combines CCI's reversal characteristics and trend tracking capabilities, aiming to seize the reversal point in the mid-term trend to achieve profitability.

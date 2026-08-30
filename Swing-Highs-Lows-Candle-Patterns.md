@@ -32,7 +32,7 @@ Higher values of length might return errors.
 
 **backtest**
 
- ![IMG](https://www.fmz.com/upload/asset/be36dc9f3162c7d660.jpg) 
+ ![IMG](assets/images/8eb8c0812ed3a3b7045d756cf67b1f9db35d2a715950c0ec87c24f712c5d411b.jpg) 
 
 > Strategy Arguments
 

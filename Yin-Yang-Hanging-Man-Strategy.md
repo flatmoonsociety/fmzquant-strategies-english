@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/109c316e6432769ac1e.png)
+![IMG](assets/images/e19824041fd0c56f5e1ff09874cf4aecc4e049911503424402a38ce31e5e0297.png)
 [trans]
 ### Overview
 The Yin Yang hanging neck strategy is a quantitative trading strategy based on the hanging neck pattern. This strategy generates trading signals by identifying candlestick patterns in candlestick charts. When the hanging neck line pattern is identified, if it is a positive hanging neck line, a buy signal is generated; if it is a negative hanging neck line, a sell signal is generated.

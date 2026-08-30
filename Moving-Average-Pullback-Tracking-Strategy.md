@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/11c06044bcd0635e8ee.png)
+![IMG](assets/images/00707a32930cfbfc29e75f4375155276eec204b00f738d640db267be2b3dd392.png)
 [trans]
 ### Overview
 The main idea of ​​this strategy is to use two moving averages with different periods to capture rebound opportunities after market corrections. When the price is above the long-term moving average and pulls back toward the short-term moving average, the strategy opens a long position and closes the position when the price returns to the short-term moving average or hits the stop-loss price. This strategy strives to make profits in trending markets by looking for pullback buying opportunities in trends.

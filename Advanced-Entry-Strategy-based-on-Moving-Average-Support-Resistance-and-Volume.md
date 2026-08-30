@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/14d4ee21e55f608f1d7.png)
+![IMG](assets/images/3454aa1ff5ab22deefa299f2318f01778a35015e58aa6a8be7db814c0c9d0a4e.png)
 [trans]
 #### Overview
 This strategy combines three technical indicators, the Simple Moving Average (SMA), support and resistance levels, and increased volume, to create a comprehensive trading strategy. The main idea of ​​the strategy is to trade when the price breaks through the SMA moving average, support and resistance levels, and the trading volume increases. At the same time, stop loss conditions are set to control risks.

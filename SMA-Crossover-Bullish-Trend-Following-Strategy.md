@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/10f981ad1cbdc4f634f.png)
+![IMG](assets/images/0d1d5de3daa526454d9a53791983129f0267f606a6a0aedd561cdac61b4afd99.png)
 [trans]
 ## Overview
 This strategy is a long-term chasing strategy based on the crossover of the simple moving average (SMA). It calculates the SMA of different periods, generates a buy signal when the short-term SMA crosses the long-term SMA, and performs chasing operations. At the same time, it will also set take-profit and stop-loss levels based on a certain proportion of the entry price to manage the risk of the position.

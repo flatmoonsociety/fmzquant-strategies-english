@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/17ad863810e29fd427a.png)
+![IMG](assets/images/321eae019579362ce12ae6e5f0d81efef08483897c32131ca2c2a79d98ac10c9.png)
 [trans]
 ## Overview
 This strategy combines the exponential moving average (EMA) with the stochastic oscillator, using trend following and continuation methods, and also has some cool features. I designed this strategy specifically for trading altcoins, but it works equally well with Bitcoin itself and some Forex trading pairs.

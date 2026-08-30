@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/19bd7bcaf90becca49c.png)
+![IMG](assets/images/65f7e426d1148c4cc9fbf88d3a491210b86a3eae957e5cac693da17bce2f81e8.png)
  [trans]
 ## Overview
 This strategy designs a trading strategy that automatically sets stop loss and take profit based on the relative strength index (RSI) indicator. When the RSI indicator exceeds the set overbought line or exceeds the set oversold line, the strategy will open a long or short position respectively. At the same time, the strategy will automatically set the stop loss price and take profit price based on the opening price and the set stop loss ratio and take profit ratio.

@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/137b5bd808d8f0bfe5a.png)
+![IMG](assets/images/40f40454785d5ae80dcdd3b70cdcdbe65f9fe4af5df8e231455e9dd1ce982e22.png)
 [trans]
 ## Overview
 This strategy combines the simple moving average (SMA) and the rolling linear regression trend line. The buy condition is to go long when the closing price is higher than the SMA and the trend line, and the exit condition is to close the position when the closing price is lower than the SMA and the trend line. This strategy mainly uses the moving average trading signals of SMA and the support of the rolling trend line to enter the market when it breaks through the upward channel and exit when it breaks through the downward channel.

@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1577048cc0906e4e5bf.png)
+![IMG](assets/images/1d4ec6fb6ac38b99e56565f96e8e8ca50389bfb2c9aabc21332ef190434a50f4.png)
 [trans]
 ### Overview
 This strategy comprehensively uses the Bollinger Bands indicator and the stochastic indicator to identify overbought and oversold conditions in the market and find trading opportunities near the upper and lower rails of the Bollinger Bands. At the same time, the average true fluctuation range indicator is used for tracking stop loss. DYNAMIC TRAILING STOP adopts a dynamic stop loss method, which can flexibly adjust the stop loss position according to the market fluctuation range, thereby ensuring the stop loss effect while avoiding being too sensitive to being stopped out.

@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/10a1a5b5e6ad30900c8.png)
+![IMG](assets/images/a8baec05f6b344a5106ebb2fb55e1ddf37c7cba46642202118638db0eb48a763.png)
 [trans]
 ## Overview
 This is a simple day trading strategy based on double moving averages. It uses two simple moving averages with different periods, and buys or sells when the moving averages cross. When the signal changes, use double the amount to close the position and then open the position in the opposite direction. At the end of the intraday trading session, if the positions have not been closed, all positions will be closed.

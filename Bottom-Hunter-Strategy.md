@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/12aace36d15f5841a56.png)
+![IMG](assets/images/380fc4bb97e4c96712f080298a19c5c1d9fba9e4b732f28feadfadbea202b992.png)
 [trans]
 ## Overview
 The bottom hunter strategy is a short-term trading strategy for digital currencies. This strategy identifies the right time to buy by identifying the bottom in a downtrend.

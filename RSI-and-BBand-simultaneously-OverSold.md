@@ -13,7 +13,7 @@ This indicator is created by combining the standard period RSI indicator with an
 
 **backtest**
 
- ![IMG](https://www.fmz.com/upload/asset/1f1cc8bca66e3e9a1fd.png) 
+ ![IMG](assets/images/4b9ba084e489d802e74ec9f9bb32aadd15cdacf5d4a9c5dc568b34a05c083ddb.png) 
 
 > Strategy Arguments
 

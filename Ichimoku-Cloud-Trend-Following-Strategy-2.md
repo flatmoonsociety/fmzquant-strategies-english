@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/13dd13793ed241e7544.png)
+![IMG](assets/images/64fba11ce99b73ba4e858240baff27ce4b94a71d6c93e2e592901251c64f9f15.png)
 
 [trans]
 ## 1. Strategy name: Balanced ruler cloud chart trend tracking strategy

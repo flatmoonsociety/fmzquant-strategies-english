@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/c6115526e97d12418d.png)
+![IMG](assets/images/4c6c2d08e3e761c461f5d94b233c7d078c7278e513d36c9e6630be7c604bb3e0.png)
 [trans]
 ## Overview
 This strategy is based on the super trend indicator and combines ATR to dynamically set stop loss lines to profit from the strong trend of Ethereum. It works on the ETH/USD trading pair on the Coinbase exchange.

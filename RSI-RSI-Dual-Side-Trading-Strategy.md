@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/155d066753fb493b15d.png)
+![IMG](assets/images/52a1944f2733c1fd11ecd377793efe468eaf7092ead1de6d7c217d8194d4cefd.png)
 [trans]
 #### Overview
 This strategy is based on the Relative Strength Index (RSI) indicator. By observing the overbought and oversold status of the RSI indicator, it performs buying and selling operations respectively when the RSI reaches the set overbought and oversold thresholds. At the same time, this strategy also adopts a pyramid-style position building method, gradually increasing positions when certain conditions are met, in order to obtain higher returns.

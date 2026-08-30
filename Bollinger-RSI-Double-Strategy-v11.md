@@ -21,7 +21,7 @@ All trading involves high risk; past performance is not necessarily indicative o
 
 P.S. For advanced users if you want access to more functions of this strategy script, then please use version 1.0:
 **Backtest**
- ![IMG](https://www.fmz.com/upload/asset/f3b949b79731708e12.png)
+ ![IMG](assets/images/5e03e51e960f9dab97ebab348b6ab297625c22f99d12aac06ff116dda3c1e3bc.png)
 > Strategy Arguments
 
 

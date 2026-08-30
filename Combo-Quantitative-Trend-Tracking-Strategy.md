@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/11a6b61ce709a0c3e87.png)
+![IMG](assets/images/41eef16f91aa280fd8984e271e10d64252128182e7d41eab7b8a81842d694850.png)
 [trans]
 ## Overview
 The core idea of ​​this strategy is to combine the 123 reversal strategy and the rainbow oscillator indicator to achieve dual trend tracking to improve the winning rate of the strategy. This strategy tracks short-term and medium-term price trends and dynamically adjusts positions to achieve excess returns that exceed the market.

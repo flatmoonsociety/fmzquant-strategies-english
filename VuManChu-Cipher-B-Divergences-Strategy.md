@@ -13,7 +13,7 @@ A Strategy using VuManChu Cipher B + Divergences for backtesting purpose.
 
 **backtest**
 
- ![IMG](https://www.fmz.com/upload/asset/11eb4c027659ace3042.png) 
+ ![IMG](assets/images/b058b2e76e5fd8ffae1dc35ee617c78898c0aad9b2de8f39615722f7bfa2c146.png) 
 
 > Strategy Arguments
 

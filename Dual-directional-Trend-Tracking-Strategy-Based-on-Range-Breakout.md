@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1ecd6633ccc6092d9ee.png)
+![IMG](assets/images/3846de5b5a8411167a7f4d9e842c4dfb168f8a57cdd9bf84e37895c19b12a07e.png)
 [trans]
 ## Overview
 This strategy generates trading signals by calculating the last upper limit price and the last lower limit price, combined with the current price to determine whether the price has entered a certain range. Go long when the price exceeds the previous upper limit price by a certain percentage, and go short when the price is lower than the previous lower limit price by a certain percentage.

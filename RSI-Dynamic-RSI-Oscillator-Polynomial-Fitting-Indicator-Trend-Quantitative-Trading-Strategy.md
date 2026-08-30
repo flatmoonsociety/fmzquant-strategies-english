@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/113c46ea585baf8fb27.png)
+![IMG](assets/images/21f0e1ba3bb568d342be682041572b86d7f4c4fdbcdc48fc223f7dc7f84fcbc0.png)
 
 [trans]
 This strategy is a quantitative trading system based on the RSI dynamic oscillator. By performing polynomial fitting and time series analysis on the RSI indicator, the rate of change of RSI is calculated to capture market momentum. The strategy uses advanced mathematical methods such as QR decomposition for signal processing, and combines it with the moving average system for trading decisions.

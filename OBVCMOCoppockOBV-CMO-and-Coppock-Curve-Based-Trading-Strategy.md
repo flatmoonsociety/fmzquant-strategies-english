@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/7a4c44e146264c9406.png)
+![IMG](assets/images/a48f9e49d148f1d5107d9f2f3e2d6680f428e2c80203e0e8cb79e3384b2dee56.png)
 [trans]
 ## Overview
 The RB quantitative trading three-in-one strategy is a composite strategy that combines the market popularity indicator OBV, the short- and medium-term movement volume indicator CMO, and the long-term movement volume indicator Coppock curve. This strategy comprehensively considers the three dimensions of the market's long and short popularity, short- and medium-term trends, and long-term trends to form trading signals to achieve more reliable entry.

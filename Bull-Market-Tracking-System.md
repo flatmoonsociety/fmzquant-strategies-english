@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/12418511300f749b8e4.png)
+![IMG](assets/images/7e6ea53a24917a0c0312ea24b27b663726bd222936cf4fa6e9bfd3d70cef65fe.png)
 [trans]
 ## Overview
 The Bull Tracking System is a mechanical trading system based on trend following. It uses trend indicators on the 4-hour chart to filter trading signals, while entries are judged based on indicators on the 15-minute chart. The main indicators include RSI, stochastics and MACD. The advantage of this system is that the combination of multiple time frames can effectively filter out false signals, while using indicators in lower time frames to obtain more accurate entry opportunities. However, this system also has some risks, such as over-trading and false breakthroughs.

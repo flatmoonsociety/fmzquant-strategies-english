@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1d3f3ee7221410dfeb8.png)
+![IMG](assets/images/59ab1c8c621db031655c7af6eba7f2ef39f04e0b5ce1a7c58ecfbdf6ad824d3b.png)
 [trans]
 ## Overview
 This strategy achieves momentum tracking across time frames by combining the 123 reversal and the MACD indicator. 123 reversal determines the reversal point of the short-term trend, and MACD determines the medium- and long-term trend. The combination of the two can achieve long-short signals that lock in the medium- and long-term trends while reversing the short-term.

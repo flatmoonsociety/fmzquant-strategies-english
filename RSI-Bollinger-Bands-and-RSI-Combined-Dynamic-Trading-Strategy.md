@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/21efff33805712bcef7.png)
+![IMG](assets/images/9088b2e55b392653f6cb31b39df08c4e3763e72483c103ebb84434cd8d696eab.png)
 
 [trans]#### Overview
 This strategy is an adaptive trading system that combines Bollinger Bands and Relative Strength Index (RSI). This strategy uses the price channel of Bollinger Bands and the overbought and oversold signals of RSI to identify potential trading opportunities and realize the grasp of market trends and fluctuations. The strategy uses standard deviation to dynamically adjust the trading range, and combines the overbought and oversold levels of the RSI indicator to confirm trading signals, thereby improving the accuracy of trading.

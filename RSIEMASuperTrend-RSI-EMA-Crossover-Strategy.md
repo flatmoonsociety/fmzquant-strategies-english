@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/14880d7356f7a26c7a0.png)
+![IMG](assets/images/b1cf8875ac407b14bc201cf26957419456747c90097780de3668264571a2c547.png)
  [trans]
 
 Strategy Overview: This strategy uses a combination of the Super Trend Indicator, the Relative Strength Index (RSI), and the Exponential Moving Average (EMA) to identify buying opportunities. A buy signal is generated only when the closing price is above the super trendline, the RSI is greater than 70 and the price is above the 9-day EMA.

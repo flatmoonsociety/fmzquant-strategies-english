@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/185e594779950d82f78.png)
+![IMG](assets/images/fb8a7bae54f99bd187c506607473c3cc25f49a20a10987f55e759a5209459b42.png)
  [trans]
 ## Overview
 This strategy is a quantitative trading strategy based on two-way price shock breakthroughs. It uses the Pivot high and low points as key price support and resistance levels, and goes long when the price breaks through the Pivot high point, and goes short when it breaks through the Pivot low point, achieving two-way operations.

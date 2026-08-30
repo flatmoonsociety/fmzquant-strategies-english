@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1bbbf7ca5a8d4e242d4.png)
+![IMG](assets/images/10cb6cb8d4d486d135197ac2cd3f5e81ecc15f3f7d2d8f5a5f97f612aac8b395.png)
 [trans]
 ## Overview
 This strategy is a multi-factor judgment-based quantitative trading strategy that combines momentum indicators and trend indicators. The strategy determines the overall trend and momentum direction of the market by calculating mathematical combinations of multiple averages, and issues trading signals based on threshold conditions.

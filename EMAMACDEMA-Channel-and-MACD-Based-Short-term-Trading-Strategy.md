@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/cb683c5ab37e9ce33b.png)
+![IMG](assets/images/3f882c9566576bb9de89b380bd4c1e7a55daccd45ca30d9e3d8c2ed72af32ddf.png)
 [trans]
 ## Overview
 The name of this strategy is "Short-term trading strategy based on EMA channel and MACD". It combines the EMA channel and MACD indicators to identify trends and give trading signals.

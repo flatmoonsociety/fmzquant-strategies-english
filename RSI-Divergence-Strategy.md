@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/fb2fd01fb79f1d19a4.png)
+![IMG](assets/images/29708793c2f2f526333ac486b16ea9573d8b8859335d71e2e873c1473b648ffe.png)
 [trans]
 ## Overview
 The RSI Divergence Strategy is a strategy that uses the Relative Strength Index (RSI) to identify potential price reversal opportunities. This strategy identifies waning strength and potential reversals by spotting divergences between price action and RSI trends.

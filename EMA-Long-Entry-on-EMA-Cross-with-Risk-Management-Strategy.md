@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/161f858a52a02f97541.png)
+![IMG](assets/images/7939a5c14ad7d22aef69bc1c99772b5f0d5457618f96f544c49784788ecd776c.png)
 [trans]
 #### Overview
 This strategy is a long strategy based on an exponential moving average (EMA) crossover. Enter a long position when the price breaks through the EMA from below, and close the position when the price falls below the EMA from above. The strategy also incorporates Stop Loss (SL), Target Profit (TP) and Trailing Stop Loss (TSL) as secondary risk management measures to control potential downside risk and lock in profits.

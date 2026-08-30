@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/e21b3bc7526f6e999f.png)
+![IMG](assets/images/91cd713fe641e3d2ddc93de64412e7c4f0e5734085f6df8bc4bbf2d77a9f0b2d.png)
 [trans]
 #### Overview
 This strategy is called "Multi-Period Moving Average Crossover Momentum Strategy". This strategy is based on moving average crossover signals across multiple time periods, combining exponential moving averages (EMA) and simple moving averages (SMA) to identify potential buying and selling opportunities. The strategy uses 9-period EMA, 30-period SMA, 50-period SMA, 200-period SMA and 325-period SMA to provide traders with a comprehensive market trend perspective from short-term to long-term.

@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/10b50a3e36145dabe93.png)
+![IMG](assets/images/fa8a4aedf986f68810dc9bacfcf98c6be373a9cfa9592286675bc46d55d69737.png)
 [trans]
 ## Overview
 The strategy was tested on the 3-minute time frame of the Bitcoin and USD trading pair (BTC/USDT) and gave very good results. This strategy uses a combination of moving averages and the Stochastic RSI to identify trading signals.

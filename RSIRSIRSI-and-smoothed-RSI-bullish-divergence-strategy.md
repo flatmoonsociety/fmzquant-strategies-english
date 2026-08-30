@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1bfd4be10026720f6c3.png)
+![IMG](assets/images/192e45a4842d8f24671a1f7895378a6259d7d3ec32e3fa59d1980227abdfdf09.png)
 [trans]
 ## Overview
 This strategy uses the combination of RSI indicator and smoothed RSI indicator to find buying opportunities at low prices. When the RSI indicator reaches a new low but the price does not, it is considered a bullish parting signal. Combined with the trend judgment of the smoothed RSI indicator, the effect of the strategy can be improved.

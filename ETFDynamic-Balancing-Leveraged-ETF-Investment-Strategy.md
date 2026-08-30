@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/e20a71f1a3e9eea3b0.png)
+![IMG](assets/images/ed0f6e86bd35c167836a77e749b6644ca8c6e9d9a6e6008d52458cf75b1198d2.png)
 [trans]
 ### Overview
 This strategy uses Hong Kong Hang Seng Index ETF (00631L) as the investment target, and balances the return and risk of the investment portfolio in real time by dynamically adjusting cash positions and position proportions. The strategy is simple and easy to implement, and there is no need to judge market trends. It is suitable for investors who cannot check the market frequently.

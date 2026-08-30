@@ -23,7 +23,7 @@ The following alerts were created:
 
 **backtest**
 
- ![IMG](https://www.fmz.com/upload/asset/1cbd3d5353e6275e6d0.png) 
+ ![IMG](assets/images/6b1f8580fa17f6d6a2c339c26d27b71a0150bfccc0a6da55b1af8e8138ebab6e.png) 
 
 > Strategy Arguments
 

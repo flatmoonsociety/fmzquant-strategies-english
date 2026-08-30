@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1a9be1b313d3475bec3.png)
+![IMG](assets/images/52326181cd1a2cbaa1af70052c3f521d4ae30a8b487eee19649b04fff580cc96.png)
 [trans]
 This strategy determines the direction of the market trend by calculating the moving average and the price difference, and opens long positions when the trend conditions are met to avoid frequent opening of positions in volatile markets.
 ### Strategy Overview

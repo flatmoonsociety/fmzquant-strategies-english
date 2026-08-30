@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/8d0b045e5ca8fbea5a.png)
+![IMG](assets/images/6c0d8cc54b43ba262d340c06b7a44927c3311db6b2cf8cd29f395f660a91a7c9.png)
  [trans]
 ### Overview
 The EMA tracking strategy is a trend strategy that uses the EMA indicator to track. This strategy determines the price trend and generates trading signals by calculating the EMA value of the price and combining it with the set proportional band.

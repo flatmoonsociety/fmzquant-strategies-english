@@ -62,14 +62,14 @@ People who know me well know that personally, I don’t really like Alpha’s ga
 The research and development of quantitative strategies actually has two sides. It is very difficult for those who are just getting started. It is not only the code at the "technical" level, but also the strategic and logical thinking at the "strategic" level. Both are important and must not be taken in either direction. The strategy I will introduce to you today is actually inspired by a research report from Huatai many years ago. Please read it carefully and it is just an inspiration. The reason why I say this is because the logic of this strategy is completely different from what was mentioned in the research report. Let’s chat with Mr. T privately about the specific research report.
 This strategy algorithm adopts the rolling yield fluctuation principle of the logarithmic price rise and fall in a certain period. Based on the fluctuation interval, it calculates the rolling highest value and the minimum value in a certain period. The highest value is used as the upper channel, and the minimum value is used as the lower channel. If it breaks through the upper channel, a position is opened. The rolling average of the upper and lower pipelines is used as the closing line. (Knock on the blackboard here!)
 For the specific graphic visualization interface, please refer to the PPT below. This graphic was drawn by me using Pyecharts. Please contact Mr. T privately for the specific code.
- ![IMG](https://www.fmz.com/upload/asset/95f6e8b8196998728de6.png) 
+ ![IMG](assets/images/65e2acd203af52c1bc2fe207c2c9fabf15ee75818922f32d10124391e5554968.png) 
 
 
 
 In fact, this strategy was the one I used to build broad-based ETFs before. Of course, it was also used for index timing for stock trading. Later, I moved it directly to the currency circle. I was shocked to find that the parameters did not need to be changed in a real dimensionality reduction attack.
 
 
- ![IMG](https://www.fmz.com/upload/asset/95c0d34f79df83ec85c5.png) 
+ ![IMG](assets/images/97a2f597e63baf4fae52d3c5403eccf6e0d7deeff672c13d5627975905420637.png) 
 
 
 
@@ -77,14 +77,14 @@ In fact, this strategy was the one I used to build broad-based ETFs before. Of c
 
 The figure below shows the performance of the backtest that year. The specific code logic screenshots are as follows:
 
- ![IMG](https://www.fmz.com/upload/asset/951f56f73aeb0da6ffa1.png) 
+ ![IMG](assets/images/ce7edddf89a502da761ca3b6c63c2efca3b8676f157353e7ea87789d67803349.png) 
 
 
 
 
 The above is actually to calculate the indicator data through pandas after reading the data.
 
- ![IMG](https://www.fmz.com/upload/asset/951a76802f3a22a6da7c.png) 
+ ![IMG](assets/images/e31c661dd515f75f62f612e838672c9c3a0ae81ea73122e2be0846215739719b.png) 
 
 
 
@@ -121,7 +121,7 @@ Finally, thank you again Shen Lu for your wonderful explanation!
 Friends who have not joined the quantitative discussion group, please join the group to receive learning materials! ! !
 Thousands of deities guard the building!
 
- ![IMG](https://www.fmz.com/upload/asset/9576f0337a4b9144925e.png) 
+ ![IMG](assets/images/a87d0ebd51bfb48a1058e02e609b4c9221244e635bd437bbe3c3de09e1247669.png) 
 
 
 

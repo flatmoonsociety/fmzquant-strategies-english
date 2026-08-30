@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/8f3663bf3e117cdf31.png)
+![IMG](assets/images/c784032470465c1dba3b2b269bd9ef57c00a12ab3a240c95b84bc84af8d2aa0b.png)
 [trans]
 ### Overview
 The Three Candle Reversal Trend Strategy is a short-term trading strategy that identifies three consecutive positive or negative lines, followed by a swallowing K-line, to determine the reversal of the short-term trend, and combines a variety of technical indicators to filter entry opportunities. This strategy trades with a stop-loss and take-profit ratio of 1:3, which is conducive to obtaining excess returns.

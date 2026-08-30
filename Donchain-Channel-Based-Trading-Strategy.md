@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/91010e376227ee5268.png)
+![IMG](assets/images/21dbb8caee88f2fa57b76f9f0e3479bb4d55dc250d3b8068af83c4df7f84e241.png)
 [trans]
 ## Overview
 This is a trading strategy that uses the Tangqi Channel on multiple time scales to determine entry and exit points. The main idea of ​​the strategy is: judge the trend direction on a longer time scale and find the entry opportunity; judge the trend reversal on a shorter time scale and find the exit opportunity.

@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1b09b8afa134c9939ed.png)
+![IMG](assets/images/9bda8564af85e36ce70248c69dcac1e8737f74beb2ff5652d6c919cf64fb0812.png)
  [trans]
 ## Overview
 The double confirmation reversal trend tracking strategy combines the 123 pattern reversal strategy and the support and resistance level breakthrough strategy to achieve double confirmation of price reversal signals, thereby filtering out some noisy trading signals and improving the strategy's winning rate.

@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/19d896963817e1d58ec.png)
+![IMG](assets/images/90cc039e5fef35a29b0f3cdbd06a2bae405b22d3bf174cbf1095c7bfd494097a.png)
 [trans]
 #### Overview
 This strategy combines the MACD indicator with the limited Martingale money management method and is designed to capture trading opportunities when market trends change. When the MACD fast line and slow line cross golden, a buy signal is generated, and when the MACD crosses dead, a sell signal is generated. At the same time, the strategy uses a limited Martingale method to control retracements, with a maximum of 3 positions added. The strategy sets a fixed take-profit and stop-loss of 1% for a single trade.

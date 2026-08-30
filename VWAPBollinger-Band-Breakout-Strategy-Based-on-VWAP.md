@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/b7577a5ca3e2d64a38.png)
+![IMG](assets/images/2de272be5bac964a269f290e24485ff5a970475fb0dbd9cc147577bb4fa690d1.png)
 [trans]
 ### Overview
 This strategy uses the Bollinger Band indicator to track VWAP. When VWAP breaks above the middle track of the Bollinger Band, it is judged as a long breakthrough and a long strategy is adopted. When VWAP falls downward and breaks the lower track of the Bollinger Band, it is judged as short confirmation and the position is closed and exited. At the same time, the strategy also introduces the main support level Pivot Point as an auxiliary judgment condition for entry signals, which can filter out some false breakthroughs.

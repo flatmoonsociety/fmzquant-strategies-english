@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1366f18ebbe18554b9f.png)
+![IMG](assets/images/f2aab8c0b77a385a5dd0490335d726f16fc49ae710be1e69c685a9bc1ed9370a.png)
 [trans]
 #### Overview
 The Fisher Transform Dynamic Threshold Trend Following strategy is based on the Fisher Transform indicator to identify changes in price trends. This strategy uses the Fisher Transform to normalize prices to a standard scale to make it easier to detect potential trend reversal points. By dynamically adjusting the threshold, the strategy can adapt to different market conditions and improve the accuracy of trend identification. When the Fisher Transform value crosses the positive and negative thresholds, the strategy generates buy and sell signals to track market trends.

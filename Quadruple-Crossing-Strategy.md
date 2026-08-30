@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/6011f6841cb2187b27.png)
+![IMG](assets/images/7e96ce9a9336d84aa70939e382a333638109d555681db70897e69df5e9f446c8.png)
 [trans]
 ## Overview
 The quadruple crossover strategy is a mid- to long-term trading strategy. It uses a variety of technical indicators to identify trend changes in stock prices and generate trading signals at key points. The main technical indicators include moving averages, volume, relative strength index (RSI) and moving average convergence indicator (MACD). This multi-indicator combination can improve the reliability of signals and reduce the probability of wrong transactions.

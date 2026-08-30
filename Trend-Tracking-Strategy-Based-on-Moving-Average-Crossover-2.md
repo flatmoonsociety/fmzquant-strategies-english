@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/13e1811ad82bbdcccfe.png)
+![IMG](assets/images/f6bba85270cc68f71342c45b479d882e04bd277f848342febe35e4777bcb50dc.png)
 [trans]
 ## Overview
 This strategy calculates the EMA moving averages of different periods, determines their crossover situations, and combines the RSI indicator to determine the market trend to achieve trend following transactions. The core idea is: when the short-term EMA line crosses the longer-period EMA line from below, a buy signal is generated; when the short-term EMA crosses the longer-period EMA line from above, a sell signal is generated. The trading signal formed by such an EMA crossover tracks the market trend.

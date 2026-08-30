@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/11ecc5ba515ff6dfe2a.png)
+![IMG](assets/images/134a62155e758801a2cfa95d67786cc98894c71df235f09d3ea81a74cc08214f.png)
 [trans]
 ## Overview
 This strategy is a long-term multi-factor strategy. It combines the three indicators of moving average, RSI and ATR to determine when the market enters the undervalued area and generates a buy signal. It is a long-term holding strategy that mainly pursues stable returns.

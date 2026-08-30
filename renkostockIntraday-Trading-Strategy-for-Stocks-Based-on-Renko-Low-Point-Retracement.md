@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/137b66f89e4219e3859.png)
+![IMG](assets/images/98e1ecba40f220f11b8b1921e2964c5157af82fc44b08a42adae6314238e60c2.png)
  [trans]
 ### Overview
 This strategy mainly uses the intraday low retracement characteristics of Renko stock to determine the new trend direction, and then establishes the stock intraday trading strategy. When the stock renko has a significant retracement from its intraday low, it is judged to be a new bullish signal, and a buying operation is taken; when the closing price of the stock renko drops significantly, it is judged to be a bearish signal, and a closing operation is taken.

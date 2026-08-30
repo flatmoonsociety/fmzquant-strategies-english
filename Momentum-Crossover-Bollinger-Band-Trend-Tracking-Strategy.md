@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/dd01bf4e7ab3be4cb4.png)
+![IMG](assets/images/d054cbab1063bc61a27169db4421a5a9b0800b737787d36e339af99162afc9db.png)
 [trans]
 ## Overview
 This strategy uses the Bollinger Bands indicator to determine the direction of the market trend and combines it with the momentum indicator to achieve trend following trading. "Momentum" in the name of the strategy represents the use of momentum indicators, "cross" represents the judgment of indicator crosses for long and short signals, "Bollinger Bands" represents the use of Bollinger Bands to determine the trend direction, "trend" represents the strategy to track the trend, and "tracking" represents the strategy can follow the trend for trading.

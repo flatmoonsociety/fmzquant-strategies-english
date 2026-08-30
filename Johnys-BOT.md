@@ -53,7 +53,7 @@ Good luck and enjoy ;)
 
 **backtesting**
 
- ![IMG](https://www.fmz.com/upload/asset/159efe4661da93e1142.png) 
+ ![IMG](assets/images/2d83ab01942580af92e5922373536b996d72473e0eb126bb5f5b39e7d9d54584.png) 
 
 > Strategy Arguments
 

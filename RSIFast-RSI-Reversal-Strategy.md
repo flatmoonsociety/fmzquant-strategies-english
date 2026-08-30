@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/11620627245d65b77ce.png)
+![IMG](assets/images/49eb40ac84e3183c92b2e200af4ce9e1d5cb7791fd0abca381f5f40ebf3c4dae.png)
 Here is an SEO article I wrote based on the code and requirements you provided, including the strategy name, overview, strategy principles, advantage analysis, risk analysis, optimization direction and summary:
 [trans]
 

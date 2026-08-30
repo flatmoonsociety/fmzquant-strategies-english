@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/172c13c696da25da589.png)
+![IMG](assets/images/cb527170376687ca4d97a65a30913a83af5807376f15bb363c4dd6f56276aab7.png)
 [trans]
 ### Overview
 The RWI volatility reversal strategy determines whether the market is in a reversal state by calculating the RWI highs and RWI lows within a certain period to discover reversal opportunities. It uses a reversal strategy to open short positions at high levels and long positions at low levels in order to make profits.

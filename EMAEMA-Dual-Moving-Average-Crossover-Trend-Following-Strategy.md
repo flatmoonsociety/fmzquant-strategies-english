@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1155f177ce67147828e.png)
+![IMG](assets/images/278da91d866b361846b37d482925d045829a2922f67ebe68ab49f27d4fb45ec6.png)
 [trans]
 #### Overview
 This strategy combines the concepts of trend trading and moving average crossover, using two exponential moving averages (EMA) with different periods to determine market trends. When the fast EMA crosses the slow EMA, a buy signal is generated, and vice versa, a sell signal is generated. In addition, this strategy also adds arrow indicators and alert functions to facilitate traders to grasp trading opportunities in real time.

@@ -43,11 +43,11 @@ If you read the article and want to trade all currencies, here is the list ``ETH
 - The strategy does not allow trading at the beginning. Data needs to be recorded when starting for the first time, and you need to wait for market changes before trading.
 ## Join the WeChat group to participate in the Binance Thousand Group War to get updates
 Add the WeChat ID below and reply "Binance" to automatically join the group:
-https://www.fmz.com![IMG](https://www.fmz.com/upload/asset/1fbed0c3795dbecac04.jpg)
+https://www.fmz.com![IMG](assets/images/08fb0f6e5844d67fc05e61bd37543a321dc60c1e6b2bf4ba1b9064ed195b2049.jpg)
 
 ## Strategy Principle
 We will short the currency whose price is higher than the altcoin-Bitcoin price index and long the currency whose price is lower than the index. The greater the deviation, the larger the position. (This strategy does not use BTC to hedge unequal positions. BTC can also be added to the trading pair). Performance in the past two months (about 3 times leverage, data updated to 4.8):
- ![IMG](https://www.fmz.com/upload/asset/1b2a6f297fcf590ad02.png)
+ ![IMG](assets/images/28f4cf764481b87db49d93e23aa3904cc95cebd65cac2d350e1e177ea09776c1.png)
 ## Strategy logic
 1. Update market conditions and account positions. The initial price will be recorded during the first run (newly added currencies are calculated based on the time of addition)
 2. Update the index. The index is Altcoin-Bitcoin price index = mean(sum((Altcoin price/Bitcoin price)/(Altcoin initial price/Bitcoin initial price)))
@@ -56,7 +56,7 @@ We will short the currency whose price is higher than the altcoin-Bitcoin price 
 5. Cycle again
 The level in the status bar represents the proportion of margin used, which needs to be kept low to meet new openings.
 ## Strategy parameters
- ![IMG](https://www.fmz.com/upload/asset/272b24a9c0018c96fb6.png) 
+ ![IMG](assets/images/1db2260b20ab52334af839b288bb2c34a0c7247d73c804e5944ab58b5526b8eb.png) 
 
 - Trade_symbols: The currency for trading, you need to filter it yourself according to the research platform, you can also add BTC
 - Trade_value: Every time the altcoin price (priced in BTC) deviates from the index by 1%, the holding value needs to be determined based on the total funds invested and risk preference. It is recommended to set it to 3-10% of the total funds. The size of the leverage can be seen through backtesting in the research environment. Trade_value can be less than Adjust_value, such as half of Adjust_value, which is equivalent to a holding value that deviates from the index by 2%.

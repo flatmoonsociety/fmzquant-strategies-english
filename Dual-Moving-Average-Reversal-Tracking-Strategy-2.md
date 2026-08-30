@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/143f3aeacfa8a18a828.png)
+![IMG](assets/images/762b60a3f7349880349dad7844e59145b2a1cf2ae583ca9a939d614e89c8f0ce.png)
 [trans]
 ## Overview
 The double moving average reversal tracking strategy is a quantitative trading strategy that uses moving average crossovers as trading signals. This strategy combines the difference between the fast and slow moving averages of the MACD indicator and its signal line, as well as the judgment of the long-short ratio of trading volume to form trading signals to capture market reversal opportunities.

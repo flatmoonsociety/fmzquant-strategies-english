@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1988ca72bf8817f05e4.png)
+![IMG](assets/images/1db812c331c10c323195e3f947b2390d409f0b355dfa03a15ad6f63410ff1839.png)
 [trans]
 #### Overview
 This strategy uses three exponential moving averages (EMA) with different periods to determine market trends and buy and sell signals. The intersection of fast EMA, slow EMA and trend-filtered EMA, as well as the price position relative to the trend-filtered EMA, together form the core logic of this strategy. At the same time, this strategy also introduces the Fukuiz trend indicator as an auxiliary judgment, which will trigger closing operations in some cases.

@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/e1822c9df719214237.png)
+![IMG](assets/images/1add35e68884e8a87d3cdc1f803dcc6fe0a5bbc186410e9fb25da6cd3ba33a4c.png)
  [trans]
 ## Overview
 This strategy calculates the long-short divergence of the RSI indicator to determine the long-short trend of the market and make trading decisions. Specifically, it interprets it as a hidden long signal when the RSI makes lower lows but price makes higher lows, and as a hidden short signal when the RSI makes higher highs but price makes lower highs. Determine potential long and short trends in the market and make trades based on these signals.

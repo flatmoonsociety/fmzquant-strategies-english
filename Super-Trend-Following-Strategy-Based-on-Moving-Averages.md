@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/102c063d41fe766561a.png)
+![IMG](assets/images/29839fdb7f8d5df86edbc3b5dbfa99e2677bd21875b0d03b5e6ae815200ae9fb.png)
 [trans]
 ## Overview
 This strategy is a typical trend following strategy. It uses multiple sets of moving averages of different periods to determine market trends, enter the market when the trend is established, and exit when the short-term trend reverses.

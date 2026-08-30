@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/19dd208011417460ba3.png)
+![IMG](assets/images/c4a516192ea75b5181fb70c9291577dcb471e6b0e82dc7d5bcfbb72e97ef8c02.png)
 [trans]
 #### Overview
 This unified strategy combines short-term and long-term trading methods, utilizing multiple technical indicators to capture market momentum and volatility. The core of this strategy is to identify potential trading opportunities by analyzing moving average crossovers, squeeze momentum indicators, and MACD oscillators on different time frames. It is designed to adapt to different market conditions and provide traders with flexible trading methods.

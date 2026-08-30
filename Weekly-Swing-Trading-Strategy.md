@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1bae64dc6f42d60c2ac.png)
+![IMG](assets/images/3253f4fd98f76e08bcca5605adf133bc51b2fd524b71ae042f7a101ea8527b5a.png)
  [trans]
 ### Overview
 This strategy uses a combination of dual exponential moving average crossovers and the Relative Strength Index to identify potential trading opportunities in the market. It is suitable for traders who track larger price movements and fluctuations.

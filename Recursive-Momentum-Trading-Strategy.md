@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1427991e2cfd7c2daa1.png)
+![IMG](assets/images/98531e55d13e403539fa9b09a6d3d54f9c0fb192cac18e699745d3fb7df2ace2.png)
  [trans]
 ## Overview
 This strategy is based on the recursive trend following and breakout strategy with indicators developed by Alex Grover. The strategy uses the recursive band indicator to determine price trends and key support and resistance levels, and combines momentum conditions to filter out false breakthroughs to achieve low-frequency but high-quality entries.

@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/15caac30779451f218a.png)
+![IMG](assets/images/493c6bb1a0d3a805394f20f8a57aff1e593675641f168781e42bca5210d0020e.png)
  [trans]
 ## Overview
 This strategy is a short-term shock trading strategy that combines the EMA moving average indicator and the CCI indicator to identify the short-term trend and overbought and oversold conditions of the market to capture opportunities for short-term price fluctuations.

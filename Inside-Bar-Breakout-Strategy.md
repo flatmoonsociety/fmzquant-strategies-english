@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/d104d62a3777157ba5.png)
+![IMG](assets/images/f518b8c9e5049bdd036b23b84900f2da3fafec5b652948cb77424441af30c6f1.png)
 [trans]
 ## Overview
 The internal convergence breakout strategy is a trend following strategy based on K-line patterns. This strategy uses the K-line form of internal convergence and external expansion to determine the trend, and opens long and short positions at the breakthrough point.

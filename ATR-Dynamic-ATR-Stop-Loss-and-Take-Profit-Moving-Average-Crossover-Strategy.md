@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/108cea1a191d10e2512.png)
+![IMG](assets/images/2ac5b59025dfe3a6f19617212c4dfc0beb89ec7d53ffd43ffefdafa269a2462b.png)
 [trans]
 #### Overview
 This strategy is a quantitative trading strategy based on moving average crossover and dynamic ATR take profit and stop loss. This strategy uses two simple moving averages (SMA) with different periods to generate trading signals, and also uses the average true range (ATR) to dynamically set take-profit and stop-loss levels to better control risks. In addition, the strategy also filters trading signals according to different trading periods to improve the robustness of the strategy.

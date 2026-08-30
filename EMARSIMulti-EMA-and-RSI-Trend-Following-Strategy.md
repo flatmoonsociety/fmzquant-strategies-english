@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/8c19aa02017167c74b.png)
+![IMG](assets/images/6aa2484ae41f3aa06c42f7694e727a0d42fa317a9ad7cac67f1c18e2c2004fe9.png)
 [trans]
 ## Overview
 This article mainly analyzes the quantitative trading strategy based on multiple exponential moving averages (EMA) and relative strength index (RSI) developed by Ravikant_sharma. This strategy identifies the price trend and determines the timing of entry and exit through the intersection of EMA in different periods and the numerical determination of RSI.

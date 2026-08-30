@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/98590f2086e5b76617.png)
+![IMG](assets/images/fd6dafd4037ac3df8560405b37fd9878761bb683d20768d2c06fc3d457209e69.png)
  [trans]
 ## Overview
 This strategy realizes automated buying and selling by setting the buy signal line and sell signal line of the RSI indicator and combining it with the trailing stop loss. A buy signal is issued when the RSI indicator is below the buy signal line; a sell signal is issued when the RSI indicator is above the sell signal line. At the same time, a trailing stop is set to lock in profits and control risks.

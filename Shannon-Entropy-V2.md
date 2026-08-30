@@ -21,7 +21,7 @@ I've included the typical way that I've been experimenting with this, which is t
 Using this script is based on "Information" and it highlights places that need your attention, either because there is a large amount of change (new information) or there is minimal new information (complacency, institutional movements). Buy and Sell points are up to the user, this is just showing you where you need to provide some attention.
 **backtest**
 
- ![IMG](https://www.fmz.com/upload/asset/6819752e8699f5b327.png) 
+ ![IMG](assets/images/d191d5e74cadfd42b7a7b11e8478e27bde1c23645a6cb94a020c735e324973c3.png) 
 
 > Strategy Arguments
 

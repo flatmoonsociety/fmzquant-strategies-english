@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/14acc3eb3c3ec846c56.png)
+![IMG](assets/images/69cccf1ff41bf865843c4165bc70ae63eada482671eff280878fceea1ee4335d.png)
 [trans]
 ## Overview
 This strategy generates a price target band based on the smoothed volatility of the price. When the price breaks through the target band, a trading signal is generated.

@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1cba6c5792bce4e0dfd.png)
+![IMG](assets/images/b5ec548a7cd598d8f9c84499da633a2257f70b5d838a97dd38a42bcad2cda741.png)
  [trans]
 ## Overview
 This strategy is based on the intersection of EMA moving averages of different periods to determine the trend direction and establish long and short signals accordingly. There are two moving averages mainly used, namely the 10-day line and the 20-day line. When the 10-day line crosses the 20-day line from top to bottom, go short; when the 10-day line crosses the 20-day line from bottom to top, go long. This strategy is a short- to medium-term trading strategy.

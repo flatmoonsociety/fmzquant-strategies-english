@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/17191b438ad87390cb8.png)
+![IMG](assets/images/e161accacf199101b4e103ee300cec1e57ae3785b7e5dd409b867585caa24b4c.png)
 [trans]
 ## Overview
 The double EMA golden cross and dead cross trend tracking strategy is a quantitative trading strategy that uses double EMA indicators to determine the direction of the price trend. This strategy determines the price trend by calculating two sets of EMA indicators with different parameters and combining golden cross and dead cross signals. A buy signal is generated when the shorter-term EMA crosses above the longer-term EMA; a sell signal is generated when the shorter-term EMA crosses below the longer-term EMA.

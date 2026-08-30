@@ -13,7 +13,7 @@ A classic MACD with average peak and dip lines. The lighter green and red horizo
 
 **backtest**
 
- ![IMG](https://www.fmz.com/upload/asset/911c77b07aedaf0a4d.jpg) 
+ ![IMG](assets/images/95e54f97a4c7828de252102dae642ccbf1854b6aacda00216b0371439a289ea0.jpg) 
 
 > Strategy Arguments
 

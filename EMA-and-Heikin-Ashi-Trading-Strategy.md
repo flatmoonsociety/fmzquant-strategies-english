@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/11492f97ea9d229bb5a.png)
+![IMG](assets/images/3f3fffdd2f031be83d255a32ff51a302f2ff60342e8b93515f04065e979f26b5.png)
 
 Here is an article about EMA and Heikin Ashi trading strategy:
 [trans]

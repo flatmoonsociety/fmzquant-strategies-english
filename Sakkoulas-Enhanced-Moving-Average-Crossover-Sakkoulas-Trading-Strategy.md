@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/17259864848a43653f1.png)
+![IMG](assets/images/53b07d56e4358e978e12217dbd3774d1dd1c196b641481e551cc04c633207b68.png)
 [trans]
 ### Overview
 This trading strategy combines a variety of technical indicators such as Moving Average Crossover (MACD), Relative Strength Index (RSI), Simple Moving Average (SMA), Stochastic, and Bollinger Bands to identify market entry and exit points. When the indicator shows a long signal, go long; when the indicator shows a short signal, go short. At the same time, control risks through stop loss and take profit.

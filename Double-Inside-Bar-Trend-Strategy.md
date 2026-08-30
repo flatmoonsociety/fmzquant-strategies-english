@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/136fcb3466b5c1d5812.png)
+![IMG](assets/images/09fd9b57ceae967bc0e574ea1dd35aec1e04d0153f01010b29a6bd98ec782a72.png)
  [trans]
 ### Overview
 The double inclusion and trend strategy is a quantitative trading strategy that uses double inclusion patterns and moving averages to determine trends. This strategy combines double inclusion patterns to provide higher probability trading signals, and uses moving averages to determine market trends and go long and short in the direction of the trend.

@@ -41,7 +41,7 @@ Full support for language functions is a continuous effort. This public version 
 In the future, FMZ will continue to add and improve the function library support for TradingView’s Pine language. If you have any needs, you can leave a message on this policy.
 Note: If you encounter an undefined variable, it proves that this attribute is not supported yet. You can delete the relevant call, or send a work order to contact technical personnel to solve the problem.
 [/trans]
- ![IMG](https://www.fmz.com/upload/asset/114b4feedd1ae4f8550.png)
+ ![IMG](assets/images/de0d40562099361f78bd70f8f25bd5633113aed6dc374680fd872dbb17957abc.png)
 
 
 

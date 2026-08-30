@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/5c00e0b0402dcb8434.png)
+![IMG](assets/images/040b163f88f3b34cce9e34dfc3e7390a3dd4dc0d4f3e0a02f083580c7025a67b.png)
 [trans]
 ## Overview
 This strategy is a trend trading strategy based on price divergence signals. It uses a variety of indicators to detect price divergence signals, such as RSI, MACD, Stochastics, etc., and confirms it with the Murray Math oscillator. When the price divergence signal appears, if the oscillator also confirms that the current trend direction is present, enter the market.

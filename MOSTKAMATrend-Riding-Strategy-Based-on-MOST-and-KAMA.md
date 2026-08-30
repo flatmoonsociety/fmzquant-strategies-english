@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/132fa73026eaf0fa110.png)
+![IMG](assets/images/58c3cb4ade144b9cf23b717c9cfa9d9792c44b1bf1ad85ba6f2021366d26bfba.png)
 [trans]
 ## Overview
 This strategy uses a combination of SMA, EMA, KAMA and other moving averages to identify the price trend direction, and sets stop loss lines based on price breakthroughs to design a strategy to track the trend. When the price rises, trails the upper band acts as a stop loss; when the price falls, trails the lower band acts as a stop loss. The advantage of the strategy is that a variety of moving average combinations can smooth price data and identify trends; the dynamic stop loss design avoids overly sensitive stop losses. The strategic risk is that the stop loss line setting may be too loose and the loss cannot be stopped in time.

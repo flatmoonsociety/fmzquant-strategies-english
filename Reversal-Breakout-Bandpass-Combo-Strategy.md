@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/19b8428fdd56e737bef.png)
+![IMG](assets/images/bf2a97cc417b52641a9315f2e749f6b28e48b3adbac75650014d71dd9f3c7738.png)
 [trans]
 ## Overview
 This strategy is a two-factor combination strategy, driven by the reversal factor and the band channel factor. It achieves the superposition of multiple factors and can exert strategic advantages in different market environments.

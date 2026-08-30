@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/136e2744bf83b85722c.png)
+![IMG](assets/images/ee57f3dcfa96c8d894c4b8020ea132f84b9b87ceef62437c697579dc78a46f2b.png)
 [trans]
 ## 1. Strategy name
 The name of this strategy is **Trend following strategy based on SMA and ATR**.

@@ -26,7 +26,7 @@ You have two options:
 
 **backtest**
 
- ![IMG](https://www.fmz.com/upload/asset/194977bc1a4ef4f04d5.png) 
+ ![IMG](assets/images/f7d955acf77677441eb4199b26e600dfe56348a44cd1c1895bdbf5f78011bfe1.png) 
 
 > Strategy Arguments
 

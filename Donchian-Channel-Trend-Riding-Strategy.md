@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/fc8c9c2bc4162f2148.png)
+![IMG](assets/images/33bdc3f2d0fe0eb66ac2ce469ea180eabb74d3c977646d86b741ef945a5ba41f.png)
 [trans]
 ## Overview
 The Donchian Channel Riding Strategy is a trend following strategy. It uses the Donchian Channel to identify market trends, enter the market when a signal is generated in the direction of the trend, and then try to capture all the trends. At the same time, it combines long-period moving averages to filter to avoid generating false signals. Stop loss is set at the lower band of the channel, which can effectively control risks.

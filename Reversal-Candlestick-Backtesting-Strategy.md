@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/7f07f6bbf203fc7150.png)
+![IMG](assets/images/641e3f3536a520e2fbbfe8b4bbfdef2401ec21cc70d11f67751110668d3548ce.png)
  [trans]
 ## Overview
 This strategy realizes tracking of trading signals by identifying candle patterns, and combines take-profit and stop-loss logic for automatic trading. When the reversal pattern is recognized, go long or short, and close the position after reaching the take profit or stop loss.

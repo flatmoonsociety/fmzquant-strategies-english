@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/a22f5e0918c30ba24b.png)
+![IMG](assets/images/9961d0cdf5bc64ae13ffe3804b42327167065adaa433009641693f0e39657002.png)
 
 [trans]
 The strategy is called "Volume Range Strategy Based on Variance and Moving Averages", which uses the volatility variance of the past 30 K lines and three moving averages (MA5, MA15 and MA30) to make trading decisions.

@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/11e2f2da63357d061c7.png)
+![IMG](assets/images/fbdb168f442d879c67147b258607c1ee2f12c93c1031a684f873784d34b40cb7.png)
 [trans]
 #### Overview
 The Hurst Future Line of Demarcation strategy is a trading strategy based on the Future Line of Demarcation (FLD) concept proposed by J.M. Hurst in the 1970s. This strategy predicts future price movements by drawing a simple but profound line on a financial chart that shifts price data forward on the timeline by half a period. Specifically, the strategy focuses on the interaction between three Hurst cycles: signal cycles, trading cycles, and trend cycles. By observing the intersection and divergence patterns between price and the FLD line, traders can determine market trends or consolidations and determine entry and exit points.

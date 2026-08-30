@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/a4177a741b5bac8a65.png)
+![IMG](assets/images/cd5a050f016426461a3451022a1f3c8e06ee7c2c7712db676abf73a234622ba4.png)
 [trans]
 ### Overview
 The momentum trend optimization combination strategy is a medium and long-term quantitative trading strategy that combines momentum factors and trend factors to generate buy and sell signals through a combination of exponential moving averages, moving averages, volume and slope indicators. This strategy is optimized for T+1 trading and is only suitable for the long direction. Optimization also applies to international stock markets.

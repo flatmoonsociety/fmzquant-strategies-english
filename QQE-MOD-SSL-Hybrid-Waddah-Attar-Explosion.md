@@ -40,7 +40,7 @@ Waddah Attar Explosion by shayankm
 
 **backtest**
 
- ![IMG](https://www.fmz.com/upload/asset/1bee9f9cdc8ec8fa3ad.png) 
+ ![IMG](assets/images/d7a92da78413cba84423c3df9736148a8f38b39f4b0f2b2d7e9588f70a1ea9a6.png) 
 
 > Strategy Arguments
 

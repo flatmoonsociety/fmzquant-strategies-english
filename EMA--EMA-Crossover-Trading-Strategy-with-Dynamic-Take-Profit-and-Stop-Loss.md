@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/15d45103b85794ffdf0.png)
+![IMG](assets/images/19ba75a280de82a7b51f3283dbb72ed8bc76a619fee084e04deb3f8d22db2fe4.png)
 [trans]
 #### Overview
 This strategy utilizes exponential moving average (EMA) crossovers to generate trading signals while dynamically setting take-profit and stop-loss levels. When the shorter period EMA (EMA 12) crosses the longer period EMA (EMA 26) from below, a buy signal is generated; conversely, when EMA 12 falls below EMA 26 from above, a sell signal is generated. This strategy sets different dynamic take-profit and stop-loss levels for long and short positions respectively. For long positions, take profit is set at 8% above the entry price, and stop loss is set at 2.5% below the entry price; for short positions, take profit is set at 8% below the entry price, and stop loss is set at 2.5% above the entry price.

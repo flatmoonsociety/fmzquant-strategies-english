@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/16d759e95f0803c43d0.png)
+![IMG](assets/images/d5b64ad57f5c0b35e24c4e30a9a53e0e0d6a52dc6186409505f7dc9142faaa57.png)
 [trans]
 #### Overview
 This is a multi-step moving take-profit strategy based on dual Supertrend indicators. This strategy uses two Supertrend indicators with different parameters to determine market trends and conduct long and short transactions based on the trend direction. The core of the strategy is to use a multi-step moving take-profit mechanism to gradually lock in profits by setting multiple take-profit targets, while retaining some positions to grasp the larger market. This approach reduces risk while maximizing profit potential.

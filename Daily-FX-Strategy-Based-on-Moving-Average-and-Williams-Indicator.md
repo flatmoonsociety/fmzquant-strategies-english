@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/a72434a65ae0f75d5b.png)
+![IMG](assets/images/e798decc1ca45e410b388693baf88e6aa4a93248394660f0aeff0388921dcd6e.png)
  [trans]
 ## Overview
 This strategy uses moving averages, ATR indicators and William indicators in combination to conduct daily-level transactions for the foreign exchange variety GBP/JPY. The strategy first determines the price trend and possible reversal points through the moving average, then uses the William indicator to further confirm the trading signal, and uses the ATR indicator to calculate the stop loss level and trading volume.

@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/16f577e5c0abb9671f0.png)
+![IMG](assets/images/9fb9ef48fe409fa7d8e8649f039bef04d9e1ffa4e4ebfaacddd93089cc19e12a.png)
 [trans]
 #### Overview
 This strategy uses the crossover signal of two exponential moving averages (EMA) with different periods to capture the short-term momentum of the market. When the fast line crosses the slow line from bottom to top, it opens a long position and when the fast line crosses the slow line from top to bottom, it opens a short position. At the same time, stop loss and take profit are set to control risks and lock in profits. This is a simple and classic short-term trading strategy based on the momentum effect.

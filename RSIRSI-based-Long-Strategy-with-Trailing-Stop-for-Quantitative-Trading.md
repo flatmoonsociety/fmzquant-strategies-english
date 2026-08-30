@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/b55051058484b8a53d.png)
+![IMG](assets/images/e13910997cacdfea646bc2e45927f8d3c721b352dea5bd1b07ebc02ef94bd8c0.png)
 [trans]
 ## Overview
 This article introduces a long quantitative trading strategy based on the relative strength index (RSI) and stop loss. This strategy uses the RSI indicator to determine the oversold and overbought status of the market, opening a long position when it is oversold and closing the position when it is overbought. At the same time, the strategy uses percentage stop loss to control risk. This is a classic trend following strategy designed to capture an uptrend in a strong market.

@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/18c80cb6e7f8ce774e4.png)
+![IMG](assets/images/6e1fa1e227f44ce83db15a1bf6428e03bc68697c03d04504eb958274e9d49be6.png)
  [trans]
 ## Overview
 The name of this strategy is "Tracking Value Weighted Average Price and Relative Strength Index Combination Strategy". This strategy uses two indicators, Value Weighted Average Price (VWAP) and Relative Strength Index (RSI), to achieve a combination strategy of trend following entry and overbought and oversold exit.

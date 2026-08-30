@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/17a5923c46ea87eaaf9.png)
+![IMG](assets/images/952d70ca373c0cc6df980427c180fa9622b53878d6893349e6ea330d2a681de4.png)
 [trans]
 ## Overview
 This strategy is a Bitcoin scaling strategy based on a 5-minute time period. It utilizes 9-period and 15-period moving average crossovers and K-line patterns as trading signals. Specifically, when the fast moving average crosses the slow moving average upwards and the K-line forms a hammer or pure positive line, a buy signal is generated; when the fast moving average crosses the slow moving average downwards, a sell signal is generated. After entering the market, set a 0.5% stop loss and a 0.5% take profit.

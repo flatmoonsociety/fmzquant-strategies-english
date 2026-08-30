@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/f7ada776cf2066f922.png)
+![IMG](assets/images/0d8265fcd3a4ebe2fe66407d30d70d3928322a3bd30a6b23faa554259214429c.png)
  [trans]
 ## Overview
 The multi-indicator fusion trading strategy is a composite trading strategy that integrates the analysis of four major indicators: moving average crossover, relative strength indicator, commodity path indicator and stochastic exponential smoothed moving average. This strategy achieves the function of more accurately judging market buying and selling points by judging trend indicator signals in different time periods.

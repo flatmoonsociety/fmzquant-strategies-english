@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/10503498dcb669609da.png)
+![IMG](assets/images/a035d551eaf71849e36a5fd4b095070462b698b6794cf61dccafb0ea9cd79dd2.png)
 [trans]
 
 This strategy implements the simple trading logic of buying low and selling high by tracking the long-term trend and entering the market during short-term pullbacks.

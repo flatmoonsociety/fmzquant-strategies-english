@@ -10,7 +10,7 @@ Zero
 
 
 For more needs, please directly inquire [Highchart official](https://www.highcharts.com/) or [Highchart third-party Chinese documentation](https://www.highcharts.com.cn/) 
- ![IMG](https://www.fmz.com/upload/asset/15adb3835db63ae637d.png) 
+ ![IMG](assets/images/080d9ad166d8da5a191a923e9056cb31381d5e7db0e9575f835c7692da44f916.png) 
 
 
 

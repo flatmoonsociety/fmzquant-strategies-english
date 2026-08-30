@@ -35,14 +35,14 @@ Wide applicability: This strategy is applicable to various markets, including st
 It should be noted that this strategy is for reference only and needs to be adjusted and optimized according to the actual situation during specific application. At the same time, quantitative trading involves multiple aspects of knowledge and skills, and requires certain programming and trading experience to better apply this strategy.
 
 Backtest records
-![IMG](https://www.fmz.com/upload/asset/16ff4e015669c86ce919a.png)
-![IMG](https://www.fmz.com/upload/asset/16f9cef7ddbc29577c733.png)
+![IMG](assets/images/5ff8325ef786708b0c6e10c442acf96956b809e6d9fda082116e6c8226eaf3a9.png)
+![IMG](assets/images/08783de0e04fb93c5d642794f38b38e309967a118add96d45683824f184ad526.png)
 
-![IMG](https://www.fmz.com/upload/asset/16fe3ffa965a4179bdd6a.png)
+![IMG](assets/images/aa3b040df1f3772cc335408dcbf9a3906b29d79d96d5b04c6e4ed6b925e1ccfd.png)
 
-![IMG](https://www.fmz.com/upload/asset/16eb3353f3f016e779004.png)
+![IMG](assets/images/d76b60e968eac7568c44555bc4bf2f88eb6469060cb6733f2571f880298cbe1a.png)
 
-![IMG](https://www.fmz.com/upload/asset/16f58685f1f57a3c14276.png)
+![IMG](assets/images/e365b0932326caa1eac46ebd1565c896c6a995c3af8a96c73daa6ad1f278a717.png)
 
 The backtest record is too long. If you are interested, you can load the backtest yourself.
 Real offer display

@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/7a2d406db31cf6c125.png)
+![IMG](assets/images/344aeffd3841d17fdf0e704f7f11236fd27d7c2a8d23901bd6b3837d67c04547.png)
 [trans]
 #### Overview
 The Sell Rise and Retracement Strategy is a carefully designed trading strategy designed to optimize the sale of an asset during the retracement phase of an increase in price. Traders who employ this strategy will benefit from a systematic approach backed by clear entry and exit conditions.

@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/e917a2a060a288d2aa.png)
+![IMG](assets/images/f5dc035a11f087f8b4b666745b2566c3933e054709fd1c1f313a9b61a75f102b.png)
 [trans]
 ### Strategy Overview
 This strategy is a trend following stop loss strategy that combines Heikin Ashi candlesticks and the Super Trend indicator. It uses Heikin Ashi candle lines to filter market noise, super trend indicators to determine the trend direction, and uses super trends as dynamic stop loss lines to achieve efficient trend tracking and risk control.

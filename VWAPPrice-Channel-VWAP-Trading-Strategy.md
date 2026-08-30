@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1b39fdf6004987758ec.png)
+![IMG](assets/images/878d2fc3d980090ba8d7b608726f83cec9b1020917c4b56c2e48d169ec137b32.png)
 [trans]
 ## Overview
 The name of this strategy is "Price Channel VWAP Trading Strategy", which is a strategy to implement VWAP trading based on price channels. The main idea of ​​this strategy is: within the price channel, use the moving average of the VWAP indicator and its upper and lower offset channel lines to determine the buying and selling points. When the channel line is exceeded, a fixed position is opened as a percentage of total assets, and the position is closed when it returns to the VWAP moving average.

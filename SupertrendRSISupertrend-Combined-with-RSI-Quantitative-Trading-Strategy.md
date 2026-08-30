@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/823226b94aea93a628.png)
+![IMG](assets/images/2e6db545c3c5a37078e2be63ff2185274bb644b6ab1627827d5f56bdb900fb93.png)
 [trans]
 ### Overview
 The name of this strategy is "Two-wheel drive strategy". The main idea of ​​this strategy is to combine the two powerful technical indicators Supertrend and RSI to give full play to their respective advantages and achieve better quantitative trading.

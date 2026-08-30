@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/19d8fa0ea20e6ca6de6.png)
+![IMG](assets/images/970877a2686d3c4741a30fb9ef92dd9d43d8397f6c19aeb4d3fabd514eacfcb6.png)
 [trans]
 ### Overview
 This strategy determines the direction of the market trend by calculating MA moving averages of different periods. It goes long when the trend is upward and short when the trend is downward to achieve trend tracking.

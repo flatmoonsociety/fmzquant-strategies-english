@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/10cdef9fdb8f35e2e06.png)
+![IMG](assets/images/9932a1d81e3f1a3001f0ea4dafc17c5af609fda8e48404c87c9678da6d21353f.png)
 [trans]
 ### Overview
 This strategy is developed based on the Super Trend Channel indicator. It combines price trends and the direction of the super trend channel to determine the market trend and sends trading signals when the channel direction turns.

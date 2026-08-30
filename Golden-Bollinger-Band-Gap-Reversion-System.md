@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/d61ea212f6073cd390.png)
+![IMG](assets/images/fe04d5c280cd3e3760ab11fb631d969ef72bd5dab3ae67eba5d886c53fcbd3da.png)
 [trans]
 ### Overview
 This is a short-term foreign exchange gap trading system based on Bollinger Bands. It is suitable for major currency pairs, requires transaction fees to be less than 1 pip, and the time period is between 1-15 minutes.

@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/a743e41de34840b43c.png)
+![IMG](assets/images/ad370228a5592f5400d63972046002f6a941e5ab7671d44441578e0342df4123.png)
 
 Here is a detailed strategy analysis article I wrote based on the trading strategy code you provided:
 [trans]

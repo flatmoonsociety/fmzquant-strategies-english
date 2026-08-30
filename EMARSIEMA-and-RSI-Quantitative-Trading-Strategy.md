@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1034fbaf38865e07e8c.png)
+![IMG](assets/images/ec7d3431ccb811aa3c7d54d42f60da22e77ae34d393c333a755598619beb826e.png)
 [trans]
 ## Overview
 This strategy is called the "double dip strategy". This strategy uses the combination of the EMA moving average system and the RSI indicator to form trading signals, and sets stop loss and take profit conditions to achieve loss control and profit targets. Strategies are suitable for trading BTC/USD and other digital currencies.

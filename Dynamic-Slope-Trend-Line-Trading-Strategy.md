@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/cd3fba91d2e3a0d066.png)
+![IMG](assets/images/135a1f11cae21660332970be6e56a705cebe09e5ab7eaf021972950a337f095a.png)
 [trans]
 ## Overview
 The core idea of ​​this strategy is to use dynamic slope to determine the price trend direction and combine it with breakthrough judgment to generate trading signals. Specifically, it tracks new price highs and new lows in real time, calculates dynamic slopes based on price changes in different time periods, and then determines long and short signals based on price breakthroughs of trend lines.

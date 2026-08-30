@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/794ee0cf685be3d403.png)
+![IMG](assets/images/8926b2ec34d9421aa662c652aba459c8e3c05cd38114938ba2fcbcb20777cd60.png)
 [trans]
 ## Overview
 The name of this strategy is "Trading strategy based on peak-peak pattern", which mainly uses the peak-peak pattern of K-line to determine the timing of buying and selling. This strategy belongs to the technical analysis strategy.

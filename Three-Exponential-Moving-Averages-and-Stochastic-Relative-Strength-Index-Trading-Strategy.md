@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/8d5699b275379e6f0f.png)
+![IMG](assets/images/9d1bda1208df75e40e340aae258b79bc02bdaf91b8e3cfe5fd7c43c5539e3f38.png)
  [trans]
 ## Overview
 This strategy is a trend following strategy that combines the Triple Exponential Moving Average indicator and the Stochastic Exponential Moving Average indicator to generate trading signals. When the fast moving average crosses the medium-speed moving average, and the medium-speed moving average crosses the slow moving average, it is bullish; when the fast moving average crosses below the medium-speed moving average, and the medium-speed moving average crosses below the slow moving average, it is bearish. At the same time, this strategy also introduces the stochastic exponential smoothing moving average indicator as an auxiliary judgment indicator.

@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/910b5e83cf4672585e.png)
+![IMG](assets/images/f453dfc13f6552442312d53d17f150dcc6b27595394557b515c82af3f1029ee3.png)
 [trans]
 ## Overview
 The Dual Reversal Momentum Index Strategy is a combination strategy that combines the 123 Reversal Strategy and the Relative Momentum Index (RMI) strategy. It is designed to improve the accuracy of trading decisions by utilizing dual signals.

@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1a0aefdfb59906854ca.png)
+![IMG](assets/images/9b82d1ae785ac6d33e353884d20f301487686ef17ad023db5507d46371ad48d1.png)
 [trans]
 ## Overview
 This strategy combines the Super Trend indicator and the Commodity Channel Index (CCI) indicator to achieve a multi-time frame trend tracking and trading signal generation. The main idea of ​​this strategy is to use the CCI indicator to determine the short-term trend direction, and at the same time combine the super trend indicator to determine the medium and long-term trend direction. When the short-term and medium- and long-term trends are consistent, a trading signal is generated.

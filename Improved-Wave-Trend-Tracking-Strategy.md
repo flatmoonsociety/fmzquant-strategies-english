@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/14b3d42f4885ca502e6.png)
+![IMG](assets/images/f04df325b7a2b7cdc01173195181c912f6ab3998db421008af4915fb4909d180.png)
  [trans]
 
 Overview: This is a tracking strategy that applies wave indicators to identify trends. It obtains a wavy line by calculating the exponential moving average of the average price and the moving average of the absolute price difference. The strategy generates trading signals by monitoring the intersection of wavy lines with overbought and oversold areas. Combined with moving average filtering and volume filtering to avoid false signals.

@@ -14,7 +14,7 @@ Archimedes' bathtub
 - Official website: www.quantinfo.com
 
 
-![IMG](https://www.fmz.com/upload/asset/739ea1e668541f362205d9b5acb43372.png)
+![IMG](assets/images/441ceb1fb2a435043668aacb0a8aef8dbf5a91919035089c3a2fdb1521cc2f05.png)
 
 - Main picture:
   AMA1 indicator, formula: AMA1^^EMA(DMA(CLOSE,CQ1),2);
@@ -25,8 +25,8 @@ AMA2 indicator, formula: AMA2^^EMA(DMA(CLOSE,CQ2),2);
 - Data Cycle: 5M
 - Support: Commodity Futures
 
-  ![IMG](https://www.fmz.com/upload/asset/e373cde011ba569f143e399a6f51528d.png)  
-  ![IMG](https://www.fmz.com/upload/asset/9c51e404853a232c50c6ef12bb809e7d.png) 
+  ![IMG](assets/images/fc54485cbc9207a440c035df43e18bbae940ac836f96526af9aa6f33f2052748.png)  
+  ![IMG](assets/images/bba7deac0597faa5cdbfad3ed648b7332fc6a53f6019dee0b47c0172929bea54.png) 
 
 - Main chart:
   AMA1 index, formula: AMA1 ^ ^ EMA (DMA (CLOSE, CQ1), 2);

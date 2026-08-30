@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/ec06bced59d8b19bbe.png)
+![IMG](assets/images/5266d20fd674bb1864e117e1c8f0faff4ed5c550becc8f8fbfb64b04d7186876.png)
 [trans]
 ## Overview
 The Channel Breakout Reversal Trading Strategy is a reversal trading strategy that tracks the moving take-profit and stop-loss points of a price channel. It uses a weighted moving average method to calculate price channels and open long or short positions when price breaks out of the channel.

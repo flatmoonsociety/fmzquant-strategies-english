@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1bcddede5615bc1adb7.png)
+![IMG](assets/images/a25aa67cba3095085701d84de4b469ab221b2c3e6dce43abfbcb7f5101023034.png)
 [trans]
 ## Overview
 This strategy is mainly based on the SSL channel indicator and wave trend indicator, combined with other auxiliary indicators, to achieve a relatively complete quantitative trading strategy. The name of this strategy contains the core indicators SSL channel and wave trend, as well as keywords for quantitative trading, and meets the requirements.

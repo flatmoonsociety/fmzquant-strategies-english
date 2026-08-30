@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/ac3b422ff1ab0df349.png)
+![IMG](assets/images/8fb62e26ad8808c3253172656e0eb7deee1d1c0b9a8eda687ef1023389117b80.png)
  [trans]
 ## Overview
 The name of this strategy is "London Time Period SMA Cross ETH Reversal Trading Strategy". The main idea of ​​this strategy is to take advantage of the high liquidity during the London trading period and combine it with the golden cross signal of the SMA moving average to perform reversal trading on the mainstream digital currency trading pair ETH/USDT.

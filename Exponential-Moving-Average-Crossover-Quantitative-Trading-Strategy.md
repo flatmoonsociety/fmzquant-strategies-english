@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/15fae6a517db6c54589.png)
+![IMG](assets/images/8959806afa03fac9980cddd20233fdb3c75d417a14a76e72c21d2c2660b63846.png)
 [trans]
 #### Overview
 This strategy uses the crossover of two exponential moving averages (EMA) as a buy and sell signal. When the shorter period EMA crosses the longer period EMA from bottom to top, a buy signal is generated; conversely, when the shorter period EMA crosses the longer period EMA from top to bottom, a sell signal is generated. At the same time, this strategy will also determine whether the crossover point is the highest or lowest price in the last 10 trading periods to confirm the strength of the trend. If the cross is the highest price, it will appear green on the background; if it is the lowest price, it will appear red. Additionally, the strategy displays the price of the crossover on the chart.

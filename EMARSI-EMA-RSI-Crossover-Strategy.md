@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/10fb5a7c7684c7b7732.png)
+![IMG](assets/images/3d9745704dd10cea73dda958947902bd44efb6cb7f95eb4d42e73b9a0e10450a.png)
 [trans]
 #### Overview
 The EMA and RSI crossover strategy identifies potential buy or sell signals by combining two technical indicators, the exponential moving average (EMA) and the relative strength index (RSI). When the EMA and RSI cross, it indicates a possible change in market momentum. For example, when the shorter-period EMA crosses the longer-period EMA and the RSI crosses a certain threshold, it indicates a possible upward trend, which is called a bullish crossover. On the contrary, when the shorter period EMA crosses the longer period EMA and the RSI falls below a certain threshold, it indicates that a downtrend may occur, which is called a bearish crossover. Traders usually enter or exit the market based on these cross signals to capture trends and market reversals.

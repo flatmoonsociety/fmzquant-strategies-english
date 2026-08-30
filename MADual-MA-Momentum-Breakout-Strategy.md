@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/d7a1561dcd410ec00e.png)
+![IMG](assets/images/335fe98112b1f3c3542931eaddefbf4d750462effdbec90d9b805c6fcd092267.png)
 [trans]
 ## Overview
 The dual MA momentum breakout strategy is a quantitative trading strategy that combines dual moving averages and the RSI indicator. This strategy calculates the fast moving average, slow moving average and RSI indicators, sets the overbought and oversold threshold of the momentum indicator RSI, goes long when the double MA crosses golden, and goes short when the double MA crosses, to capture the trend of the market.

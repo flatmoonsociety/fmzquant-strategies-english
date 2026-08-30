@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1334ca2ef7f1a4f65bf.png)
+![IMG](assets/images/ad15dde4e6dd8ef2aacb89f6946274dc7d5b4b167a7d1b46a89ec87021a040a4.png)
  [trans]
 ## Overview
 This strategy is called "Trend Following Strategy Based on RSI and WMA". This strategy comprehensively utilizes the advantages of the relative strength index (RSI) and the weighted moving average (WMA). It uses the RSI indicator to determine the overbought and oversold areas, and combines the WMA indicator to determine the direction of the price trend to achieve effective tracking of the price trend.

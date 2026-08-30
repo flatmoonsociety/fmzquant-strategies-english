@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1af9cd959d17abd59eb.png)
+![IMG](assets/images/a084946bac0bbb0716c5deaf16c2bc52fe7eb5a7d7a42374d0d706b07a870f10.png)
 [trans]
 ## Overview
 The purpose of this strategy is to balance the trader's psychology and trading performance by setting different parameters to obtain more stable returns. It uses indicators such as moving averages, Bollinger Bands, and Keltner channels to determine market trends and volatility, combines the PSAR indicator to determine reversal signals, and uses the TTM squeeze indicator to determine momentum. Trading signals are generated from a combination of these indicators. At the same time, the strategy uses high-low stop-loss and risk-reward take-profit methods to manage risks.

@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/130fccf0829576ae20c.png)
+![IMG](assets/images/e480a0335fa903513ae5927fe7426fc04350ffd6b39b1165b5e5cdb67ceb607f.png)
 [trans]
 This article will analyze in detail a trend following strategy based on a simple moving average. This strategy uses a combination of moving averages in multiple time frames to generate trading signals, and is a typical trend following strategy.
 #### Strategy Overview

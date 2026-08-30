@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1a8fb7ba490fa6f0785.png)
+![IMG](assets/images/ad20edaa9e51770d08e555460e282e1b9e87a63ad721094d0c4bdfef1071aa0c.png)
 [trans]
 ## Overview
 The core idea of ​​this strategy is to combine multiple time frames to identify market trends, use transcendent indicators on high-level time frames as filters, and issue buy and sell signals on low-level time frames. This strategy is designed to improve the quality of trading decisions by utilizing the market structure information provided by high time frames.

@@ -32,7 +32,7 @@ Hope someone will find this useful, or even just as an additional visual confirm
 
 **backtest**
 
- ![IMG](https://www.fmz.com/upload/asset/1ecf2b3477b9cd2f5d2.png) 
+ ![IMG](assets/images/79f65cddbf585870ced2f9c1f6581741c66c9e4ee486f0e2b5add9f125a09d9f.png) 
 
 > Strategy Arguments
 

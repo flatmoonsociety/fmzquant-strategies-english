@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/13120e0aa416c2c1de9.png)
+![IMG](assets/images/941dbe207c73b8beee696a1e50d09f245830d30e91ff31dba388f6c40796d166.png)
 [trans]
 #### Overview
 This strategy combines VWAP (Volume Weighted Average Price) and Super Trend indicators. Buy and sell signals are determined by comparing the relative position of price and VWAP, as well as the direction of the super trend indicator. When the price crosses VWAP above and the supertrend is positive, a buy signal is generated; when the price crosses below VWAP and the supertrend is negative, a sell signal is generated. This strategy also avoids repeated signals by recording the last signal state until a signal in the opposite direction appears.

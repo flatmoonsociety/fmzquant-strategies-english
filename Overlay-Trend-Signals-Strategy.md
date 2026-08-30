@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/15ddca237f70ec00059.png)
+![IMG](assets/images/7f0e4e3f0cf3f9d040aa697f80c918a550398f726d085be7f92c43439d9100ce.png)
 [trans]
 ### Overview
 This strategy generates trading signals by calculating the two-way movement volume index DI+, DI- and the average direction index ADX, combined with the exponential moving average EMA. A buy signal is generated when DI+ crosses DI- above and ADX is above 20; a sell signal is generated when DI- crosses DI+ below and ADX is above 25. The trade stop signal is when DI- crosses DI+ and ADX is above 30.

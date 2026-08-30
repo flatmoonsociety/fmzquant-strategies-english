@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/19cd88c04434f853a9c.png)
+![IMG](assets/images/473a9b595fd0d7d25747d4b8bf6d9a0761976212eeae6e2e49ee9affef75460d.png)
 [trans]
 ### Overview
 This strategy combines the momentum relaxation indicator and the 123 pattern to form a comprehensive trading signal to increase the probability of profit. Among them, the momentum relaxation indicator tracks market volatility and adjusts the RSI parameter to capture short-term trends; the 123 pattern uses the short-term highs and lows of stocks to form trading signals. The combination of the two strategies can enable the strategy to maintain trading results in different market environments.

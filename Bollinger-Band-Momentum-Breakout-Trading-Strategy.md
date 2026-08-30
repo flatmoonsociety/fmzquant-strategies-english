@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/17da033e71d890788b5.png)
+![IMG](assets/images/3048d14f2a1f4f373e59862a7587d93928473734b2f5425c9c56f50f055ea1e2.png)
 [trans]
 ## Overview
 This strategy combines the Bollinger Band indicator and the trading volume indicator to identify opportunities for strong breakthroughs above the Bollinger Band in a high trading volume environment and carry out buying operations. At the same time, combined with the moving average indicator, determine the trend direction and reduce the risk of locked positions.

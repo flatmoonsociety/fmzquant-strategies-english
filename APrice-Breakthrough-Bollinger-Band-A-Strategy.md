@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/13a6183a5ed0ad738b1.png)
+![IMG](assets/images/c93758ea3b6440347ea583dc2606bb73fab3d3e2bf6c93951f0a064c999f4979.png)
 [trans]
 ## Overview
 This strategy uses the Bollinger Bands indicator to determine the price fluctuation range, and combines the K-line pattern to perform price breakthrough operations. The upper and lower rails of Bollinger Bands can roughly determine the upward and downward trends of prices. Combining it with K-line morphological indicators, you can find more obvious buying and selling opportunities. This strategy mainly judges the Bollinger Band's lower track breakthrough to go long, and the upper track breakout to short. It also combines the Stoch indicator to determine the overbought and oversold status, and uses the K-line pattern to provide alternative buying and selling signals.

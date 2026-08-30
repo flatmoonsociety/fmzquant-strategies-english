@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/f8ca9f396516d00206.png)
+![IMG](assets/images/589f68fbdf581777771ceb5e270d301aa0c4c82f3ec9bcc6b5c23f8b02b36c45.png)
  [trans]
 ### Overview
 This strategy is a simple and efficient MACD quantitative trading strategy, specially designed for the cryptocurrency market and suitable for trading in higher time periods, such as 1 hour, 4 hours, 1 day, etc. The strategy uses the MACD indicator to determine the direction of the market trend and combines it with the simple moving average to generate trading signals. The biggest advantage of this strategy is that it is simple, efficient, easy to understand and implement, and is especially suitable for highly volatile markets such as cryptocurrency. However, there are also certain risks and need to be further optimized and improved.

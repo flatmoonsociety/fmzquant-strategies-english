@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1a3b6e025fe3abf60c5.png)
+![IMG](assets/images/d29c55ba2cb1a6ca69d64c3306024a7daa40d74be89208338ca6d0406690a350.png)
  [trans]
 ## Overview
 The multiple moving average bull trend strategy is a trend following strategy based on the judgment of multiple exponential moving averages (EMA) of different periods. It will go long when price breaks above the 10-day EMA and other longer-period EMA lines line up long; then it uses an 8% trailing stop to lock in profits.

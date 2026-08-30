@@ -20,7 +20,7 @@ A FIlter is given to take or avoid re-enter on the same side. For example, After
 
 **backtest**
 
- ![IMG](https://www.fmz.com/upload/asset/18f728137093b0473f5.png) 
+ ![IMG](assets/images/07899cc7df2b9b7f18a72a276e84981f7ded36f1981e5862073bb19c5e564b02.png) 
 
 > Strategy Arguments
 

@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1270d677876b66c51f2.png)
+![IMG](assets/images/e62877da67613faca4602461aa1962ac7f6f244adfbcb6d78ff979e82d78a368.png)
  [trans]
 ## Overview
 This strategy makes trading decisions based on the Histogram of the MACD indicator. It uses the uptrend and downtrend of the Histogram to generate buy and sell signals. When the Histogram continues to rise or fall for a certain period, a corresponding signal is generated.

@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/173b321f2b33c34c298.png)
+![IMG](assets/images/54fb9714a1e240f142f22f3d270c2ad33f502fc2a216038f685e1dcd3060c99b.png)
  [trans]
 #### Overview
 The multi-factor combination trend trading strategy comprehensively uses a variety of technical indicators such as moving averages, fluctuation bands, support and resistance levels, Fibonacci retracements, etc. to identify stock price trends and conduct trend following transactions. This strategy combines breakout trading and moving average golden cross signals at the same time. While determining the stock price trend, it can capture the price momentum in time and follow the trend in order to obtain excess returns.

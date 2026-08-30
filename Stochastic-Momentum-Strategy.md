@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/16de3f0ed3999df6d62.png)
+![IMG](assets/images/65cf30936b9b596545eaa4b7da4b34ab6f102f5793638263a7584433ce503a4b.png)
 [trans]
 ## Overview
 The momentum swing strategy is a quantitative trading strategy that combines the stochastic momentum indicator and the relative strength indicator. This strategy uses the stochastic momentum indicator to determine the overbought and oversold areas of the market, cooperates with the fast RSI indicator to filter signals, and then uses entity filtering to achieve more reliable trading signal selection.

@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1659aa1477f9dd416a3.png)
+![IMG](assets/images/801fe4787d763f0665c5a2eb3d8496640152e49a2bc6536e36795348f0475899.png)
 [trans]
 ## Overview
 This strategy uses the RSI indicator to identify the long-short separation phenomenon and make trading decisions based on this. The core idea is that when the price reaches a new low but the RSI indicator reaches a new high, it constitutes a "long separation" signal, indicating that the bottom has been formed, so go long; when the price reaches a new high but the RSI indicator reaches a new low, it constitutes a "short separation" signal, indicating that the top has been formed, so go short.

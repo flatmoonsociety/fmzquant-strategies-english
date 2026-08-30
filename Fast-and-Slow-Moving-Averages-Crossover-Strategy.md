@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/11f42cc308d5a747db5.png)
+![IMG](assets/images/aedba2cfbd079f3a3de7d08e5a5e7f9a48a5f13a4c861328675c179820e1df2a.png)
 [trans]
 ## Overview
 The fast and slow moving average crossover strategy is a simple moving average strategy. It uses two moving averages, one fast and one slow. When the fast moving average crosses the slow moving average from below, go long, indicating that the price may rise; when the fast moving average crosses the slow moving average from above, close the position, indicating that the price may fall. This can be used as an indicator to predict future price action.

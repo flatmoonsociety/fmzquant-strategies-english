@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/159861111a958a14eab.png)
+![IMG](assets/images/dd7c911e80a948f5fcbab1b67ec0dd4427e75a7e688c04a14388e9d0976458e7.png)
  [trans]
 ## Overview
 This strategy uses the idea of ​​dynamic trailing stop to calculate the stop loss line for long and short positions based on ATR and price extremes. Combined with the idea of ​​Chandelier Exit, the direction of long and short positions is determined based on the direction of the stop loss line. When the stop-loss line breaks upward, it is judged to be bullish and long; when the stop-loss line breaks downward, it is judged bearish and short.

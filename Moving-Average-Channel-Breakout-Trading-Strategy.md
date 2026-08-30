@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1294de469823d7c7ab4.png)
+![IMG](assets/images/30567edbce430de9b4d327429bd4652b5c8761cc31db8c0715a54388d7f72c71.png)
 [trans]
 ## Overview
 This strategy is based on the golden cross and dead cross principle of the simple moving average, and makes buying and selling decisions through the intersection of the 7-day moving average and the 14-day moving average. A buy signal is issued when the 7-day moving average breaks above the 14-day moving average from below; a sell signal is issued when the 7-day moving average falls below the 14-day moving average from above. This strategy also has stop loss, take profit and trailing stop functions to lock in profits and control risks.

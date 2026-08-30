@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/af80d4fd31fec11607.png)
+![IMG](assets/images/29a414cceffabbd9b9bb3f616598e7cf494c703315c6ad9cedb03ee20b04651c.png)
 [trans]
 ## Overview
 This strategy uses the moving average crossover patterns of different periods and the RSI indicator to judge market buying and selling opportunities to achieve a long-term holding model. The strategy can be optimized in real time by adjusting parameters and is suitable for long-term investment in market indexes.

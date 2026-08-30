@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/169fa77e3631bbfc947.png)
+![IMG](assets/images/c28dfb00db82569befd3f43fc6d0b65098441ed749e0bf2fa16702eafa7d7017.png)
 [trans]
 ## Overview
 This strategy is a Bitcoin trading strategy designed based on the Ichimoku Balance Sheet indicator. It forms a balance table by calculating the average of the highest and lowest prices in different periods, and generates trading signals when the short-period line crosses the long-period line.

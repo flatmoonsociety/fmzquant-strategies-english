@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1d6ce7d21ce3a67b7e0.png)
+![IMG](assets/images/89b1180b9e48dcd5f85dd7509aa9497ace6cd0b406c1e2ca69e5386b387e466d.png)
 [trans]
 #### Overview
 This strategy is based on the net value time series data of stocks or other financial assets. It dynamically calculates the efficiency ratio (ER) as a smoothing factor for the exponential moving average (EMA), thereby adaptively adjusting the upper and lower rails and triggering buy and sell signals. The main idea of ​​this strategy is to use all the information contained in the net value data itself to dynamically adjust the EMA smoothing factor by calculating the complexity of the net value change (ER), and then obtain the upper and lower tracks of dynamic changes. Open a long position when the price breaks through the upper track, and close the position when it breaks through the lower track.

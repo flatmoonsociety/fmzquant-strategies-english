@@ -18,7 +18,7 @@ Please visit the original script page (link at top) to review how the indicator 
 
 **backtest**
 
- ![IMG](https://www.fmz.com/upload/asset/bb14ca43e91e986c7f.png) 
+ ![IMG](assets/images/db0f65d51622cf5ee73343b27c99073eca11714afa262fa64e3ddef6d8a6741b.png) 
 
 > Strategy Arguments
 

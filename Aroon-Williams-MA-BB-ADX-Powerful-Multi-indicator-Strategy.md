@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/a9633c80b6a20d8e1e.png)
+![IMG](assets/images/3c274d2f6be021c2f7ef72035f645e9eb50ef25466b8306e3908c3f1aa2babc6.png)
  [trans]
 ### Overview
 This strategy combines a variety of powerful indicators such as Aroon, MA, BB, Williams, %R, ADX and so on with different periods to form a multi-dimensional powerful position opening indicator, which can effectively open positions when the trend is obvious.

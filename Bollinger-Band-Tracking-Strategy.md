@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1faec17c3a825eb3de6.png)
+![IMG](assets/images/5ed24ca8040dc0697d7b460bca5c8c5aaed40f49acd20f38d8d2078deac58f93.png)
 [trans]
 ### Overview
 This strategy uses the Boerland Band indicator, combined with trailing stop loss, to achieve trend following trading. Go short when the price breaks through the upper rail, go long when the price falls below the lower rail, and set stop loss and take profit prices to lock in profits. At the same time, this strategy also provides an optional reversal entry option, that is, placing a reverse order when the price re-enters the wave band.

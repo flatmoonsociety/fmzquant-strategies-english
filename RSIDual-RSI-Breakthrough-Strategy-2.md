@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/15231b01fa4a843b8f9.png)
+![IMG](assets/images/35e7e940636252853ee117712b164e755136618b69e4a683178c3a3f0449a29d.png)
  [trans]
 ## Overview
 The double RSI breakout strategy is a quantitative trading strategy that uses both fast RSI and slow RSI indicators to generate trading signals. This strategy forms a trading signal through the breakthrough between the fast and slow RSI indicators to achieve the effect of tracking the market trend.

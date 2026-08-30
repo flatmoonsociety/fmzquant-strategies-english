@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/15ef0597f3d5bcbc546.png)
+![IMG](assets/images/63a2b24bf759b90f0f5b3ea47d56f651572500dc1664f675a7479382afccda62.png)
 
 [trans]In the field of quantitative trading, trend following strategies have always been one of the most popular trading methods. This article will introduce a trend following strategy based on a dual moving average system, which improves trading efficiency through an optimized risk-return ratio.
 #### Strategy Overview

@@ -13,7 +13,7 @@ Archimedes' bathtub
 - You can choose OKEX futures for backtesting
 - Contract: this_week current week contract
 - Official website: www.quantinfo.com
-![IMG](https://www.fmz.com/upload/asset/efa8dad9db6b13862283a69ee8255934.png)
+![IMG](assets/images/f8574bb9efddb6b85d9abef0578b23d3d6d8c170b608f4df005925d191866c9d.png)
 
 - Main picture:
   None
@@ -25,8 +25,8 @@ Archimedes' bathtub
 - Backtest can choose OKEX futures
 - Contract: this_week contract
 
-  ![IMG](https://www.fmz.com/upload/asset/7ba0592df29f0e159c4d6f090c893339.png)  
-  ![IMG](https://www.fmz.com/upload/asset/7f9acd992f46482e5709402ae85abd77.png) 
+  ![IMG](assets/images/f0537d53739acc83bda0ebcaa6c83f5ca8d770cbc9b7bad4f9067e7730f43ce2.png)  
+  ![IMG](assets/images/e2d91fe2efa5fb4bfdbf5f8984c5b05f0ce0e41d18bf4948f641bd32bfc867a2.png) 
 
 - Main chart: 
   none

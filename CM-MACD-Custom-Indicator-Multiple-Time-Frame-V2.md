@@ -25,7 +25,7 @@ Alerts are Pre-Set to only Alert on Bar Close
 
 **backtest**
 
- ![IMG](https://www.fmz.com/upload/asset/921e143426edc4c84c.png) 
+ ![IMG](assets/images/e76e4fc6afa82dadf9ba969cc4113d270853297de25d67b6050e9bfeef9094ec.png) 
 
 > Strategy Arguments
 

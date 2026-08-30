@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/e5055b9dfe6da41ab8.png)
+![IMG](assets/images/7939f86c76709c4d1ccfe5adfca8122bd521252a014b62629c42c988991311b2.png)
 [trans]
 ## Overview
 The long-short linear crossover strategy is a technical analysis strategy that predicts future stock price trends based on a linear regression model. The basic principle of the strategy is: stock price trends tend to follow a certain linear trend, and by calculating linear regression of prices, future prices can be predicted. Go long when the predicted price goes above the current price, close the position when it goes below.

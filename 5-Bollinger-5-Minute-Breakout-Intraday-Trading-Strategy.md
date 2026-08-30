@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/b7494470cd5293ab46.png)
+![IMG](assets/images/63ed8abce504153a4aa70160e41803826d8b86c6a06ae10a8a5258041c509653.png)
 [trans]
 The strategy is called "Bollinger 5-Minute Breakout Intraday Trading Strategy" and is a short-term trading strategy based on the Bollinger Bands indicator, designed for intraday trading on the 5-minute time frame. This strategy uses Bollinger Bands to capture short-term breakthrough opportunities in the market. When the price breaks through the upper track, open a long position and close the position when it breaks through the lower track. At the same time, this strategy strictly adheres to the principles of intraday trading and clears positions before 3 pm on each trading day to avoid the risk of holding positions overnight.
 The main ideas of this strategy are as follows:

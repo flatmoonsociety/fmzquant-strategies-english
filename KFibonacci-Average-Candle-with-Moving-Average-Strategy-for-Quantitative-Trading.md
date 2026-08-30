@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/108818bc053c805e45f.png)
+![IMG](assets/images/1427fba0082ace497bdc389afb60166a8a119dac048df66aa704a5363958d202.png)
  [trans]
 ## Overview
 This strategy builds an average K-line and a moving average calculated based on the Fibonacci sequence, combined with a variety of price technical indicator rules, to achieve quantitative trading that is only long but not short. Preliminary tests show that this strategy performs better on large cycle graphics.

@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1bdba9db7874729a2db.png)
+![IMG](assets/images/3af17cfd4321c71518936d6b5f4e9d7cb43a428dd1ecc6fbfe3882ac2269ab49.png)
 [trans]
 ## Overview
 The Dual Momentum Moving Average trading strategy is a strategy that uses the OTT indicator in conjunction with the Wavetrend oscillator indicator. It combines the OTT indicator developed by teacher Anıl Özekşi and the Wavetrend oscillator indicator of lonestar108 to form a successful trading indicator. This strategy can be used for long and short trading in a two-way market.

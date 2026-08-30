@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1575297822ec1edccdd.png)
+![IMG](assets/images/1b67fca51a70257b1884ddfcd8e2d8bd6c2c75c3947f1abd701426ddec9e8a18.png)
 [trans]
 ## Overview
 The trend following moving average strategy is a trend following strategy that identifies the trend direction based on the long-term moving average and combines it with the average true fluctuation range to filter out chaotic market conditions. This strategy uses exponential moving averages to determine the trend direction, and then uses the average true fluctuation range to identify whether it is a false breakthrough. This can effectively filter the volatile market and reduce the overall retracement of the strategy.

@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/c15117071e51ea0748.png)
+![IMG](assets/images/e8dd19be8eaf31a10fc9538210f3288ed35d89e55fe5f698be24ce272369ee9f.png)
 [trans]
 ## Strategy name
 Dual Moving Average Crossover Quantitative Trading Strategy

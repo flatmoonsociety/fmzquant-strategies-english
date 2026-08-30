@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/7a2d874bcdcf935225.png)
+![IMG](assets/images/23375c67a8ecd7740240c83d827488c587b6829df0fb92ebecb0ab8fe321811c.png)
  [trans]
 ## Overview
 The Golden Cross Moving Average strategy is a trend following strategy based on moving averages. This strategy determines the trend direction of the market by calculating moving averages of different periods and generates trading signals accordingly. Specifically, this strategy calculates three moving averages: the 50-day moving average, the 100-day moving average, and the 200-day moving average. When the short-term moving average breaks through the long-term moving average from bottom to top, a buy signal is generated; when the short-term moving average falls below the long-term moving average from top to bottom, a sell signal is generated.

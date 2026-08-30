@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/760ef6b96fca09d340.png)
+![IMG](assets/images/0770adb95f0057fefd5060fbbd2b7b4342a6ab878cc818cfa8ac5aea4c61382c.png)
 [trans]
 ## Overview
 The moving average breakout trap strategy is a multi-time frame universal trading tool, suitable for 1-minute and 1-hour time frames. This strategy uses the 21-day moving average to identify important market trends, while using the ATR indicator to identify potential bull and short traps. The profit rate of this strategy is as high as 85%, and can reach 88% in the best environment.

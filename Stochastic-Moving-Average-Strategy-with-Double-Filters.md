@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/15046226cb00ef644e2.png)
+![IMG](assets/images/e08190d702a09be2206730b1e419327476f06d440fff12044f4d50ab2a08e7eb.png)
 [trans]
 ### Overview
 This strategy is a long-term trading strategy that uses a combination of stochastic indicator K value and exponential moving average to filter. The strategy determines that the buying conditions are met when the K value of the stochastic indicator enters the oversold zone, and it determines whether to close the position with stop loss or take profit when the price falls below the moving average and the filter condition of the stochastic indicator is established.

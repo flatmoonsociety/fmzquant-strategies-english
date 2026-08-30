@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/9732487f0fe49cc33d.png)
+![IMG](assets/images/a3a8ef7b5cc11a3e8e238f02b50d4e1585b3936c98d2b99bb37a8042a09b0b5f.png)
 [trans]
 ## Overview
 The double-line breakout golden cross and dead cross trend following strategy is a trend-following quantitative trading strategy that simultaneously uses support and resistance lines and moving averages as alternative signals. This strategy comprehensively considers the support and resistance levels of the price in different time periods and the golden cross signal of the moving average. When the price breaks through important support and resistance levels, it combines the trend indicators to filter long and short opportunities to achieve the profit goal of opening a position early in the trend change and tracking the medium and long-term trend.

@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/10f6c228565f48c047b.png)
+![IMG](assets/images/3378d0a894deb22700bbc1399a71f059e2f3e0b4c5cb319f39b86c69e65b056f.png)
 [trans]
 ### Overview
 This strategy uses the relative strength index (RSI) indicator to determine the oversold condition of the market. When the RSI is less than 30, a long position is opened, and the stop loss price is set to 98.5% of the opening price. The main idea of ​​this strategy is to enter the market when an oversold signal appears, and at the same time strictly control risks, and immediately close the position and stop the loss once the price falls below the stop-loss price.

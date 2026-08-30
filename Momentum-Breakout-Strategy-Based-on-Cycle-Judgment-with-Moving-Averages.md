@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/6337d527f4e9429104.png)
+![IMG](assets/images/bc8d9ea98ac89880ded684c0aacc2dde84a2be3ae8bc53e16f60cc550d3a7349.png)
  [trans]
 ## Overview
 This strategy calculates the EMA moving average of different periods to determine which period the current market is in, and then combines ATR to judge breakthroughs to achieve high-probability trend following transactions.

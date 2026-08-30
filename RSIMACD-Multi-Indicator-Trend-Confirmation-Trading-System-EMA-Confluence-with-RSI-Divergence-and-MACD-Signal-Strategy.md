@@ -8,8 +8,8 @@ ianzeng123
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/2d8b05482bae5e07cc7a6.png)
-![IMG](https://www.fmz.com/upload/asset/2d8a1564d66c26cb12795.png)
+![IMG](assets/images/577b1dc6286a02882b782bcc7c2a469e892fbc023b043d22cfd8ef2c2c2a9152.png)
+![IMG](assets/images/c3d6846ed40a604c825fefdd7ff19af5990158448736be09b68aef4b7dee17d5.png)
 
 [trans]#### Overview
 This "Multi-Indicator Trend Confirmation Trading System - Moving Average Fusion RSI Divergence MACD Signal Strategy" is a comprehensive quantitative trading system that identifies market trends and potential trading opportunities by combining multiple technical indicators. This strategy mainly relies on the collaborative confirmation of multiple technical indicators such as three exponential moving averages (EMA), relative strength indicator (RSI), moving average convergence and divergence indicator (MACD), and Bollinger Bands to improve the reliability and accuracy of trading signals.

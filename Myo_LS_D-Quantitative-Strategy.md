@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1349a0e28875de1ec72.png)
+![IMG](assets/images/35821a6ba9fd8538e0211f27f3fe29f5618b9e694311b4dd7c3de3e76e10f4b0.png)
 
 [trans]
 # Myo_LS_D quantization strategy

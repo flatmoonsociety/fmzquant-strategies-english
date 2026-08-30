@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/185cdad5f8ccc679490.png)
+![IMG](assets/images/6175ae0e87394b6e34bb1a4444e6369b3a0c3e34330a223ece61ec369b55dcff.png)
 [trans]
 ## Overview
 The trend following stop loss strategy is a trailing stop loss trading strategy based on the trend indicator TrendAlert. It determines the trend direction through the TrendAlert indicator and realizes trend tracking entry. At the same time, it uses the ATR indicator to set stop loss levels to achieve risk control.

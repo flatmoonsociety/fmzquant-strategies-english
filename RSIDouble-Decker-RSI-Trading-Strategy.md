@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/e026de35749ac10592.png)
+![IMG](assets/images/42e323531916f5e68e88af10ca903a3d26c3692ed9c5c853ca95fe966a480db0.png)
  [trans]
 ## Overview
 The two-level RSI trading strategy is a quantitative trading strategy based on the relative strength index (RSI). This strategy uses both fast RSI and slow RSI as trading signals to achieve double confirmation, aiming to improve signal quality and filter out false signals.

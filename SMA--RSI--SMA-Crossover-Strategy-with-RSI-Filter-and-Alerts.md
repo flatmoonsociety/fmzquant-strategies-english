@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/7201caf3fc940a8b49.png)
+![IMG](assets/images/71865fb6ca4ede43381d8f5597e8997737df574d264a60055fd3bee22390172c.png)
 [trans]
 #### Overview
 This strategy uses the intersection of two simple moving averages (SMA) to identify buy and sell signals, combined with the relative strength index (RSI) as a filter to reduce false signals. When the short-term SMA crosses above the long-term SMA and the RSI is below the overbought level, a buy signal is triggered; when the short-term SMA crosses below the long-term SMA and the RSI is above the oversold level, a sell signal is triggered. The strategy also sets stop-loss and take-profit prices to manage risk and lock in profits. Additionally, the strategy integrates audio and visual alerts to promptly alert traders to the occurrence of signals.

@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/137ef39088b13d6c320.png)
+![IMG](assets/images/9e598d69a4e5affb7397dabe623b7c8cc0e57a27cac57d071687382160092ae4.png)
  [trans]
 ### Overview
 This strategy is based on the Commodity Channel Index (CCI) indicator to identify the cyclical and seasonal characteristics of the market to capture the beginning and end of cycles. It measures deviations from normal levels to indicate major trend changes by combining a moving average and a divisor that reflects the likely and actual trading range to form the final index.

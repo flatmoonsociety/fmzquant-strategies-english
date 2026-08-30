@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/19eac238910cf5947ca.png)
+![IMG](assets/images/beece71fdb0f8d3899a26107b53144ce06fcbee56463bf5e4acfc32838407bda.png)
 [trans]
 #### Overview
 The Hilo Activator MACD Dynamic Take Profit and Stop Loss trading strategy is a quantitative trading strategy that combines the Hilo Activator indicator and the MACD indicator. This strategy uses the Hilo Activator to determine the direction of market trends, while using the MACD indicator to determine specific entry times. The strategy also introduces dynamic stop-loss and take-profit mechanisms based on ATR to automate risk management and profit targets. This strategy is designed to capture market trends while protecting trading funds through strict risk control.

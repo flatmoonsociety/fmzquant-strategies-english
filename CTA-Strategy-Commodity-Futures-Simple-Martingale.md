@@ -21,16 +21,16 @@ According to the principle of Martin strategy, every time you lose money, adjust
 - Data period: daily line
 - Slippage: 2 ticks each for opening and closing positions
 **Backtest configuration**
- ![IMG](https://www.fmz.com/upload/asset/39df3d9ffd96e830c2f4.png)
+ ![IMG](assets/images/29a984fad7c1bbb395cba0ac4cd8bc42eea25eff1b3bc9f7d8b4bb76f88de5d2.png)
 **Backtest Performance**
- ![IMG](https://www.fmz.com/upload/asset/3a0b9d36caf93df156c0.png)
+ ![IMG](assets/images/3216fe4f86f7ab55943771154cea7fabb5deedd0fa34e5547df105485dc824b9.png)
 **Funding Curve**
- ![IMG](https://www.fmz.com/upload/asset/3992048c1b248823b8e0.png)
+ ![IMG](assets/images/a8d18cfd17524dd008b01fb114098202fcf043e98744d7aedd02d4b1f0f64ee9.png)
 **Log information**
- ![IMG](https://www.fmz.com/upload/asset/3979363f6bf790113495.png)
+ ![IMG](assets/images/84a538bbe6a6ebef906186bd40c6764f7e1b9a147e3a8af5c7ea521bfe54d971.png)
 #### 4. Martingale strategy upgrade
 The biggest risk of Martingale's strategy is that the market has always been in a unilateral trend. If the trader's position direction runs counter to the market direction, the accumulated positions will be very scary. If a trader's initial capital is 10,000 yuan and he increases his position by 2 times when he loses, he will only need to lose 7 times in a row before his position will be liquidated. But if the multiplier is changed to 1.5, the situation will be much better. It will take 12 consecutive losses before the position is liquidated. If the multiplier is changed to 1.1, the position will be liquidated after 49 consecutive losses. Because the amount of funds occupied is relatively small, the risk of operation is relatively small.
- ![IMG](https://www.fmz.com/upload/asset/390720a08054ffca4d39.png) 
+ ![IMG](assets/images/5bf463f1ec80d841a5239ae6a58de390d3fcabadb2564ca177247ccdc190be71.png) 
 
 The above picture is a chart of investment multiples and capital investment ratios. It can be seen that using a lower investment multiples will occupy very small funds, and the strategy will have stronger risk resistance. Therefore, in order to ensure the safety of funds, it is recommended to use low investment multiples for real offers. It is recommended to calculate the multiple investment multiples before the actual offer. It is best to have a multiple investment multiple that can withstand more than ten consecutive losses.
 

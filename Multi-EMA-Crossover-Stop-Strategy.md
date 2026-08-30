@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/135d0077a26505ea43d.png)
+![IMG](assets/images/c6125e092b1d63cba29f072cf3e1300cb64be9164057b906aa8f0641a9ade3d0.png)
 [trans]
 #### Overview
 The multiple exponential moving average crossover strategy is a quantitative trading strategy based on multiple exponential moving average (EMA) crossover signals. This strategy utilizes a 21-period EMA applied to different price data (high, close, and low), as well as a secondary smoothing of the 21-period closing EMA, to generate buy and sell signals through the crossover between these moving averages. The core idea of ​​the strategy is to capture changes in market trends and send signals to stop buying or selling when the trend reverses, thereby helping traders adjust their positions in a timely manner.

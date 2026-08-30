@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/127dd61dd40d8e19922.png)
+![IMG](assets/images/96c9c7410d7c4c78ab86abdb004222f38037301ccb8f458033f34ec45d488f94.png)
 [trans]
 ## Overview
 The Range Filter Buy Sell Signals Strategy based on the price fluctuation range is a very practical quantitative trading strategy. It uses the price fluctuation range to filter buy and sell signals, reducing false signals in low-volatility markets and improving signal quality in high-volatility markets. This policy name accurately summarizes the primary function of the policy.

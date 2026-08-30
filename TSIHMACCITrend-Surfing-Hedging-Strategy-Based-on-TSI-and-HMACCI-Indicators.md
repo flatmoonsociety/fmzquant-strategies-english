@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/120bfc6da0109ab1c39.png)
+![IMG](assets/images/570d6cb7a7fe6036869dc52fcb58c0df7a790343ec5a0071e385a4fcd711546e.png)
 [trans]
 ## Overview
 This strategy integrates the bilateral trading signals of TSI and improved CCI indicators, and uses arbitrage to frequently open and close positions, with the purpose of pursuing more stable and sustained profits. The key logic is the fast and slow moving average golden cross and dead cross of the TSI indicator, combined with the long and short signal lines of the HMACCI indicator to determine the market buying and selling direction. Control risks by limiting opening conditions and setting stop loss and take profit logic.

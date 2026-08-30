@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/13af1f2dd62367fca21.png)
+![IMG](assets/images/8100940f9baf9dbaf4212306b022d5eda6cbe82838460d8bb8809f07ed34ebde.png)
 [trans]
 ## Overview
 This strategy comprehensively uses super-trend support and resistance lines and the ADX indicator to achieve high-frequency trading. Super-trend support and resistance lines dynamically calculate the latest support and resistance points to determine price trends and send trading signals. The ADX indicator is used to judge the strength of the trend. Set the ADX value as a filter condition and only issue trading signals when the trend is strong enough.

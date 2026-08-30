@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/d9a128877d2a64b510.png)
+![IMG](assets/images/51ad6d0f80f835d5f11cc479e2033136845ce4960d87b6d12bb9706828383c63.png)
 [trans]
 ### Overview
 The main idea of ​​this strategy is to open a long position after a specific K-line pattern appears, that is, when a negative line (colorbar) that jumps downward appears and the low point of the next K-line is pulled back, enter long when the next K-line opens.

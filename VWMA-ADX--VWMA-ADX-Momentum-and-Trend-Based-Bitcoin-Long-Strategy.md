@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/104c7b79ea2771e1315.png)
+![IMG](assets/images/a4f65ea98704743512b64d1f59728da99632352b53cee15f3eebe66b3f09ca49.png)
 [trans]
 #### Overview
 This strategy utilizes multiple moving averages (VWMA), the average directional index (ADX), and the movement indicator (DMI) to capture long opportunities in the Bitcoin market. By combining multiple technical indicators such as price momentum, trend direction and trading volume, this strategy aims to find entry points with strong upward trends and sufficient momentum, while tightly controlling risk.

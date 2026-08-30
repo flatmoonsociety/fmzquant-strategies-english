@@ -20,7 +20,7 @@ If you have found a profitable setup for it, please share in the comments or pri
 
 **backtest**
 
- ![IMG](https://www.fmz.com/upload/asset/17ecae098ab4b99118c.png) 
+ ![IMG](assets/images/9ead7c0cc3cd40a0aff7b6bb162a436a2fbb831757fa9cfea74224fd923dc7c3.png) 
 
 > Strategy Arguments
 

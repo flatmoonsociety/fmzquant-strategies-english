@@ -13,7 +13,7 @@ This indicator is the Mobo Bands (Momentum Breakout Bands). These bands are boll
 
 **backtest**
 
- ![IMG](https://www.fmz.com/upload/asset/1f2ff4b7c1c03df68cb.png) 
+ ![IMG](assets/images/8474a90cca8630dafd0e8527ceac2201c415743b3ca6f51245a6af5451642aaf.png) 
 
 > Strategy Arguments
 

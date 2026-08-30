@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/e01b07400d1b6dec9d.png)
+![IMG](assets/images/14f302f1e060cfea8065896d1978adbed35c2b45211b222cb06d1d2cc72f53cc.png)
 [trans]
 ## Overview
 The VRSI and MARSI strategies use moving averages to smooth the RSI indicator and implement a dual-indicator strategy. This strategy uses both the RSI indicator for price and the RSI indicator for volume, combined with their moving averages to generate trading signals. Go long when the price's RSI indicator rises, and go short when the price's RSI indicator falls. At the same time, observe changes in the RSI indicator of trading volume to determine market strength and possible trend changes.

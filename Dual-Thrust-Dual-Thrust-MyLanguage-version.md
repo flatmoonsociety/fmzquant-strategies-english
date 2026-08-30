@@ -28,8 +28,8 @@ Detailed introduction to the strategy: http://xueqiu.com/5256769224/32429363
   This system is a reversal system with no separate stop loss. In other words, the reverse signal is also the closing signal.
 
   ![IMG](https://www.fmz.com/upload/asset/d2d373289db613f356811d9314775b83.jpg)  
-  ![IMG](https://www.fmz.com/upload/asset/c6c5a6c53fa4f0c9c5971df9349e1dca.png)  
-  ![IMG](https://www.fmz.com/upload/asset/65fd01ff1e7b844006ba18ad0ea3dedf.png) 
+  ![IMG](assets/images/6c079806758e81f63c0f4aa13f317812d09e9377464b0efd8daf6b2f06424d3a.png)  
+  ![IMG](assets/images/59f1dff0559124ee79eb3fae72ffc61dc8429f611324f5e722f12ccd71aa4871.png) 
 
 - Main chart:
   Upper track: formula: UPTRACK^^O+KSRG;

@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/da5b5ce8d268105657.png)
+![IMG](assets/images/46bb1ed9c185035f5650707d83c36535e3689ba0744b590f7842b635f67cca3f.png)
 [trans]
 ## Overview
 This strategy is called the "Golden Cross Rule" and is a quantitative trading strategy that combines the exponential moving average (EMA) and the relative strength index (RSI). Its main idea is to buy in high demand areas and sell in high supply areas, use EMA to determine the overall trend direction, and use RSI to determine overbought and oversold areas.

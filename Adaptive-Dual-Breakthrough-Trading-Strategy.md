@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/15088404c02ce293aa0.png)
+![IMG](assets/images/27b89b0733dbc933e6ad90533e0abc8294df1f389ba1e2be8fe6457a693d582e.png)
 [trans]
 ## Overview
 The two-way breakout adaptive trading strategy is a quantitative strategy that makes judgments and trading operations based on the relationship between the stock's opening price and closing price. This strategy will perform long or short operations under the set parameter conditions. At the same time, it has an adaptive exit mechanism that can decide when to exit the current position based on the latest opening and closing price changes.

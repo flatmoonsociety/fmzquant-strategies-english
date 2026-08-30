@@ -15,7 +15,7 @@ Not trading advice, use at your own risk.
 
 **backtest**
 
- ![IMG](https://www.fmz.com/upload/asset/180a6a543807ef47db2.jpg) 
+ ![IMG](assets/images/0a3b10b872f8db5cb767d89c98632bdb58a73608d0c365cfe0497acc766a7504.jpg) 
 
 > Strategy Arguments
 

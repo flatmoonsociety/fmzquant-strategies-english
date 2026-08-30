@@ -8,8 +8,8 @@ ianzeng123
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/2d8cf7bf41561a598c19e.png)
-![IMG](https://www.fmz.com/upload/asset/2d85225bad18ef7fc0277.png)
+![IMG](assets/images/b21c07acce0433e53404a283824454ba91f86dc1e7ad3ad66d0d35b60cb9ef9d.png)
+![IMG](assets/images/756099f2bf177d90a4797da483e40a6c04cb898fa0933185d18fb08ab1121c9b.png)
 
 
 [trans]# Multi-time frame trend momentum and VWAP rebound cross quantification strategy

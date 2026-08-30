@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/da44d68872e6836d6e.png)
+![IMG](assets/images/0c0aad8e0ab0276f36aa40827de6708dcb8d5fcc1e7bcd742e41fcb59d496b48.png)
  [trans]
 ### Overview
 This strategy comprehensively uses multiple indicators such as MACD, RSI, CCI, StochRSI and 200-day simple moving average to form trading signals under the daily time frame. The strategy first determines whether the MACD line and signal line are golden crosses, then combines RSI, CCI, and StochRSI indicators to determine whether it is overbought or oversold, and finally determines whether the price breaks through the 200-day moving average, and filters out buy and sell signals based on these conditions.

@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/12a42f07c147df3f6c0.png)
+![IMG](assets/images/36083920cd3a57cc0c60dfd498299a154ec6105bb2919bc522ef9949a096082d.png)
 [trans]
 ## Overview
 Dynamic Moving Average Crossover Strategy is a typical trend following strategy. This strategy captures turning points in the market trend by calculating the Fast Moving Average (Fast MA) and the Slow Moving Average (Slow MA) and generating buy and sell signals when they cross.

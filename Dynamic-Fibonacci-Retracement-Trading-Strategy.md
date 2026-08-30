@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/f2aa9fb9b7066d5920.png)
+![IMG](assets/images/2ef88e4d7716c1302f4dcce10718563267fb1fedb99189c5e3e0a7c2698273a8.png)
 [trans]
 #### Overview
 This strategy is based on Fibonacci retracements and moving averages and is designed to capture retracement opportunities in market trends. It determines Fibonacci retracement levels by calculating the highs and lows of different periods and uses moving averages to confirm trend direction. This strategy only considers entering long positions when the price is above the long-term and medium-term moving averages, and trades when the price retraces back to key Fibonacci levels.

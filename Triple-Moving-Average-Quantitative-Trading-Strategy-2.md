@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/823831b8ea37647c22.png)
+![IMG](assets/images/09144515263a4ca254983637e328bea091103ace6b1d2a724058d8903fbd4f66.png)
 [trans]
 
 Overview: This strategy is a typical technical analysis strategy. It uses several commonly used moving average indicators such as EMA and auxiliary indicators such as RSI, MACD, and PSR. Through the combination of moving average configurations and indicator signals in different periods, it forms entry and stop loss rules to find opportunities to buy low and sell high.

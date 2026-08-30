@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/109ce4a157af5456613.png)
+![IMG](assets/images/852d78ebf310000a6281d11afbc700243143192a90eb8c5ed4ccdcb15ecaa97d.png)
  [trans]
 ## Overview
 This strategy is an XRP/USDT 5-minute short-term momentum trading strategy that combines MACD and RSI indicators. This strategy captures the short-term price momentum of the XRP/USDT trading pair by identifying the MACD indicator's golden cross long signal and dead cross short signal. At the same time, the overbought and oversold signals of the RSI indicator are used to confirm trading signals. This strategy is suitable for active traders who track market momentum in the short term.

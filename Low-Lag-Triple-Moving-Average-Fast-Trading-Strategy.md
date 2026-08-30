@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/d7ad3cd423121aaa02.png)
+![IMG](assets/images/b96af0b50999c262916ccbe7737f9e3f5e629e8d773068e30de5b01fc56bd9d6.png)
 
 ## Strategy Principle
 This strategy uses three low-latency moving averages, including 12-period, 26-period and 55-period low-latency tema moving averages. These three moving averages represent respectively: fast moving average, medium speed moving average and slow moving average. When the fast moving average crosses the medium-speed moving average, a buy signal is generated; when the fast moving average crosses below the medium-speed moving average, a sell signal is generated. In this way, the market buying and selling points are judged through the intersection of three moving averages, and high-frequency trading is achieved.

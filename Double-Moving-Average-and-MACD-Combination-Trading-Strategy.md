@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/17aaf71b3e929db48a3.png)
+![IMG](assets/images/153bac01bd8e11f811ef48248d34b7b7ae54a2ed540063d872f9e6a86d9f5219.png)
 [trans]
 ## Overview
 The dual moving average and acceleration indicator combination trading strategy is a quantitative trading strategy that uses both moving averages and momentum indicators to generate and verify trading signals. This strategy combines the trend tracking ability of the moving average and the momentum characteristics of the acceleration indicator. Through strict entry and exit conditions, it can effectively grasp the outline of the market trend and while confirming the trend, try to avoid the risk of reduced profits or even losses caused by shrinking trading profit areas or market shocks.

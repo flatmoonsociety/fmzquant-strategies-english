@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1aedddeb93e1e078ca9.png)
+![IMG](assets/images/ad290aec6983e3cb8083b3c40dcf2404b90e50ab9b674ca384f07ebea438256c.png)
 [trans]
 ## Overview
 This strategy is based on the moving average combination of MACD indicators to achieve dynamic trend judgment across time periods and is a relatively classic trend following strategy. Mainly through the relationship between the difference between fast and slow moving averages MACD and its signal line, the direction and strength of the current trend can be judged. At the same time, cross-cycle judgment is introduced to improve accuracy and dynamically adjust positions.

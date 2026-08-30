@@ -15,7 +15,7 @@ UPDATE: (AleksanderThor) add option for a 2nd target, to use you need to activat
 
 **backtest**
 
- ![IMG](https://www.fmz.com/upload/asset/f6c9860b59b6177205.png) 
+ ![IMG](assets/images/db67adab414e403da03681d5fc8707991e6a14906c6d1837ef153371f672a592.png) 
 
 > Strategy Arguments
 

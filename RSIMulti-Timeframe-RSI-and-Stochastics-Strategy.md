@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/145698e35e7d08fe7b4.png)
+![IMG](assets/images/5d252b4c24767c298454d6948642f1978e625c9a490c4c17f2b360f52c8913a7.png)
 [trans]
 ## Overview
 The multi-time frame RSI and stochastic indicator strategy is a strategy that uses a combination of RSI and stochastic indicators to determine whether the market is overbought or oversold in multiple time frames. This strategy combines the RSI and stochastic indicators of 4 time frames at the same time, and uses its average value to determine the overall market trend and overbought and oversold conditions to take advantage of each time frame indicator.

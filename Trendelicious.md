@@ -28,7 +28,7 @@ The author of this script cannot be held responsible for any losses incurred dir
 
 **backtest**
 
- ![IMG](https://www.fmz.com/upload/asset/b14d4431424bb1113c.png) 
+ ![IMG](assets/images/1891ddcd54a27b3dd96d36faa375a40e03252b0e1142e49f7bcf37c035440677.png) 
 
 > Strategy Arguments
 

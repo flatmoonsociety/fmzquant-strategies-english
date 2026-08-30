@@ -13,7 +13,7 @@ Lower track: the lowest price of the past 30 K lines
 Interval width: (upper rail - lower rail) / (upper rail + lower rail)
 If the range is less than the threshold a, the price breaks through the upper rail upwards, a buy position is opened, and the price falls below the lower rail and the position is closed.
 If the range is less than the threshold a, the price breaks through the upper track downwards, a sell position is opened, and the position is closed when the price breaks through the upper track.
- ![IMG](https://www.fmz.com/upload/asset/15f35e56ef95b1f550644.png)
+ ![IMG](assets/images/9912106910583ccac61c4e2f5e9bae21a589a955374e3fc83fe2b58295f657cb.png)
 ## Contact information
  If you are interested in this strategy, please +V: Irene11229
 (Click on my homepage, I will continue to update more strategies, and you can also get market analysis data of several leading exchanges)

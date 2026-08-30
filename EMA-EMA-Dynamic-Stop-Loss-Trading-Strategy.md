@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1427fdee89e710dfa9b.png)
+![IMG](assets/images/8d06798e6cec1c1e29c25e73e291c96e218cdf3d39af292bdb6fbe70a44e9429.png)
 [trans]
 #### Overview
 The strategy is based on crossover signals from the 20-day and 200-day exponential moving averages (EMA), combined with confirmations from the relative strength indicator (RSI) and the moving average convergence divergence indicator (MACD) to generate buy and sell signals. At the same time, this strategy uses dynamic stop loss and fixed target profit methods to manage trading risks and lock in profits.

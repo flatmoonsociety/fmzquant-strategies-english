@@ -20,7 +20,7 @@ How it works?
 
 **backtest**
 
- ![IMG](https://www.fmz.com/upload/asset/3109331121cb872000.png) 
+ ![IMG](assets/images/0e13888067971013f7f72e6096a183b7f3a259542b6e8a36efd42ca9063312b7.png) 
 
 > Strategy Arguments
 

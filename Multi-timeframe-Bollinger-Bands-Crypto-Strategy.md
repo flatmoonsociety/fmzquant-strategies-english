@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/691c599e08238f0325.png)
+![IMG](assets/images/33323642ef18d10e340f75a3a61c735dc04a35a8d5baeb2ac7060aebbcde6db6.png)
 [trans]
 ## Overview
 This strategy uses the Bollinger Bands indicator to analyze cryptocurrency price movements on different time frames (1 minute, 3 minutes, 5 minutes, and 15 minutes) to find buying and selling opportunities. It serves as a benchmark for cryptocurrency market sentiment and focuses on Bitcoin's 5-minute price. When the price of Bitcoin breaks through the upper Bollinger Band, the sentiment is considered to be in a "bullish" state; conversely, when the price of Bitcoin falls below the lower Bollinger Band, the sentiment is considered to be "bearish". The strategy will observe the upper-band rupture or lower-band breakthrough pattern of the Bollinger Bands on different time frames of different currencies. These patterns usually indicate changes in market sentiment and trends, and are therefore signals for buying and selling operations.

@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/15cb071f66606955584.png)
+![IMG](assets/images/7143b8ab4749521d0b4dc0274b1a516b0aa1291e267ec6c7efa4f760e5dd5fcd.png)
 [trans]
 ### Overview
 This strategy combines the Stochastic RSI and two EMA indicators with different periods to generate trading signals. A buy signal is generated when the fast StochRSI is below 20 and the 55-period EMA is above the 200-period EMA; a sell signal is generated when the fast StochRSI crosses 80. This strategy combines the advantages of different indicators, taking into account both price momentum and trend direction, forming a relatively stable trading strategy.

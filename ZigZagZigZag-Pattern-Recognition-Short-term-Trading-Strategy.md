@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1c7ac130c08e22119f3.png)
+![IMG](assets/images/c85ab90cba38d56f8e33f51231729755246f38305c76a8150a4541c5ddce9c48.png)
  [trans]
 ## Overview
 This strategy identifies the K-line pattern based on the ZigZag indicator, and combines it with the Fibonacci retracement line to set the Entry window, take-profit price, and stop-loss price to achieve short-term trading. The strategy supports multiple forms, including 13 long and short trend forms such as Bat, Butterfly, and Gartley.

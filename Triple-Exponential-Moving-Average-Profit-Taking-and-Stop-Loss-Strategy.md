@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/11de078ac7823da9f15.png)
+![IMG](assets/images/efa6233ecf58c31b1322bb1d517112b0e646c444df41373e5b1d08af01db06da.png)
 [trans]
 ## Overview
 The three-index moving average stop-profit and stop-loss strategy is a trend following strategy based on three exponential moving averages of different periods for entry and exit. It also uses the average true volatility indicator to set take profit and stop loss levels to achieve risk management.

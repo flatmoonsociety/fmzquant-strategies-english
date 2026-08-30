@@ -34,7 +34,7 @@ For alerts one must configure their own message.
 
 Happy trading.
 
- ![IMG](https://www.fmz.com/upload/asset/1c0cc53861912eb84cc.png) 
+ ![IMG](assets/images/a50e46f0951335717917859f344b858be16275be5613aabc2f9d335185194196.png) 
 
 > Strategy Arguments
 

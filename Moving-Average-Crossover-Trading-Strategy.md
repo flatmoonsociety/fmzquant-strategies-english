@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/9010c280496fd39d58.png)
+![IMG](assets/images/d520e7eb377d8619c5242e59240d9f47b2826c9327d6d78ffcd9ded9ef3ad15e.png)
  [trans]
 ## Overview
 The moving average crossover trading strategy is a relatively common quantitative trading strategy. This strategy calculates moving averages of different periods and generates trading signals based on their intersections. Specifically, it calculates the exponential moving average (EMA) of 4 periods, 8 periods and 20 periods. When the short-term EMA crosses the long-term EMA, go long; when the short-term EMA breaks below the long-term EMA, go short.

@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1e6c5a091157ea6bff9.png)
+![IMG](assets/images/daf610cf058b106c3f19043c44a5dfea36cd7ba399cce2ff7c58a6cecc7c3476.png)
  [trans]
 ## Overview
 The dual MACD quantitative trading strategy is a quantitative trading strategy implemented using the dual time frame MACD indicator. This strategy opens a long position when the weekly MACD indicator forms a golden cross, and closes the position when the daily MACD indicator forms a dead cross. When the position is short, if the daily MACD indicator forms a golden cross again, you can re-open a long position.

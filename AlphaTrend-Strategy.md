@@ -12,7 +12,7 @@ ChaoZhang
 The strategy version of AlphaTrend indicator for backtesting and optimisation purposes for TradingView users:
 
 AlphaTrend
- ![IMG](https://www.fmz.com/upload/asset/17d641b41e807b165f1.png) 
+ ![IMG](assets/images/3d1d978bd043e181e9463ce712ebd062f7a06b5712954dc2a385c7a9dfb3c4c8.png) 
 
 Screener / Explorer version and an English explantion video will be published soon...
 
@@ -27,7 +27,7 @@ Kıvanç
 
 backtest
 
- ![IMG](https://www.fmz.com/upload/asset/1585c096248c551d0d4.png) 
+ ![IMG](assets/images/5da46835952217485bd8cbf8563a2a3599aef6cf8c117599e2ed95c34e2fac69.png) 
 
 > Strategy Arguments
 

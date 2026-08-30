@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/13afe8dc93c3ba1c714.png)
+![IMG](assets/images/b12cf12ec365beed1556ba21cc313175dfa852e231000167d4618135d9e258dd.png)
 [trans]
 ## Overview
 The Noro moving average stop loss strategy is a trend following strategy. It calculates the 3-day simple moving average and adds a ratio above and below it as the opening line and stop loss line. At the same time, a take profit level is set. This allows you to open a position when the trend starts and stop the loss when the trend reverses.

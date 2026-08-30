@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/d00fdf6956d5b14099.png)
+![IMG](assets/images/35e2046bd0f21a9e4801e612d674a1ac813098ed9601ba2697cc9bcfd0e45828.png)
 [trans]
 #### Overview
 This strategy is an adaptive trading system based on moving averages and volatility. It constructs a dynamic trading channel by combining the exponential moving average (EMA) and the average true range (ATR), and trades when the price touches the upper and lower channels. The core idea of ​​the strategy is to capture the natural fluctuations of the market and perform well in sideways market conditions.

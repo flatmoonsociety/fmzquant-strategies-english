@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/bb67127299a731da2c.png)
+![IMG](assets/images/288591fea4fb859a192001343edebf7e00a23de2b11bc3f821582e02b0f56ca9.png)
 [trans]
 ## Overview
 This Pine Script-based strategy is designed to identify potential buy and sell signals through the 1-2-3 pattern, combined with the addition of the Exponential Moving Average (EMA) and Moving Average Convergence Divergence (MACD) indicators. This strategy utilizes price patterns, trend confirmations, and momentum indicators to provide comprehensive trading signals.

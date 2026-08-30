@@ -15,7 +15,7 @@ OB/OS zones are at 200 and -200 and marked with aqua color above below the candl
 
 **backtest**
 
- ![IMG](https://www.fmz.com/upload/asset/18996ab5d6508b3a4cb.png) 
+ ![IMG](assets/images/fc241dc7994d839efe87de4f94e76582535fe0284ef2d28811febd1d5d8033ac.png) 
 
 > Strategy Arguments
 

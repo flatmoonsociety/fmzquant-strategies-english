@@ -13,7 +13,7 @@ Archimedes' bathtub
 -Support: commodity futures, digital currency
 - The indicator uses EMA and KD line, and the KD line uses the default parameters (the indicator parameters are fixed at 3, 3, 9)
 - Official website: www.quantinfo.com
-![IMG](https://www.fmz.com/upload/asset/f842e44b0b8451cb562b8d5bd888e4c0.png) 
+![IMG](assets/images/9a0ad3f8897338fe30e720541dbeb3a627c8ba497efc38e7dc46dbe576765a2d.png) 
 
 - Main picture
   EMA moving average, formula: MAC^^EMA(C,N);
@@ -27,8 +27,8 @@ K line in KD line, formula: K:SMA(RSV,M1,1);//moving average of RSV
 - Support: Commodity Futures
 - Indicators are EMA, KD lines, and KD line use default parameters (index parameters fixed 3, 3, 9)
 
-  ![IMG](https://www.fmz.com/upload/asset/320fafa2ce5d6f68a4260a028783580d.png)  
-  ![IMG](https://www.fmz.com/upload/asset/6753142c9c078ad25e9c913e82c0d999.png) 
+  ![IMG](assets/images/4bfda59ce01256e7830dba86a639b39c2650ee411fb7109cb5f42b069855f642.png)  
+  ![IMG](assets/images/aa087d4f35c2badeb9474763ac75daed35ef5dac6e8c98389100b8da805c5fb1.png) 
 
 - Main chart:
   EMA mean, formula: MAC ^^ EMA (C, N);

@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/af0f989d578731a178.png)
+![IMG](assets/images/67f8c15795ebc23987241fd60a022b518845c8acc3050e414a0c7d5097d1e937.png)
 [trans]
 **Overview**
 The CDC Action Zone [TS Trader] strategy is a quantitative trading strategy adapted from the CDC Action Zone indicator. This strategy utilizes the crossover of the fast and slow moving averages as buy and sell signals. When the fast moving average crosses the slow moving average, it is a buy signal, and when the fast moving average crosses below the slow moving average, it is a sell signal.

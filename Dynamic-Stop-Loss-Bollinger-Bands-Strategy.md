@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/e6a662d9005fbcf118.png)
+![IMG](assets/images/51aff74f07bb3ea97685ac5356e0fbfc3cf28ac405935f57b4db0a389ab9376c.png)
 [trans]
 ## Overview
 This strategy uses the upper and lower rails of Bollinger Bands to achieve dynamic stop loss. Go short when the price breaks through the upper band of the Bollinger Band, go long when it breaks through the lower band, and set a dynamic stop loss to track the price movement.

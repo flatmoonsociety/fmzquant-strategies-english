@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/883e63555d16fa8622.png)
+![IMG](assets/images/0065db3b246d64ecd4092bbbe2158d8c96d9bc1dc680de9840019356be65d526.png)
 [trans]
 ## Overview
 This Pine script provides a powerful framework for testing and optimizing grid trading strategies in TradingView. It uses the strategy.orders() function to implement automated grid trading and backtesting.

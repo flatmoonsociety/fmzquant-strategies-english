@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/134c2b1a163d884534a.png)
+![IMG](assets/images/2b0123864eb7e611046c3b861baeaca3178f02658b69f7b15febc4e3c93a72f2.png)
 [trans]
 ## Overview
 This strategy is called "Institutional Trading Strategy Based on Price Action." It attempts to exploit certain trading patterns of institutional traders, specifically their tendency to place orders near specific "order blocks." The strategy combines elements of fair value, liquidity and price action to determine when to enter and exit the market.

@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/eba7739f2d8e3d1c1c.png)
+![IMG](assets/images/ce56ab69e70350bb024f4d274d5ccce501ee4d8efe5b87ce3712b8df69cffae8.png)
 [trans]
 #### Overview
 This strategy combines three technical indicators: VWAP (volume weighted average price), RSI (relative strength index) and Bollinger Bands, and implements a simple and easy-to-use quantitative trading strategy through dynamic stop-profit and stop-loss methods. The main idea of ​​the strategy is to use the VWAP indicator to determine the price trend in the past period, and at the same time combine the RSI indicator and the Bollinger Band indicator to determine whether the price is in the overbought or oversold range, thereby determining trading signals. Once the trading signal is determined, the strategy will calculate dynamic take-profit and stop-loss prices based on the ATR (Average True Range) indicator to control risks and lock in profits.

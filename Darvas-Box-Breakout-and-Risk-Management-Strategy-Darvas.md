@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/fd1560846c9970a1c0.png)
+![IMG](assets/images/864d943c5329ede6e05ea2562307825733fa73d7f87ef10786de3ffd4637f136.png)
 [trans]
 #### Overview
 Darvas Box Breakout and Risk Management Strategy is a quantitative trading method that combines technical analysis and risk management. This strategy is based on the Darvas Box Theory developed by Nicholas Darvas, which captures potential uptrends by identifying patterns in which prices break out of all-time highs. The strategy also integrates a number of technical indicators and risk control measures designed to improve the accuracy and security of transactions.

@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/128b2d548f033319b4e.png)
+![IMG](assets/images/682944581955e573f9a7f3f4c8a96ebafde017220706683cebcc60184c8f7870.png)
 [trans]
 #### Overview
 This strategy combines three technical indicators: Bollinger Bands, Relative Strength Index (RSI) and Stochastic RSI. By analyzing price volatility and momentum, it looks for overbought and oversold conditions in the market to determine the best buying and selling opportunities. The strategy uses 20 times leverage to simulate options trading, sets a 0.60% take-profit level and a 0.25% stop-loss level, and limits only one transaction per day to control risks.

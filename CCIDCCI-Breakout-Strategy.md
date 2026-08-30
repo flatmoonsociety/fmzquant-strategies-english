@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/161da426ec0b2bce95f.png)
+![IMG](assets/images/31a6ae0b04ee12fdae566db57fa5425a9a85505c03363c91f1fd3975607941f8.png)
 [trans]
 ## Overview
 The dynamic CCI breakout strategy is a short-term trading strategy that uses the CCI indicator to identify oversold and overbought conditions. It combines the CCI indicator and the WMA average, going long when the CCI indicator rebounds from the oversold area, going short when the CCI indicator falls back from the overbought area, and exiting after making a profit.

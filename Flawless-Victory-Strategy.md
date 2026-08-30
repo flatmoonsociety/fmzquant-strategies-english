@@ -16,7 +16,7 @@ P.S. You can always pyramid this strategy for more gains! I just don't add pyram
 
 **backtest**
 
- ![IMG](https://www.fmz.com/upload/asset/196cd937cba374aaca1.png) 
+ ![IMG](assets/images/75784453bc7b0f53e2734ba293dbb48990a21c2dc58b09232ac812fd3ab836d7.png) 
 
 > Strategy Arguments
 

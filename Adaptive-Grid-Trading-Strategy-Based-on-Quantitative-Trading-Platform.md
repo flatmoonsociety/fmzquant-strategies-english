@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/fd83e948949e4afe52.png)
+![IMG](assets/images/385143dfe7352f7a2c54cabab877384f9fe8531fa0585f519e1eb9e7026593c0.png)
 [trans]
 ## Overview
 This strategy is an adaptive grid trading strategy based on a quantitative trading platform. This strategy implements grid trading by setting an automatic or manual grid trading range and placing buy and sell orders at equal intervals within the range. When the price breaks through the upper and lower limits of the grid, the strategy will automatically adjust the range of the grid.

@@ -8,10 +8,10 @@ Exodus[strategy ghostwriting]
 > Strategy Description
 
 As in the title:
-![IMG](https://www.fmz.com/upload/asset/1f4d7d7de4354276de970.png)
-![IMG](https://www.fmz.com/upload/asset/1f448a3f706ccc2712c15.png)
-![IMG](https://www.fmz.com/upload/asset/1f43c354a217fb6575477.png)
-![IMG](https://www.fmz.com/upload/asset/1f4073ba260e47fcc5a3c.png)
+![IMG](assets/images/92159f71c595baac479b24ec1543d6d901c8b51940ee7e9d5f67b99f1baf5b30.png)
+![IMG](assets/images/63f42156e205ad2b3dd25f118cf4625323aa46091654402dc50e11f8889bec14.png)
+![IMG](assets/images/9c38e0650164dd3e575a4aab4426a2ff9469a88b14d187445dade16006a53e66.png)
+![IMG](assets/images/2397c4f2b236add87c5373144a45c55aa7aa7b2ee0545d3dc6a9693af480461a.png)
 
 By the way, I will undertake the ghostwriting of strategies.
 

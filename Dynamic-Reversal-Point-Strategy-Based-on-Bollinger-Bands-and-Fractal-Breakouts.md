@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/31029b086f22da1407.png)
+![IMG](assets/images/78e6272fd3e491c10ba0f56c1b60a45f6e9fe324209ca860ef07e6560868fa96.png)
 [trans]
 #### Overview
 This strategy is a dynamic turning point identification system that combines Bollinger Bands and price fractals. It is designed to capture the market's major reversal points and generate trading signals by identifying price breakouts of Bollinger Bands as well as breakouts of important fractal levels. This strategy uses the Bollinger Bands indicator and price fractal theory commonly used in technical analysis to try to find high-probability trading opportunities in volatile markets.

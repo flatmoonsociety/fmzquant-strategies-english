@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1224683d33b3774dbb4.png)
+![IMG](assets/images/ad6c27820e4c7db0c472097231a9fc2b3d989eef6de2937a4650ec3c65ccbd91.png)
 [trans]
 ## Overview
 The name of this strategy is "Momentum Trend", which combines the advantages of the MACD indicator and the Bollinger Bands indicator to implement a trend following strategy. This strategy uses the fast and slow lines of MACD to construct Bollinger Bands, with the middle line of Bollinger Bands being the signal line of MACD. When the price breaks through the upper band of Bollinger Bands, you are bearish; when the price breaks through the lower band of Bollinger Bands, you are bullish. It waits for price correction to test near the middle line of the Bollinger Bands before entering the market to track the mid- to long-term trend.

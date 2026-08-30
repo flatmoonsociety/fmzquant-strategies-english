@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/21bf538abf67daa81fe.png)
+![IMG](assets/images/cc7ee7614e6ab176a5c1b448ad1ac92460728078f4237c8bd4964277577610d6.png)
 [trans]
 ### Overview
 This strategy constructs Bollinger Bands by inputting different types of moving averages to explore more trading opportunities. It provides 12 moving average types that can be flexibly combined to obtain the best parameters.

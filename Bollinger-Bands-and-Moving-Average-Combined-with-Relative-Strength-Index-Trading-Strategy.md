@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/138ad22ffe7ce5ce163.png)
+![IMG](assets/images/bbb1a54b70e05910dcbfe03f493ef2ee889a2467d050017805f9b0e9a4bf60a7.png)
 [trans]
 ## Overview
 This strategy uses three technical indicators: Bollinger Bands, 3-day exponential moving average (EMA) and relative strength index (RSI), combined with their cross signals, to build a complete trading system. When the price breaks through the lower Bollinger Bands, breaks through the 3-day EMA at the same time, and the RSI is below 30, a buy signal is generated; when the price breaks through the upper Bollinger Bands, and falls below the 3-day EMA, and the RSI is above 70, a sell signal is generated.

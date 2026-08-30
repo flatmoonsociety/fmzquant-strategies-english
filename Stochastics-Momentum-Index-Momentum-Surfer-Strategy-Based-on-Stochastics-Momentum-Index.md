@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/150ec8c0936224d3b3c.png)
+![IMG](assets/images/47fc5a79d2779c056bfbb5875518aa2cb8b7f11454fd01b64af65d85679bd5d2.png)
 [trans]
 ## Overview
 This article introduces a strategy for tracking stock trends based on the Stochastics Momentum Index (SMI) indicator. The strategy is called "Momentum Surfer Strategy". It uses the SMI indicator to identify overbought and oversold areas of a stock and buy and sell at trend reversal points to make a profit.

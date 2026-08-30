@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/142383756c3ad2f42e2.png)
+![IMG](assets/images/16c201f0695389730e7f6ff73d23dc30a64fce65ee9409dde6da8aca97697752.png)
 
 [trans]#### Overview
 This is a high-frequency swing trading strategy based on a combination of multiple technical indicators. The strategy combines market signals from multiple dimensions such as exponential moving average (EMA), relative strength index (RSI), trading volume analysis and N-period price pattern identification to find the best entry opportunity in short-term trading. This strategy adopts a strict risk control mechanism and protects the safety of funds by setting stop-profit and stop-loss.

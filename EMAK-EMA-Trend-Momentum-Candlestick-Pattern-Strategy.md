@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/13bde49ebfedf84b135.png)
+![IMG](assets/images/b79e8090a8e1b8920bfe3c452d2ba7fbb6a2601ce108bc391784d75f9bd791a1.png)
 [trans]
 #### Overview
 This strategy is based on the exponential moving average (EMA) and the average amplitude indicator (AO) to determine the market trend direction, and uses K-line patterns to confirm buy signals. The strategy generates a buy signal when the EMA indicates that the market is in an uptrend, the AO indicator is positive, and a bullish engulfing pattern appears. This strategy only goes long, not short. At the same time, the strategy sets stop loss points to control risks.

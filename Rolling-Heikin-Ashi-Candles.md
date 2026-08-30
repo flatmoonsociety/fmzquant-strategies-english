@@ -34,7 +34,7 @@ If you have any recommendations or alternative ideas, then please drop a comment
 
 **backtest**
 
- ![IMG](https://www.fmz.com/upload/asset/ba7841c71467957b1a.png) 
+ ![IMG](assets/images/0a01a12fcab1b19fa127b0ce0dcd40380b3df3a6ad4cab47ce00cd2d37814b54.png) 
 
 > Strategy Arguments
 

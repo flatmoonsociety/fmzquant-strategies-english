@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/13baa6b0fbd1e83e469.png)
+![IMG](assets/images/06347d6cfb79114c7b19ffc66e1b8d899a9dc7fc9820ffede4e70adf3e75fd54.png)
 Based on the provided code, I'll help create an SEO-friendly article analyzing this trading strategy in both Chinese and English.
 
 [trans]

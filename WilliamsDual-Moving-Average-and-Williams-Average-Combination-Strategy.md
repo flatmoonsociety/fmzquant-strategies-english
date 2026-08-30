@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/118aa1ac0b1387b9c46.png)
+![IMG](assets/images/7748b402f7b51c2d220a76f476ca84316a578c1ffa56e40aa72b8a8659588a08.png)
  [trans]
 #### Overview
 This strategy combines a double exponential moving average and three Williams averages to form a comprehensive trend following and trend reversal signal generation system. It has excellent position holding efficiency and can effectively filter out false signals.

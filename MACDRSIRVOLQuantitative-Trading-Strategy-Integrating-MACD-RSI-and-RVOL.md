@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/ee0573842c2dff20c1.png)
+![IMG](assets/images/19cd710a66eae27751cfcaa8112a24824dfa351eebe6edb9e030580a669d413a.png)
  [trans]
 
 This strategy combines the signals of three indicators, Moving Average Convergence Index (MACD), Relative Strength Index (RSI) and Relative Volume (RVOL), to form buy and sell trading signals to discover stock price reversal points and realize automated trading.

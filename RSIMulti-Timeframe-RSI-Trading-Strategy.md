@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/f04e1efd1a2455c27a.png)
+![IMG](assets/images/232681a9c31c62afd9e0ea76545e4775f7fc9dfe7c2242f041a9f68786dd23dd.png)
 [trans]
 ## Overview
 The multi-time frame RSI trading strategy is a comprehensive trading tool that uses the Relative Strength Index (RSI) on three different time frames: 15 minutes, 1 hour, and 4 hours. This strategy helps traders identify shifts in momentum and trend by comparing RSI values ​​on these three time frames.

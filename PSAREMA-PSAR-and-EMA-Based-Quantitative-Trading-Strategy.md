@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/af36c777cac4d4a651.png)
+![IMG](assets/images/6e38eaaba86ae2c9645a1107129ac468e5b0d22e82d874c378fe05a57e3e9b24.png)
 [trans]
 #### Overview
 This quantitative strategy mainly uses the cross signals of the Parabolic SAR indicator (PSAR) and the exponential moving average (EMA), combined with multiple custom conditions, to generate buy and sell signals. The main idea of ​​the strategy is: when PSAR breaks through EMA from below and meets certain conditions, a buy signal is generated; when PSAR falls below EMA from above and certain conditions are met, a sell signal is generated. At the same time, this strategy also sets take-profit and stop-loss levels to control risks.

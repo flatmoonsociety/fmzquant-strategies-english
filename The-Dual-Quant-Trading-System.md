@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/f530326709a9a1a89d.png)
+![IMG](assets/images/f4d97f463ec5f9807dd5938218b00f58e397c01bfcb6fffff6d9a4de26a6c595.png)
 [trans]
 
 This strategy is a composite trading system that combines the CCI indicator, the RSI indicator, and two moving averages. This system captures regular trends while filtering out some of the noise by using crossovers on the RSI indicator to add confirmation to entry opportunities.

@@ -14,7 +14,7 @@ Use settings 100,3
 
 **backtest**
 
- ![IMG](https://www.fmz.com/upload/asset/b303f4beec16df6188.jpg) 
+ ![IMG](assets/images/14cf817f8325fb93a784c776a4f8bd933156e4ff77249cb622af105ecedadbd3.jpg) 
 
 > Strategy Arguments
 

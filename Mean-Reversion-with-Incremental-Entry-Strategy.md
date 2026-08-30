@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1d4d55de4742fc476d7.png)
+![IMG](assets/images/89af2806b2e3cad48f3c02ae4bf289f24b359c176143dc8197e0b3372bb5fc12.png)
 [trans]
 ## Overview
 The mean reversion progressive opening strategy is an advanced quantitative trading strategy script designed by HedgerLabs, focusing on mean reversion technology in financial markets. This strategy is aimed at traders who prefer a systematic approach and emphasizes the gradual opening of positions based on price relative to moving averages.

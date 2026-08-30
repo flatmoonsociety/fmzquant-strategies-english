@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/14b4a54ed4b82dac4d9.png)
+![IMG](assets/images/6a8270a6d869efe173839fd9004d27e41e9d4c1464f35b3aaf8b8787b58abac8.png)
 [trans]
 ## Overview
 The main idea of ​​this strategy is to combine two different types of strategies, the 123 Reversal Strategy and the Absolute Price Volatility Indicator, to obtain a comprehensive signal. Specifically, if both strategies send out long signals, the final strategy signal is 1 (go long); if both strategies send out short signals, the final strategy signal is -1 (short); if the signals of the two strategies are inconsistent, the final strategy signal is 0 (do nothing).

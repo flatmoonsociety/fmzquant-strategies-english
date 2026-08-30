@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/168bd982863a02b9c83.png)
+![IMG](assets/images/2b036d4652b33997674fdf1cfe37da6ddbef80e429db4615e1f60516bde92cbb.png)
 [trans]
 #### Overview
 This strategy uses the slope of linear regression to identify different market states (bullish or bearish). By calculating the slope of a linear regression of closing prices over a period of time, the direction and strength of a market trend can be measured. When the slope is greater than a certain threshold, the market is considered bullish and the strategy enters a long position; when the slope is less than a negative threshold, the market is considered bearish and the strategy enters a short position. The strategy closes the position when price crosses the simple moving average (SMA), indicating a possible reversal or trend change.

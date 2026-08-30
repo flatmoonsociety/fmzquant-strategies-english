@@ -14,7 +14,7 @@ He can solve the fake signals of RSI Oscillator by adopting OTT on the indicator
 Those who don't know OTT can search in indicators.
 
 **backtest**
- ![IMG](https://www.fmz.com/upload/asset/161da421e1b62c9e45f.png) 
+ ![IMG](assets/images/cd5bbef77ab0b8c4a47297d9be116b459389882ccd59b28aa43a38b11166c790.png) 
 
 > Strategy Arguments
 

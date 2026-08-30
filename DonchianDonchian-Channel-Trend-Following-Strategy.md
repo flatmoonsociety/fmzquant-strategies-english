@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/9553e0221d1519141a.png)
+![IMG](assets/images/ce9179e33ecace0cbf1b437c3089be907eac5b188bbf474cefad8d497c6a92c0.png)
  [trans]
 ## Overview
 The Donchian Channel Trend Following Strategy is a trend following strategy based on the Donchian Channel indicator. It uses Donchian channels of varying lengths to identify price trends and generate trading signals when price breaks out of the channel.

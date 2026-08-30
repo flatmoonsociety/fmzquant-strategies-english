@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/8b06448b5c67a5f55d.png)
+![IMG](assets/images/e15342b1500fe7ab4042833ff31f1e8e2f18f73f423698623c2ccdabe12d13d7.png)
 [trans]
 ### Overview
 The polynomial trailing stop strategy is a strategy with a polynomial functional form of trailing stop. This strategy enters at the intersection of a simple sliding closing candle. When entering, the minimum value of the entry period is fixed. After entering the market, activate the trailing stop loss in the form of minimum value + D\*N^a, where the minimum value is the fixed period minimum value at the time of entry, D is the retreat value, N is the number of K lines during the position period, and a is the degree of the polynomial. When the trailing stop loss crosses the closing price of the K line from bottom to top, the position is closed.

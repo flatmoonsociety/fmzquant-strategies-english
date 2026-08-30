@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/151e8cb1d61c21d2841.png)
+![IMG](assets/images/30a3685aa74450a34769d48956a6c18d53a8488f83fc714538a133b1fe448ca9.png)
 [trans]
 ## Overview
 This is a very simple trend following strategy. It will go long when a long fair price difference occurs, and close or go short when a short fair price difference occurs. It does not perform well in consolidation conditions, but can make very generous profits in trending conditions.

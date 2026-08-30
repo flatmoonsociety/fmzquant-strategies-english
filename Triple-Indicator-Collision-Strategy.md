@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1a897bb05ba5579fce9.png)
+![IMG](assets/images/9acd0a44560e0b4b5857c19bf3ff91b4defdbf4ec4215d5195a4a7910467f7b9.png)
 [trans]
 ## Overview
 Triple Indicator Collision Strategy is a very classic quantitative trading strategy. It uses a combination of three classic technical indicators, the moving average, MACD indicator and RSI indicator. When the three have buy or sell signals at the same time, corresponding trading operations are performed.

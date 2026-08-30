@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1987da75c0546aefff3.png)
+![IMG](assets/images/969219fea12e5f8432f0095a9ce481a7de1b33ee452fabbb59f45e6aae4bc67a.png)
  [trans]
 ## Overview
 The name of this strategy is "Double Indicator Progressive DCA Strategy". It constructs trading signals based on the two indicators Bollinger Bands and Relative Strength Index (RSI), and uses a gradual increase in positions for risk management. The main idea is to capture the trend in a bull market and use indicators to construct long signals; while in a downtrend, use the progressive DCA strategy to reduce costs.

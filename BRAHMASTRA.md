@@ -26,7 +26,7 @@ The older line will remain until the new one comes through of same type. Hence, 
 
 **backtest**
 
- ![IMG](https://www.fmz.com/upload/asset/973700b783234a7238.png) 
+ ![IMG](assets/images/01563ade3cfcbfeb70a8b29f56724469249e30020a0339ae98c0d3d1232f18a2.png) 
 
 > Strategy Arguments
 

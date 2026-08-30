@@ -18,7 +18,7 @@ I have also added Golden Cross Over of 65 and 21 EMA to have confirmation on tre
 
 **backtest**
 
- ![IMG](https://www.fmz.com/upload/asset/16a556b7d23bb5b20ed.png) 
+ ![IMG](assets/images/f0a9b3eae521fdd39800ca2aef20c9eae924cb88f8de3bc7a7d8be7588608c8b.png) 
 
 > Strategy Arguments
 

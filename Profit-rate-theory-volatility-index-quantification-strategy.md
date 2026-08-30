@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/f6b8c4d85b70f1b616.png)
+![IMG](assets/images/f4873798a64a22c4082440ad11462fee65f55ca148d2b4f8f88e01a05094425f.png)
 [trans]
 #### Overview
 This strategy uses the technical indicator rating method to dynamically select the timing of buying and selling by comparing it with the moving average. The strategy includes two directions: long position and short position, which can be customized to open or close. The strategy is friendly to low-risk long-term position trading.

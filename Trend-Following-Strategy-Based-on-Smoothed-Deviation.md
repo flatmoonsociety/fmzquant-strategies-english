@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/15fe7902ea1b0bbb750.png)
+![IMG](assets/images/f964178e21dc9a614f8f8b461b0862f9a66994f9acb0c9871de0d090490374bb.png)
 [trans]
 ## Overview
 This strategy is an indicator strategy that uses short-term highs and lows and the average difference between short-term and long-term average costs to determine trends. The strategy aims to increase short-term sensitivity and reduce the loss of consolidation by increasing the mean smoothing function before and after, so as to reduce small losses during consolidation while maintaining large profits when bands appear.

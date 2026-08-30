@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/161c5c898c285efbf74.png)
+![IMG](assets/images/83c5e00934b308c445c7d353982ad00ad71373d0ea47bdfb34070277873910be.png)
 [trans]
 ### Overview
 This strategy calculates the highest and lowest prices of the recent N K-lines, combines them with moving average indicators, and sets double breakthrough conditions to achieve a trading strategy of buying low and selling high.

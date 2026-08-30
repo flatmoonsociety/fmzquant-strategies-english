@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/e21de1a4252bdfdf9d.png)
+![IMG](assets/images/198ec567ffddf333b1baaa8d380d4fec3ead823d6a225032b699649459d456a2.png)
  [trans]
 ## Overview
 This strategy uses two moving average indicators to identify trend direction and long and short opportunities. Among them, the slow moving average (blue line) is used to determine the overall trend direction, and the fast moving average (red line) is combined with the price channel to find long and short opportunities.

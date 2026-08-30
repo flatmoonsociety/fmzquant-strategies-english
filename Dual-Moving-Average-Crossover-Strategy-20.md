@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/600348a9f53c14dc35.png)
+![IMG](assets/images/9c74e561f3ca5b744a13e99ab634d69d4ba98416093eb4caabc83f74bc480ab6.png)
 [trans]
 #### Overview
 The double moving average crossover strategy is a common quantitative trading strategy. This strategy uses two moving averages of different periods as buying and selling signals. Buy when the short-term moving average crosses the long-term moving average, and sell when the short-term moving average crosses below the long-term moving average. The strategy code supports a variety of common moving average types, such as simple moving average (SMA), exponential moving average (EMA), double exponential moving average (DEMA), triple exponential moving average (TEMA), weighted moving average (WMA) and volume weighted moving average (VWMA), and can flexibly set the periods of short-term moving averages and long-term moving averages. At the same time, this strategy also supports selecting different price types to calculate moving averages, such as closing price, highest price, opening price, lowest price, typical price and middle price.

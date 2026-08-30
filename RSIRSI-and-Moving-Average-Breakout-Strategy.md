@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/19c78e00dcb443de6fc.png)
+![IMG](assets/images/a69965181100a18726ee5bb957384215d76193b6dd1d617030287f8dc59a1d54.png)
  [trans]
 #### Overview
 The double RSI moving average breakthrough strategy is a quantitative strategy that uses both RSI indicators and moving average indicators to judge trading opportunities. The core idea of ​​this strategy is to use the direction of the moving average to filter signals when the RSI indicator reaches the overbought and oversold area, and find better breakthrough points to build a position.

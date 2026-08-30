@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/10d6d9c2956474bb678.png)
+![IMG](assets/images/aeb8cf21441699f4218cdf0fc4ed4f14cdf2afa0e0d210fabe6f4ad0c260e624.png)
  [trans]
 ## Overview
 This strategy is a momentum trading strategy based on moving average crossovers. It uses two exponential moving averages (EMA) with different periods to identify buy and sell signals. When the fast EMA line crosses the slow EMA line from below, a buy signal is generated; when the fast EMA line crosses the slow EMA line from above, a sell signal is generated.

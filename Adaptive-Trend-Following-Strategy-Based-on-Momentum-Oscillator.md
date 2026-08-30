@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/730f0e1fe6055b543c.png)
+![IMG](assets/images/3853c58c823d49c9112b706254156118be06240f05fe096bb667a2bf251775c0.png)
 
 
 [trans]This strategy is a trend following trading system based on the Chad Momentum Oscillator (CMO). This strategy uses the calculation and analysis of price momentum to find buying opportunities in oversold areas and selling opportunities in overbought areas, while managing risks by combining position limits with time limits. This method can not only capture price reversal opportunities, but also avoid frequent trading in volatile markets.

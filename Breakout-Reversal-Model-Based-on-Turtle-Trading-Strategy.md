@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/731a9bb78d8cbc4e31.png)
+![IMG](assets/images/880fb05613ca35482da96dee9c25059b1c4fe9e9c6011fc48fa42ccd6300316e.png)
  [trans]
 ## Overview
 This strategy is based on the famous "Turtle Trader Strategy" which has been proven for many years. It sends long and short position signals and can pyramid orders up to 5 times, which means the strategy can trigger up to 5 orders in the same direction. Have good risk and money management.

@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1206e91f096b7b7e78a.png)
+![IMG](assets/images/ddb0fabea6e65a4eb736fdff1edbe1939aa68cdb5a708ed46d8de6e3fc6ab7cf.png)
 [trans]
 ## Overview
 Super Trend Daily Reversal Strategy is a quantitative trading strategy that uses super trend indicators to determine market trends, calculates stop losses based on price breakthroughs and average true fluctuation ranges, and uses price change rate indicators to filter super trend signals. This strategy is suitable for daily and higher time periods, and can be used in markets such as digital currencies and stocks.

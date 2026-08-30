@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/deb2c8f31adb212a04.png)
+![IMG](assets/images/1f6165781f81e6c145da7f4e2bd0df5c8159c5056fbadcdeeaea90da93a69de0.png)
  [trans]
 ## Overview
 This is a quantitative trading strategy that uses the RSI indicator to determine trends and set stop loss and take profit. This strategy combines the RSI indicator to determine the market trend direction, and sets dynamic stop-loss and take-profit to lock in profits and minimize risks.

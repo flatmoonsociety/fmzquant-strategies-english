@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/12831738e6774d479cf.png)
+![IMG](assets/images/07f83ce4ea3ccec588d11a03d42842053423fac866f1d8e8dc6e0956c12545d1.png)
 
 [trans]#### Overview
 This is a quantitative trading strategy that combines a multi-period simple moving average (SMA) crossover and a volatility filter. This strategy utilizes the crossover of short-term and long-term SMAs to generate trading signals, while using the Average True Range (ATR) indicator as a volatility filter to reduce false signals. The strategy also includes dynamic stops and fixed profit targets based on the 200-day moving average, aiming to optimize risk management and improve profitability.

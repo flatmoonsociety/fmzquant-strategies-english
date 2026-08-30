@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/be8b09ea92ad0a690b.png)
+![IMG](assets/images/f609ef78608828a964ae5322e67e422f33a369ba1887d486feb0069218e95042.png)
 [trans]
 ## Overview
 This strategy forms an adaptive fluctuation range by calculating the highest and lowest values ​​of trading volume in a certain period recently, and generates a trading signal when the trading volume of the current period breaks through the range. The signal direction is judged based on the candlesticks, which is a simple and effective strategy for tracking sudden large orders in the market.

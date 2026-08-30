@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/154479f180b6cfe05e5.png)
+![IMG](assets/images/7645df1cb11c2054e770cc07c03eac67c091ca131074247438a3c43182c6ec89.png)
 [trans]
 ## Overview
 This strategy combines the MACD momentum indicator and the DMI trend indicator to perform long operations when conditions are met. Its exits set a fixed take-profit and a custom volatility trailing stop to lock in profits.

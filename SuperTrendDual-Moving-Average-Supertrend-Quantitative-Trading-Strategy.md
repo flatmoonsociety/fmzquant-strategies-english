@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/df20367480981f1e97.png)
+![IMG](assets/images/120507a71c3d98fa371b4ec2552205508cb1ac993ba1e5dcefef0432d1540ee5.png)
 [trans]
 ## Overview
 This strategy comprehensively uses the two indicators of double moving average and SuperTrend to construct trading signals, and combines different cycles to determine the trend direction to achieve efficient profits.

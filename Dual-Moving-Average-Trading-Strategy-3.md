@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/164854fcc7ef77fc2b7.png)
+![IMG](assets/images/22871542b596aa9d803d0febbf04e124e5f14079d1f23c9f313bff608a4ad9ed.png)
 [trans]
 ## Overview
 This strategy uses dual moving averages to form trading signals. When the short-term moving average crosses the long-term moving average, a buy signal is generated; when the short-term moving average crosses below the long-term moving average, a sell signal is generated. This strategy combines the trend tracking function of moving averages to effectively capture price trends and achieve trend trading.

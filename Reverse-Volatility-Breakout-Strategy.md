@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/ab198bc8452d91636a.png)
+![IMG](assets/images/fe1e1e85f00efc93326e2c201a4d0439f700461941e122549bce3c61b7f70d29.png)
 [trans]
 #### Overview
 The Inverse Volatility Breakout Strategy is a reversal trading strategy that uses multiple technical indicators such as ATR, Bollinger Bands, RSI, and MACD to identify extreme states in the market and trade when a reversal signal appears in the market. Unlike traditional breakout strategies, this strategy attempts to capture market reversal opportunities by selling when bullish signals appear and buying when bearish signals appear.

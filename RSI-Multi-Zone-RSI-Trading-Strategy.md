@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/be2d0b8f0a05bacc69.png)
+![IMG](assets/images/b38c1ef00d8cec1a824c9b69d04d34ceb773488d241109206f41780d32a087f9.png)
 
 [trans]#### Overview
 The RSI Multi-Range Trading Strategy is an automated trading system based on the Relative Strength Index (RSI), designed for 5-minute charts. This strategy triggers buy and sell signals of different strengths by dividing multiple RSI ranges, and combines take-profit and stop-loss mechanisms to manage risk. This approach allows traders to flexibly adjust positions based on how overbought and oversold the market is, potentially capturing short-term price movements in volatile markets.

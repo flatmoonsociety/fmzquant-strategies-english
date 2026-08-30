@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/13bf888b86b127f3e1b.png)
+![IMG](assets/images/9d8e91bb860d41dcb32d10d9d775732417deae7f3a4852b8ab9bca8096f1b63b.png)
  [trans]
 ## Overview
 The moving average crossover strategy is a trading strategy based on the crossover of two moving averages (fast moving average and slow moving average). When the fast moving average breaks above the slow moving average, take a long position (buy). On the contrary, when the fast moving average falls below the slow moving average, close the previous long position.

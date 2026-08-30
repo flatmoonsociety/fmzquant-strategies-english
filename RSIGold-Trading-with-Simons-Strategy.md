@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1abadaedd287e365fd6.png)
+![IMG](assets/images/b0a253a586e752851cd074fe2ac2aaddca90359d58cb9efc2f9d0648eb9d7363.png)
 [trans]
 ## Overview
 This strategy combines moving average indicators, relative strength index (RSI) and engulfing patterns to perform long and short two-way operations in gold trading. Among them, the intersection of the 21-day line, the 50-day line and the 200-day line is used as the main trading signal. The RSI indicator and the engulfing pattern assist in filtering the signals to further optimize the market entry point.

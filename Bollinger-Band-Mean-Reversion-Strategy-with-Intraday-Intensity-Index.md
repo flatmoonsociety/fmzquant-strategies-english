@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1adbd6b1688a3aa7fc8.png)
+![IMG](assets/images/196dd51cc58c1851c60ec167fbaa3ec931faf1dd1cd73943241661c9dd9bc3be.png)
 [trans]
 ## Overview
 This strategy is a mean reversion strategy based on Bollinger Bands and intraday strength index. It uses the price to break through the upper and lower rails of the Bollinger Bands, and combines the intraday strength index of the trading volume indicator to determine the timing of entry. The strategic advantages include: using the average price regression characteristics to make profits, and combining the volume and energy indicators to filter signals. However, there are also risks such as large retracement and long profit time.

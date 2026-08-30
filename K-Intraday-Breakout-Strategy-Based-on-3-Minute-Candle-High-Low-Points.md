@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/12772965f126061f98d.png)
+![IMG](assets/images/28bdc2befd58bab1e289fdc611ff9870f6a4e010c814a643b54f47a3b93b178e.png)
 [trans]
 #### Overview
 The main idea of this strategy is to use the high and low points of the three-minute K-line as the breakthrough point. When the price breaks through the high point of the three-minute K-line, go long and when it breaks through the low point, go short. This strategy is suitable for intraday trading, where you close your position at the close of each day and continue trading the next day. The advantage of this strategy is that it is simple to understand, easy to implement, and the risk is relatively low. However, this strategy also has some risks. For example, when the market fluctuates greatly, there may be a large retracement.

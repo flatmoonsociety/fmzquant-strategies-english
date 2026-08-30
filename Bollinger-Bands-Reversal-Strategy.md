@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/200e63f721bf03311f2.png)
+![IMG](assets/images/51e68a2cbe407c7a27d0bc3c1c1e42eca511e0e02892cf768097267d4e2d6e24.png)
 [trans]
 ### Overview
 The Bolfour Repeating Sonar Strategy is a quantitative trading strategy based on Bolfour Bands. This strategy uses the price range between the upper and lower Bolfour Bands to determine the range of market fluctuations and identify potential entry and exit opportunities.

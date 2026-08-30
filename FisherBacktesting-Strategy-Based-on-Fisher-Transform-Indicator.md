@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/13b72c93fcdd62b09a1.png)
+![IMG](assets/images/83ea362e927de981df5c6bc5eba86bd19b9aff80a4414daf15cd3b600c26aa3b.png)
  [trans]
 ## Overview
 This strategy is a backtesting strategy based on the Fisher Transform indicator. The Fisher transformation formula can convert price data into a normal distribution and is used to identify price extreme points and turning points. This strategy combines the Fisher Transform indicator to determine price trends and realize automated trading.

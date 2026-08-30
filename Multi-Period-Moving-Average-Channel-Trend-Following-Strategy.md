@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/151c4cd44f373181065.png)
+![IMG](assets/images/31824de1ec16be166cfb2f19b52e202c307b00a0775d23486200d35b5ef0af02.png)
 [trans]
 ## Overview
 This strategy is a swing strategy suitable for trending markets like cryptocurrencies and stocks, using larger time frames such as 8 hours. This strategy uses a variety of moving averages including SMA, EMA, VWMA, ALMA, SMMA, LSMA and VWMA, applied to highs and lows respectively to form two moving average channels.

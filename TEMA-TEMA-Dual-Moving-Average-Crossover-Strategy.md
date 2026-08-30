@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/d14b0a0c9737d4ca5e.png)
+![IMG](assets/images/62a9c81c462193799d7c075025438c51e255280251b03ce018d6001703ef2d58.png)
 [trans]
 #### Overview
 The TEMA double moving average crossover strategy is a quantitative trading strategy based on the crossover signals of two triple exponential moving averages (TEMA) with different periods. This strategy compares the relative positions of the two TEMA lines. When the short-term TEMA line crosses the long-term TEMA line, it opens a long position. When the short-term TEMA line crosses below the long-term TEMA line, it opens a short position. When the opposite cross signal appears, it closes the position. This strategy is suitable for capturing short-term trends in volatile markets.

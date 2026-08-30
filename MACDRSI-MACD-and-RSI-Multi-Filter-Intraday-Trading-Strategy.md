@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/12f27fc362342bb46e0.png)
+![IMG](assets/images/1d592496894d8cc7be9f2dd5baf7cb05bbef5be34c230f4d6b51b168974ee908.png)
 [trans]
 #### Overview
 This strategy combines MACD (Moving Average Convergence Divergence Indicator), RSI (Relative Strength Index), and SMA (Simple Moving Average) to generate reliable buy and sell signals. MACD is used to capture momentum changes in price, RSI is used to identify overbought and oversold conditions, and SMA is used to confirm trend direction. This strategy filters through multiple conditions to reduce false signals and provide clear entry and exit points for intraday trading.

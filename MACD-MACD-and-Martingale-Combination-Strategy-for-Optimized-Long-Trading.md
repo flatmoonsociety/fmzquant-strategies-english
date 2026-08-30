@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1388740a4e4c9170c89.png)
+![IMG](assets/images/36f363933074725df921e3ac0935b36a5efca351e45e548f789e98697452da7f.png)
 [trans]
 #### Overview
 This strategy combines the MACD indicator with the Martingale money management method and is designed to optimize long trades. The strategy determines buy and sell signals by comparing the relative positions of the MACD line and the signal line, as well as the proportional relationship between them. At the same time, the strategy uses the Martingale method to dynamically adjust the contract size in order to achieve profits by increasing the order volume when losing money. The main advantage of this strategy is the ability to capture strong uptrends and improve profitability through the Martingale method. But at the same time, the strategy also has certain risks. If you suffer continuous losses, you may face a larger retracement.

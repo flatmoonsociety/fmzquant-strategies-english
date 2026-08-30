@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/9555b98989b968a618.png)
+![IMG](assets/images/be735192792297ae7a8daa46b40e52942824c5f91f09bdf225794e59076a1097.png)
 [trans]
 ### Overview
 The EMA golden cross trading strategy calculates EMA moving averages of different periods and determines their crossover situations to issue buy and sell signals. When the short-period EMA crosses above the long-period EMA, a buy signal is generated; when the short-period EMA crosses below the long-period EMA, a sell signal is generated.

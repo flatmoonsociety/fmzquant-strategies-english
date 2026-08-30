@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/3807bba29b6e483809.png)
+![IMG](assets/images/29b9056fee703cc3298454c26298eb957bea5dc43a55d179f782e489ce3662d4.png)
 [trans]
 ## Overview
 This strategy is built on two indicators: RVI (Relative Strength Index) and EMA (Exponential Moving Average). It makes profits at RVI, goes long on the fast EMA above the slow EMA, and goes short on the slow EMA above the fast EMA, realizing a quantitative trading strategy based on trends and overbought and oversold.

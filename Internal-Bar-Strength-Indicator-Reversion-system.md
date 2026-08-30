@@ -9,7 +9,7 @@ ChaoZhang
 
 > Strategy Description
 
- ![IMG](https://www.fmz.com/upload/asset/1a2cd8db82624108cad.png) 
+ ![IMG](assets/images/dd52a34124c0df958cd6d5ef6bae72ad9083bf5ffb04755d7431c69168ed95a0.png) 
 It looks like you're using Pine Script to set up a trading strategy with conditions based on the Internal Bar Strength (IBS) indicator. 
 
 To explain the code:

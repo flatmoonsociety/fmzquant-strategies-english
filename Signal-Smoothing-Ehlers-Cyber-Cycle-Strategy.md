@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1dde5a01f9678b104d0.png)
+![IMG](assets/images/ec3e45a49e142d9f2ef33666303977f7a7d70bc127d3414e7cdfea17cfcd09cb.png)
 [trans]
 ## Overview
 This strategy calculates the smoothed price signal and combines it with the cycle indicator theory proposed by Ehlers to design an Ehlers cycle trading strategy with smooth trading signals. This strategy can effectively filter market noise and generate more reliable trading signals.

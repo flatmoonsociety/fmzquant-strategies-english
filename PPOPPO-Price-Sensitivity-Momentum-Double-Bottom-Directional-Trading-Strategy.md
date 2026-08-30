@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1554ffdb55cfa9075de.png)
+![IMG](assets/images/2719b592da743a893c7bf247c9f00240bc253584249a3cfc1183b72e875057f7.png)
  [trans]
 ### Overview
 The PPO price-sensitive momentum double bottom directional trading strategy is a trend-following trading strategy that uses price-sensitive momentum indicators to identify the formation of price double bottoms. It combines the double bottom formation judgment of the PPO indicator and the price momentum characteristic judgment to achieve precise positioning of the price double bottom reversal point, thereby generating trading signals.

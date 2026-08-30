@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/52039180b6aa7fb627.png)
+![IMG](assets/images/306adddaf34a27c69bbddd6d3ffe1f40e2bce940dd0d4f7a4b3e9d855838a411.png)
 [trans]
 ## Overview
 This strategy uses Bollinger Bands, RSI, ADX, MACD and other indicators to judge market trends, and has strong trend identification capabilities. When the indicator signals are bullish at the same time, adopt a chasing strategy; when the indicator signals are bearish at the same time, close the position and stop the loss.

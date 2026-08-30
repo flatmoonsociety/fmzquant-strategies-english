@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1435b49f70c6d07d1c0.png)
+![IMG](assets/images/2e176ed63428dd10069a285e2cddf5f59aafb9c25a01ba3996402e1684b6e72e.png)
 [trans]
 ## Overview
 The double bottom reversal moving average DCA grid strategy mainly uses moving average price reversal and DCA strategies to realize the gradual establishment of positions on the grid. It identifies reversal opportunities based on double bottom reversal patterns. Once the reversal pattern is triggered, use multiple orders with different prices and combine with DCA to establish a gradual grid position.

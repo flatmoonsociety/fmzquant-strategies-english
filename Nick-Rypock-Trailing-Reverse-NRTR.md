@@ -20,7 +20,7 @@ A dynamic price channel is used to calculate the NRTR. The calculations involve 
 
 **backtest**
 
- ![IMG](https://www.fmz.com/upload/asset/105233670b8ab608dba.png) 
+ ![IMG](assets/images/c0e38dc61888d7710a0fdb4ac54181483f02b80ca3fdb83443afc862cb680903.png) 
  
  
 

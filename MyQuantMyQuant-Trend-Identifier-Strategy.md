@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1094193357ee718bba0.png)
+![IMG](assets/images/014e1fbe90db34539788a7bebc50707edd3aa33bf4cceeee38c27ae2baaff75c.png)
 [trans]
 ## Overview
 MyQuant Trend Identification Strategy is a strategy for daily trading of Bitcoin. This strategy identifies market trends by calculating the moving average of price and its first and second derivatives, and makes buy and sell decisions accordingly.

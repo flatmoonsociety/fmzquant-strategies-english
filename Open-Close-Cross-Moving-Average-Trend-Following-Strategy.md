@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/11069e8c2ab999ac67f.png)
+![IMG](assets/images/084a16ebe68c579349155af8e0710e630e2ce259123023304a9597937d25649a.png)
 [trans]
 ## Overview
 The Open Close Cross Moving Average Trend Following Strategy is a trend following strategy based on moving averages. This strategy determines the current market trend by calculating the moving average of the opening price and closing price; when the moving average of the closing price crosses the moving average of the opening price, go long; when the moving average of the closing price crosses the moving average of the opening price, go short. This strategy also sets a trailing stop loss to lock in profits, which can effectively control risks.

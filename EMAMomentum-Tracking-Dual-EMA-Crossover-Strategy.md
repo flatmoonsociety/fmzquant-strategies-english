@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/3a0238bbd49c3c1110.png)
+![IMG](assets/images/c846a05a6ddfcbfc75960a271a478b0ee6dca23acb05ffc11625f65cca4be47d.png)
 [trans]
 ## Overview
 This strategy is a trend-following algorithmic trading strategy that calculates two EMA moving averages with different parameters and sends trading signals when the moving averages Golden Cross (Golden Cross) and Death Cross (Death Cross) occur. This strategy combines multiple EMA moving averages for profit exit and sets stop loss points to control risks.

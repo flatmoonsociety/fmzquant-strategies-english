@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/155d164b06a893f145c.png)
+![IMG](assets/images/f3c66624c78301d49b6b5c83231d27978ec8de1ac0db4ea3562819eca4863a46.png)
 [trans]
 ## Overview
 This strategy uses a combination of Cloud Extension, Moving Average Convergence Index (MACD) and Trend Index (DMI) signals on multiple time frames to identify potential buying and selling opportunities. It is intended to serve as a reference for traders who wish to examine the market from both short and medium term perspectives.

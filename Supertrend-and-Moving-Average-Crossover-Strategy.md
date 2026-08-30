@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/ec391f92b96cd49e8b.png)
+![IMG](assets/images/7cfcbd0c818168864a6ca1ea3d89a55d730f44e3c72688e7a9753bff8f30ba60.png)
 [trans]
 ## Overview
 The name of this strategy is "Super Trend and Moving Average Combination Strategy". This strategy combines the supertrend indicator and the moving average, going long when the supertrend indicates an upward trend and the 10-day EMA is above the 20-day SMA, and shorting when the supertrend indicates a downward trend and the 10-day EMA is below the 20-day SMA. It is a typical trend following strategy.

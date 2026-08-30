@@ -10,7 +10,7 @@ Inventor Quantification-Little Dream
 ## Deribit Options Test Strategy
 Test code, test option opening, closing, placing and canceling orders, obtaining market data, etc.
 The Deribit test environment is used for the actual disk. You can delete the ```exchange.IO("base", "https://test.deribit.com")``` ​​lines of code.
-![IMG](https://www.fmz.com/upload/asset/1705e6bb63a19de89463.png) 
+![IMG](assets/images/cd48651e6922e94c6c1b3324416f499c885dc0825955e79cdbd2e3b14d756183.png) 
 
 
 

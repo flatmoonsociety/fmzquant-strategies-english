@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/8b2f49adf533f4fa34.png)
+![IMG](assets/images/698baa82f6af6e78d33c05e1aba03d5d0f92e32b10fb5b35c636a2a79ac56aa6.png)
 [trans]
 ## Overview
 The two-pronged quantitative reversal tracking strategy uses a combination of simple moving average indicators and stochastic indicators to achieve an efficient and stable short-term trading strategy that can capture rapid market reversals while reducing the opportunity cost caused by missed signals.

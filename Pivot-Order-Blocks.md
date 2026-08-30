@@ -32,7 +32,7 @@ Feel free to use the script, If you do use the script could you please just tag 
 
 **backtest**
 
- ![IMG](https://www.fmz.com/upload/asset/133eb5003e76e3f0820.png) 
+ ![IMG](assets/images/cc06856d06278148696da3be0b7ee457ac9bf8f3721912e4221d17f8c572e09b.png) 
 
 > Strategy Arguments
 

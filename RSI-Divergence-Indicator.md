@@ -16,7 +16,7 @@ Works really well with an AO div detector.
 
 
 **backtest**
- ![IMG](https://www.fmz.com/upload/asset/b669f9b16c24fa7825.png) 
+ ![IMG](assets/images/fb9d7e69e4b6184ffa9191534c237fab39a6d5d068d2f4ffaf80e063362bd053.png) 
 
 > Strategy Arguments
 

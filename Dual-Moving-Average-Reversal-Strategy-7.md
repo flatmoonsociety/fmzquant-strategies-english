@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/f75c2cfe80a4a1e673.png)
+![IMG](assets/images/e4f33c31ff9e379ee19c333c56fab277450ada55d40eef97de5f3a9de05e372b.png)
 [trans]
 ## Overview
 This strategy mainly uses the golden cross and death cross formed by the simple moving averages on the 14th and 28th for reversal operations. When the fast moving average breaks through the slow moving average from below, it indicates that the market has begun to reverse, and a long position can be established; when the fast moving average falls from above and breaks through the slow moving average, it indicates that the market has begun to reverse, and a short position can be established.

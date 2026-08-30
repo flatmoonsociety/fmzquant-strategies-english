@@ -12,11 +12,11 @@ For example, if you run a spot grid or Martin strategy with multiple trading pai
 Just use this, enter the currency into the parameters, and all the market prices will be automatically sold.
 However, sometimes after selling out, there will still be assets with a valuation less than 0.0012 BTC. At this time, you need to use [Small Assets Exchange for BNB] in the spot wallet.
 In other words, if you have BNB, it is best to sell it at the market price.
- ![IMG](https://www.fmz.com/upload/asset/59622a6123c4e006c00e.png) 
+ ![IMG](assets/images/6e30d142777fd4f4ca5e4fe3b8b08a2e7ef2f74728857a1f0bc12822ea459fc9.png) 
  
- ![IMG](https://www.fmz.com/upload/asset/5a004355bd61ce2b0d93.png) 
+ ![IMG](assets/images/f9f464424c2a211309cbdb6ccd7b368af71e445586401973ad2d91f5c946279c.png) 
  
-  ![IMG](https://www.fmz.com/upload/asset/5a3ccbbe2eb4ff9bee47.png) 
+  ![IMG](assets/images/bb023b197e3e09b4194055aa1ae52a9bc072b73916850f8f1224f434eb4e3868.png) 
 
 > Strategy Arguments
 

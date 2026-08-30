@@ -23,7 +23,7 @@ This post and the script don’t provide any financial advice.
 
 **backtest**
 
- ![IMG](https://www.fmz.com/upload/asset/dd1ae65fe62a72b29b.jpg) 
+ ![IMG](assets/images/3d66a8ffa008eeba2f608a027f4592bb54f04bd259d5ea24419dd71b3de90bc5.jpg) 
 
 > Strategy Arguments
 

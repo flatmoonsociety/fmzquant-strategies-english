@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/138f66f65f6b344bb1a.png)
+![IMG](assets/images/e960395a6c83bd703a54eba4bcaaaff4838ca69f175417b342bd9e4f78f208f9.png)
 [trans]
 ## Overview
 This strategy is a quantitative trading strategy based on moving average crossovers to determine the direction of the market trend and track the trend. This strategy uses the intersection of multiple sets of simple moving averages with different parameters to determine the buying and selling time points.

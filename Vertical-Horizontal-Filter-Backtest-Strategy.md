@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/190fb17726f84b7176d.png)
+![IMG](assets/images/23bf0042585b910d8195005b80813f87e4206c14c2695be9b483d45dd5532b24.png)
 [trans]
 
 Overview: This strategy determines whether the price is in a trend state by calculating the ratio of the difference between the highest price and the lowest price within a certain period and the amplitude of the closing price, and uses this as a trading signal indicator.

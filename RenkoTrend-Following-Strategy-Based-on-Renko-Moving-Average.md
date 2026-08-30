@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/e80092d94d2c9fdbc0.png)
+![IMG](assets/images/7c2ac1392dec036dba47eb0d54823d285caf880195b6531ff48e7a3d04f24cf3.png)
 [trans]
 ### Overview
 This is a trading strategy that uses the Renko average line for trend judgment and tracking. The core logic of this strategy is to make corresponding buying or selling operations when the price breaks through the 22-period HL2 moving average. At the same time, this strategy also sets up risk management mechanisms such as stop loss, take profit, and trailing stop loss.

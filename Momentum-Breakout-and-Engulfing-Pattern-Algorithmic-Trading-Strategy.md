@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/ae28b9759b5f0b415e.png)
+![IMG](assets/images/f1a3089f01f2fd308d1ff67211adf3a67eef4d473983e5299cc4e928551a037b.png)
  [trans]
 ## Overview
 This article introduces an algorithmic trading strategy that uses the engulfing pattern to identify profit opportunities and the intersection of price and moving averages as entry signals. This strategy combines price technical analysis with trend following methods, aiming to profit from consolidation and trend reversal points.

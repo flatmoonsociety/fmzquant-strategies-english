@@ -37,7 +37,7 @@ If you have a strategy that can buy based on External Indicators use 'Backtest S
 
 **backtest**
 
- ![IMG](https://www.fmz.com/upload/asset/430e6d9ce16dd5530d.png) 
+ ![IMG](assets/images/049815c226d97837288a0a42b1d346fec73db3975fc1783e6c4bb6c56864af8f.png) 
 
 > Strategy Arguments
 

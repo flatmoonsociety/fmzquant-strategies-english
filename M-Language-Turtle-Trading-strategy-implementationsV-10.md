@@ -28,7 +28,7 @@ scope.TEST = function(obj) {
 上一个收盘价放大100倍:TEST(REF(C, 1)); // 鼠标移动到回测的K线上就会提示变量值
 ```
 
- ![IMG](https://www.fmz.com/upload/asset/81cecb83b47ecca04ddd63c3206eb0db.png)
+ ![IMG](assets/images/6d3526ed5bbcb240a497d67583d4c991b938e9bacce5fc063440776d67d5ed3a.png)
 
 |
 
@@ -166,8 +166,8 @@ scope.TEST = function(obj) {
 
    The previous closing price is magnified 100 times: TEST(REF(C, 1)); // The mouse moves to the backtest K line and the variable value is displayed.
 
-   ![IMG](https://www.fmz.com/upload/asset/16ad22541f647db833cf.png)  
-   ![IMG](https://www.fmz.com/upload/asset/168d0e609175942064c3.png) 
+   ![IMG](assets/images/e030666ce87da8d0e6effa9614138e3406cac5cf3cae8d3aab073a17ec2793fc.png)  
+   ![IMG](assets/images/114f3c29045dc209b0e833c9967a05d81677c1d546cafcec4079da7746f58721.png) 
 
 [/trans]
 

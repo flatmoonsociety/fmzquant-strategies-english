@@ -14,7 +14,7 @@ gulishiduan_high frequency sorting
 //Real disk address: https://api.fmex.com Test network https://api.fmextest.net//注意：首先手动持仓long1-1000u。
 //(Contact WeChat: ying5737)
 **Strategy Principle:**
-![](http://https://wx1.sinaimg.cn/mw690/c5775633ly1gaajdxk8a8j20u10f4dhx.jpg)
+![](assets/images/a4e38402de41d2aa7e57476fc6247a96fef9c48ba6dcdf7e67429b3d9a1ab7ce.jpg)
 Pictures are for reference only
 https://wx1.sinaimg.cn/mw690/c5775633ly1gaajdxk8a8j20u10f4dhx.jpg
 Orders placed at the market are randomly executed/This strategy tends to hold long positions by default/

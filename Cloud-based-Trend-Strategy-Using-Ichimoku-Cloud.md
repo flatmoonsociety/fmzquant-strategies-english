@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1a9dfff7cf5a3d4f3a2.png)
+![IMG](assets/images/d5e8f0f212ec66364c0b0b47aa085e2176945de30986c86cbaa13a3abed2e163.png)
 [trans]
 ## Overview
 This strategy is improved based on the traditional moving average trading strategy, and uses the Ichimoku Balance Sheet indicator to assist in judging the long and short direction. This strategy combines price breakthroughs and moving average crossover signals to identify potential trend reversal points and capture low-risk trading opportunities.

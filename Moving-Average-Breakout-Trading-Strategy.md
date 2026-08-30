@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/c02bbfb4292755306d.png)
+![IMG](assets/images/a6dc45b43da37d1395863dc05b240fe1f3304bb00f964bab5894c3b39a00ea77.png)
 [trans]
 ## Overview
 This strategy is a breakout trading strategy based on moving averages. The main idea of ​​the strategy is to judge the market trend by comparing the current closing price with the moving average of a certain period, and trade when the moving average is broken. The risk-reward ratio of this strategy is 1:3, that is, the stop-loss position is 1% and the take-profit position is 3%.

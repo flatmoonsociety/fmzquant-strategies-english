@@ -30,7 +30,7 @@ note that we're approaching the analogy here from a trading perspective and not 
 
 **backtest**
 
- ![IMG](https://www.fmz.com/upload/asset/130a0f8baab4c18b768.jpg) 
+ ![IMG](assets/images/87e8e026fae7661003397c6515e101461fa70f945c586e76ff7014d4f588f076.jpg) 
 
 > Strategy Arguments
 

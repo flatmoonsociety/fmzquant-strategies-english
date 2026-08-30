@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/111d8fb08679d798811.png)
+![IMG](assets/images/225232317adafc35ada090af7442fd2e34d14c9f9ba3965d5c583c09124d8f75.png)
  [trans]
 ## Overview
 This strategy is a DCA trend trading strategy based on the BTCUSDT 4-hour time period. The main idea is to send a trading signal when the RSI indicator deviates from the overbought and oversold area. Then use the DCA trend tracking method to add and build positions multiple times to spread out the positions to reduce risks. The main features of the strategy are low risk, simple principles and easy operation.

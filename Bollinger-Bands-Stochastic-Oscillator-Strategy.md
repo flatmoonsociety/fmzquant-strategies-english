@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1bc9d6f5d10e53b7ff7.png)
+![IMG](assets/images/4c8122c17586be5ff394c29fc6fa2a4be4ebf04118e73b152ef0b54a7dd19ff3.png)
 [trans]
 #### Overview
 This strategy is a trading strategy based on Bollinger Bands and Stochastic Oscillator. It uses Bollinger Bands to determine the market's fluctuation range, and uses the stochastic oscillator to determine the overbought and oversold status of the market. When the price breaks through the upper Bollinger Band, the strategy goes long; when the price falls below the lower Bollinger Band, the strategy goes short. At the same time, this strategy also uses a stochastic oscillator to filter trading signals to improve the accuracy and reliability of the strategy.

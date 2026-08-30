@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/132d33242f94cab3f37.png)
+![IMG](assets/images/c59fca7cd4dfc8f110c658f47e6808e61ba57e4eab0e9b4346037965123b40ad.png)
 
 [trans]This strategy is an options trading strategy based on multiple technical indicators, combining market trends and momentum indicators to identify potential trading opportunities. The strategy uses price relative to the cloud on the one-minute chart, RSI overbought conditions, and bullish crossovers on the MACD and KST indicators to trigger trading signals. When all conditions are met, the strategy will open a long option position and close the position when the 30% profit target is reached. This approach is designed to capture short-term uptrends while reducing the risk of false signals through multiple confirmations.
 #### Strategy Principle

@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/12950a4fa4ae78fffb1.png)
+![IMG](assets/images/26b0c0c8b405abf1e5e2cfb9cd8448180cc06e325ded51ccb8585f9f532cf046.png)
  [trans]
 ## Overview
 This strategy is based on a combination of smoothed moving averages and Stochastic indicators, with the goal of capturing more opportunities in trends. It mainly uses two exponential moving averages of different periods to form strategic signals, and combines the intersection of the K line and the D line in the Stochastic indicator as the entry timing selection, in the hope of obtaining a higher profitability in the trend.

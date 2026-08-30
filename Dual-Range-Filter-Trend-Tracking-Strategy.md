@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/19ecc20f3ab48f65caa.png)
+![IMG](assets/images/c1ae04804a14afe7d5c4de47adadb552a6a416e5d97fe35fb52d573099a69b1d.png)
 [trans]
 ## Overview
 Dual Range Filter Trend Tracking Strategy is a quantitative trading strategy that uses dual EMA range filtering to identify the trend direction and track the trend. This strategy combines dual moving average filtering and ATR range calculation, which can effectively identify the direction of medium and long-term trends and use trailing stop loss to lock in profits.

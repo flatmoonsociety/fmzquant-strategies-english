@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/f08e071b6099a3f93a.png)
+![IMG](assets/images/b843bbbf1c8718547e4e57789788ed514cb738b3556535384dff103a76ebc590.png)
 [trans]
 ## Overview
 This strategy is a typical quantitative strategy that tracks market trends. It mainly uses Bollinger Bands, RSI indicators and MACD indicators to determine the overbought and oversold conditions of the market and conduct reverse trading. When an overbought signal occurs, the adoption strategy obtains excess returns by going short; when an oversold signal occurs, this strategy obtains excess returns by going long.

@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/12ee732c8cd593db81f.png)
+![IMG](assets/images/c8093297d026015bed0e1a293d8432b61371e4358b36bcca5e5b972bdb47e17c.png)
 [trans]
 ## Overview
 This strategy uses the intersection of the RSI indicator and its moving average as a trading signal and is a common momentum indicator strategy. The core principle is to track the difference between the RSI indicator and the simple moving average SMA_RSI of RSI, and then calculate the simple moving average SMA_RSI2 for this difference. When SMA_RSI2 crosses the threshold, go long and close the position when it crosses the threshold below.

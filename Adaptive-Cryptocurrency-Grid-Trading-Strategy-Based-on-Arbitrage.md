@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/ff773247df2a2ca360.png)
+![IMG](assets/images/40fe56ca231089916c800025bde07bdf04853e38dcc24d133ba5d4634955863e.png)
  [trans]
 ### Overview
 This strategy is an adaptive cryptocurrency arbitrage strategy based on the grid trading concept. It can automatically adjust the price range of grid trading according to market fluctuations and conduct efficient arbitrage transactions within this price range.

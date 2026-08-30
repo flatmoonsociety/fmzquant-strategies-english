@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1ba9896b0485408c9fa.png)
+![IMG](assets/images/dec691d11ef89cac52d7ce36328a06e9a74d2077db49688bd5ea74b9f71586fe.png)
 [trans]
 ### Overview
 This strategy realizes the Bollinger Bands breakthrough trading strategy by calculating the upper, middle, and lower rails of the Bollinger Bands, and judging based on the closing price of the K line. When the price breaks through the upper band, go long; when the price breaks through the lower band, go short. Set stop loss and take profit prices at the same time.

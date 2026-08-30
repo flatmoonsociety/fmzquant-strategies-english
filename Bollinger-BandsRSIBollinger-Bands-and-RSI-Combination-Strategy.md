@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/f55376ea9cc0f1777a.png)
+![IMG](assets/images/e4f7be14b260007c1c401e349ade62b2c1f39443dab3dc20b8e1279d9e3b185f.png)
 [trans]
 ### Overview
 The name of this strategy is Bollinger Bands and RSI Double Confirmation Strategy. This strategy achieves the purpose of buying low and selling high by calculating the upper and lower rails of Bollinger Bands and combining the overbought and oversold signals of RSI.

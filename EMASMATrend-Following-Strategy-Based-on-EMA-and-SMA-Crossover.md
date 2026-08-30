@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/15859184b237807b8d7.png)
+![IMG](assets/images/c0ecc8ba28ec8aed5f339f61d338a8b0145950eef2bf5333f51c47426c130365.png)
  [trans]
 ## Overview
 "Trend Following Strategy Based on EMA and SMA Crossover" is a trend following trading strategy based on the crossover of the Exponential Moving Average (EMA) and the Simple Moving Average (SMA). This strategy aims to identify potential buy and sell signals by capturing when the short-term EMA crosses the long-term SMA.

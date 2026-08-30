@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/151adcebc8cd17b8c7c.png)
+![IMG](assets/images/241a778890502ea17d5ec27b07ec590c8acf6d13345fc34a03cf889feb4ba51f.png)
 [trans]
 ## Overview
 The Donchian channel breakout strategy is a trend following strategy that forms a price channel by calculating the highest and lowest prices within a certain period of time, and uses the channel boundaries as buy and sell signals. When the price breaks through the upper band, go short; when the price breaks through the lower band, go long. This strategy is suitable for trading highly volatile digital currencies.

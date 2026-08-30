@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/14d44a8a8798d8c93e1.png)
+![IMG](assets/images/52702ed5a61f52aef598bf51c2b6fc04a9fd244bbf19c05a5d3f72d2bc418bbb.png)
  [trans]
 ## Overview
 Reverse Momentum Trading Strategy is a short-term trading strategy based on the improved MACD indicator. This strategy draws on the ideas proposed by William Blau in his book "Momentum, Direction and Divergence". It uses the relationship between price and momentum to construct a custom MACD indicator that is opposite to the standard MACD indicator. When the indicator forms a buying and selling signal, it performs reverse operations, that is, buying the indicator's selling signal and selling the indicator's buying signal.

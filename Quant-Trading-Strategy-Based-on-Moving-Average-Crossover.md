@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/151c917bc7e99884260.png)
+![IMG](assets/images/93f7301d8f693faa7e4f7fbefa1b5b712a8c9155be61705797dab998fadf340e.png)
  [trans]
 ## Overview
 This strategy is constructed using the Golden Cross and Death Cross principle of the Simple Moving Average (SMA). The strategy uses the golden cross on the 3-day line and the 5-day line as the entry signal, and uses stop loss or take profit as the exit signal.

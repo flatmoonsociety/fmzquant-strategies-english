@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/17dbf11853456901396.png)
+![IMG](assets/images/c81d8e054e42b6e1e2793ff3d477736defc4f744e144c727a38f5832588db0af.png)
 [trans]
 #### Overview
 The strategy combines several technical indicators, including the Relative Strength Index (RSI), the Moving Average Convergence Divergence Index (MACD), and the Simple Moving Average (SMA) with several different periods, to provide a comprehensive analytical tool for Bitcoin (BTC) trading. The main idea of ​​this strategy is to comprehensively consider the signals of different indicators, do long when the RSI is in a specific range, MACD has a golden cross, and the price is lower than multiple SMAs. At the same time, set stop loss and take profit, and update the stop loss position when the RSI reaches 50.

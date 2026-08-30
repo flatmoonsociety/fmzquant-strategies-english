@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/d394aa96c57518e417.png)
+![IMG](assets/images/49ce2f3333ce8cda9f26399daae482dbb9fc38559aa9c6a4813a6058209d163e.png)
 [trans]
 ### Overview
 This strategy uses the Double Smoothed Moving Average Oscillator indicator to determine buy and sell points for stocks. The Double Smoothed Average Oscillator Index consists of double exponential moving averages with two different parameters, long and short, and measures overbought and oversold phenomena by calculating the momentum of price changes.

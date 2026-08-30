@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/16345d2960194251bf6.png)
+![IMG](assets/images/4a8c25fdaeea3f5d8b2c520a6643401e67aa4512b89220d02ec1a7688a29100d.png)
  [trans]
 ## Overview
 This strategy is a multi-indicator combination strategy with MACD as its core. It integrates 5 MACD trading signals and also has 5 built-in moving averages to choose from. This strategy makes full use of MACD's trend judgment ability and sets different trading conditions to filter out false signals, thereby obtaining a higher probability of profit.

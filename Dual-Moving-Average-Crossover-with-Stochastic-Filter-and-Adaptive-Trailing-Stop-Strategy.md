@@ -8,8 +8,8 @@ ianzeng123
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/2d84b213ba31ad41dbf74.png)
-![IMG](https://www.fmz.com/upload/asset/2d89c39fa522ba46a6ead.png)
+![IMG](assets/images/9b1eccca62b497f60c07fa32f4bd5b7ca82e6c1f85690007b950f85d6abfb3bd.png)
+![IMG](assets/images/ba8b57f7f7f1a9b5a66d3fe22b4190d95c4dc197a4bcf0bbb9da2a87a724be7e.png)
 
 [trans]## Strategy Overview
 This strategy is a comprehensive trading system that combines moving average crossovers, stochastic filtering, and adaptive trailing stops. It is mainly based on the crossover signal of the fast moving average (SMA 34) and the slow moving average (SMA 200), while using the Stochastic (9-3-3) stochastic indicator as an additional filter to enhance the reliability of the signal. In addition, the strategy is also designed with a complete risk management module, including fixed stop loss, profit target and trailing stop function that automatically adjusts based on price trends. It is particularly worth noting that when the profit reaches the preset threshold, the strategy will automatically adjust the stop loss point to the entry price to protect the profits earned and achieve the risk control goal of "guaranteed exit".

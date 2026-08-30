@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/157ca95d206025fec65.png)
+![IMG](assets/images/18daf2effd8746bea666b5792ba75c802dc40608ca67810075354e2198e62a6d.png)
 [trans]
 #### Overview
 This strategy uses the crossover signals of the 50-period smoothed moving average (SMMA) and the 20-period simple moving average (SMA) to determine when to buy and sell. When the fast SMA breaks above the slow SMMA upwards, a buy signal is generated; when the SMA falls below the SMMA, a sell signal is generated. At the same time, the strategy presets fixed take-profit levels and dynamic stop-loss levels to lock in profits and control risks.

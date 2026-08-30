@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1092eed1f0a42b6e9b3.png)
+![IMG](assets/images/23a9790e75ae5a4b266ef1321fdb9728c17e4b3d441f880cccd2ebdbde9ef0a8.png)
 [trans]
 ## Overview
 This strategy uses a combination of technical indicators, including Parabolic Steering System, Winding Exits, Zero Lag Simple Moving Average, Exponential Moving Average, Trendwise Average, etc., to identify potential buying and selling points on the chart.

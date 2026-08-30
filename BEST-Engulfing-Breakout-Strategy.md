@@ -51,7 +51,7 @@ Dave
 
 **backtest**
 
- ![IMG](https://www.fmz.com/upload/asset/1e3e5bab24455dd40d6.png) 
+ ![IMG](assets/images/cc114de8c01404bb128837738976398d65f972bd0e7f827e815326da19ace911.png) 
 
 > Strategy Arguments
 

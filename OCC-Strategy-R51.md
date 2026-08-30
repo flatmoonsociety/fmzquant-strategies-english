@@ -14,7 +14,7 @@ It helps you determine the time of entry and exit of deals
 
 **backtest**
 
- ![IMG](https://www.fmz.com/upload/asset/f2bbc09f841459100f.jpg) 
+ ![IMG](assets/images/b3b7c9d61e05edf7804865db7ed21843d896d0efd06cd6b9691a5b65b1fa44fb.jpg) 
 
 > Strategy Arguments
 

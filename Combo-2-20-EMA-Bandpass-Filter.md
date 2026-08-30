@@ -25,7 +25,7 @@ WARNING:
 
 **backtest**
 
- ![IMG](https://www.fmz.com/upload/asset/673e6d06beb426fb01.png) 
+ ![IMG](assets/images/d0f20c12113bd4a6519900438a29ed1117453c4e0cd68c9794180e92f782b722.png) 
 
 > Strategy Arguments
 

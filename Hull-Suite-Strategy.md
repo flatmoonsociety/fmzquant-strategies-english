@@ -14,7 +14,7 @@ Converted the hull suite into a strategy script for easy backtesting and added a
 
 **backtest**
 
- ![IMG](https://www.fmz.com/upload/asset/108ca21a1a518163216.png) 
+ ![IMG](assets/images/0f046b71f4e2e591eb1c16bd823ad4717a582ff28586c042ede57344ae90f9cd.png) 
 
 > Strategy Arguments
 

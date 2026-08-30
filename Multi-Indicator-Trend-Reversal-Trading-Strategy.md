@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/7742500c1f2fb5b80d.png)
+![IMG](assets/images/bf092e510c63bcbb46a199f7c170f7c078d5b560d08400a348dfc529702009be.png)
 [trans]
 ## Overview
 This is a strategy that uses a combination of multiple indicators to identify price trend reversal points. The basic idea is that it is difficult for a single indicator to perfectly identify the turning point of a trend, so multiple indicators with similar functions are selected to combine. When multiple indicators send signals in the same direction, we can relatively determine the high probability of a trend reversal, and then conduct trading operations.

@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/b50ba101c2b3c61f82.png)
+![IMG](assets/images/a78190172f4cf1722eb9506f48ded1f3ff86e46cfdb2ae883d4dd1ee097adfc0.png)
 [trans]
 #### Overview
 This strategy is a BankNifty futures trading strategy based on the Simple Moving Average (SMA). The main idea of ​​the strategy is to use SMA as a trend indicator, going long when the price crosses above the SMA, and going short when the price crosses below the SMA. At the same time, this strategy also sets stop loss and take profit conditions to control risks and lock in profits.

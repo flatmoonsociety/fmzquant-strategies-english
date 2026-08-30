@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1b99cd77d51eddebdf5.png)
+![IMG](assets/images/c4f10002fdcd71b3dab88507d0b815ce4bde7e2ddbac1f14867289ada34447da.png)
 [trans]
 
 This strategy uses the crossover of the fast and slow moving averages as buy and sell signals. When the fast moving average breaks above the slow moving average, a buy signal is generated; when the fast moving average falls below the slow moving average, a sell signal is generated.

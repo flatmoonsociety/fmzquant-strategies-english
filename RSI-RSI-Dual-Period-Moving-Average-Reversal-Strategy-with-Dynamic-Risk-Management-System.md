@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/611b66a44f30c8801e.png)
+![IMG](assets/images/222a44c9e349654f45b1599ee172c04100064afa8f490e511d59f238374aa9e0.png)
 [trans]
 #### Overview
 The RSI Two-Period Moving Average Reversal Strategy is a mid-term trading system that combines the Relative Strength Index (RSI) and the Exponential Moving Average (EMA). This strategy is designed to capture short-term overbought and oversold conditions in the market while confirming the overall trend through dual moving average filtering. The core of the strategy is to use the rapid response characteristics of RSI to identify potential reversal points, and then confirm trading signals through the crossover of moving averages. In addition, the strategy also incorporates a dynamic stop-loss mechanism to adapt to risk management needs in different market environments.

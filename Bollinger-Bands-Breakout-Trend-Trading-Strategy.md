@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1c0f1f6394b434fe6a7.png)
+![IMG](assets/images/b1e418184ea7fc3ab825625c33e062c58c5024b25dcbe19f573a4a7b536dcb6e.png)
 [trans]
 ## Overview
 The Bollinger Bands Breakout Trend Trading Strategy is designed to identify potential trend reversals at extreme price levels relative to recent volatility. It combines Bollinger Bands as a mean reversion indicator with breakout logic across the bands to catch the start of new trends. 

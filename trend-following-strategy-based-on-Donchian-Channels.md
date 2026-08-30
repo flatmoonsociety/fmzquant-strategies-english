@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/18888140f2939f6e2d8.png)
+![IMG](assets/images/5d1dca1bc3caebc546d0807f39e739ab3d184e51d2e901b079ffce613915e8d0.png)
 
 [trans]
 #spectrumagestrategy

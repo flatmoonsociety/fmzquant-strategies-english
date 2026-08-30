@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/f38fdf21a90bb8e63c.png)
+![IMG](assets/images/768f2e3b86763b76db3dd488dd81de27a20e187186450532687197499bda04e8.png)
 [trans]
 #### Overview
 This strategy works by using indicators such as the Smoothed Moving Average (SMA), Relative Strength Index (RSI), True Range (TR), and Volume Moving Average (Volume MA), combined with trend filtering, volume, and volatility conditions to place trades when specific conditions are met. The main idea of ​​this strategy is to buy when the price is below SMA200 and in a downtrend, with low trading volume and low volatility, and set stop loss and take profit levels. At the same time, this strategy also has an abnormal exit mechanism, that is, exiting the transaction when the RSI exceeds 70 or reaches the preset stop-loss and take-profit levels.

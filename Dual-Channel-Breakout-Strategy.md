@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/a656fe906fed023b28.png)
+![IMG](assets/images/cce1bfba88181b0e7330569a4120c73b7b0b71864bfed9566c99b1abc55161df.png)
 [trans]
 
 The name of this strategy comes from the fact that it uses two indicators, Bollinger Bands and Ketner Channels, to construct trading signals. It monitors price for breakouts of channel boundaries, going long when price breaks out of a downward channel and short when it breaks out of an upward channel.

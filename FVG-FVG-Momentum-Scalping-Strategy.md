@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/af360f1ac894a41751.png)
+![IMG](assets/images/5a15486658e975013286577f43168569120e42d4b7c6bcbd535a8d4ece110121.png)
 [trans]
 #### Overview
 This strategy is a momentum short-term trading strategy based on the FVG indicator. It looks for potential short-term trading opportunities in the market by identifying the long and short signals of the FVG indicator. This strategy uses tight stops and profit targets to limit potential losses and maximize gains. This strategy works on short time frames (such as 1 minute or 5 minute charts).

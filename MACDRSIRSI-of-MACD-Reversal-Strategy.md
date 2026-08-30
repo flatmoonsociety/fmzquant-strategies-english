@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/11405f4267a074330e7.png)
+![IMG](assets/images/a236d8f9c3ebc4235d2720ce35b3f86fb80ee65de1754f5509e01e6b5c6c2579.png)
  [trans]
 ## Overview
 This strategy determines buy and sell signals based on the RSI value of the MACD indicator. Buy when the RSI value exceeds the overbought line or oversold range, and stop loss or take profit when the RSI value falls below the oversold range.

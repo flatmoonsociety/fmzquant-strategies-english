@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/ecbdc0bef391b97f07.png)
+![IMG](assets/images/759fa9095819db08eecdd0b78081c7075b81555f8d5e2eb5fc7e5bf2fe569480.png)
 [trans]
 This strategy is a quantitative trading system based on linear regression channels and Heins candlesticks, combined with a dynamic stop-profit and stop-loss mechanism, specifically designed to seize opportunities for rapid fluctuations in the market.
 #### Strategy Overview

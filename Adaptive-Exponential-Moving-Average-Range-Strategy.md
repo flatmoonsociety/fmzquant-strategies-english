@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/128583a0312d75259a8.png)
+![IMG](assets/images/d5cba0cb0187fb5d37ea5e4d812a86f844b18caedcc352f7e11c8c0f68c614ac.png)
 [trans]
 ### Overview
 This strategy uses the exponential linear weighted average (EHMA), which is faster to calculate, and adaptive channels to build a trend-following strategy. Because EHMA has a faster calculation speed, it can effectively identify price change trends and avoid unnecessary trading signals caused by false breakthroughs. At the same time, the adaptive channel can filter out some price shocks. Only when the price breaks through the channel will a trading signal be issued, reducing the probability of invalid transactions and increasing the probability of profit.

@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/840c5025d0b1153b50.png)
+![IMG](assets/images/f9e408b3110082077ff6a80552c55d37a48a992822b039cf8aa9f147c342bd3d.png)
 [trans]
 ## Overview
 The Momentum Average Wizard Exponential Moving Average Crossover strategy combines two powerful technical indicators - the Moving Average (MA) and the Average Directional Index (ADX) - to provide traders with more precise technical analysis. This strategy is designed for dynamic market analysis and provides clear trading signals.

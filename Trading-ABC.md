@@ -34,7 +34,7 @@ You can change/set;
 
 **backtest**
 
- ![IMG](https://www.fmz.com/upload/asset/9a650e6cf56612570d.png) 
+ ![IMG](assets/images/e696cbd5bf869d985d0a39c9211d03d779ef09ba2165cda951d81f5a6fa4eddf.png) 
 
 > Strategy Arguments
 

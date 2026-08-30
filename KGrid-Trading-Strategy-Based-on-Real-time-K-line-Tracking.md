@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1b1dedf58fc53b572ab.png)
+![IMG](assets/images/3743d1c3e55f0abb1166e381483a74b39b9ce2131457fd804e97609271a7ad0e.png)
 [trans]
 ### Overview
 This strategy is a two-way tracking grid trading strategy based on real-time changes in the K-line. It can make stable profits in both bull and bear markets.

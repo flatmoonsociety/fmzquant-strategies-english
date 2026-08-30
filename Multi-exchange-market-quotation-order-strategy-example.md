@@ -7,7 +7,7 @@ Multi-exchange market quotation-order-strategy-example
 Inventor Quantification-Little Dream
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/20dd683abc5a0e70f84c5f2ae37c1753.png)
+![IMG](assets/images/484288182a9237d7d5db1791f98bddf814cb8daa3cfea449f10229a856b5582e.png)
 
 > Strategy Arguments
 

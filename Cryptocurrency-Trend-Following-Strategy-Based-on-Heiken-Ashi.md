@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/215efcd3cca223507fe.png)
+![IMG](assets/images/5ae85a7e0d25dda28b2b9d3e291ebed2ad59bda1f4a49493b68e8ef87eeea985.png)
  [trans]
 ## Overview
 This strategy is a cryptocurrency trend following strategy based on the Seagull indicator. It uses two exponential moving averages with different periods and the Seagull indicator combined with multiple conditions to generate trading signals. This strategy aims to identify mid- to long-term price trends and enter the market promptly when the trend turns.

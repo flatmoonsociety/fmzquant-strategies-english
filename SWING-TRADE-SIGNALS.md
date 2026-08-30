@@ -17,7 +17,7 @@ Best work with 1h+ timeframes.
 
 **backtest**
 
- ![IMG](https://www.fmz.com/upload/asset/1190f85e1e5f9b65be2.png) 
+ ![IMG](assets/images/34f264567ff39f6d539b2d9efe45cc7e3723f8d03ecb613bd413ed504ade4836.png) 
 
 > Strategy Arguments
 

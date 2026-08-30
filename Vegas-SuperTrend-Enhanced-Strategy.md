@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/193bbb4464ce94434b0.png)
+![IMG](assets/images/ef6e0b96921aa13d2099783ecdc1d8d44e9e62fb1eea77536fd57011783a20ba.png)
 [trans]
 #### Overview
 "Vegas SuperTrend Enhanced Strategy" is an innovative trading strategy that combines the Vegas channel and the SuperTrend indicator to adapt to different market fluctuations by dynamically adjusting the sensitivity of the SuperTrend indicator. This strategy uses the Vegas channel to measure market volatility and adjusts the parameters of the SuperTrend indicator based on this to better adapt to market changes while following trends. The strategy will generate buy and sell signals based on the relative position of the price and the SuperTrend indicator, while providing flexible trading direction options, allowing for long, short or two-way trading. This strategy has excellent visual effects and uses concise green and red colors to identify long and short trends, making it easier for traders to quickly grasp market trends.

@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/203fffddc3edc06b7dc.png)
+![IMG](assets/images/c1c66c5d7cf7ba73f9e3f9e2008ddec1c61fd300c17aca27ad4cf849dafdafa6.png)
  [trans]
 ## Overview
 This strategy draws two lines based on the highest price and lowest price of the daily line as the basis for long and short judgments. When the price crosses the highest price line, go long; when the price crosses the lowest price line, go short. Can automatically switch between long and short.

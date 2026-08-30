@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/9507c41cc8d5c35e66.png)
+![IMG](assets/images/167eae807b01b8b41b6388a0bcb08e5bb6352b10bf38db874e580ab8dfd99d80.png)
 [trans]
 ## Overview
 This strategy integrates a variety of technical indicators, including super-trend indicators, double exponential moving averages and Bollinger Bands, to leverage the advantages of each indicator and achieve more accurate trading signals.

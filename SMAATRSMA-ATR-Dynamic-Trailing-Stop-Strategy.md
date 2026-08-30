@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1a98bf2cb957855c7f6.png)
+![IMG](assets/images/a9c0013cccecfccde44f7d270cbe37e92adb0207b45426a837f71ef927732b5b.png)
 [trans]
 ## Overview
 This strategy is a long-term trading strategy that sets dynamic trailing stops based on the Simple Moving Average (SMA) and Average True Volatility (ATR). It combines the advantages of trend following and risk management, aiming to control drawdowns and maximize profits.

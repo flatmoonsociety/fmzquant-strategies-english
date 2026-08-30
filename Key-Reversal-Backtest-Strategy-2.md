@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/f8b1eb494fd58b991f.png)
+![IMG](assets/images/74793d40c47f459e15aa9cba159065f862b3addec38180336f6d467e8338329e.png)
 [trans]
 #### Overview
 The key reversal signal backtesting strategy identifies the key reversal signals of the stock price and determines whether the current trend is reversed to capture the price direction after the trend reversal. This strategy is based on the theory of "key reversal days". It goes long and short when a key reversal signal is found, and locks in profits by configuring take-profit and stop-loss.

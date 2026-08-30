@@ -10,16 +10,16 @@ District class quantification
 Large, medium and small three-cycle transition strategy. In general, the large cycle indicates the market direction, the medium cycle is the current operating cycle, and the small cycle indicates the trend stopping signal. When you enter the market, as long as you refer to the status of the three cycles of large, medium and small, you can, like Zhuge Liang, adopt ever-changing strategies to deal with the complex market. If your operating cycle frequency is several times a day, you can choose the daily line for the large cycle, 4 hours for the medium cycle, and 30 minutes for the small cycle; if your operating cycle frequency is dozens of times a day, you can choose 4 hours for the large cycle, 30 minutes for the medium cycle, and 5 minutes for the small cycle; the previous cycle is always 6 to 8 times different from the next cycle.
 Then we list the relationship between the K-line and the Bollinger Band in each cycle. There are 8 states in total. In three cycles, there are 8*8*8=512 states. These 512 states are enough to cope with all possible market conditions. Programmers with strong technical ability can pre-design the best order points and stop-loss points for each state. In order for everyone to have a basis for discussion, the district class leader has also made the strategy public on the inventor platform. Everyone is welcome to improve on this basis.
 Then we back-test it, and we can see that the annualized rate is 29, and the retracement is a bit high, reaching 36%. We download the logs and analyze the retracements. This is the advantage of the Inventor Platform.
- ![IMG](https://www.fmz.com/upload/asset/13120536c7fe04832dbcb.png)
-  ![IMG](https://www.fmz.com/upload/asset/131192810d7ecb2b1d1ef.png)
-  ![IMG](https://www.fmz.com/upload/asset/130ed64aa7da2ceabc187.png)
+ ![IMG](assets/images/1952e20ea92865d423f198735a71ca932b1a8e96c466a404f2ac5de7bcc3ca4a.png)
+  ![IMG](assets/images/c3e4351cfadb71fa0e867baa7ad29f06a50227c1a7c7973dd33477823fb55fd6.png)
+  ![IMG](assets/images/edd7ebc07a0c1bb69ce85b2fb271f4c2bc513a3fe14af5bb04167446ea975836.png)
 After analysis, there are mainly the following reasons:
 1. Although the structure of large, medium and small cycles is better, the strategy of how small cycles affect medium cycles is difficult to conceive. It can be simplified first and added later;
 2. When the market goes short, you should resolutely abandon your position.
 3. The directional role of the 5-day moving average is very important and is not reflected in the strategy.
 4. If there is a rapid decline outside the Bollinger Bands, you should sell.
 5. When the reason for rising falls below, profit and loss should be taken in time
- ![IMG](https://www.fmz.com/upload/asset/1310b2148822a81917ce8.png) ![IMG](https://www.fmz.com/upload/asset/13173d3b37858cf619f9e.png)
+ ![IMG](assets/images/2b585f80b5cba71995e20d44cd2a907522b8a7542d2d34a0c2941b466eccdaff.png) ![IMG](assets/images/acb93c83cae3fb813ecd011586f32e619ea35913ded45b14595a893e9cfaabb2.png)
 After targeted improvements and dozens of iterations, we finally achieved an annualized rate of 210, a retracement of 16.4, and a reduction in the number of transactions.
 > Strategy Arguments
 

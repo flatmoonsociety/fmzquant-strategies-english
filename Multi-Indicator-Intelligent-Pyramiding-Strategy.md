@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/17dcafa6b642591b28b.png)
+![IMG](assets/images/084fa32b6c2f66577f962989096bd44dc4be5fe5525515e2c59a6f7664c713c6.png)
 [trans]
 #### Overview
 This strategy is a multi-indicator intelligent pyramid trading system that comprehensively uses multiple technical indicators such as Supertrend, RSI and trading volume to optimize the trading effect through pyramiding positions and a 1:2 take-profit ratio. This strategy mainly identifies potential trading opportunities through Supertrend trend judgment, RSI overbought and oversold signals, and changes in trading volume. It also uses pyramid positions to increase profit potential, and controls risks by setting dynamic stop loss and a take-profit ratio of 1:2. This multi-dimensional analysis method is designed to improve trading accuracy and profitability, while optimizing overall trading performance through intelligent position management.

@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/bd8e872263f9a8b707.png)
+![IMG](assets/images/0dd2b78e3b8653f6ef05e057b2c71f20c9a9f12cb063c2b7cf7e3478e44b512f.png)
 [trans]
 ## Overview
 This strategy implements trend tracking by calculating moving averages of different periods and setting their intersections as buy and sell signals. The core logic is to use shorter-period moving averages to track turning points in longer-period trends.

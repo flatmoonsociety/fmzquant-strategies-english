@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1436fb3f86ec5b8f2ac.png)
+![IMG](assets/images/8347a357c4a2f53aa32f581ecd0013b91f14401aff9b39668f6b8ff3edb359f4.png)
 [trans]
 #### Overview
 The main idea of this strategy is to make buying operations by monitoring the decline in price. When the price drops by more than 5% from the previous period, a buy signal will be triggered to buy a certain number of positions at the current closing price. When the price is higher than the buying price, the position is closed and profits are taken. This strategy takes advantage of market volatility and attempts to profit from short-term price rebounds.

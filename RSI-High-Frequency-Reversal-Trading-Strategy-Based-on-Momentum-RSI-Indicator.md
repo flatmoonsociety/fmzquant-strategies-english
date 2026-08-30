@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/155c62cc43d579b3267.png)
+![IMG](assets/images/891084431da2d3db5a871c3a93b297471d26b5b5d50a97e75b0b56a95ab4058a.png)
 [trans]
 #### Overview
 This strategy uses the RSI indicator to measure price momentum and determines the timing of entry by calculating the standard deviation of RSI changes. Open a long position when the RSI momentum exceeds the standard deviation threshold and is less than the momentum multiplied by the exhaustion factor at the previous moment, and vice versa. This strategy uses limit orders to close positions and control risk by setting take-profit and stop-loss points. The strategy executes on every price move to capture all potential price movements.

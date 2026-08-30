@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/7e386c5da6e9c5261e.png)
+![IMG](assets/images/0cc4bfb542f28b4e7248d00befda41fe5cb90340ab7bed04b9fb88dc91a8f0bb.png)
  [trans]
 ### Overview
 The Double 7-Day Breakout Strategy is a very simple short-term trading strategy. It has only 3 trading rules:

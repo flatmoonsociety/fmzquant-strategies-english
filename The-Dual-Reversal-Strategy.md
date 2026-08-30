@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/8354486a6ef9e8b807.png)
+![IMG](assets/images/b6a1029fef8f8fa0b58a100c4286fa698a9d210200cc98dcdb7395a9d04d83df.png)
 [trans]
 ## Overview
 The double reversal strategy is a quantitative strategy that combines the 123 reversal and the three-day reversal pattern, which is used to improve the quality of trading signals and reduce risks. This strategy uses a trading method that combines price difference indicators and K-line shape indicators. When both indicators send signals at the same time, trades are performed, thereby improving the signal accuracy.

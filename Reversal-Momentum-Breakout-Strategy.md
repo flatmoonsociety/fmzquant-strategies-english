@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/18dc78eaeb51dedc39e.png)
+![IMG](assets/images/379efe504b6b8f96aceb131c4b970cbb75a7bc1461256b11a821f726c3f72b82.png)
 [trans]
 ## Overview
 The Reversal Momentum Breakout Strategy is a quantitative trading strategy that uses price reversals and momentum indicators to generate trading signals. This strategy is based on the "momentum first" theory. By tracking the highest and lowest prices within a certain period, it determines whether the market is at a critical point for reversal to capture reversal opportunities.

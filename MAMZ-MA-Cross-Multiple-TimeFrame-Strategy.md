@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/113992239eac0067852.png)
+![IMG](assets/images/7b144731c5b9011dccfd18a9a2a1bcda53edf412f1b09eea8a8b1afb5c24a766.png)
 [trans]
 
 This strategy mainly uses the MA line crossover of the multi-time frame (MTF) to determine the trend direction, and combines specific conditions to filter signals. When the trend direction is clear, it chooses to buy long or sell short, which is a trend following type strategy.

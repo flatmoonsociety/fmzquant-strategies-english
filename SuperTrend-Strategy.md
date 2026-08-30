@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1654f0e82a49dc4a3ee.png)
+![IMG](assets/images/8cbe23f3675c325a61c2759d6a96ddd1a57e74029e99c45f6dc400936d7101bf.png)
 [trans]
 ## Overview
 This strategy uses super-trend indicators to determine price trends and enter long or short positions when the trend changes. This strategy allows adjusting the ATR period and ATR multiplier to optimize parameters. In addition, the strategy also provides the option to change the ATR calculation method, thus producing slightly different results.

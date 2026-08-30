@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/d303cbd9cd2983eea8.png)
+![IMG](assets/images/695e5aeba863fd2548cba103fda1f965c45c80c3d75a812fad5a1d5896f0cdc9.png)
 [trans]
 ### Overview
 Watkins Snake's Kiss Quantitative Strategy mainly combines the cloud chart indicator and the stochastic indicator RSI, and constructs quantitative trading strategy signals by weighting the judgment of the two indicator signals to achieve automated trading of securities varieties. This strategy comprehensively considers the cloud indicator signals and StochRSI indicator signals of different strengths, and makes trading decisions smoother and more stable by setting weights.

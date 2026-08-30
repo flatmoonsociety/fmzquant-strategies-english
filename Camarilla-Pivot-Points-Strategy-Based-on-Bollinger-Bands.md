@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/196b309b321e0f256bb.png)
+![IMG](assets/images/cea21955a2898f39400c57bd2d456e514f48f45bf89e150e8916587bc19755e7.png)
 [trans]
 ### Overview
 The strategy first calculates the Camachilla Pivot Point based on the previous trading day's high, low, and closing prices. Then combine the Bollinger Bands indicator to filter the price and generate a trading signal when the price breaks through the pivot point.

@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/ce636f56d217fda343.png)
+![IMG](assets/images/f58f858c38aa29ae1ea164404ef1830388124758be063a342ba513eee86af5f7.png)
 [trans]
 ## Overview
 The moving average crossover trend following strategy is a quantitative trading strategy that tracks market trends. This strategy captures turning points in market trends by calculating fast and slow moving averages and generating trading signals when they cross.

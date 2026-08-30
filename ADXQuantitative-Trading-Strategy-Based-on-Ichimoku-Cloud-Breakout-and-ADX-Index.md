@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1d1bbce4d14765ebaee.png)
+![IMG](assets/images/97bcc2c3a3ed0733afcdccd6bcd708d187a2b8d328b9f31f25da60cf132664d1.png)
 [trans]
 ## Overview
 The name of this strategy is called "Quantitative Trading Strategy Based on Yiyun Breakthrough and ADX Indicator". It combines One Cloud graphical technical analysis with the Average Trend Index (ADX) indicator to decide when to enter a long or short position. Specifically, it takes a position when price breaks out of a key area of ​​the cloud chart and the ADX indicator shows a strong trend.

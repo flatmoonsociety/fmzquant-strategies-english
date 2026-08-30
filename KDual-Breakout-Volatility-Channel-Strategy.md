@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/fd6efbd795890d4367.png)
+![IMG](assets/images/48c12fc5cb2ed95c5c1064855d73f16097ca54029288338442e44ba72444b7e3.png)
 [trans]
 ## Overview
 The bilateral breakthrough K-line fluctuation channel strategy calculates the middle rail, upper rail and lower rail of the channel, combines trend indicators and volume and price indicators to determine the market direction and strength, and sets breakthrough signals on both sides of the channel at the same time to achieve the main purpose of buying low and selling high.

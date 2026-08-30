@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/caa1732bfa7d3fd101.png)
+![IMG](assets/images/4d9b2e58852a2167b8c2e5f603d09deec7f07728a00545b84bb840467319867b.png)
 [trans]
 ## Overview
 This strategy combines three indicators, the Moving Average (EMA), the Relative Strength Index (RSI) and the Moving Average Convergence and Divergence Index (MACD), to find trading opportunities in multiple time frames and achieve automated trading. This strategy can effectively track market trends and reduce trading risks.

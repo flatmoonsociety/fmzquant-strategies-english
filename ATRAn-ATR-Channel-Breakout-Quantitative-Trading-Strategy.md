@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/f166410ae410398b63.png)
+![IMG](assets/images/6e214f2eefafbc949af5d425ebc9131a02b012c3564b1143a4516d15ef11c8e4.png)
 [trans]
 ## Overview
 This strategy is based on trading channels formed by calculating the average true range (ATR). Specifically, it calculates the SMA moving average of a certain period, and then uses the ATR value to determine the upper and lower rails of the channel. When the price breaks through the upper rail of the channel, go long, when the price falls below the lower rail of the channel, go short, and close the position when the price falls below the SMA moving average again.

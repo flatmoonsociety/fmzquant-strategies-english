@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1337df8ea5e80fa8d8e.png)
+![IMG](assets/images/668f85fa96ee33d07acbd9b289aa50e9152760cf5b3b94fa06a2e12736daa75d.png)
 [trans]
 ## Overview
 The Dornchian Channel Breakout Strategy is a trend following strategy based on price channels. This strategy uses the upper, lower, and midline moving averages in the Dornchian Channel to identify price trends and breakouts to generate buy and sell signals.

@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/103af68a5fe8eeeb62c.png)
+![IMG](assets/images/124257bf5e9b63c5b1bcbbc4dffbe16e39a55462a9de76aaeb56508005e8c034.png)
  [trans]
 ## Overview
 This strategy mainly combines two different types of strategy signals to achieve the superposition of strategy signals to achieve the effect of improving signal quality. The first signal is the Crossed Reversal strategy, and the second signal is the Thirty Oscillator strategy.

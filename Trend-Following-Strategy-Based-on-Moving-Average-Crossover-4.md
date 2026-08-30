@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/f88f6f74915632da41.png)
+![IMG](assets/images/fa03e8858779fdc9947ba9677ad1df3e0f9a452de2d34ac96885076cbf9d4152.png)
 [trans]
 ## Overview
 This strategy is designed based on the golden cross and dead cross principle of the moving average. By calculating the intersection of the fast line (short-term moving average) and the slow line (long-term moving average), we can determine the market trend and achieve trend tracking. When the fast line breaks through the slow line from bottom to top, a buy signal is generated; when the fast line breaks through the slow line from top to bottom, a sell signal is generated.

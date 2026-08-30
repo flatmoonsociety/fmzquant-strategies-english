@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/5808212311efbfc128.png)
+![IMG](assets/images/3108dfa0fe594cb030286ffb5710d1f5340cd4ba4d7e2a88abb47d342b521418.png)
 [trans]
 #### Overview
 This is a strategy based on the Super Trend indicator and the ATR indicator. The main idea of ​​this strategy is to use the super trend indicator to determine the trend direction of the current market, and trade when the super trend indicator changes. At the same time, this strategy uses the ATR indicator to calculate the stop loss and take profit prices, and calculates the position size based on a certain proportion of the account balance to control risks.

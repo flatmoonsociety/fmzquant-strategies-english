@@ -15,7 +15,7 @@ Calibration value
  The cycle is based on the daily line. The backtest data is okay; the backtest data for the cycle below the daily line is not good.
  This strategy uses trend indicators.
 *The reason for choosing 10000 and 6725 is based on Gann's ideas.
- ![IMG](https://www.fmz.com/upload/asset/149338fe3f9011badc20c.png) ![IMG](https://www.fmz.com/upload/asset/14947231d56707e5f7e8c.png)
+ ![IMG](assets/images/ed3460b0e472882e7e2463c6e475666fdaab10bca3b29a6b18369131e0c6581e.png) ![IMG](assets/images/baa589d7186a83d6cd3ed6b6cdb003686de9874a91582f9b75d0b88a4185da49.png)
 > Strategy Arguments
 
 

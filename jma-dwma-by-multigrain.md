@@ -19,7 +19,7 @@ Credit to @everget for the re-creation of the Jurik Moving Average in pinecsript
 
 **backtest**
 
- ![IMG](https://www.fmz.com/upload/asset/7e260b441ac09fdb30.png) 
+ ![IMG](assets/images/936b720632704a06e58c61066f2f631f1f3c196d1f9f29dac3146faae8a05a32.png) 
 
 > Strategy Arguments
 

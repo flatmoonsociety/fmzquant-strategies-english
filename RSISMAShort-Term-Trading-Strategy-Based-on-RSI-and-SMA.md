@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/f112340bc8074b61b7.png)
+![IMG](assets/images/03c8c3272dc7d0e387cac2b53ea788dc721eb20e8fa54c86aeb140b4dd0093d5.png)
 [trans]
 ## Overview
 This strategy is called "Short Term RSI and SMA Percent Change". It utilizes common technical indicators like RSI and moving averages to determine trade entries and exits. RSI is a momentum indicator ranging from 0 to 100, which can show overbought and oversold conditions in the market. SMA is a simple moving average that reflects both short-term and long-term price trends. This strategy builds entry and exit signals based on these two indicators, and backtesting shows that it can achieve better results.

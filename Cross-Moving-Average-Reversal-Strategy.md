@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/17bebcd04c5bf748668.png)
+![IMG](assets/images/22bddd0982f21b2021c5067b4fdea02ca29385825ca9ea48a918959d7c1a049a.png)
 [trans]
 ## Overview
 This strategy is a cross-moving average reversal strategy based on a simple moving average. It uses a simple moving average with a length of 1 and a length of 5. When the short-period moving average crosses the long-period moving average from below, it goes long and when it crosses below the long-period moving average, it goes short. It is a typical trend following strategy.

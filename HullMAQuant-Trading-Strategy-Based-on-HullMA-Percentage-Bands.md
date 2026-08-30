@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/902a0f17374778593e.png)
+![IMG](assets/images/5162b8c59d2aa58ec70d88fbf5b771e2b8eb328e0b4bde10c506f7dadfc869ae.png)
 [trans]
 ## Overview
 This strategy realizes quantitative trading of breakout buying and stop-loss selling by calculating the Hull moving average and its upper and lower percentage bands. The advantages of the strategy include adjustable parameters, simple implementation, and strict stopper. However, there are also risks such as chasing highs and selling lows, and frequent trading. By optimizing stop loss strategies, adding short-term operations, etc., you can achieve better results.

@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/125885ad973404b9175.png)
+![IMG](assets/images/ac7817c96b446935889815a2428723c37b89f4963945f264792d37e94f1394b0.png)
  [trans]
 ## Overview
 This strategy uses supply and demand areas, exponential moving averages (EMA), and average true range (ATR) exponential trailing stops to determine trading signals. Users can adjust EMA parameter settings and visibility of buy and sell signals. The strategy marks supply and demand areas such as Higher Higher (HH), Lower Lower (LL), Lower Higher (LH), and Higher Lower (HL). The third K line confirms the signal and issues the trading order. This script is suitable for backtesting.

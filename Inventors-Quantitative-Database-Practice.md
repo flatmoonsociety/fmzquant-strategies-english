@@ -43,7 +43,7 @@ function main() {
 }
 ```
 A database usually contains one or more tables, each table is identified by a name. It should be noted that the system reserved tables are: kvdb, cfg, log, profit, chart. In other words, when creating a table, you should avoid names reserved by the system. Let's run the above code and it will output the following:
- ![IMG](https://www.fmz.com/upload/asset/393b1a026bfb876e4273.png)
+ ![IMG](assets/images/979348d7cd0b5f1cad7e5801940118ebb11055ed7c931c63f719a5f907d05015.png)
 #### 5. Strategy Examples
 After understanding the basic syntax of SQLite, we strike while the iron is hot and use the inventor's built-in database to create an example of collecting and using Tick data.
 **Step One: Update Host**
@@ -101,9 +101,9 @@ function main() {
 
 **Step Three: Run the Strategy**
 Taking Windows as an example, after running the policy, a folder named after the robot number will be generated in the "\logs\storage" directory of the host directory. When you open the folder, there is a file with ".db3" as the suffix. This file is the file of the inventor's built-in database. As shown in the following figure:
- ![IMG](https://www.fmz.com/upload/asset/39b811e1f9df0a2911f9.png)
+ ![IMG](assets/images/7550089982ce66f95d5d8c8945cf418701861dc7b2c28d95c93c01fde8cc9c64.png)
 The above code first creates a data table named "tick", then adds the tick data field to the table, then obtains the tick data from the exchange in the loop, and inserts the data into the "tick" data table. At the same time, it judges that the amount of data in the data table exceeds 10 and breaks out of the loop. Finally, five SQLite commands are used to query, delete, and modify the data in the data table. And print it out in the log, as shown in the following figure:
- ![IMG](https://www.fmz.com/upload/asset/395a055a194ff230e4a7.png)
+ ![IMG](assets/images/f929a672b85c3aecdeeb690f60022abdc31ca127a7112ddfdb8bb5fb47def6b9.png)
 **Step 4: Create status bar**
 Finally, we add some code to create a status bar for the strategy by obtaining data from the inventor's quantitative database to display the data more intuitively. The new code is as follows:
 ```
@@ -117,7 +117,7 @@ Finally, we add some code to create a status bar for the strategy by obtaining d
     LogStatus('`' + JSON.stringify(table) + '`');
 ```
 The above code creates a "Binance Tick Data" table from the data in the database. The "columns" field in the database represents the "rows" in the status bar, and the "values" field represents the "columns" in the status bar. As shown below:
- ![IMG](https://www.fmz.com/upload/asset/392321ea08e47fb0fc54.png)
+ ![IMG](assets/images/288c660aa2374728085862b29999bc5d746f483d3d42b91cc3ad78a446feeadd.png)
 #### 6. Complete strategy code
 ```
 /*backtest

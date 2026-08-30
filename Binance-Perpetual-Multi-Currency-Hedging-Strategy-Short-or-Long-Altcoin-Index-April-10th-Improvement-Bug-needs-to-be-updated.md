@@ -21,7 +21,7 @@ grass
 ## Strategy Principle
 The strategy will diversify into shorting a selected basket of altcoins at equal value, while simultaneously taking long positions on Bitcoin to hedge, reducing risk and volatility. As prices fluctuate, positions are constantly adjusted to keep the value of short positions constant and long positions equal. **Essentially shorting the Altcoin-Bitcoin Price Index**. The performance of the past two months (about 3 times leverage, data updated to 4.8), in the past week, altcoins have risen relative to Bitcoin, so they have suffered losses. If you are bullish on altcoins, you can set short Bitcoin and long altcoins in the parameters:
 **The default strategy is long Bitcoin and short altcoins, you can also do the opposite (if you think altcoins are at the bottom), the decision is yours**
- ![IMG](https://www.fmz.com/upload/asset/24281c6de45544ca2b7.png) 
+ ![IMG](assets/images/81b1c02b8b0440c46e7d447dc782a67c2673a0d5ad43014cd35045b18486ba9f.png) 
 
 
 
@@ -36,7 +36,7 @@ If you are only short BTC and long TRX, DASH, ONT, QTUM, and the Trade_value is 
 If you are only long BTC and short TRX, DASH, ONT, QTUM, and the Trade_value is 50, then TRX, DASH, ONT, and QTUM all have short positions of 50, and BTC has long positions of 50\*4.
 The leverage in the status bar represents the proportion of the margin that has been used, and should not be too high.
 ## Strategy parameters
- ![IMG](https://www.fmz.com/upload/asset/2c9e5e0e4c30f9eaada.png)  
+ ![IMG](assets/images/c5909967e737efdf9bc741ec5efc082d964ffba88fd7cde62338cdbe771cf49e.png)  
 
 - Short_symbols: Short-selling currencies, separated by ","
 - Long_symbols: For long currencies, you can also leave it short, without hedging, or directly go short.

@@ -18,7 +18,7 @@ Added "Candle Size > 1 ATR" Diamonds from my old script with the criteria of bei
 
 **backtest**
 
- ![IMG](https://www.fmz.com/upload/asset/16f9872d59d9fafbaaf.png) 
+ ![IMG](assets/images/cccd115247145a86b65d6362cb7c0b00630ad5004ff7024ab0dba9ee1c21b46a.png) 
 
 > Strategy Arguments
 

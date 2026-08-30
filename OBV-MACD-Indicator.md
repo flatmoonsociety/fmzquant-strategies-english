@@ -19,7 +19,7 @@ this is volume indicator based so in some graph where volume does not exist this
 
 **backtest**
 
- ![IMG](https://www.fmz.com/upload/asset/1ebc5eddbfa196529fe.png) 
+ ![IMG](assets/images/ff52a200404b588aabec35f7ec75616181c7e5f0eaa3af56241ea6b87743d7f9.png) 
 
 > Strategy Arguments
 

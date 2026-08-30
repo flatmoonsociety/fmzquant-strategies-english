@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1141994386990960ad3.png)
+![IMG](assets/images/b6662f7e1b87b7774127cc3db97167316efa861f70f7b5614dee538e59f477d8.png)
 [trans]
 Overview: This strategy is a classic trading strategy based on moving average crossover. The indicator uses double moving averages, including simple moving average (SMA), exponential moving average (EMA), linear weighted moving average (VWMA) and shock weighted moving average (HMA).
 Principle: The core logic of the strategy is the crossover of double moving averages. By calculating the moving averages of two different parameters, a buy signal is generated when the fast moving average crosses the slow moving average; a sell signal is generated when the fast moving average crosses below the slow moving average. Moving average crossovers represent a reversal in the short-term and long-term trends of prices.

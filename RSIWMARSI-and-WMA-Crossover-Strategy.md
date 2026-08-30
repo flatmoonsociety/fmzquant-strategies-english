@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/13f61a9efff28ca9ab6.png)
+![IMG](assets/images/f6bd938fb2df08ddd042c956c296d7f11b1180de85ae38077c24335184cd699d.png)
 [trans]
 ## Overview
 This article mainly introduces a quantitative trading strategy based on RSI and WMA. This strategy calculates the values ​​of RSI and WMA and sets the conditions for buy and sell signals to discover the stock price reversal point and achieve the purpose of buying low and selling high.

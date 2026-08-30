@@ -11,7 +11,7 @@ baby dinosaur
 **Obviously, in the currency circle, in the long run, no complex model can outperform the brainless grid**
 **The password of wealth is brainless grid + brainless stud dog**
 **Hopefully, like the earliest Martin, it will be the most simple and crude but profitable strategy**
- ![IMG](https://www.fmz.com/upload/asset/1bdae37080236f7ea7077.png)
+ ![IMG](assets/images/665db7cab0cbb4d980a8f1f0d9fd3e8a28b5af1addabffa8385a31a086c76d70.png)
 
 > Strategy Arguments
 

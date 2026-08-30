@@ -31,7 +31,7 @@ Credits going to @CryptoErge for sharing his development to public.
 **backtest**
 
 
- ![IMG](https://www.fmz.com/upload/asset/672130dd0d453ab31e.png) 
+ ![IMG](assets/images/e6f98c76b6451255fd6c777d5a0a642045f6092225ba5efcfcee7134eb15b607.png) 
 
 > Strategy Arguments
 

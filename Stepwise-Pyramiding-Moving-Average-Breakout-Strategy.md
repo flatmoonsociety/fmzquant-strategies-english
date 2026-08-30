@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/13a4855ee824fbc5bca.png)
+![IMG](assets/images/3630a321a476a582dd2d509e2b2d972fdaa84769dc30c4354460d07df023f9e1.png)
 [trans]
 ### Overview
 This strategy adopts the method of gradually increasing positions, and determines the market direction based on the comparison between the closing price and the previous day's closing price. When it is judged to be a bullish opportunity, the position will be gradually added to the long position in multiple times; when it is judged to be a bearish opportunity, the position will be gradually added to the short position in multiple times. The number of positions added can be set through parameters. At the same time, the strategy has added time period filtering, and trading signals will only be issued within the set time period.

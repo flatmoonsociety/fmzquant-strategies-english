@@ -21,7 +21,7 @@ Simple, more polite, and hopefully more useful fractals for those wnting a clean
 
 **backtest**
 
- ![IMG](https://www.fmz.com/upload/asset/14b45d34218ed9a67de.png) 
+ ![IMG](assets/images/846a4c210a6e5190fa414f71e1def6cb8cabec4801ba3e2407709e98127e9f42.png) 
 
 > Strategy Arguments
 

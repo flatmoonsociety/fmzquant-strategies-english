@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1c2f7d3bb94b33811a3.png)
+![IMG](assets/images/76997e4e6d66aea2abc992dc993536190608e7aca9c843c1a34d76950a1cf2ab.png)
 [trans]
 #### Overview
 This strategy mainly identifies potential market reversal points by identifying a specific K-line pattern - Pin Bar. Pin Bar is a K-line pattern composed of a long shadow line and a small entity, indicating that the market has experienced large fluctuations at this point, but the price eventually retraced, showing that this point may be a support or resistance level. This strategy uses the 50-period simple moving average (SMA) to determine the current trend direction, and uses the 20-period SMA as the trading volume filter condition. Only when the Pin Bar appears, the trading volume is greater than the moving average, is it considered a valid signal. In addition, the strategy also calculates the Relative Strength Index (RSI), but this is not used directly in the entry and exit conditions, but as an optional condition to further filter the signals.

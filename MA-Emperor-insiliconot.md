@@ -25,7 +25,7 @@ EmperorBTC
 
 **backtest**
 
- ![IMG](https://www.fmz.com/upload/asset/1a8f3eeae4b9754418d.jpg) 
+ ![IMG](assets/images/11bd8daa6578b1648cf462b83847ecf45fabe516100d96496b31b5ade3277d3d.jpg) 
 
 > Strategy Arguments
 

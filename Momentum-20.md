@@ -23,7 +23,7 @@ Base Level Period - determines the period used for long-term averaging when calc
 
 **backtest**
 
- ![IMG](https://www.fmz.com/upload/asset/1b5c272b6cd20f0a1cb.png) 
+ ![IMG](assets/images/053bebe1b07812351d1167fe277e51e69e45c4743f15c89814aa4ba94e748ceb.png) 
 
 > Strategy Arguments
 

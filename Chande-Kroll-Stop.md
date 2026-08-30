@@ -19,7 +19,7 @@ good luck trading!
 
 **backtest**
 
- ![IMG](https://www.fmz.com/upload/asset/ba67a3e2b923ac9d2b.jpg) 
+ ![IMG](assets/images/a079567bcb816593bfe0be5e5d7a746bf8cc7e42d91220aef6227bb3f85fc562.jpg) 
 
 > Strategy Arguments
 

@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/e81b9c4882a3deaaa5.png)
+![IMG](assets/images/7fdbdbbd303e6b822ed41c16f882fa4b94c09df5e426a44ab5177840c3119609.png)
 
 [trans] This strategy is a momentum trend tracking strategy based on a dual moving average system. It combines the cross signals of fast moving averages and slow moving averages. It also introduces filtered moving averages to optimize entry timing and achieve robust trading effects through fund management and risk control.
 #### Strategy Principle

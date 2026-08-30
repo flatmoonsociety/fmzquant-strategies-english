@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1bbc7404a1070b432cc.png)
+![IMG](assets/images/4b02e3e02b012bd03aaa13b2d0675c64c552c85e99f9f4619e0ef93919fd3114.png)
 [trans]
 ### Overview
 This strategy is a simple and efficient short-term trading climbing strategy suitable for cryptocurrency, and can also be used for medium and long-term trend trading. Its main components include price oscillators, vortex indicators, and stop-loss and take-profit risk management mechanisms.

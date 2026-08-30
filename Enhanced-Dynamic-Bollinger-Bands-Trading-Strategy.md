@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/dc03f69c89e77a06b1.png)
+![IMG](assets/images/b1f8c71351f6d5a6b373cbd5a974a936c5fb28e6dedb84fb9da1e4079c94f52f.png)
 [trans]
 #### Overview
 This strategy is an enhanced trading system based on the Bollinger Bands indicator, which optimizes the traditional Bollinger Bands strategy by using double standard deviation bands. This strategy uses the interaction of price with different standard deviation levels to generate trading signals designed to capture trends and reversal opportunities in the market.

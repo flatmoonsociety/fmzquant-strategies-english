@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1908c591795a174bedc.png)
+![IMG](assets/images/dd63de6d99cae3daa4fc0f39fec2a63354c64d503c7c760870d0da7fab6d09dc.png)
  [trans]
 ## Overview
 The Nut 123 reversal and breakthrough range short-term trading strategy is a combination strategy that integrates the signals of the two sub-strategies of the reversal strategy and the breakthrough strategy, thereby generating more powerful trading signals.

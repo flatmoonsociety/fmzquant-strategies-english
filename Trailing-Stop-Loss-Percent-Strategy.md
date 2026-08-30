@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/e9440ada607c5d1b7d.png)
+![IMG](assets/images/4831337a0da485ccc1e08effb113f87200eb2c49bfdb43cf16c6d42c94435f09.png)
 [trans]
 ## Overview
 This strategy is a strategy with date-specific triggering of long position establishment and trailing stop loss risk management mechanisms. This strategy is particularly suitable for traders who wish to automate position entries based on specific calendar dates and manage positions through dynamic risk control methods such as trailing stops.

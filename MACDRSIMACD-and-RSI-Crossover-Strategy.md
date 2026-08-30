@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/b54e3d135c8abc543f.png)
+![IMG](assets/images/87cf1b838cb4661a45fb7a627f91db5fd4ab67c8ef40319e01aeab4580047306.png)
  [trans]
 ### Overview
 This strategy generates trading signals by calculating the intersection of two indicators, MACD and RSI. When the RSI is overbought or oversold, buy and sell signals are generated when the MACD golden cross occurs. This strategy combines the advantages of two different types of indicators, taking into account both price trends and overbought and oversold conditions, thereby improving the effectiveness of the strategy.

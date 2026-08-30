@@ -56,7 +56,7 @@ This script is intended for experimenting and backtesting different strategies a
 
 **backtest**
 
- ![IMG](https://www.fmz.com/upload/asset/12ed8fdcb889021572e.jpg) 
+ ![IMG](assets/images/1a9d680a3985cf28c4bd7c433889844b082cde174743ae4f6b401b58d9bf6621.jpg) 
 
 > Strategy Arguments
 

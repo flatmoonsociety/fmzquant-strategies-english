@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1dcf11563ad852de4c3.png)
+![IMG](assets/images/774a9a037202b6f9f13ba6b1e23b497f89d65a9660fa94564c542b67cf214ca3.png)
 [trans]
 #### Overview
 This strategy combines two technical indicators, the Bollinger Bands and the Exponential Moving Average (EMA), designed to capture short-term price fluctuations in the market. Bollinger Bands are used to measure price volatility, while EMA is used to evaluate trend direction. When the closing price breaks through the EMA and exceeds the upper rail, it indicates that the upward trend may continue, and a long position is opened at this time; on the contrary, when the closing price falls below the EMA and is lower than the lower rail, it indicates that the downward trend may continue, and a short position is opened at this time. The strategy also incorporates risk management techniques such as stop-loss and take-profit to control downside risk and lock in profits. Overall, this strategy provides traders with a systematic approach to trading based on clearly defined entry and exit conditions, increasing the probability of successful trades.

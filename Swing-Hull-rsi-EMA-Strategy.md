@@ -13,7 +13,7 @@ A Swing trading strategy that use a combination of indicators, Hull average to g
 Past Performance Does Not Guarantee Future Results
 
 **backtest**
- ![IMG](https://www.fmz.com/upload/asset/ab1fe0ba981e4b4a64.png) 
+ ![IMG](assets/images/ebb9635596f3917301cbd3c69257cb598d5521d30bfd25880ff2255f264070e8.png) 
 
 > Strategy Arguments
 

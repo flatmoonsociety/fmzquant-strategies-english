@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/a818fb74de2803e068.png)
+![IMG](assets/images/b1c06dd152e576f1ed04a8c0814ecb7784c9edf02ece5b9a47e9877aeb393737.png)
  [trans]
 ### Overview
 This strategy uses the Kaufman Adaptive Moving Average (KAMA) indicator to design a trend following trading system. This system can quickly track the trend when it forms and filter out the noise in the volatile market. At the same time, the system also integrates the Parabolic Steering System (PSAR) and the Average True Volatility Trailing Stop (ATR Trailing Stop) as stop-loss mechanisms, which has strong risk control capabilities.

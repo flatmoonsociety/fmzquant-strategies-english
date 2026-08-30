@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1b9f5d8667d6ddf0c9c.png)
+![IMG](assets/images/77c07199ca6ac8a870cde2a24b36471b03db4547faaf28d240ceb4d86e193841.png)
  [trans]
 ## Overview
 This strategy is based on the two-way tracking of the golden cross and dead cross of the EMA average line, and sets dynamic stop loss lines for long and short positions to capture the trend market.

@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/216f1052afb70b0abfd.png)
+![IMG](assets/images/498a55bdf9306a978b1dfb54dfc85f035e367ef18bf819d07f5081353285d49a.png)
 
 This is a trading strategy based on Klinger quantitative indicators. This strategy captures changes in buying and selling power in price fluctuations to discover turning points in market trends. Its advantage is that it is sensitive and accurate, and can be used for both short-term and long-term analysis. But there are some risks to be aware of.
 #### Strategy Principle

@@ -12,7 +12,7 @@ ChaoZhang
 Orignal Version By dysrupt / Modifyed by me
 **backtest**
 
- ![IMG](https://www.fmz.com/upload/asset/a76a0a04e9d9dc3115.png) 
+ ![IMG](assets/images/d9140d286f853f85f6a1138acd9f79ab03bec8d18dd1ab332b0b5cae2035604f.png) 
 
 > Strategy Arguments
 

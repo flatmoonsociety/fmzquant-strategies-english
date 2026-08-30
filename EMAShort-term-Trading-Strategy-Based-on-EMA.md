@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/16468e1775ca361bdd4.png)
+![IMG](assets/images/0aea8436cef0ef2392b4950c6db621983198520a3659a559467c79e540c1c315.png)
 [trans]
 ## Overview
 This strategy is based on the crossover principle of EMA and designs a short-term trading strategy. When the stock price has a certain degree of correction, appropriate short-term trading can be carried out in order to obtain better returns.

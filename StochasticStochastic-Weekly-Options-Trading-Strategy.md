@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/161eea10018984cfb4b.png)
+![IMG](assets/images/704c2fb9a847924b31d84056acb10e84153fe9dc3e0d2a71a42065a5b7b0c6ab.png)
 [trans]
 ## Overview
 This strategy, called "Cyclic Options Trading Strategy Based on Stochastic Indicators," uses the Stochastic Oscillator to identify potential entry and exit points for options trading. This strategy is designed specifically for options trading and identifies trading opportunities on both the long and short sides.

@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/c03a19729a6000745e.png)
+![IMG](assets/images/0b1540f3943f5723bac79f90de915384e6160ab33eed3ef70fbb39eea3eb2dc4.png)
  [trans]
 ## Overview
 This strategy comprehensively uses double moving average crossover technology and pressure level breakthrough technology to set buy signals and sell signals to achieve automatic trading. When the short-term moving average breaks through the mid-term moving average from bottom to top, and the stock price breaks through the pressure level, a buy signal is generated; when the stock price rises by 15%, a stop profit is set, and when the stock price falls by 3%, a stop loss is set. This strategy can automatically identify market trends, automatically enter the market when technical indicator signals appear, and set stop-profit and stop-loss to control risks. It is a relatively mature quantitative trading strategy.

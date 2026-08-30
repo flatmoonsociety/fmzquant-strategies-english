@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1345e4dc57858ad47ae.png)
+![IMG](assets/images/746d1f4a401e76eca0e2ff408debac6a2252c5b2d823dafaef2f06295f158553.png)
 [trans]
 #### Overview
 This trading strategy combines three technical indicators: exponential moving average (EMA), relative strength index (RSI) and moving average convergence divergence (MACD). By analyzing their intersection and numerical relationship, it generates buy and sell signals when the price meets certain conditions. At the same time, the strategy also sets dynamic take-profit and stop-loss to manage trading risks.

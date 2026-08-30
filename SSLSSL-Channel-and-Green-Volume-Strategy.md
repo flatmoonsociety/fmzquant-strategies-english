@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/b343b2828230551d48.png)
+![IMG](assets/images/f5a94f8030cd68dabd158eac72ce00be704d0fc272a9ab32704385931cebf467.png)
 [trans]
 ## Overview
 The SSL channel and green volume strategy is a quantitative trading strategy based on the SSL channel indicator and green volume conditions. This strategy uses the upper and lower rails of the SSL channel as buying and selling signals, and combines green trading volume conditions to make trading decisions, aiming to capture market trend opportunities.

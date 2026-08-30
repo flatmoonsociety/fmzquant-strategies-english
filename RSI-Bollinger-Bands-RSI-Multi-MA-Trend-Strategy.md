@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/155c9439e7568c25264.png)
+![IMG](assets/images/a9d44fea65b5691487410b3fb0d8529bf9a8803754e2ec966ed4d9786c60acd9.png)
 [trans]
 #### Overview
 This strategy combines Bollinger Bands, RSI, multiple moving averages and MACD indicators to build a complete trading system. First, judge the price fluctuations through the Bollinger Bands, and use the position of the price relative to the middle track of the Bollinger Bands to determine the trend. Also use the RSI indicator to determine overbought and oversold conditions, and use RSI divergence to identify potential trend reversals. Multiple moving averages are used for trend tracking and support and resistance level determination. Finally, the MACD indicator is also used to assist in determining trends and potential reversals. Combine the above indicators to formulate opening and closing conditions and construct a complete trading strategy.

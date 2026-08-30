@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/13d90740841c52b4a85.png)
+![IMG](assets/images/e74c109535ecef67fd3460572c6af4b770fc6180a1026ac8f0f79e3766426799.png)
 [trans]
 Overview: This strategy is a strategy that uses Bollinger Bands, KDJ indicators and trend tracking for price breakthrough operations. It can perform buying and selling operations at breakthrough points and set stop loss lines to control risks.
 Strategy principle:

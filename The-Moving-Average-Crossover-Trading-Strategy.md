@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/116ca5c9a672d514524.png)
+![IMG](assets/images/d6127f7f478b9fc70821c68994451030799da08ac08cb55264d867f631bb5065.png)
 [trans]
 ## Overview
 The moving average trading strategy identifies rising and falling trends in stock prices by calculating the fast moving average (50-day line) and slow moving average (200-day line) to capture potential trading opportunities. When the fast moving average crosses the slow moving average, it means that an upward trend in stock prices has formed, and the strategy will establish a long position; when the fast moving average crosses below the slow moving average, it means that a downward trend in stock prices has formed, and the strategy will establish a short position.

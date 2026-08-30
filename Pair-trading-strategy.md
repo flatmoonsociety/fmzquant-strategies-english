@@ -9,7 +9,7 @@ ChaoZhang
 
 > Strategy Description
 
- ![IMG](https://www.fmz.com/upload/asset/16fa0cfc72842ff46a7.png) 
+ ![IMG](assets/images/4e36557f081556bc44b09bc724831238275a9108617a018c8fb37a08f3d5c5c3.png) 
 
 Pair trading is a trading strategy that involves simultaneously buying one asset and short selling another asset that are considered to be closely correlated. The goal of pair trading is to profit from the expected convergence of the two assets' prices.
 

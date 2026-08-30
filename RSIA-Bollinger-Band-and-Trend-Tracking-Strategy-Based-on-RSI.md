@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/10898e19338edc52248.png)
+![IMG](assets/images/9577f6c7dda1ba5fbda065ffe20afa1083dc0cf70ffba3343beee215fa9e961e.png)
 [trans]
 
 This strategy comprehensively uses Bollinger Bands and RSI indicators to identify key points in trend direction changes, establish positions when the trend turns, and then use the power of the trend to make a profit.

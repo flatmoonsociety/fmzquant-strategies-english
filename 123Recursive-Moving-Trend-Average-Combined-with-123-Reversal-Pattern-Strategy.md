@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/182fa68f5f298504660.png)
+![IMG](assets/images/b84515b6ea8612d454d14fdf983e25335c434ccfb781a8bb523e845a02a9b7b3.png)
 [trans]
 ## Overview
 This strategy combines the two strategies of recursive moving trend moving average and 123 pattern reversal to form a comprehensive signal to improve the stability and profitability of the strategy.

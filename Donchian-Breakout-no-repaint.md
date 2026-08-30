@@ -13,7 +13,7 @@ donchian breakout strategy which i revise the script for no repaint signal
 
 **backtest**
 
- ![IMG](https://www.fmz.com/upload/asset/1498e40f2cbea4b4b93.png) 
+ ![IMG](assets/images/ee2d97b39205b4abcee88efc23f14c3e31bfe34f05730782d3de9eb325892267.png) 
 
 > Strategy Arguments
 

@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/109960b071f02688b4b.png)
+![IMG](assets/images/32d4316b6543a6d0f2b99cce6a5a6106347608f5059c5e3b4e34ec2c1310fb51.png)
  [trans]
 ## Overview
 The name of this strategy is "Double Exponential Moving Average RSI Trading Strategy". This strategy uses the Double Exponential Moving Average (Double EMA) and the Relative Strength Index (RSI) as the main trading indicators to achieve mechanized trading.

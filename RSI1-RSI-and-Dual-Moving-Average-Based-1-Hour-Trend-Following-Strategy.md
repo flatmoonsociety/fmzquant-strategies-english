@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1a6df4e005f4dba8e9f.png)
+![IMG](assets/images/67691dee7c695dab4a17aa2c7f7cbce8222b564eb73d496e3e8f328165bf7811.png)
 [trans]
 #### Overview
 This strategy uses the relative strength index (RSI) and two simple moving averages (SMA) as the main indicators to generate long and short signals on the 1-hour time frame. By relaxing the condition settings of RSI and SMA, the frequency of signal triggering is increased. At the same time, the strategy also uses the average true range (ATR) indicator for risk management and dynamically sets take-profit and stop-loss levels.

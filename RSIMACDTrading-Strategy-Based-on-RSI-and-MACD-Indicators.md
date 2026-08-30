@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/17b5ef4a8007d5c51f5.png)
+![IMG](assets/images/0739aadee97f68a5440e05832759932a78196a34b019f36ff3374d2f71777c93.png)
  [trans]
 ## Overview
 This strategy combines the Relative Strength Index (RSI) and the Moving Average Convergence Index (MACD) to identify trading opportunities in BTC. Go long when the RSI is below 30 and the MACD line is below the signal line and the MACD Histogram is less than -100; go short when the RSI is above 80 and the MACD line is above the signal line and the MACD Histogram is greater than 250. This strategy also uses a trailing stop to lock in profits.

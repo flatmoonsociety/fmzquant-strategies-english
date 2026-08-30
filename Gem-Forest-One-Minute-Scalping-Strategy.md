@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/15995053761dbeb149c.png)
+![IMG](assets/images/1075d6b0322b2a41c84cbf10d7dad0b27e5d120da122815d4bf7a26c5a8bc5c0.png)
 [trans]
 ### Overview
 Gem Forest One Minute Scalping Strategy is a short-term quantitative trading strategy. This strategy comprehensively uses multiple indicators to identify the market's shock characteristics within the 1-minute time frame, and switches between long and short positions accordingly to achieve ultra-short-term arbitrage.

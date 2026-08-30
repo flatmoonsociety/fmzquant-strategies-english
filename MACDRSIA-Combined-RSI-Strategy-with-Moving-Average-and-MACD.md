@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1b5ef41c0b59bc24a9e.png)
+![IMG](assets/images/c11ca7c4850fc810c41a4ffb237feebb05f6a6d4560357c9879673be69aecd0a.png)
 [trans]
 ## Overview
 This strategy uses a combination of moving averages, MACD indicators, and RSI indicators to identify stock price trends and achieve profit by buying low and selling high. A buy signal is generated when the short-term moving average crosses the long-term moving average and the closing price is above the 50-day moving average. A sell signal is generated when the short-term moving average crosses below the long-term moving average and the price closes below the 50-day moving average. In addition, this strategy will also use the RSI indicator to determine whether it is in the overbought and oversold area to correct the entry signal, and use the histogram of the MACD indicator to correct the mid- and long-term trend judgment.

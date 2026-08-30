@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/16fec096f9955afdc5b.png)
+![IMG](assets/images/98595c5918cc32c8bd7a656c75e6043a5b7d77204bac9e0b79b5b2abd769179f.png)
 [trans]
 ## Overview
 The Lazy Bear Momentum Squeeze Strategy is a quantitative trading strategy that combines Bollinger Bands, Keltner Channels, and momentum indicators. It uses Bollinger Bands and Keltner Channel to determine whether the current market is in a squeeze state, and then combines momentum indicators to generate trading signals.

@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/113b588378aaaa96536.png)
+![IMG](assets/images/4c901503d58911e5d1f26daa7bf1d14899c5d393dd4f7ee273f17892afcbbc27.png)
 [trans]
 ## Overview
 This strategy is a buy-only strategy based on price action and short-term trends. It uses multiple exponential moving averages (EMA) as technical indicators for buying and selling.

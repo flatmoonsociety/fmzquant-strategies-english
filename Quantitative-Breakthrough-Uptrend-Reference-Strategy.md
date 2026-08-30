@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/a2061f7f669a925274.png)
+![IMG](assets/images/6f0e833db0b06b8714554585e4995000367f1d79bf0f2bae6173717d6f9144d7.png)
 [trans]
 ### Overview
 This strategy is a long-term position strategy that is based on a simple moving average to determine the trend direction and cooperates with resistance and support lines to form a breakthrough signal. By calculating the price Pivot high point and Pivot low point, draw resistance and support lines, go long when the price breaks through the resistance line, and close the position when it breaks through the support line. This strategy is suitable for stocks with obvious trends and can obtain a better risk-reward ratio.

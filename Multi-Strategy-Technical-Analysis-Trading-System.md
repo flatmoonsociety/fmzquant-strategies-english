@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/17dcc538b3b88268889.png)
+![IMG](assets/images/cf9c33577baa663ddd57d5133571eec035c9a4fe705cfc11d39a211846a6e5ad.png)
 
 [trans]This article will introduce a trading strategy system that combines multiple technical indicators. The system aims to provide traders with a comprehensive trading solution by integrating multiple technical analysis methods such as MACD, EMA, simple moving average and MA100, combined with risk management and time filters.
 #### Strategy Overview

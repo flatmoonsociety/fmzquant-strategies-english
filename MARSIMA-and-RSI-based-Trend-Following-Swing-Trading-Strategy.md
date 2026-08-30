@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/bb0af30e823ae39289.png)
+![IMG](assets/images/c753e30099f34c4b6d52b61694e33bf32d7db7732c17f36aac9abba4dc0bb8d3.png)
 [trans]
 ## Strategy Overview
 The trend following swing strategy based on MA and RSI is a quantitative trading strategy that combines moving averages and the relative strength indicator. This strategy aims to capture the mid- to long-term trend of the market, while using the RSI indicator to determine the overbought and oversold state of the market to optimize entry and exit points.

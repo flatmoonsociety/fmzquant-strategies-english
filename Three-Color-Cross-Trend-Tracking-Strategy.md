@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/9012c0d4b2e95ac656.png)
+![IMG](assets/images/82e3b24a19fb787f15a7450aef56841b1891d312cc7d6eba5e9c784e37b5e354.png)
 [trans]
 ## Overview
 The three-color cross trend following strategy is a trend following trading strategy based on K-line patterns. This strategy determines the direction of the current trend by identifying specific three-color K-line patterns, and selectively goes long or short when the pattern is identified.

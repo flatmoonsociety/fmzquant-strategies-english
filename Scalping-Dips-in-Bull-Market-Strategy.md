@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/641bede5c853b43121.png)
+![IMG](assets/images/b4988725c4b7205eff896c8eaf739e06109bcac31dc07c843e899b18e7b6c9bf.png)
  [trans]
 ## Overview
 The bull market pullback short-term strategy is a trend following strategy. It buys the pullback in a bull market and sets a larger stop loss to exit at a profit. This strategy is mainly suitable for bull markets and can obtain excess returns.

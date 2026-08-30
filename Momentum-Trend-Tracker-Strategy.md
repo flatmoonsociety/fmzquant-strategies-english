@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/a05aa3e1f6d40e171e.png)
+![IMG](assets/images/5a7f2c53a6989b7d43c669971cdf5eb09f5bf1a5b32c001de9a0b9ac8136e1b1.png)
  [trans]
 ## Overview
 The Momentum Trend Follower strategy is a tool designed to leverage the convergence of volatility, trend and momentum indicators to inform trading decisions. This strategy is unique in that it combines the Average True Range (ATR) to dynamically adjust stops, the Simple Moving Average (SMA) to filter trends, and the Moving Average Divergence (MACD) to confirm entry signals.

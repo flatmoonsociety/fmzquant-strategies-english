@@ -17,7 +17,7 @@ Entry only on trade on screen symbols, use additional buy/sell alerts to book pr
 I have also added Golden Cross Over of 65 and 21 EMA to have confirmation on trend.
 
 **backtest**
- ![IMG](https://www.fmz.com/upload/asset/f78087a61a12c0ca4f.png) 
+ ![IMG](assets/images/4a87136609cca9abcbe7c3b886a050f2a2d4c2173d12e4ea7b2cee1b409d8774.png) 
 
 > Strategy Arguments
 

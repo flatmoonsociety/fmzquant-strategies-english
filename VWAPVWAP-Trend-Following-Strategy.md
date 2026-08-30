@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/7a2fbd8f9da14f9223.png)
+![IMG](assets/images/b6e290ec3225cabf0164420f386648485af38b39a33ebf45ffd4e1efee093d12.png)
 [trans]
 ## Overview
 This strategy is based on VWAP and EMA as indicators to determine the direction of the trend. VWAP represents the typical price and EMA200 represents the medium and long-term trend. Go long when the price is higher than VWAP and EMA200, go short when it is lower than VWAP and EMA200, which is a typical trend following strategy.

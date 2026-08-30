@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1079b40dc72adfe7144.png)
+![IMG](assets/images/9ff6db2f6fac0511046798eb84bda6745ba034ebf73e143250ac9be514e705a7.png)
  [trans]
 ##Overview
 This strategy combines the DMI indicator to determine the trend direction and the RSI indicator to determine overbought and oversold, realizing a relatively complete trend following trading strategy. When the DMI indicator determines that there is a trend, and the RSI indicator shows overbought or oversold, it corresponds to going long or short. At the same time, a trailing stop is set to lock in profits.

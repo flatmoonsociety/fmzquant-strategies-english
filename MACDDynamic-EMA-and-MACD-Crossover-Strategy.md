@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/12c5b49c841b47a94a9.png)
+![IMG](assets/images/761b9b7d1a7bcebcc515533cb2a24236d86046901fb03d8fe6da5559c8bc2020.png)
 [trans]
 ## Overview
 This strategy determines entry and exit by calculating the intersection of fast EMA (3), slow EMA (11) and slow EMA (18), combined with the MACD zero-axis crossing. It is a dynamic strategy that uses dual EMA and MACD indicators for trading decisions.

@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/dd1200efc6cef248a3.png)
+![IMG](assets/images/f31ccfad8bcaa4735f8954b2909d9c7157a492ad01f25cf5cf66630a6fbe6197.png)
 [trans]
 ## Overview
 The moving average indicator strategy is a quantitative trading strategy that determines the market trend based on the moving average and performs long or short positions. This strategy calculates the average closing price of a certain period to determine whether the market is overbought or oversold to capture price reversal opportunities.

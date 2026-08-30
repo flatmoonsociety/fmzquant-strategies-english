@@ -33,7 +33,7 @@ Buy/Sell Alerts will follow on when slope is out of consolidation/ choppiness ar
 
 **backtest**
 
- ![IMG](https://www.fmz.com/upload/asset/ca6b92cf316e03cc37.png) 
+ ![IMG](assets/images/bd4780ff8952875f87cce3351931a7b8175987b28126eced395f88eab124ba63.png) 
 
 > Strategy Arguments
 

@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/924407fb2b24d0f126.png)
+![IMG](assets/images/b0db765f03495b9c681eff7b0669332c78494ec0b501127d608bf7e465251428.png)
 [trans]
 ### Overview
 This strategy implements trading signals based on the Adaptive Moving Average indicator (AIOMA) and the Weighted Moving Average indicator (WMA). It generates buy and sell signals through the crossover of AIOMA and WMA.

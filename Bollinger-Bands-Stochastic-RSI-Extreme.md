@@ -27,7 +27,7 @@ The RSI Stochastic is above the set threshold (90 by default)
 
 
 **backtest**
- ![IMG](https://www.fmz.com/upload/asset/1352b4112281b0a43e2.png)
+ ![IMG](assets/images/9a306bb44c33832efcffd3bf2faed8daf249051666cc60a0a38254419b913104.png)
 
 > Strategy Arguments
 

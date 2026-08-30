@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/112e7b7a7509279d403.png)
+![IMG](assets/images/02cb9b725705a4e77a0830c93c108b129f866aba399aefb080cafd456d913014.png)
 [trans]
 ### Overview
 The KDJ positive line breakthrough buying strategy is a quantitative trading strategy based on the KDJ indicator. This strategy mainly uses the golden cross between the J line and the D line of the KDJ indicator to form a buy signal, and enters long when the J line crosses the D line. This strategy is relatively simple and easy to implement, and is suitable for beginners in quantitative trading.

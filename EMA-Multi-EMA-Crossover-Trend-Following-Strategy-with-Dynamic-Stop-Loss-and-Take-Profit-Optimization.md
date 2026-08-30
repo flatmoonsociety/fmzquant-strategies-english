@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/b890b60b07d0294900.png)
+![IMG](assets/images/eeabadd0b392368dd079586a7f79680d16d109f5b716b424cb74cc88b162d56c.png)
 [trans]
 #### Overview
 This strategy is a trend following system based on multiple exponential moving average (EMA) crossovers, combined with a dynamic take-profit and stop-loss mechanism. The strategy uses 21-period, 50-period and 200-period triple EMA to generate trading signals through the intersection of short-term and mid-term EMA. At the same time, it uses long-term EMA to confirm the overall trend direction, and sets flexible take-profit and stop-loss to manage risks. This strategy is suitable for volatile market environments and is especially suitable for mid- to long-term trend trading.

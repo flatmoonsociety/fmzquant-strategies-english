@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/d759c45ca35b8d9456.png)
+![IMG](assets/images/90ba44681d23334a4cf169b71388cb7662330ba83104e75248d8e8ad5653db86.png)
 
 [trans]
 This article will detail a trend following trading strategy based on triple exponential moving averages. This strategy identifies market trends through the cross-relationship between exponential moving averages in three different periods of short-term, mid-term and long-term, and combines dynamic stop loss and take profit mechanisms for transaction management.

@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/13bf253153f1471ce21.png)
+![IMG](assets/images/0ea6c031f9941e4e8b42530545cd9543688c57d828040f2a6ad026de4bff7274.png)
 [trans]
 #### Overview
 AlphaTradingBot is an intraday trading strategy based on the Zigzag indicator and the fibonacci sequence. This strategy determines trends by identifying market highs (HH) and lows (LL), and combines fibonacci retracements and expansions to set entry points, take-profits, and stop-losses. This strategy only operates within a set date range, can be long and short respectively, and has a certain ability to grasp trends and control the profit-loss ratio.

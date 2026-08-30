@@ -34,7 +34,7 @@ Take profit:
 HINTS: Best trades tend to occur when price reversing bounce off outer band and outside the Optional Bollinger Squeeze indication.
 
 **backtest**
- ![IMG](https://www.fmz.com/upload/asset/fe8423451e99aad452.png) 
+ ![IMG](assets/images/ba07748aeace9a9399f249979d5f9abf8636cd452a024cfabdc57c61d590a056.png) 
 
 > Strategy Arguments
 

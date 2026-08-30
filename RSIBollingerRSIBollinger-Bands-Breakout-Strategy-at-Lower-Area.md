@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/11c32b1d29f7eae44c2.png)
+![IMG](assets/images/01a14f3800e5ef3ff840ada4e020a6b75f1b28729417d5f04119492c30d6d0f2.png)
  [trans]
 ### 1. Overview
 This is a low range breakout strategy that combines the RSI indicator and Bollinger Bands. Its main idea is to buy when the RSI is below 10 and sell when the RSI is above 90, with a stop loss line at the 5-period SMA.

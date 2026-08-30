@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/ad58a4a820714a412d.png)
+![IMG](assets/images/9e254c0ee04b3d7d67b9a8e3326c0d9ca95c16deed911404b321546c71adbcda.png)
  [trans]
 ### Overview
 The two-way ADX trading strategy is a quantitative strategy that uses the Average Directional Index (ADX) indicator to achieve two-way trading. This strategy calculates the difference between the ADX indicator and the DIPlus and DIMinus indicators, sets a threshold to determine whether a trading signal is generated, and conducts long and short transactions to achieve profits.

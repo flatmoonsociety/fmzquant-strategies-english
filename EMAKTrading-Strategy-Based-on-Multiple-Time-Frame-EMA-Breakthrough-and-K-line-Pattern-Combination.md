@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/a95b9af47cb8c16126.png)
+![IMG](assets/images/dee86cf6a523a2015da66f8c6f8e40fcf9f8058fedc6df50c5deaefa0e478a5a.png)
 [trans]
 ### Overview
 This strategy combines multi-time frame EMA indicators and K-line morphological judgment to achieve more sensitive long-term signal capture and stop-loss exit.

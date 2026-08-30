@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/13aaf282bef24a4d763.png)
+![IMG](assets/images/866192eaa6eedc61d74288bf24c436afab93f00245aa77bf41fe4e739d2702d4.png)
 [trans]
 ## Overview
 The Bollinger Bands Breakout Strategy is a simple quantitative trading strategy based on the Bollinger Bands indicator. This strategy uses the dynamic support and resistance levels provided by the upper and lower Bollinger Bands to set long entry and exit conditions when the price breaks through the upper and lower Bollinger Bands to capture breakthroughs in stock prices.

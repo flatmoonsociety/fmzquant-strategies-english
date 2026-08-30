@@ -34,7 +34,7 @@ The frequency of new higher high/lower low can also help determine how bullish /
 
 **backtest**
 
- ![IMG](https://www.fmz.com/upload/asset/f18b8d3df08302d13e.png) 
+ ![IMG](assets/images/97d86b1e65cebbb238cc5df3e77bbe2d2b70547d2365d44709d099d25cb85704.png) 
 
 > Strategy Arguments
 

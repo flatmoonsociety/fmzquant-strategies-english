@@ -13,7 +13,7 @@ The channel composed of the high price and low price moving average
 
 **backtest**
 
- ![IMG](https://www.fmz.com/upload/asset/ec8392508188c41741.png) 
+ ![IMG](assets/images/8c9abf2bb752231b5fbb4ecbfd819f6bddba8dddcf38cbee59333e402e583dc5.png) 
 
 > Strategy Arguments
 

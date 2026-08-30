@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1290a8f6a9dc775d8f7.png)
+![IMG](assets/images/33d612e71a18cb0ec58f5d716be72878311d83a67da627f4bfbc99dd077254e3.png)
  [trans]
 ## Overview
 The bull market chasing box buying strategy is a modified version of the Darvas box strategy. This strategy only opens long positions during bull markets. The strategy first draws a box area based on the highest price. When the price breaks through the upper track of the box, the market enters long at the closing price.

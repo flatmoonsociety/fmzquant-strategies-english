@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/8c614a44596f881703.png)
+![IMG](assets/images/b1da199a7149f991f460761b5bb53b2d68f7a7af35583510a5421009ca59bf71.png)
 [trans]
 #### Overview
 This strategy is a trend trading strategy based on Bollinger Bands and Moving Averages. Determine the current trend direction by comparing the size relationship between the simple moving average (SMA) and the exponential moving average (EMA). When the closing price crosses above the larger moving average, a buy signal is generated; when the closing price crosses below the smaller moving average, a sell signal is generated. This strategy attempts to capture the main trend of the market and close positions promptly when the trend reverses in order to obtain profits from the trending market.

@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1553f5a4df3305680ee.png)
+![IMG](assets/images/c62a5e0e26ff1b09f971197131fab89a2fa7f51d355fdb54e54da528c15d7a0d.png)
 [trans]
 ## Overview
 This strategy is a trend following strategy that combines Nadaraya-Watson regression and ATR channels to identify trend directions and entry points. When the price breaks through the lower track, go long; when the price breaks through the upper track, close the position. At the same time, a stop-loss mechanism is set up.

@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/10fad22fe69799be53a.png)
+![IMG](assets/images/a7e8b5c1f93ce25bbc10ba766110cb8f0f49016bba9541406cc8004dc34c5ce5.png)
 [trans]
 ## Overview
 The name of this strategy is "The Road to the Master of Quantitative W Form". This strategy comprehensively uses W-shaped and high-volume energy strategies, and uses quantitative indicators to identify buying opportunities formed by the combination of price W-shaped and high trading volume.

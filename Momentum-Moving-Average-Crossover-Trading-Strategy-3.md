@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/192ff79cf55ad13606b.png)
+![IMG](assets/images/a1fb059c0351e3cd438fca67aba48131ae6ca95c0660bbb282ae43e38ac3761b.png)
  [trans]
 ## Overview
 This strategy is based on the intersection of fast and slow moving averages to determine market trends and buy and sell points. When the fast EMA crosses the slow EMA, it is judged that the market is in an upward trend and a buy signal is generated; when the fast EMA crosses below the slow EMA, the market is judged to be in a downward trend and a sell signal is generated. The strategy also sets stop-loss and take-profit prices to manage risk.

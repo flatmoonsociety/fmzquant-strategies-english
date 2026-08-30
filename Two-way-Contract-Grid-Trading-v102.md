@@ -20,9 +20,9 @@ Since the two-way strategy has a very small chance of liquidation
 * Dynamically modify the order quantity by increasing or decreasing the speed (to be developed, paid version)
 * The trend of golden cross and dead cross has been added (to be developed, paid version)
 > Backtest data
-  ![IMG](https://www.fmz.com/upload/asset/20322178b3e84a01941d3.jpg) 
+  ![IMG](assets/images/04d2ef042db13902623b6273af4c8ca813f2154bacd7a1192767e43506b019db.jpg) 
   
-  ![IMG](https://www.fmz.com/upload/asset/2038958a58a5471a594f9.jpg) 
+  ![IMG](assets/images/f803358256983e6aacc721e87223e4507ae288ac00c83da1b3cc43a2cd184352.jpg) 
   
   
 2000u doubled in half a year

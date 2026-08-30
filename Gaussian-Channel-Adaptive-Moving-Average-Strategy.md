@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1529f41d0188770f28b.png)
+![IMG](assets/images/c1e72533ef73ac83876b4cfd84defb785a809f8297189f89b5ca6b9315fa424c.png)
 [trans]
 ### Overview
 Gaussian channel adaptive moving average strategy is a quantitative trading strategy that utilizes Gaussian filtering technology and adaptive parameter settings. This strategy is based on the Gaussian filter theory proposed by John Ehlers, and generates smooth and adaptive trading signals by performing multiple exponential moving average calculations on price data. The core of the strategy is to construct a dynamically adjusted price channel. The upper and lower rails are obtained by adding and subtracting the true fluctuation range to the price after Gaussian filtering. Buy when the price breaks through the upper band and sell when it breaks through the lower band. At the same time, the strategy also introduces time period parameters, which can flexibly set the start and end time of the strategy operation, enhancing the practicality of the strategy.

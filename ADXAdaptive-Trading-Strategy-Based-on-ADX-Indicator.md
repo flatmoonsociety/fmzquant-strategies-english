@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/e71a2a708f61bbf9a5.png)
+![IMG](assets/images/2345d133a80eeab1f54ca83c1e1df3e3d8e8e568fd5d0e812631bd20bfe5c189.png)
 [trans]
 ## Overview
 The core of this strategy is to use the ADX indicator to judge the market trend, and combine it with the difference of the DI+- indicator to automatically identify the breakthrough point, thereby realizing adaptive trading. Go long when the difference between DI+ and ADX exceeds the set threshold, and go short when the difference between DI- and ADX exceeds the set threshold. This strategy can automatically identify trend breakthrough points without manual intervention, and is suitable for medium and long-term holdings.

@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/ef9f23c3f5dcbe6e28.png)
+![IMG](assets/images/aee9063cfb11bb6aaa6cbb3aac4fee1d02a65b8f33de16f04bb2df319ebdc321.png)
  [trans]
 ## Overview
 This strategy is an improvement on drkhodakarami's scale normalized vector strategy, which mainly adds an activation function to improve the performance of the strategy. The strategy uses the time axis difference to calculate the market's rate of change, and determines long and short signals through thresholds. At the same time, the strategy introduces swish, ReLU and step activation functions, which can smooth the difference sequence and improve the accuracy of signal judgment.

@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1b5d69e93c8cab4f3b7.png)
+![IMG](assets/images/9d98859facaa5cbf84d0e4739779e917b88fa5f8d37674b9cfa1cada16c5845e.png)
 [trans]
 ## Overview
 This strategy uses machine learning methods to implement an out-of-the-box automated trading strategy. It integrates multiple indicators and models, can automatically generate trading signals, and perform buying and selling operations based on the signals.

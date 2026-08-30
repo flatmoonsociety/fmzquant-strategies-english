@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/11d1f2a8ffa1a519ad6.png)
+![IMG](assets/images/6ab733bd9453f3ba09fd61aa91b33ccbb6a57eceb05e32f865e4eab1ed6d78af.png)
 [trans]
 ## Overview
 The three-high K-line reversal strategy is a short-term trading strategy based on the K-line pattern. It takes advantage of the characteristics of three consecutive positive lines to obtain short-term trading opportunities with a high success rate during the session.

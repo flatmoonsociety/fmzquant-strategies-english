@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1749dc4c097500abdaf.png)
+![IMG](assets/images/b78ae24b8c2f95bf583fa19f286e3de48db424d3204c70bc3ecd2fc2823b9167.png)
 [trans]
 ## Overview
 Candlestick pattern strategy is a strategy that uses candlestick patterns to make trading decisions. This strategy can detect a variety of common candlestick patterns, including engulfing patterns, interval patterns, morning stars, three black crows, etc., and generate trading signals when these patterns are detected. The strategy also supports customized stop loss, take profit, and trailing stop loss parameters, which can effectively control risks.

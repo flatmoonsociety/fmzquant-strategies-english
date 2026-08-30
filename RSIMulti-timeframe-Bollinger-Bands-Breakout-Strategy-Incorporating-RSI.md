@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1d4b78b077fd7c798f5.png)
+![IMG](assets/images/d8783d6cf0528852d7c65bf89ea9b9ae588fc9064b9d8d46672a8f70a15d275f.png)
 [trans]
 ## Overview
 This strategy combines the Bollinger Bands indicator, RSI indicator and multi-time frame analysis to capture the direction of the mid- to long-term trend. Through the upper and lower Bollinger Bands breakthrough and RSI overbought and oversold signals, the trend reversal point can be determined to achieve low-risk entry. At the same time, use a higher time frame to filter the volatile market to avoid being trapped.

@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/3407edfcb27bebef05.png)
+![IMG](assets/images/6685ca06ace2d24a4c96c9e2fe7febfbac65a72825433d8abea5edb6978467f0.png)
  [trans]
 ### Overview
 This strategy combines multiple technical indicators to determine the short-term trend of Bank Nifty to issue a buy or sell signal. The main technical indicators used are MACD, RSI, ADX, Stochastic and Bollinger Bands. The strategy name is "BankNifty_Bearish_Intraday", which means that it is mainly used to determine the short-term bearish trend of Bank Nifty.

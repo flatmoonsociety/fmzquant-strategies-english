@@ -48,7 +48,7 @@ Wish you all use AlphaTrend in profitable trades.
 Kıvanç Özbilgiç
 
 **Backtest results**
- ![IMG](https://www.fmz.com/upload/asset/5b0e559be7c9374225.png)
+ ![IMG](assets/images/86eafec91de65f579d90ea300ef632c1180c39eacaed123924cc247032fd86a6.png)
 > Strategy Arguments
 
 

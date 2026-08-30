@@ -8,8 +8,8 @@ ianzeng123
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/2d896bec9f4ccdacac222.png)
-![IMG](https://www.fmz.com/upload/asset/2d88b4b9d47add12aa48a.png)
+![IMG](assets/images/cbdc312fc3f08776e9de2353654c9b9f0baff9b506930d501712dda8940b44af.png)
+![IMG](assets/images/2134292398ee51ad09f403081ef19f1e27a0fcb66319fbd9e7eb84ffbbde36f4.png)
 
 Dual Moving Average Crossover with RSI Strength Filter Trading Strategy | Dual Moving Average Crossover with RSI Strength Filter Trading Strategy
 

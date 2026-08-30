@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/fb39a84eb036bba19a.png)
+![IMG](assets/images/9ab7937af3bfebf45d8b2038184f66136ecb5af583db083d740d49deb6592cb1.png)
 [trans]
 ## Overview
 The Multi Timeframe Moving Average Crossover Strategy is an algorithmic trading strategy that uses cross signals between moving averages of different time periods to determine the direction of the trend. This strategy comprehensively utilizes a combination of trend indicators, momentum indicators and volatility indicators to make the strategy signals more reliable.

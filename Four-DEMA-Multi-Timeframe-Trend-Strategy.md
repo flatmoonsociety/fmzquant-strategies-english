@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/16c91ebd56c0969fbb3.png)
+![IMG](assets/images/41e93d93e1ebcab0d504b87397daec02537a35241aae314ee7c7dcb04960b045.png)
 [trans]
 ## Overview
 The four-moving average multi-time frame trend strategy is a strategy that builds multi-time frames based on four different periods of double exponential moving averages (DEMA) to determine the direction of the trend. This strategy simultaneously uses the 10-day moving average, the 15-day moving average, the 21-day moving average and the 30-day moving average to determine the price trend, filters false alarm opportunities through multiple time frames, and looks for high-probability trend directions.

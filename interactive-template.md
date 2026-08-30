@@ -38,7 +38,7 @@ Inventor Quantification-Little Dream
     Replaces Platform API GetCommand() function
     $.GetCommand()    
 - Screenshot of the control configured by the test code
-  ![IMG](https://www.fmz.com/upload/asset/166da027c40813fe1311.png)
+  ![IMG](assets/images/ba4f6d582e5e73d47161e5355f60c0236f437c354f88e497059c5d4dc89f286f.png)
 - If you have any questions, please ask and leave a message.
 
 

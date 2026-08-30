@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1b08e83a41b482da2fa.png)
+![IMG](assets/images/a99b7b908ebb292559830662f19997e660a586004ddc6c9db670fe749eaf7620.png)
 [trans]
 #### Overview
 This strategy uses three exponential moving averages (EMA) and the relative strength index (RSI) of three different periods to determine market trends and trading signals. When the price breaks through the 200-day EMA and the RSI is greater than 50, a buy signal is generated. On the contrary, when the price falls below the 200-day EMA and the RSI is less than 50, a sell signal is generated. This strategy is suitable for swing trading at the daily level.

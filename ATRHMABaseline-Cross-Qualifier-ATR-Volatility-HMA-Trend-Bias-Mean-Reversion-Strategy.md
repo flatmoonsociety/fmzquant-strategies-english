@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/af0846671cfec2f17f.png)
+![IMG](assets/images/b3985ed067817a7d94eb1f8efab5fd4a7ba89529f8ad8503ec18b0df2c918b8a.png)
  [trans]
 ## Overview
 This strategy is a quantitative trading strategy that combines double moving average breakthrough signals with ATR volatility filtering and HMA trend deviation. The strategy uses two moving averages of different periods to construct trading signals, combines with the volatility indicator ATR to filter out some invalid signals, and uses HMA to determine the trend direction to avoid counter-trend operations.

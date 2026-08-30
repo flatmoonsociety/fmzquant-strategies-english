@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/153b14ed8bc9c5ea17a.png)
+![IMG](assets/images/c1c1e8f7cbe9c6314a91f90c333108ca564e78858b6618d2fea3964eca520a97.png)
 [trans]
 ## Overview
 This strategy is based on the Ichimoku cloud indicator, combined with Tenkan line, Kijun line, leading line and cloud chart, to identify long and short signals and realize automated trading. This strategy combines both the standard Ichimoku model and the custom features of the TradingView Strategy Tester, making it suitable for both novice and experienced traders.

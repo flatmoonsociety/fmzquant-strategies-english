@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1545e2a756c9f263ece.png)
+![IMG](assets/images/f8872eb5e0f2a44055c01d737a1c2f665adfde0697461ec382a2590b103205db.png)
 [trans]
 #### Overview
 This trading strategy is based on three indicators: the 100-period exponential moving average (EMA100), net unrealized profit/loss (NUPL) and relative unrealized profit. It generates trading signals by judging the intersection of price and EMA100 and the positive and negative of NUPL and relative unrealized profit. When the price crosses EMA100 above and NUPL and relative unrealized profit are both positive, a long signal is triggered; when the price falls below EMA100 and NUPL and relative unrealized profit are both negative, a short signal is triggered. This strategy uses a fixed position of 10% and sets a 10% stop loss.

@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1a3fb3ecb438acc1280.png)
+![IMG](assets/images/21a3e63555837f014ad7b03da9112e98c7c18ed294c55281fc9a4fbbe2c08440.png)
  [trans]
 ## Overview
 This strategy is a short-term trading strategy that uses the golden cross of the moving average to form a buy signal and the dead cross to form a sell signal. It uses two exponential moving averages (EMA) with different periods as trading signals. When the short-period EMA line breaks through the long-period EMA line from below, a golden cross is formed, generating a buy signal; when the short-period EMA line falls below the long-period EMA line from above, a dead cross is formed, generating a sell signal.

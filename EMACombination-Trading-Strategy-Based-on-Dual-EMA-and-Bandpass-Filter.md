@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/12ba73628b099c6f75c.png)
+![IMG](assets/images/b3ce4ad4f063da9d3b02ae40cd9b42efccbc156f6a3f1c377bbdd91b2815d94c.png)
  [trans]
 
 ## Overview

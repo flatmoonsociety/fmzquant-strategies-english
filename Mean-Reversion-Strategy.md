@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/a514e968f293222069.png)
+![IMG](assets/images/e3ffe0167a50aeea765618d7ee9765fcbbf34b08caf2d398642f7d73732c98e3.png)
 [trans]
 #### Overview
 This strategy is based on the principle of mean reversion and uses price deviations from the moving average to make trading decisions. Go short when the price deviates upward from the upper track, go long when it deviates downward from the lower track, and close the position when the price returns to the moving average. The core of this strategy is the assumption that prices will always revert to the mean.

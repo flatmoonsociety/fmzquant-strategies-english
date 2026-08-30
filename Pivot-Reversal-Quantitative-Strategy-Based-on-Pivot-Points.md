@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/110b3437ca7e3e94835.png)
+![IMG](assets/images/bbfed02d9eee09c25e4c639092c20f0d35064339b0c22dc06aa996aa88bd64f8.png)
 [trans]
 ## Overview
 The core idea of this strategy is to use pivot points for quantitative trading. It looks for important pivot highs and lows and places reversal trades when price breaks through these key points.

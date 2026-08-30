@@ -15,7 +15,7 @@ Simple SuperTrend indicator giving you the option to display two SuperTrends on 
 **backtest**
 
 
- ![IMG](https://www.fmz.com/upload/asset/15d862ed42201678eaf.png) 
+ ![IMG](assets/images/e3377a283236c01dbe56e0904b7acd1e6f1caa5c65fade109948820ff5dfcbbe.png) 
 
 > Strategy Arguments
 

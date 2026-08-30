@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/187acfb97a481b452b3.png)
+![IMG](assets/images/2b91dc6fe836c1ef12b236fbe99c0dfb81f2708fd35e487d963e615b1201a3cd.png)
 [trans]
 
 This article will analyze in detail a trend-following strategy based on the distance between the 200-day moving average and price, called the "Nuts Offline Trend Following Strategy." This strategy tracks the distance between price and the 200-day moving average, establishes a position when it exceeds a set threshold, and closes the position after reaching the profit target.

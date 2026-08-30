@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/10d8acc7a960c28685b.png)
+![IMG](assets/images/81991589ef91c91f5ff70fef635d63f24b9f130fe14c664584d96e52abdc9b84.png)
 [trans]
 ## Overview
 The Dual Donchian Channel Breakout Strategy is a breakout trading strategy based on the Donchian channel. It utilizes two Donchian channels, fast and slow, to construct long and short trading signals. Open a long or short position when the price breaks through the slow channel, and close the position when the price breaks through the fast channel again. This strategy sets both take profit and stop loss conditions.

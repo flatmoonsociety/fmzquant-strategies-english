@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/ec95e3675ad23d4d2f.png)
+![IMG](assets/images/fea168957dade787fd9e25e6c6e733bbb1289e5f88076c7c745d9eeb78ac3c7b.png)
 [trans]
 ## Overview
 Moving Average and RSI Crossover Strategy is a quantitative trading strategy that combines moving averages and the relative strength index (RSI). This strategy generates trading signals by calculating the intersection of a fast moving average (such as the 10-day moving average) and a slow moving average (such as the 50-day moving average) as well as overbought and oversold conditions on the RSI indicator. Specifically, when the fast moving average crosses the slow moving average and the RSI is below the oversold line, a buy signal is generated; when the fast moving average crosses the slow moving average and the RSI is above the overbought line, a sell signal is generated.

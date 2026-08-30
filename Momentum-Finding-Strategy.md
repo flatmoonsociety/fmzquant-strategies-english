@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/af41b3f93b4a5f1146.png)
+![IMG](assets/images/cb7ad0fbbe8496f98921cc33adb89e76d23a43a65318386892b9292eda1f04b6.png)
  [trans]
 ## Overview
 This strategy uses multiple indicators such as Bollinger Bands, KC channels and candle line colors to judge the compression and release of the market, and combines the direction of the moving average to judge the establishment trend, and operate when the trend direction turns.

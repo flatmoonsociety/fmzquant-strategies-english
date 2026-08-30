@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/16d856593172a7747c0.png)
+![IMG](assets/images/e058ad088a58d8fbfc789e14bd83fe409ec889e30673e872f81a600ba73d8164.png)
  [trans]
 ## Overview
 This strategy combines three sentiment indicators, the QQE improved indicator, the SSL hybrid indicator and the Waddah Attar burst indicator, to form a trading signal and is an emotional breakthrough strategy driven by multiple indicators. It can judge market sentiment before a breakthrough and avoid false breakthroughs. It is a better breakthrough strategy.

@@ -19,7 +19,7 @@ WMA
 VWMA
 Bollinger Bands
 
- ![IMG](https://www.fmz.com/upload/asset/171d5b429c597cc2474.png) 
+ ![IMG](assets/images/af1768ce7fe4e5dbf8684479525982f26dd16cdfe3fbdd7fe42273b4b5074e6a.png) 
 
 > Strategy Arguments
 

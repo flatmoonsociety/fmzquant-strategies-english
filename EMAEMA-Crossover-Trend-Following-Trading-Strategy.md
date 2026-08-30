@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/f742b2bb8d46ac708d.png)
+![IMG](assets/images/b053e832e7c826d35880f4f96d6b6d316e447129b0012ed0c7c67e0b536a2e53.png)
 [trans]
 ## Overview
 This strategy uses the golden cross and dead cross of the EMA fast and slow lines to determine the trend, and combines it with the preset take-profit ratio to implement trend following transactions. This strategy is suitable for any time period and can capture the trends of indexes and individual stocks.

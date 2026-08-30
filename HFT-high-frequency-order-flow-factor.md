@@ -10,7 +10,7 @@ inventor quantification
 
 An entry-level order flow high-frequency alpha factor can be used as a reference for the optimal buying and selling pricing distance of the market maker's strategy. The signal is normalized to [-1, 1]. Trend 1 represents a buyer's market, and trend -1 is a seller's market. The strategy will draw the factor value and the last transaction price in real time.
 The strategy uses OKX and Binance Futures websocket interfaces to receive calculations. The picture below is the indicator effect. It can be seen that it has a certain effectiveness. It is open to high-frequency entry-level quantification enthusiasts.
- ![IMG](https://www.fmz.com/upload/asset/a89668d3b0189c8902.png) 
+ ![IMG](assets/images/5bc45f8a81178bd88f45c48b79650409b985d6f4bdd0b2d3976272605f3c7027.png) 
  
  
 

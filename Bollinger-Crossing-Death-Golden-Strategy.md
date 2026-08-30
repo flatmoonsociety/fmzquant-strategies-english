@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/13acdae144895aee645.png)
+![IMG](assets/images/c31b462549ae39b5f6d8270de61d6d402ba2ab552c25d762be0ac46c07b5128a.png)
 [trans]
 ## Overview
 This strategy is a golden cross and dead cross strategy based on the Bollinger Bands indicator. By adjusting the parameters of the Bollinger Bands, it is optimized and suitable for gold trading. A buy signal is generated when the price closes above the upper band, and a sell signal is generated when the price closes below the lower band.

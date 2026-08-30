@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/693ea875fea3e9b203.png)
+![IMG](assets/images/2ea1c0a3f312df97fab1a1233ffd8131ae19a056958164725f7c8190d9af4f1c.png)
 [trans]
 #### Overview
 This strategy is based on the Williams %R indicator and optimizes trading performance by dynamically adjusting take profit and stop loss levels. A buy signal is generated when Williams %R crosses the oversold zone (-80), and a sell signal is generated when it crosses the overbought zone (-20). Also use an exponential moving average (EMA) to smooth the Williams %R value to reduce noise. The strategy provides flexible parameter settings, including indicator period, take profit and stop loss (TP/SL) levels, trading time and trading direction selection, to adapt to different market environments and trader preferences.

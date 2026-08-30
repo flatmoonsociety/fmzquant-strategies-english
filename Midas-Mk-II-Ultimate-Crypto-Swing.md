@@ -17,7 +17,7 @@ How To Use - The script works the best when the signal is in par with other anal
 Updates or revisions will be recorded in the comments. Good luck with this script!
 
 **backtest**
- ![IMG](https://www.fmz.com/upload/asset/159f8a1509168a68539.jpg) 
+ ![IMG](assets/images/d31876964df935c10e81276f925f5c6bd8bdc01a2708c74c3b7d86a89c3317f2.jpg) 
 
 
 

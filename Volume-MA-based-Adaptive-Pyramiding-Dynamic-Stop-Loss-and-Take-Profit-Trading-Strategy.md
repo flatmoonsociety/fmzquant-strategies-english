@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/13722ca38f682797bed.png)
+![IMG](assets/images/52dd2c2955a96a8a37ec12e32e998c1ae98a4766ab7dc0b1c64dd05012325e41.png)
 [trans]
 #### Overview
 This strategy combines multiple technical indicators such as the Hull Moving Average (HMA), Moving Average Convergence Divergence Index (MACD), Average True Range (ATR), Relative Strength Index (RSI), Energy Tide (OBV), and Volume Moving Average. Through comprehensive analysis of these indicators, market trends and potential entry opportunities are identified. At the same time, this strategy also adopts risk management methods such as pyramid position increase, dynamic stop loss and stop loss, and trailing stop loss, striving to strictly control risks while seizing trend opportunities.

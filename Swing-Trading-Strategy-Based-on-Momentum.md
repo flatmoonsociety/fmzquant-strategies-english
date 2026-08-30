@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/20df5e0c752ddcfedf0.png)
+![IMG](assets/images/22a9970e093454f57504df9a5adc147834d142e8c53f793bf9318294facc711c.png)
 [trans]
 ## Overview
 Swing Trading Strategy Based on Momentum, Oscillation and Moving Average Crossover is a strategy that uses the intersection of momentum indicators, oscillators and moving averages to generate buy and sell signals. It can be used for intraday and intraday trading in commodities, foreign exchange and other markets.

@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/188c201782d83755e9e.png)
+![IMG](assets/images/e58aa1a0e4e16443c42f6b55c3042ecd0a9b1d7450fa652863cb7de6fbb5b6f0.png)
 [trans]
 
 This article introduces a momentum breakout trading strategy based on K-line patterns. This strategy identifies market trends and entry opportunities by identifying candle patterns.

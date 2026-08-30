@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/16857e1a8344792f4e9.png)
+![IMG](assets/images/18f204f6e4cff67d23c5ec7bc8167f2b9cec696288490e8af58302b73573a929.png)
  [trans]
 ## Overview
 The True Relative Movement Moving Average (TRMA) strategy is a trend following strategy that combines the Relative Strength Index (RSI) and the True Strength Index (TSI). It uses the RSI and TSI indicators for buy and sell signals, supplemented by moving averages for strategy optimization.

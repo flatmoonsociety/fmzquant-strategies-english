@@ -25,7 +25,7 @@ A special thanks to @norok and @happyCloud1537 for teaching me!
 This will lead to more scripts from my side, since i really like to code and trade.
 
 **backtest**
- ![IMG](https://www.fmz.com/upload/asset/10f6d717693fae6f57a.png) 
+ ![IMG](assets/images/06a4e24a75a79079262c73b582b69c6aaefd4b6cfe0e8237c1c45b014a248d79.png) 
 
 > Strategy Arguments
 

@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/13ec6f6890e362a8e50.png)
+![IMG](assets/images/0210378e03e1feb8348ccffad2ddf9e5f01530a10de80b41dc3e4fb61f095914.png)
  [trans]
 ### Overview
 This strategy is based on a unique calculation of a stock's two-year high price and a moving average. When the stock price hits a two-year high and then pulls back to the 13-day exponential moving average, a buy signal is generated.

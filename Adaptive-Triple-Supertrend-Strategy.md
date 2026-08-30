@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/173bb9ea90d80c37f90.png)
+![IMG](assets/images/675281c1080afada1e07d06dd4e4c5e0bffbf70bcc537fd82f4a05917c1d0f90.png)
 [trans]
 ## Overview
 The Adaptive Triple Supertrend Strategy is a trading method for tracking market trends that brings together the power of three supertrend indicators to identify underlying market trends and profit from them. This strategy focuses on adaptability and precision, with the goal of providing traders with clear entry and exit signals while effectively managing risk. By combining multiple supertrend indicators and their defined parameters, this strategy seeks to capture trends in a variety of market conditions, making it a versatile tool for traders seeking profit opportunities in both traditional and cryptocurrency markets.

@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1b5f5302b2496d89b98.png)
+![IMG](assets/images/6e4537c3858f7b5966c21cfe0fd02d2ad3b07b9ccd74b5e3102ee9b656335069.png)
 [trans]
 ## Overview
 This strategy combines the two indicators of relative strength index (RSI) and Bollinger Bands to implement a trading strategy that can automatically buy and sell Litecoin (LTC). This strategy is applicable to the LTC/USD trading pair, and the operating environment is the digital currency exchange Bitfinex.

@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/16ce40fe21e910b0e60.png)
+![IMG](assets/images/2104d2b7ca8777f9b21bdb36447baef89b16d193fb607a58b3c3a28517378b73.png)
 [trans]
 ####Overview
 This strategy combines two technical indicators, Bollinger Bands and Relative Strength Index (RSI), to capture the price fluctuation range through Bollinger Bands, and uses the RSI indicator to confirm the overbought and oversold state of the price as a basis for judging trading signals. When the price breaks through the lower Bollinger Band and the RSI is below 30, a long signal is generated; when the price breaks through the upper Bollinger Band and the RSI is above 70, a short signal is generated.

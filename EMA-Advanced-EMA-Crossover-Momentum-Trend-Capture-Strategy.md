@@ -8,8 +8,8 @@ ianzeng123
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/2d83e02e6904076439486.png)
-![IMG](https://www.fmz.com/upload/asset/2d995f7a2e83e4f1aade8.png)
+![IMG](assets/images/762a1ffe60928481a764472ad26a6fb36dda6709896a630762cdd21e5e74f3f7.png)
+![IMG](assets/images/cbd861c32b2042a8e40b009b1277c2fb16efe5fb2dcfd6b6363ee0f6705a3b36.png)
 
 [trans]## Overview
 The Advanced EMA Cross Momentum Trend Capture Strategy is a stop-loss trading system designed specifically for short-term cryptocurrency trading, primarily for 1-minute and 5-minute time frames. This strategy combines the exponential moving average (EMA) crossover signal, the average directional index (ADX) trend strength confirmation, volume breakout filtering, and true range (ATR)-based profit target setting to form a complete trading system. The core design concept of this strategy is to provide moderate frequency trading signals, while reducing false signals through multiple filtering mechanisms, and using simple and clear entry and exit logic to avoid confusion among traders in the decision-making process.

@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/2a0005e4457d2a5202.png)
+![IMG](assets/images/93d7f50fd048f6aef5661f47dd17a58b49ea4c779a350e8063e95817f9950a78.png)
 [trans]
 ## Strategy Overview
 The candlestick pattern trend filter strategy is a quantitative trading strategy that combines technical analysis tools to improve trading decisions. This strategy works by identifying specific candlestick patterns while using trend filters to determine overall market direction. By combining these two technical analysis methods, this strategy aims to capture favorable trading opportunities in market trends and improve trading accuracy and profitability.

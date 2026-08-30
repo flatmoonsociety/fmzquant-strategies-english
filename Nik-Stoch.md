@@ -13,7 +13,7 @@ Stochastics Oscillator with settings of 5,3,3
 Levels : 15, 85, 30, 70
 
 **backtest**
- ![IMG](https://www.fmz.com/upload/asset/141e589f5b00c84de34.png) 
+ ![IMG](assets/images/179a1a33cb0953746ce6cf71d2322ecbf08a69798d0165b79f4277304c2ef867.png) 
 
 > Strategy Arguments
 

@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/11cb99020da15005d3b.png)
+![IMG](assets/images/0ecf61f0937f6cf4ceb721817b1de8825f892bb16f7f411ea6934cf505cb95dc.png)
 [trans]
 ### Overview
 This article mainly introduces a quantitative trading strategy called "Dynamic Position Profit Tracking Trading Strategy". By setting a dynamic exit take-profit line based on the ATR indicator, this strategy can quickly take profit within 1-2 K lines after a sudden favorable price trend, preventing the price from turning around again and causing losses.

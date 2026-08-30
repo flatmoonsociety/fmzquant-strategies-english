@@ -41,7 +41,7 @@ WARNING: QQE IS A RSI BASED INDICATOR SO THAT IT CAN TRIGGER FALSE SIGNALS DURIN
 Kıvanç Özbilgiç
 
 **backtest**
- ![IMG](https://www.fmz.com/upload/asset/1002a1c2c6624b925ae.png) 
+ ![IMG](assets/images/4a6d1b76ddf85a8bf4a8475d1114db8ff64d6173e9347af38cce55ab5ad59d9f.png) 
 
 > Strategy Arguments
 

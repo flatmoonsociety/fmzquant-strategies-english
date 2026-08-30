@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1d2ce4aa21034f682dc.png)
+![IMG](assets/images/ba38edbc6414e7e389fb1a47eac4e7bec0cc3d35b8f89dcbbcd541399f68d04d.png)
 [trans]
 ## Overview
 This strategy calculates the middle rail, upper rail and lower rail of the Keltner channel, based on the middle rail, and ABOVE the middle rail and the lower rail fill color. After judging the direction of the channel, carry out breakthrough trading. It is a type of trend following strategy.

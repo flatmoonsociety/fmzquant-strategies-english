@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/19893ba1e8a5cdb8add.png)
+![IMG](assets/images/91bd87518abce9cf9b9f352d070eb4e45d6dc332fb0f33b302148b8cc16c393c.png)
 [trans]
 ## Overview
 This strategy predicts the trend by judging the "meaning bar" of the K-line, and sends trading signals based on the breakthrough signal. The strategy will filter out K lines that are too small and only analyze "significant bars", which can avoid being disturbed by too frequent small rises and falls and make the signal more stable and reliable.

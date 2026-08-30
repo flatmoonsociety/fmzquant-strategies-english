@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1b9c5af1a3a724570cc.png)
+![IMG](assets/images/8e8ceb5debbf3fb42b75062df341024977b8bf7d1993d82fa7907de6c6c7e0c9.png)
 [trans]
 ## Overview
 The Marubo Candlestick Equilibrium Strategy is a quantitative trading strategy based on intraday periods. This strategy determines the market trend and looks for trading opportunities by identifying the Marubo candle pattern and examining the equilibrium situation of the candle line segments.

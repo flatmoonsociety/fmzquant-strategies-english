@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1afe95bfefdeda3639e.png)
+![IMG](assets/images/552062249622f9c5e12f6250eb2549a2658decebc50256425140ac3972af63d1.png)
 [trans]
 ### Overview
 The core idea of ​​this strategy is to track breakthroughs under high trading volume and achieve compound interest positions by setting a risk budget percentage and a simulated leverage of 250 times. It is designed to capture potential reversal opportunities following high selling pressure.

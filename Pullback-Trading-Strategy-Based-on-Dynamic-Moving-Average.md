@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/753c60999f268f8a11.png)
+![IMG](assets/images/0dc3cb054e34cebcb82e65d60643e06998836c81cf0b0e1ff4d74a64cebf6c28.png)
 [trans]
 ## Overview
 This strategy uses a dual moving average system to look for potential breakthrough opportunities in specific stocks or digital currencies. The basic principle is to buy stocks or digital currencies when the short-term moving average rebounds from below the long-term moving average. Sell ​​stocks or cryptocurrencies when prices retest long-term moving averages.

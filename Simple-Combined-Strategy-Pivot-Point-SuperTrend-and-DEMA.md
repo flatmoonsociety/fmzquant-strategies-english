@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/11572cce09be4e7ae7b.png)
+![IMG](assets/images/aaeb2f00067378b7bdedd1e688480b3b2e11da13824389b780437bcd27d40fff.png)
 [trans]
 #### Overview
 This strategy combines the Pivot Point Super Trend indicator and the Dual Exponential Moving Average (DEMA) indicator to determine trading signals by analyzing the price position relationship between these two indicators. When the price breaks through the pivot point supertrend indicator and is above the DEMA indicator, a long signal is generated; when the price falls below the pivot point supertrend indicator and is below the DEMA indicator, a short signal is generated. This strategy can capture the medium and long-term trends of the market, while also being able to deal with short-term price fluctuations.

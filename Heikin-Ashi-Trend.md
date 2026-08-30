@@ -19,7 +19,7 @@ Just add the indicator to the chart, create an alert and select "Heikin-Ashi Tre
 **backtest**
 
 
- ![IMG](https://www.fmz.com/upload/asset/1ccdc5b470424d683c8.png) 
+ ![IMG](assets/images/8a02ce9fffbc3db6fcbad1200d5d0f9b506fd2f9791c12e67beba5a4dddd468a.png) 
 
 > Strategy Arguments
 

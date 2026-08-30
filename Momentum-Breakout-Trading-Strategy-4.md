@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1278473b1648010867b.png)
+![IMG](assets/images/eca6b7afcf02db0a71a653f7d568aaba8ee070bd0a0daac236290d4df4cbdf2f.png)
 [trans]
 ## Overview
 This strategy is a breakout trading strategy based on the momentum indicator. It uses multiple indicators such as moving averages, ATR, and RSI to determine market trends and volatility, and combines strict stop-profit and stop-loss settings to conduct transactions. The strategy mainly determines whether the price breaks through the rising or falling moving average plus the ATR range to generate trading signals.

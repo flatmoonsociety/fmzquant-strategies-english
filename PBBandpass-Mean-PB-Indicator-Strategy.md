@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/cc91a9073aebcc6d13.png)
+![IMG](assets/images/0617abc63b2cfd3a525126862a265fae59884fe7788c7c98a65e47f5c47d00ea.png)
  [trans]
 ## Overview
 This strategy calculates the average PB indicator and the Bollinger Bands upper and lower rails, determines the golden cross relationship between the PB indicator and the Bollinger Bands upper and lower rails, and generates buy and sell signals. When the PB indicator breaks through the middle or lower rail of the Bollinger Band upwards, a buy signal is generated; when the PB indicator falls below the middle or upper rail of the Bollinger Band, a sell signal is generated.

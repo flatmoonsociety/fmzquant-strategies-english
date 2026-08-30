@@ -11,7 +11,7 @@ The platform (Javascript/Python language) activates KLineChart support, supports
  Here is a demo example 
 Reference document https://www.fmz.com/api#klinechart 
  
- ![IMG](https://www.fmz.com/upload/asset/bb180d6a028bcc6993.png) 
+ ![IMG](assets/images/72ffcbbb514e431b3fda2a8927827284a3ea20b0df3751c6a9b010e5951c539d.png) 
  
  
  

@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/18ca32cc70ce9565bc1.png)
+![IMG](assets/images/a8bec2bca8e873670833373f2cb63ebf141ee2d5c6f2e7ac5ec710c83bc5077f.png)
 [trans]
 ## Overview
 The Swing Breakout Strategy is an active trading strategy used on the 15-minute time frame of major cryptocurrencies. It uses technical indicators to identify market trends, discover potential breaking points, and effectively manage risk by setting stop losses.

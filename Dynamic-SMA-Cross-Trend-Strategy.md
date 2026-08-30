@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/c96d622ef33336f134.png)
+![IMG](assets/images/0cb57fac30f3ed6214b5539481b1b8e53d616498015ed422cb530b5a748fff6d.png)
 [trans]
 ## Overview
 This strategy is a simple moving average (SMA) crossover strategy for the cryptocurrency market. It utilizes three sets of SMAs, fast, medium and slow, to identify potential entry and exit signals. When the fast SMA crosses above the medium-speed SMA, a buy signal is generated; when the fast SMA crosses below the medium-speed SMA, a sell signal is generated.

@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/f04b735ab80eb6467d.png)
+![IMG](assets/images/a7ed7b86ddd39d5b30a525aba0daa7074a1ec4ffff65503bbb552b60b98a2c1d.png)
 [trans]
 ## Overview
 This strategy is based on moving average crossover signals for buying and selling. The strategy uses the 8-day, 18-day and 50-day exponential moving averages (EMA). A buy signal is generated when the price rises above the 8-day EMA and above the 50-day EMA; a sell signal is generated when the 8-day EMA falls below the 18-day EMA.

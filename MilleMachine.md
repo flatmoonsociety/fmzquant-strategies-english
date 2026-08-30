@@ -26,7 +26,7 @@ Greetings Michael
 
 **backtest**
 
- ![IMG](https://www.fmz.com/upload/asset/8b461e99d0042af31d.png) 
+ ![IMG](assets/images/6a7590d33d77027266fed4a6b78c364284dc6e2bb214c648159922a23a20f051.png) 
 
 > Strategy Arguments
 

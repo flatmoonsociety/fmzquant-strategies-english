@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/19b88bf73be34ea91eb.png)
+![IMG](assets/images/683c8f001d0e23d279b947fc79ae97221a6d06536d668f17f59870f933c6b01c.png)
  [trans]
 ## Overview
 This strategy designs a short-term trading strategy based on the Stochastic Index (SMI) indicator, which is mainly used for short-term trading of stocks and digital currencies. This strategy combines the overbought and oversold signals of the Stochastic Index indicator and the confirmation of the moving average, which can capture intermediate callbacks in trending markets and provide better entry points.

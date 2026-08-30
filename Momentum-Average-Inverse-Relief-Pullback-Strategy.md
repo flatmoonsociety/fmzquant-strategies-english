@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/df7cc5ab67264e2e3b.png)
+![IMG](assets/images/885efc1792af18a7eae0c15728a2db5d0e1b7921621605b28fc032f22b138285.png)
 [trans]
 ## Overview
 The Momentum Average Inverse Relief Pullback Strategy is a simple strategy that performs reversal operations near the moving average. This strategy uses the 50-period exponential moving average as the main trend judgment indicator and combines it with the morphological engulfing rule to find reversal opportunities. After breaking through the moving average, wait for the formation of the second or third reverse K line. If it meets the reversal pattern, open a reverse position when the next K line closes and set a one-minute stop loss timer.

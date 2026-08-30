@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/17584e1fd22c67c94c9.png)
+![IMG](assets/images/b4ff7ee1530dd7b8c380b390f5ec2e0522a010a93a44fcdfc6848aebf42b7cc9.png)
 [trans]
 #### Overview
 This strategy combines Bollinger Bands and the 5-day exponential moving average (5-day EMA) to generate trading signals. When the price exceeds the upper Bollinger Band and the closing price is below the 5-day EMA, a short position is opened; when the price falls below the lower Bollinger Band and the closing price is above the 5-day EMA, a long position is opened. At the same time, when a reverse signal occurs, the strategy will close existing positions and open new reverse positions. This strategy aims to capture market volatility and trend changes, judge the relative level of prices through Bollinger Bands, and use EMA as a filter for trends to generate trading signals.

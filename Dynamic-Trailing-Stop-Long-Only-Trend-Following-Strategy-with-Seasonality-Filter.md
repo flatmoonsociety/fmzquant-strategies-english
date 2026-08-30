@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/ec59ac8ae7817e006b.png)
+![IMG](assets/images/03bcd843915f622be04a738d9c0d5e50f224f1b930c9fadc7873a5f4a00980f0.png)
 [trans]
 ### Overview
 This strategy designs a long-only long-term strategy based on the Dynamic Moving Index (DMI), and combines it with the Average True Range (ATR) for trailing stop loss to control the risk of loss. For further optimization, the strategy also incorporates trading hours and seasonal filters for the S&P 500, which has certain advantages.

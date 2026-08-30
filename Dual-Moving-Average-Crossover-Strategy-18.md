@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1c6c638dd52abd301d8.png)
+![IMG](assets/images/c4e578c731c7cadc4b390f4f3cae250b2f369c2cf832a7f3d2407dbc0354ef10.png)
 [trans]
 ## Overview
 This strategy is a trend following strategy based on a double moving average crossover. It combines a fast simple moving average (SMA) and a slow weighted moving average (VWMA), using the intersection of the two averages to form buy and sell signals.

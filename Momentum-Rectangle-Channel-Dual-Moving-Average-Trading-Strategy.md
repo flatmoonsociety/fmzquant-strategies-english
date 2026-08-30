@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/168ef3bf42cc4be5551.png)
+![IMG](assets/images/20ee6f0efbd5705aad7c98e04de19174f5e8f02bab3ab3e27fe5d908d0edffda.png)
 [trans]
 ### Overview
 This strategy is based on the momentum indicator rectangular channel and the double moving average indicator, and implements a relatively complete stock trading system. The strategy starts by constructing a dual moving average trading signal using fast EMA and slow EMA. Then combine it with the rectangular channel indicator to further verify the trading signal and achieve more accurate entry. In addition, the strategy also uses the SAR indicator to assist in determining the trend direction.

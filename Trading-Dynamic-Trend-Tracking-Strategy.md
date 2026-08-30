@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1e5d0d7e76a417e94ed.png)
+![IMG](assets/images/b9ee4471235840835b6f687c5b4ea7741db4003e44cbb3c33536d5cb2e58871d.png)
 [trans]
 ## Overview
 This strategy is improved and designed based on the ideas given by Andrew Abraham in the "Trading Trends" article published in "Trading Technical Analyst" magazine in September 1998. It is used to dynamically track stock price trends and generate trading signals accordingly.

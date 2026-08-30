@@ -17,7 +17,7 @@ Note the feature Tech Support showed me on how to set the default timeframe of t
 By the way I fully disclose that I completely STOLE the Dots at the MAcd Cross from "TheLark"
 
 **Backtest**
- ![IMG](https://www.fmz.com/upload/asset/1e9c4d77121b59a35fd.png) 
+ ![IMG](assets/images/932e5acc529955fde3ef2b2597ebf1fabb34d487d19b6d23bd195c0e53dcd824.png) 
 
 > Strategy Arguments
 

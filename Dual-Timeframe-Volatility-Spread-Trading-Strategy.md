@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/14596ddc1192b4d3687.png)
+![IMG](assets/images/1cf342ab246247143a93ad05be19f6211c5e4c5d2bc048726d6e55abbc2c4d15.png)
 [trans]
 ## Overview
 The dual-time axis volatility spread trading strategy calculates the price difference between the RSI indicators of two different time periods to determine the overbought and oversold state of the market and achieve low risk trend trading.

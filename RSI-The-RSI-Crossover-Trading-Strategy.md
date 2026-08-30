@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/703d4f7aa54ed3680b.png)
+![IMG](assets/images/c484668396081819d0a5c7f73cfd3ae9e3af7f471e20cd603ed18623b17ef192.png)
 [trans]
 Strategy Overview:
 The RSI Crossover trading strategy is a quantitative trading strategy based on the Relative Strength Index (RSI). This strategy uses the RSI indicator's crossover signals to identify overbought and oversold conditions in the market, allowing for trades to be made at the right time. A long position is opened when the RSI crosses the oversold level from bottom to top, and a short position is opened when the RSI crosses the overbought level from top to bottom. At the same time, this strategy also sets the closing condition, which is to close the position when the RSI of the long position crosses the overbought level from top to bottom or the RSI of the short position crosses the oversold level from bottom to top.

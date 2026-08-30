@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/129fcead3cf4634af05.png)
+![IMG](assets/images/d164284ecb2789339800d2b90ffb01cbb500ddc28928096ea0701dd11da1c2ef.png)
 [trans]
 ## Overview
 The name of this strategy is "Quantitative Trading Strategy Double Moving Average Breakthrough Strategy". The main idea of ​​this strategy is to use the cross signals of the fast moving average and the slow moving average to judge the price trend and then make buying and selling decisions.

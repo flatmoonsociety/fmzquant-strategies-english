@@ -14,7 +14,7 @@ then it is looking for the stoch indicator to confirm if there is a cross under 
 
 **backtest**
 
- ![IMG](https://www.fmz.com/upload/asset/714409a2e72aade205.png) 
+ ![IMG](assets/images/204448e8afae99ccd58c784235f840e0994de39cb27ba738a231b0e12ed2f026.png) 
 
 > Strategy Arguments
 

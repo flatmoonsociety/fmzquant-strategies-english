@@ -12,7 +12,7 @@ ChaoZhang
 ESte indicador esta hecho para darte las senales de venta y compra con un riesgo beneficio de 1.50 usalo en periodos de 15 mnts
 
 
- ![IMG](https://www.fmz.com/upload/asset/150bfcf9ce5c54bd869.png) 
+ ![IMG](assets/images/e21f461a871dd78f2370fae3b5bf6dc1b3f2f90564ffd6a702dce358745208e0.png) 
 
 > Strategy Arguments
 

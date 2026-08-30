@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1857b4e7e220fffcee2.png)
+![IMG](assets/images/cee6b5ec8f8cbceb83226efe04ad28b02a83c56ada4c41d781150e8238ba408f.png)
 [trans]
 ## Overview
 This strategy is a dynamic stop-loss tracking strategy based on dual EMA moving averages. It uses the 9-day line and the 20-day line to determine the market trend direction, and combines it with the RSI indicator to filter out false breaks. At the same time, use the ATR indicator to calculate dynamic stop loss and take profit levels. This strategy is suitable for medium and long-term positions.

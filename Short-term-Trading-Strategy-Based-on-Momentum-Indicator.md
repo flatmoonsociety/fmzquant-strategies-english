@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/b176d126530061f913.png)
+![IMG](assets/images/5cdb79a4fa05b6837c7c13c37a6c8eb3cea3f27fbb7dc08fd4e9fe185e3adbf1.png)
 [trans]
 ## Overview
 The name of this strategy is "Short-term trading strategy based on momentum indicators". This strategy uses the momentum indicator Mass Index to identify turning points in market trends to capture short-term trading opportunities.

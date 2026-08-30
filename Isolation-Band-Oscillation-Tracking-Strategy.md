@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/8c43e74f95969a8921.png)
+![IMG](assets/images/26b796dc11cbf8f64aaf9ebc0d89de9b20562c386a36a1a976f6ce03f55033b0.png)
 [trans]
 ## Overview
 The main idea of ​​this strategy is to calculate long-term and short-term stop loss levels based on the ATR indicator, and generate trading signals when the price breaks through these stop loss levels. It has both trend following and shock capturing functions.

@@ -11,7 +11,7 @@ From a simple volatility strategy published by a user two years ago
 https://www.fmz.com/strategy/200131
 
 I accidentally came across that I rewrote it using PINE and reduced the amount of code by 90%. It is a reference for quantitative friends.
- ![IMG](https://www.fmz.com/upload/asset/143fce25524c3447937.png) 
+ ![IMG](assets/images/9dfcca93bb35a9a8c9b788cac1268e71bb8f57faef88ad4ff0ed5b2d65cb7f97.png) 
 
 > Strategy Arguments
 

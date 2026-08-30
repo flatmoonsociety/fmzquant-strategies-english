@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1c1ff16aca3e389119a.png)
+![IMG](assets/images/8de5632e960c88550f1ea75b47a91f81840cb5a4cd765175d8fddaf396488bbb.png)
  [trans]
 ## Overview
 The strategy is designed based on the linear regression RSI indicator. The strategy generates buy and sell signals by calculating the crossover of linear regression RSI and EMA. This strategy provides two buying logic options at the same time, which can be selected according to needs.

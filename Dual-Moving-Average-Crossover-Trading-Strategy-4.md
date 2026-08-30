@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/114075026da2abd12e5.png)
+![IMG](assets/images/25d7d6be6734f1806e72fedd854107632c3e8ea6c9e2547190ab9d12de8255fe.png)
 [trans]
 ## Overview
 The core idea of ​​this strategy is to use the golden cross of the fast moving average and the slow moving average to judge the market trend and achieve low-risk transactions. When the fast moving average crosses the slow moving average, it means that the market may enter an upward trend, so go long; when the fast moving average crosses below the slow moving average, it means that the market may enter a downward trend, then go short.

@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/17d9bc0882a12c923ba.png)
+![IMG](assets/images/e01e2edd09a91b8625568718b33cac8cc8669cb78fdc03a67d68b0b4a8674580.png)
 [trans]
 ## Overview
 The triple SMA strategy is a strategy based on three simple moving averages of different periods for trend judgment and entries. It can automatically track the trend and use the callback in the trend to add and build positions.

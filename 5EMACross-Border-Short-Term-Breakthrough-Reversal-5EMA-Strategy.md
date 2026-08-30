@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1beec3643d33c7a92aa.png)
+![IMG](assets/images/6d640ee85bc27ef145fe50c8f118baab6f8e44e3e1cf47bfd75d0fe7b51249ab.png)
 [trans]
 This article will introduce a short-term breakout reversal trading strategy based on the 5EMA indicator. This strategy mainly uses the 5EMA indicator to determine the price trend, and conducts reversal transactions when the price breaks through the EMA.
 #### Strategy Overview

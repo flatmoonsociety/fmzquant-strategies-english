@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/18bac4237d233e53ab7.png)
+![IMG](assets/images/077bbd05e2420a938b3af0625e1e9b5fb88a9820cc6d059953ddf5a145611525.png)
 [trans]
 ### Overview
 The dual moving average indicator stochastic strategy is a strategy that attempts to use a combination of moving average indicators and stochastic indicators to find trading opportunities. It generates trading signals when the fast EMA crosses the slow SMA, and uses the stochastic K value to determine whether it is overbought or oversold to filter out some signals.

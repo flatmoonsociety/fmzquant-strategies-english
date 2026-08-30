@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/11d21f6898996ad95d4.png)
+![IMG](assets/images/d8b007e30a6303b2552878381848fde712d5ceb99a57a397c598ccc6148c4a2a.png)
 [trans]
 ### Overview
 This strategy combines the Super Trend Indicator and Elliott Wave Theory to create a robust technical trading tool. It uses multi-level trend analysis to provide a more comprehensive view of the market and can Early Capture potential trend reversals and important price movements in the market.

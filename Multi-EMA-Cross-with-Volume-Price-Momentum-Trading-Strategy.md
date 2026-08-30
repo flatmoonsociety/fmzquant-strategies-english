@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/f59785e5e4803fc436.png)
+![IMG](assets/images/345ba7c0d58b502f817d17b90d5681b790121658a895440252b483c6799648d6.png)
 
 [trans]
 This is a comprehensive momentum trading strategy based on the multiple moving average crossover indicator and the volume price indicator. This strategy generates trading signals based on the combination of multiple indicators such as fast and slow exponential moving average (EMA) crossover, volume weighted average price (VWAP), and super trend (SuperTrend). It also combines conditions such as intraday trading time windows and price changes to control entry and exit.

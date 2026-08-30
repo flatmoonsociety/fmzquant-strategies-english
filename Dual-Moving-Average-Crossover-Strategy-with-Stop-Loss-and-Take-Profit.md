@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/3802daea1d1af88c0e.png)
+![IMG](assets/images/fcd5ec8e3a7deff40fdd61b4762a0c272225c6cc1e318aced21c5ae4a0410bda.png)
 [trans]
 ### Overview
 The double moving average golden cross and dead cross take profit and stop loss strategy is a trend following strategy. It uses the golden and dead crosses of the Stochastic indicator's two moving averages, K and D, to determine when to buy and sell. At the same time, it uses stop-profit and stop-loss to control risks.

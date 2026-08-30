@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/dd67da7f10df99834e.png)
+![IMG](assets/images/b37f487c74f400718ac81cedc414b6b04bd4595f86636640517abbb001216fab.png)
 [trans]
 ## Overview
 This strategy integrates multiple indicators such as Ichimoku cloud chart, moving average, MACD, Stochastic and ATR to realize trend identification and tracking under multiple time frames. After obtaining a trend signal with a higher probability, the ATR cycle stop loss and take profit method is used for risk control.

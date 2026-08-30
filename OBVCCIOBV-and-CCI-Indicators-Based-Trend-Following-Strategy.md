@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1c2e593d0089bc483b5.png)
+![IMG](assets/images/d028e4e0617ef90614f56d2d2c8e0cdef56668a8aa4015b33595161fbcd31012.png)
 [trans]
 ### Overview
 This strategy is a trend following strategy based on the OBV and CCI indicators. It determines market trends and capital flows through the OBV indicator, and then uses the CCI indicator to filter and generate trading signals. When both OBV and CCI indicators confirm that the current trend is up, go long; when both OBV and CCI indicators confirm that the current trend is down, go short.

@@ -20,7 +20,7 @@ Feel free to use and modify as you see fit. Happy trading!
 
 **backtest**
 
- ![IMG](https://www.fmz.com/upload/asset/18d9f7f95cee6a9bec6.png) 
+ ![IMG](assets/images/3d24fc92fd14aabe68160de763d8cee7afc74bfc72028526af545a561b30684c.png) 
 
 
 

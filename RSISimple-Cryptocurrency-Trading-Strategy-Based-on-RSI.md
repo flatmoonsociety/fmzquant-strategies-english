@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/126196b66d531b680e5.png)
+![IMG](assets/images/9aeaf047d5ff076f32a3e3f1cd4998e7a09402c223051fa5801b13c525bcdc9a.png)
 [trans]
 ## Overview
 This is a simple cryptocurrency trading strategy based on the Relative Strength Index (RSI). It calculates the RSI value to determine whether the market is overbought or oversold, thereby generating trading signals. This strategy is suitable for short to medium term trading.

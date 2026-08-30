@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/102d5b4b9a64f8f3b05.png)
+![IMG](assets/images/15b6682ca59cb2fbce0052dadd25005c16061644b023671cbd3feea54f08c9bc.png)
 [trans]
 
 This is a quantitative trading strategy that combines multiple technical indicators to make long and short judgments. This strategy comprehensively considers multiple factors such as momentum indicators, trend indicators, Ichimoku cloud charts, etc. to form the final buying and selling judgment. This strategy has strong stability and risk resistance.

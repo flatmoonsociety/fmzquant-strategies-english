@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/b986db224a47a7740b.png)
+![IMG](assets/images/686ac204a10ec794061c0da56a562594e24b8919f16dbfc9422387286b4fcd9d.png)
 [trans]
 ## Overview
 This strategy forms trading signals based on the golden crosses and dead crosses of the 30-day, 60-day and 200-day simple moving averages. When the short-term moving average crosses the long-term moving average, a buy signal is formed; when the short-term moving average crosses below the long-term moving average, a sell signal is formed. This strategy combines the advantages of trend following and moving average crossover, which can not only capture the long-term trend, but also form trading signals at trend turning points.

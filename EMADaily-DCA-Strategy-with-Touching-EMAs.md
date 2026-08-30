@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/e3715854c31d3f8b4a.png)
+![IMG](assets/images/77a66eeb14a2e732a91ab703927067e2e8a01858fcf0593508b9eb1cde08de73.png)
  [trans]
 ## Overview
 This Pine Script strategy implements a daily average cost strategy on the TradingView platform and combines the touch signal of the EMA indicator to determine entry points. The strategy follows the average cost investment rule and purchases with a fixed amount every day to diversify risks. At the same time, the EMA's touch signal is used to guide the specific entry timing.

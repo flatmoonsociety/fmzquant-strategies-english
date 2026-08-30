@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/ce590d0adbb12ba64d.png)
+![IMG](assets/images/7b623a9936e33d140545db3e5440d23d98c9d2c1579c187d314973fff7eaa478.png)
 [trans]
 ## Overview
 This strategy uses the upper and lower rails of the linear regression channel and combines the double standard deviation to set breakout buy and sell signals to open a position after the price breaks through. At the same time, the intersection of the center line of the channel is used as a closing signal to achieve profit taking after making a profit.

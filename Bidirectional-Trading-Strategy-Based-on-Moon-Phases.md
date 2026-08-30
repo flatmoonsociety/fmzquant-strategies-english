@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/18ebe38474d7bac60a8.png)
+![IMG](assets/images/1c562010f6ef83cf66b48af2bc0c8f12c2ed336581ed9ae2064ef57eb238fb8f.png)
 [trans]
 ### Overview
 This strategy is based on the changes in the phases of the moon, going long when the new moon occurs and shorting when the full moon occurs, achieving two-way trading.

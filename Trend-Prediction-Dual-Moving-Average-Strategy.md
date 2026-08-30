@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/189934e408c0a6c25ce.png)
+![IMG](assets/images/4d05ed5fd63214b2ba1222655c17b3dff0195fff7bc8eb6bd35d5753afe0f08d.png)
 [trans]
 ## Overview
 The trend prediction double moving average strategy is a strategy that attempts to predict trend changes before price trends reverse. It extends based on LazyBear's WaveTrend indicator. The strategy identifies price trends and displays buy and sell signals through curve-filled visuals.

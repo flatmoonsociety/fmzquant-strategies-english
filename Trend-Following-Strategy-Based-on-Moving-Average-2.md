@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/139bbc2beb5c3cdd556.png)
+![IMG](assets/images/d4a61f8f900d43c979331bcc204b0073b0b2654b61fd1b6a38fd8ba89870abbe.png)
  [trans]
 ## Overview
 This strategy is a simple trend following strategy based on moving averages. It determines the current trend direction and the duration of the trend by comparing the size relationship of moving averages of different periods. Go long when the short-period moving average crosses the long-period moving average from bottom to top, and go short when the short-period moving average crosses the long-period moving average from top to bottom. At the same time, the strategy also sets stop loss points and take profit points to control risks.

@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/f095b3b11c68e3f733.png)
+![IMG](assets/images/b2317595602a73d399cc2d06ca9fb98481222cc9b3fa52fb1eea3c87020cc08e.png)
 [trans]
 ## Overview
 This strategy mainly uses the highest price, lowest price and closing price of the previous trading day as the support and resistance levels of the day. It goes long when the resistance level is broken and goes short when the support level is tested back. It is a typical breakthrough strategy.

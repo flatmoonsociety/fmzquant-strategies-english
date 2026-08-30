@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/a27617112b4b5a9304.png)
+![IMG](assets/images/98d9a4d85901a85a8d42a604647210e23c5849aa61d1383b74ea3585b3edb72e.png)
 [trans]
 ## Overview
 The Momentum Trend Synchronization Strategy is a trading strategy that combines the Relative Momentum Index (RMI) and a custom presentTrend indicator. This strategy adopts a multi-level approach, combining momentum analysis with trend judgment to provide traders with a more flexible and sensitive trading mechanism.

@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/df5feb02abd9129658.png)
+![IMG](assets/images/ddb772cf482e786c8b337f6d20b47b79e71b86f44c1edda5701f7e9df724205d.png)
 [trans]
 ### Overview
 The Trend Catcher-MACD Momentum Composite Moving Average Strategy is an exquisite trading tool designed for traders who follow market trends. The strategy is built on a powerful combination of Average True Range (ATR), Simple Moving Average (SMA) and Moving Average Convergence Indicator (MACD), entered through filtering and precise confirmation of trading signals.

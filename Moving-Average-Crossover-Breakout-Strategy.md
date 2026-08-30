@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1a789f67675f9efcdf6.png)
+![IMG](assets/images/4391550b6bfc853c26e2b3ee3b34cb456e45367f70ad3f56a56eedfd7e831d7c.png)
 [trans]
 #### Overview
 The moving average crossover gap strategy is a short-term strategy that uses moving average crossover signals for entry and exit. This strategy uses 12-period and 21-period simple moving averages to construct trading signals. A buy signal is generated when the 12-period line crosses the 21-period line from below; a sell signal is generated when the 12-period line crosses the 21-period line from above. This strategy is suitable for short-term trading in highly volatile markets.

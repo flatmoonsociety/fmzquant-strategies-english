@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/20aebdfdb4a0d59f3f7.png)
+![IMG](assets/images/5dce97e5e18e5f153452fe7ee2cf1bd4984c328a910917e13af56fbe32505505.png)
 [trans]
 ### Overview
 This article will introduce a quantitative trading strategy that combines the Pablo Cycle indicator and the Bollinger Band indicator to set a moving stop loss strategy. This strategy determines the market trend direction by calculating the Pablo Bel cycle line, and then uses the upper and lower rails of Bollinger Bands to dynamically set stop loss levels, thereby achieving moving stop loss to lock in profits.

@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1bada62fa996f2d38b8.png)
+![IMG](assets/images/588b75596a842ba8c537c4e6986ef0415813a0aee7cd9c0af16a15e07e6c5c20.png)
  [trans]
 
 Pete Wave Trading System Strategy Overview

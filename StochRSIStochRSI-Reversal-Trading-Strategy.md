@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/17ec34fb21c44115e93.png)
+![IMG](assets/images/e7de198b23fd160247a99128a9ce6c0067c92c398a980eb096bdb92e72fd5cfb.png)
 [trans]
 ## Overview
 The StochRSI reversal trading strategy is a quantitative trading strategy that uses the Stochastic RSI and RSI indicators in combination. This strategy uses the Stochastic RSI indicator to identify overbought and oversold conditions and generates trading signals when the RSI indicator reverses.

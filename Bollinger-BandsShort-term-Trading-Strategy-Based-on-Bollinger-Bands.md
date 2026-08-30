@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/11cba56c0029556c93a.png)
+![IMG](assets/images/c8a69e61c490da1ae544ad0ea958f7e763165e4aa2378f7d0bccb5ea6a037892.png)
 [trans]
 ## Overview
 This strategy is based on the Bollinger Bands indicator for short-term trading, and uses the upper and lower rails of the Bollinger Bands to provide breakout buy and sell signals. It is a simple momentum tracking strategy. It is mainly suitable for short-term tracking and trading strategies that pursue price trends.

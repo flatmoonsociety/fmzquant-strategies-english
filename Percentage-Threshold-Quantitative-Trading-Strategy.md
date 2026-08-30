@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/11c21f490fd7ce91bd3.png)
+![IMG](assets/images/f241f55b303c46f7421b51688db5127b8f2202b1222a9d95003c5437f107b27e.png)
 [trans]
 #### Overview
 This article introduces a quantitative trading strategy based on percentage thresholds. This strategy determines when to buy and sell by setting a percentage threshold and selecting an appropriate time period. A buy or sell signal is triggered when the price rises or falls by more than a specified percentage threshold relative to the previous close. This strategy can be flexibly adjusted according to the user's risk preference and market conditions, and is suitable for trading in various financial instruments.

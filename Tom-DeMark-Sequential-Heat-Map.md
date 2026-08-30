@@ -27,7 +27,7 @@ If you have any idea on how to optimise the code, please feel free to share
 
 **backtest**
 
- ![IMG](https://www.fmz.com/upload/asset/1859111aa7cc63d68cc.png) 
+ ![IMG](assets/images/2d842c8374fa78571a8ba533787d688eba461ed3b714cfac3a65fd6512a241bd.png) 
 
 > Strategy Arguments
 

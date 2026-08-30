@@ -22,7 +22,7 @@ Other changes:
 - 
 **backtest**
 
- ![IMG](https://www.fmz.com/upload/asset/ac6b4d0c05b46b2f19.png) 
+ ![IMG](assets/images/58df61d9b04a33b0a5a38177efe036995f897971785541a6e75b47451d064850.png) 
 
 > Strategy Arguments
 

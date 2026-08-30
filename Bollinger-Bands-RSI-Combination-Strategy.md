@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/145c62183fd79087357.png)
+![IMG](assets/images/35842c00df97448f3ee57122b9accfc321e7f375b9be3aa3376ad8f2b88aa4fb.png)
 [trans]
 ## Strategy Overview
 The Bollinger Bands and Relative Strength Index (RSI) combination strategy is a technical analysis strategy that combines two popular technical indicators: Bollinger Bands and RSI, for making entry and exit decisions in the market. This strategy uses price breakouts above and below the Bollinger Bands and overbought and oversold signals from the RSI indicator to identify trading opportunities.

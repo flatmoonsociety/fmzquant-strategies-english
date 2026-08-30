@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1aec01c59a7e0c560c6.png)
+![IMG](assets/images/8aa8c962bea66a5640772c015d686241303f338aa71353f2a7deccf659cfb278.png)
 [trans]
 ## Overview
 This strategy combines Elliott Wave Theory with the 200-day moving average indicator to achieve automated trading for trend following and profit taking. The basic logic is to determine the trend direction when the fluctuation pattern composed of Elliott's 5 waves appears, and use the 200-day moving average as an auxiliary condition to issue a trading signal.

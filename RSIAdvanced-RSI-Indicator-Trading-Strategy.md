@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/b48c171eaa29eec000.png)
+![IMG](assets/images/2a4b1463114cfd2f94d5cf333429624f29733e171772f94a351b5494f1952e22.png)
 [trans]
 ## Overview
 The S&P500 Advanced RSI Indicator Trading Strategy is a medium- and long-term trend following strategy for the S&P500 index. This strategy combines multiple filters to trade on RSI overbought and oversold signals to control risk and reduce false signals.

@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/7a5025622e3b3d9002.png)
+![IMG](assets/images/8f740e97bacb609acbdad10a36e77fa63c233e4c24a8dd2dbf0188c9dd770afc.png)
 [trans]
 ### Overview
 This strategy visualizes areas of price movement by calculating and plotting a 20-period simple moving average (SMA) and a 21-period exponential moving average (EMA), and filling in color between them. A buy signal is generated when the price crosses above the 20-period SMA; a sell signal is generated when the price crosses below the 21-period EMA. This strategy has both trailing stop loss and take profit functions.

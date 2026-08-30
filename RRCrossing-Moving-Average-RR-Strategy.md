@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/17fd2ac2f01d9ae2185.png)
+![IMG](assets/images/4ba6bf7c0d5141c4799e4385af08da592a334bb0154ff9ff167ec6e50175fb18.png)
 [trans]
 ## Overview
 This strategy determines buy and sell signals by calculating moving averages of different periods and achieving golden crosses and dead crosses between the moving averages. Specifically, the strategy calculates the 30-period, 60-period and 200-period simple moving averages (SMA), generating a buy signal when the 30-period line crosses the 200-period line; and a sell signal when the 30-period line crosses below the 200-period line.

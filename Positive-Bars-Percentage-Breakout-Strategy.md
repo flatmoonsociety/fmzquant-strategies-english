@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/127d7202a6b82baba28.png)
+![IMG](assets/images/6b2b912f01f5356d1d57ef0247791c5fbc591e0abca20af763a1b756475b0526.png)
 [trans]
 ## Overview
 The custom upward breakthrough strategy is a quantitative trading strategy based on price judgment. This strategy determines whether the market is currently in a continued upward trend by calculating the proportion of positive K lines within a specified period. When the proportion of positive K lines is higher than the upper limit set by the user, the strategy determines that the market is currently in an upward trend, and you will go long at this time; when the proportion of positive K lines is lower than the lower limit set by the user, the strategy determines that the market is currently in a downward trend, and you will go short at this time.

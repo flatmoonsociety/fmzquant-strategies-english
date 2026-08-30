@@ -14,7 +14,7 @@ this is a test just trying out pine script
 
 **backtest**
 
- ![IMG](https://www.fmz.com/upload/asset/f86714aaa93a9e48f7e7.png) 
+ ![IMG](assets/images/c6521e2df5d7a3d7ff18e6acb5f84ecc8fdf2f58c5927cf02f2dbf2b0c08bd22.png) 
 
 > Strategy Arguments
 

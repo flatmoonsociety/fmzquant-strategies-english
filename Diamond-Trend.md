@@ -13,7 +13,7 @@ Diamond Trend is an indicator clearly way to catch the trend in the begining $$
 
 **backtest**
 
- ![IMG](https://www.fmz.com/upload/asset/f6a5f43fe714bdae29.png) 
+ ![IMG](assets/images/a3f464b49cf86c5925f7eb9cc5af8f89703f7c417d258bef980284bbea4ae688.png) 
 
 > Strategy Arguments
 

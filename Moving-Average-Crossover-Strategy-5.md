@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1aae1c6e53919f3d8a1.png)
+![IMG](assets/images/2b6cfadf23070968fed0485e086dc2c0e108da68e94dd01a2d0624dde448407b.png)
 [trans]
 ### Overview
 This strategy is based on the idea that the intersection of two moving averages forms buy and sell signals. By customizing the average lengths of the fast and slow lines, a buy signal is generated when the fast line crosses the slow line, and a sell signal is generated when the fast line crosses below the slow line to capture changes in trends.

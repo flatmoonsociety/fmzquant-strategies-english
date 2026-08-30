@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/c75100c9259c62ba4e.png)
+![IMG](assets/images/eff957586baf4320ebc899b40ee20731899c18a5a073fd4585e7f96fd7c2bcda.png)
  [trans]
 ## Overview
 The Camptown 15 Minute Candle Breakout Strategy is a high-frequency trading strategy designed to profitably exploit the volatility of the periods between markets. This strategy captures short-term price fluctuations during determined trading periods by analyzing K-line patterns within a 15-minute time frame to achieve a quick profitable exit.

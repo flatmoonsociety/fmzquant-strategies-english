@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1b18e3fed1a156606fb.png)
+![IMG](assets/images/31c7f8af8662e14b8f44696810369b65ca21090340c9269fe4d248db422c08ba.png)
 [trans]
 ### Overview
 This strategy calculates the channel moving average, establishes a long or short position when the price breaks through the channel moving average, and tracks the stock price trend. It is a trend following strategy.

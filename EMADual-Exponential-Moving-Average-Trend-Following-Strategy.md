@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/e19dc4a68c8652971c.png)
+![IMG](assets/images/85399a7746a4f62ae96a98f7e895cfc8105f2aa44f99991033494bdcdf6c1154.png)
 [trans]
 ### Overview
 Dual Exponential Moving Average Trend Following Strategy (Dual Exponential Moving Average Trend Following Strategy) is a trend following strategy based on moving average crossover. This strategy calculates the fast EMA and slow EMA and determines the current trend direction based on their intersection. When the fast line crosses the slow line, it is judged to be bullish; when the fast line crosses below the slow line, it is judged to be bearish. Depending on the judged trend direction, this strategy can be bullish or bearish.

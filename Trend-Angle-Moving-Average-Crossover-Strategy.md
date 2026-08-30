@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1dcfca873577da728b8.png)
+![IMG](assets/images/6d943e077320f86cd51ae39efbaeaebc83b5593a964d39e61fd117211c343bb2.png)
  [trans]
 ## Overview
 This strategy determines the trend direction by calculating the slope angle of the moving average, and combines the price change rate indicator to conduct long and short two-way trading. Its essence is a trend following strategy that uses the slope angle of the moving average to determine the price trend and the price change rate indicator to filter the consolidation market.

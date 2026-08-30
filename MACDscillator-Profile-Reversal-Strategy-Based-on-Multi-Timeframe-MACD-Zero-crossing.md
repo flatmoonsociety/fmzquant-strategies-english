@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/7a422427830a290110.png)
+![IMG](assets/images/0a66574291459957c6fcf14814a2e1d3357a5ef83daefa3881ae7a1b0de3a069.png)
 [trans]
 ## Overview
 The multi-time period MACD zero-axis cross reversal strategy calculates MACD indicators of different periods, identifies signals of possible price reversals, and adopts trend following stop loss methods to pursue higher capital utilization efficiency.

@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/ea70e915d48d78ac52.png)
+![IMG](assets/images/47f55a86d81fa31114bb9dde9d6863b554c2060e68e254c55146ba0f98d5099d.png)
 [trans]
 ## Overview
 The main idea of ​​this strategy is to determine the long and short direction based on the weekly price trend. In a bullish situation, enter a long order after a positive line pattern appears; take profit when the price rises to the preset take-profit point, and stop loss if it falls to the preset stop-loss point.

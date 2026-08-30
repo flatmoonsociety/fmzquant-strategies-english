@@ -59,7 +59,7 @@ SELL when prices go under PMax line.
 
 **backtest**
 
- ![IMG](https://www.fmz.com/upload/asset/1311358660a7697b6f6.png) 
+ ![IMG](assets/images/f2b7078ec4a28f252d26a8c02bfe11a25df2a434ef4f4f89c03cc9bd3b27d2c5.png) 
 
 > Strategy Arguments
 

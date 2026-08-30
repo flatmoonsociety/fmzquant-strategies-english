@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/f286c755db8ffda144.png)
+![IMG](assets/images/fa116d09ee957a3db710cc119bb8a2c79d58a95cc38ed5955c089f3c1e4fa2d4.png)
  [trans]
 ## Overview
 This strategy is a trend following strategy that combines a cloud chart indicator and a variety of auxiliary indicators. Mainly use a cloud chart to determine the trend direction, supplemented by MACD, CMF, TSI and other indicators for filtering to improve signal quality. This is a strong trend strategy based on comprehensive judgment of multiple factors.

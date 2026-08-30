@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/14882157376b9b80c9e.png)
+![IMG](assets/images/924b32acd5181bd5b65078bc0fc77476982c4848e6e354898d8a577941cf909c.png)
 [trans]
 #### Overview
 This strategy is a long/short strategy based on a simple moving average (SMA) crossover. It uses two SMAs with different periods to generate trading signals. When the fast SMA crosses the slow SMA from below, a long signal is generated; when the fast SMA crosses the slow SMA from above, a short signal is generated. This strategy uses the concept of compound interest to dynamically adjust position size based on current account balance and accumulated profits. This allows the account balance to grow over time, thereby increasing the profitability of the strategy.

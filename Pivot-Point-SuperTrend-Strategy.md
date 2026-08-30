@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/8a047e7b1d676a445e.png)
+![IMG](assets/images/7c3547fdbea12bb3f87d6593b8b9bc2a057444885b98b771c4a05f9daa5025f7.png)
 [trans]
 ## Overview
 The Super Support and Resistance Trend Following Strategy is an innovative trend following strategy that combines two popular indicators, Support and Resistance Points and Super Trend, while adding an additional trend filter to improve accuracy. This strategy was inspired by Lonesome TheBlue's "Support and Resistance Points Super Trend" script, which aims to provide traders with a reliable trend following tool while minimizing false signals.

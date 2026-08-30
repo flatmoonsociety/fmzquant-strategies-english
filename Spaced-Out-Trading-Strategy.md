@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1065ab4dce3b5191184.png)
+![IMG](assets/images/e607f5529b040c47b86c6c0da04c9ca3a53602fdf66c1ce13bcdbda91b93538a.png)
 [trans]
 ## Overview
 The interval trading strategy is a trend following strategy based on moving averages. This strategy uses a 30-day exponential moving average to identify price trends, enter the market when the price breaks above the average, and exit when the price falls back below the average. This strategy is suitable for trading on the 30 minute to daily time frame.

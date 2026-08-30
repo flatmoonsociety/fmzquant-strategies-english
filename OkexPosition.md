@@ -8,9 +8,9 @@ Exodus[strategy ghostwriting]
 > Strategy Description
 
 Use OK request to obtain the position information of the specified currency.
-![IMG](https://www.fmz.com/upload/asset/1f4aa7f53c0199070b59b.png) 
+![IMG](assets/images/a41373d505d65dff56aeadd1005626ff346525961db21cb4e2c06822e19e463a.png) 
  
-![IMG](https://www.fmz.com/upload/asset/1f554e0443b2b6d2626e4.png) 
+![IMG](assets/images/e6e93ac9b40b75b87a777ac2f37046cc7c80885fcaf4d12fc9c17f9b2490c947.png) 
   
 By the way, I will undertake the ghostwriting of strategies.
 

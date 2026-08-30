@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/21efdece9be2f2462f9.png)
+![IMG](assets/images/75b950b619508c6927d26f1a67778d375f3669ec5995af76498e1bf342813dfb.png)
 [trans]
 ## Overview
 The multi-time frame stochastic strategy (MTF Stochastic Strategy) is a quantitative trading strategy based on the stochastic index. It uses both the current time frame and the stochastic exponential moving average of higher time frames to achieve combination trading of trend following and trend reversal.

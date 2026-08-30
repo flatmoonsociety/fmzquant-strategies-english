@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/164d190372059c70e6b.png)
+![IMG](assets/images/32b3513668aeab7b6e0407ff7504c04b73dc160fbea2798482d23e540eae7b0d.png)
  [trans]
 ## Overview
 The core idea of ​​this strategy is to combine the Vix repair indicator with its linear regression to accurately capture the market's lows. The strategy is called "Fix Linear Regression Lows Strategy".

@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/8f661685af4def9d01.png)
+![IMG](assets/images/918c3ddfd8f068f24a75da31dc703333ef7a00a3f58bee4a2602891b22d9d482.png)
 [trans]
 ## Overview
 The optimal ATR stop loss multiple strategy is a trend following strategy that uses multiples of the average true range (ATR) to set stop loss points and dynamically adjust risk. When the price trend changes, it can stop losses in time to avoid huge losses.

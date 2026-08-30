@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/9e43a76ce1eb92f833.png)
+![IMG](assets/images/c500db7311090e346c6b3b4f9c89cc43c7fe14a6dd3d2742211fddda0f500f6c.png)
  [trans]
 ## Overview
 This strategy is a multi-time period dynamic moving average combination strategy. It uses exponential moving averages (EMA) of different lengths for trend judgment and entry and exit. The "MAX" in the strategy name indicates that multiple EMAs are used, and "dynamic" indicates that the EMA length can be adjusted.

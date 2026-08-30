@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/136162f76aea28bf1f8.png)
+![IMG](assets/images/5c1e317c743130ea7e7d8e789abab8c12e63ab87ab0a94016bbfaa269dc4d7f5.png)
  [trans]
 ## Overview
 This strategy mainly uses the ADX indicator to determine the trend, and combines MA and EMA with two moving averages with different parameter settings to build a long-only trend following strategy. When ADX rises, the long direction is prompted, and when the price breaks through the upward MA and EMA, a long position is opened; when ADX falls or the price falls below one of the MA or EMA, the position is closed.

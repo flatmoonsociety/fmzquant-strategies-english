@@ -13,7 +13,7 @@ Takes two moving averages of different lengths to formulate buy/sell colors on a
 
 **backtest**
 
- ![IMG](https://www.fmz.com/upload/asset/1a4bb62396a5187a0c1.jpg) 
+ ![IMG](assets/images/cc52e0d45fa971d7042010494885b1126ab7872b6cf93a4597c02e101d4cef73.jpg) 
 
 > Strategy Arguments
 

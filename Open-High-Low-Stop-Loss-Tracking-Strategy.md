@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/110de81942aa476240a.png)
+![IMG](assets/images/b02f1fbf863c7a144c38f755d1fcc82323c219dd6794e4c4539da2b1302839a7.png)
 [trans]
 ### Overview
 This strategy is based on the K-line's opening high and low data to design Entries to find the reversal point of the trend. After Entries, the stop loss line will be set based on the ATR indicator and the stop loss will be tracked. The strategy will also calculate the Target level based on the risk-return ratio, and close the position after reaching the Target or being stopped.

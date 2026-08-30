@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/11ce54a45f39d806f0f.png)
+![IMG](assets/images/29d28405dafee70ed3d45df7d1133dc06702aef86bf67e09d96d39bb0c9747c6.png)
 [trans]
 ## Overview
 This strategy uses the Hodrick-Prescott (HP) filter to smooth the price and extract the price trend line. A custom weighted average price (VWAP) is then calculated based on the user-defined time frame. Go long when the price is above the trend line and go short when it is below. At the same time, combined with ATR stop loss, ensure that trading risks are controllable.

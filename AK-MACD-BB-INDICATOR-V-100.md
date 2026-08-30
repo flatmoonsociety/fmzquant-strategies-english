@@ -12,7 +12,7 @@ ChaoZhang
 
 
 **backtest**
- ![IMG](https://www.fmz.com/upload/asset/173ceab6efbee32a47d.png) 
+ ![IMG](assets/images/f9426387c3a80856e48bda4ee299e0b948594248845ebdf8bd16318e558a80b3.png) 
 
 > Strategy Arguments
 

@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/122179aea3639a5e3e3.png)
+![IMG](assets/images/0ce87a280b00193f7a83fd3fdd0f0d3aeb09694af17d51e6f2b3a07e1bfb7748.png)
 [trans]
 This is a strategy for trading using the Bollinger Bands indicator. This strategy aims to use the Bollinger Bands indicator to identify opportunities for sharp price movements and make buy or sell decisions accordingly.
 ### Strategy Principles

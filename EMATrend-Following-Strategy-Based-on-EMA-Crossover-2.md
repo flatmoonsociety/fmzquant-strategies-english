@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/c31d913440ea85ac7e.png)
+![IMG](assets/images/63d02688819d3881dc6e4b96fc1f651804eb9e232d2bd85c2077e8660d7e5119.png)
 [trans]
 ## Overview
 This strategy calculates the intersection of the fast EMA and the slow EMA to determine the direction of the market trend and implement trend following transactions. When the fast EMA crosses the slow EMA, go long; when the price falls below the fast EMA, close the position.

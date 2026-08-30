@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/11526096a58c40483c7.png)
+![IMG](assets/images/49250f4a8550a4821827ad5b726b1431d741e4892ce8e3a17319013bedc9fdcc.png)
  [trans]
 ## Overview
 This strategy identifies buy and sell signals by identifying multiple price pattern patterns in candlestick charts. This strategy combines technical analysis methods such as Tangle Theory and Dow Theory, and uses more than a dozen common graphic patterns to capture market turning points.

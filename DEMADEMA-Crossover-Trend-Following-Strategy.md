@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/ad583c41ddf8c8e92d.png)
+![IMG](assets/images/c851670a3280a5cfcaa0f7662da379ca2a45b74bff1bcdae9908969d553b1fa5.png)
 [trans]
 ### Overview
 This strategy is based on the intersection of the Double Exponential Moving Average (DEMA) as a trading signal, using a trend following method to automatically set stop loss and take profit. The advantages of the strategy are clear trading signals, flexible stop-loss and stop-profit settings, and the ability to effectively control risks.

@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/5d2bf237e941dc850a.png)
+![IMG](assets/images/819f45c9127940a67d57aeeb096a0e82df1d11fa61441629edcddf1ee4e96bd5.png)
 [trans]
 ## Overview
 The golden cross trading strategy uses the intersection of two moving averages with different periods as buy and sell signals. Specifically, when the short-period moving average breaks through the long-period moving average from below, a golden cross signal is generated, indicating that the market has turned bull; when the short-period moving average falls from above and breaks through the long-period moving average, a death cross signal is generated, indicating that the market has turned bear.

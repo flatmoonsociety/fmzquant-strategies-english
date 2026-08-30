@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/15ec0477d844c687276.png)
+![IMG](assets/images/87d3ec6e56ec63374bd8dd724d22ac0e02b015a9085ea3e610fc4a90fcbecb98.png)
 [trans]
 #### Overview
 This strategy combines technical indicators such as EMA crossover, RSI divergence, 30-minute trend identification, and price exhaustion to capture market trends and price turning points. The strategy uses the intersection of EMA13 and EMA26 to determine trend direction, uses RSI divergence to identify potential trend reversals, and considers trend status and price exhaustion within the 30-minute time frame to optimize entry points.

@@ -9,7 +9,7 @@ ChaoZhang
 
 > Strategy Description
 
- ![IMG](https://www.fmz.com/upload/asset/a94cb5667187596235.png) 
+ ![IMG](assets/images/03b8acf912e58706a9406d18388e2ae44a2e350d5bcd9165bae25e7c52541270.png) 
 
 The Open Range Strategy with Dynamic Profit Target is a technical trading strategy that uses the opening range of the market to identify potential trading opportunities. The strategy is based on the idea that the opening range of the market can provide valuable information about the direction of the market in the short term.
 

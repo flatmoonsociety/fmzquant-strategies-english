@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/7a2bed4a0c5b029027.png)
+![IMG](assets/images/eac70fffa0d7262c41ad4eaf8e0efa3ec42d735e4c5d755532cff0109bfde1b8.png)
 [trans]
 ### Overview
 The Moving Average Dual Track Trading Strategy is a trend trading strategy that tracks dual moving average crossover signals. This strategy uses both the exponential moving average (EMA) and the weighted moving average (WMA) as trading signal indicators. When the short-term EMA crosses above the long-term WMA, the strategy goes long; when the short-term EMA crosses below the long-term WMA, the strategy goes short.

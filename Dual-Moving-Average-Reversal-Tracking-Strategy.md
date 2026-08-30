@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/20ef77721bf15d244ef.png)
+![IMG](assets/images/f92b924063df41628762229293f9bbe4c3f6c2361c11b390898b2ff0528382ea.png)
 [trans]
 
 The main idea of ​​this strategy is to use the golden cross of the moving average as a buying and selling signal, and combine the price to break through the double moving average to open positions and stop losses. A buy signal is generated when the short-term moving average crosses the long-term moving average; a sell signal is generated when the short-term moving average crosses below the long-term moving average. This strategy features both trend following and reversal trading.

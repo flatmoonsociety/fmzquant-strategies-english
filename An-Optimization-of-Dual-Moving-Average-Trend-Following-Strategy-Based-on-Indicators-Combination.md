@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/15961e9eefd6dacced0.png)
+![IMG](assets/images/0c2ffa335175047ffb3bd4e2adff5147383da6306458530f297b558f65dc22fc.png)
 [trans]
 ### Overview
 This strategy calculates fast moving averages and slow moving averages, and combines parabolic indicators to make buying and selling judgments. It is a trend following type strategy. Go long when the fast moving average crosses the slow moving average; go short when the fast moving average crosses below the slow moving average. At the same time, it is combined with the parabolic indicator to filter out false breakthroughs.

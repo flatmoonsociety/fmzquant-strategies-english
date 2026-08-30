@@ -17,7 +17,7 @@ The idea is behind this script is finding pivot point , calculating average of t
 
 **backtest**
 
- ![IMG](https://www.fmz.com/upload/asset/fd80a8497ef73b8f55.png) 
+ ![IMG](assets/images/7e309af87ce1a954c42890435eff5b93b6d117ab33c5c7ab2368e6277cf4c53d.png) 
 
 > Strategy Arguments
 

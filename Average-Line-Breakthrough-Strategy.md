@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/124c76bc31ac5562b35.png)
+![IMG](assets/images/6777026127f8d72c617a6a6cfd7f516b3a77876fce31c35718741af6c1026b64.png)
 [trans]
 ## Overview
 The moving average reversion breakthrough strategy is a typical quantitative trading strategy that follows trends. This strategy uses moving averages and their standard deviation channels to determine market trends and generate trading signals when price breaks out of the standard deviation channels.

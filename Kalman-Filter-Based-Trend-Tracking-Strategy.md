@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/e13f8beb98d1cc0f7a.png)
+![IMG](assets/images/a951d4af368e79ebce3d9298d5b5c954eaf3853d66bbfda905b89869ff6aacb3.png)
 [trans]
 ## Overview
 The core of this strategy is to use Kalman filter technology to smooth the price moving average. By calculating the tangent angle of the smoothed moving average, a trading signal is generated when the tangent angle exceeds a certain threshold within a specified period. This strategy is dedicated to tracking medium and long-term trends and reducing the impact of noise through Kalman filtering technology to obtain clearer and more reliable trend signals.

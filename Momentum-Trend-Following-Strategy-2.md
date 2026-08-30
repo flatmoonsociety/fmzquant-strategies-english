@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/101c4bd245a7f199d15.png)
+![IMG](assets/images/a89f2f6a8353dc59ace8e7ee3630ff70fe72e62c8e64c9817393141bbbd5111b.png)
 [trans]
 ### Overview
 This strategy uses a combination of the Aroon indicator and the Absolute Strength indicator (ASH) to identify market trends and potential trading opportunities. Aroon helps identify the strength and direction of trends, while ASH provides insight into the strength of momentum. By combining these indicators, the strategy attempts to capture profitable trading opportunities in the Ethereum market.

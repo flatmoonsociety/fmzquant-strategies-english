@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/f49155bff8f4e49e3b.png)
+![IMG](assets/images/d452c171155558b29511ae828a44bf36a692010c1c1f98a06e86244f28575ef2.png)
  [trans]
 #### Overview
 The forcefield breakout strategy is a quantitative trading strategy based on moving averages and the relative strength index. This strategy determines the market's trend direction by detecting price breaks through key moving averages, and combines it with the RSI indicator to determine the timing of entry. The core idea is to send trading signals when the price breaks through the moving average, supplemented by the overbought and oversold signals of the RSI indicator.

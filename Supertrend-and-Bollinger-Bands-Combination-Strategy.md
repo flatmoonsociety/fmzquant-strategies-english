@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/d92bacf6999be07086.png)
+![IMG](assets/images/412f7c7ff840d8b6c380fb4d148236f2a37c81e5b48eb78ee73ea5e8e07d8df7.png)
 [trans]
 #### Overview
 This strategy combines the Super Trend indicator and the Bollinger Bands indicator to capture trending opportunities in the market. The Super Trend indicator is used to determine the trend direction of the current market, while the Bollinger Bands indicator is used to measure market volatility. A long signal is generated when the closing price breaks through the super trend line and is located at the lower edge of the Bollinger Bands. A short signal is generated when the closing price falls below the super trend line and is at the upper edge of the Bollinger Bands. The advantage of this strategy is that it can enter the market promptly when the trend is clear, while avoiding premature entry in a volatile market.

@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1084b606fda3922a695.png)
+![IMG](assets/images/10d570e926cf84878386c033c1d101a9cb0730c3569f3e281b473fc2f77be5a6.png)
 [trans]
 ## Overview
 The Adaptive Zero Lag Exponential Moving Average Quantitative Trading Strategy is a quantitative trading strategy developed based on Ehlers' Zero Lag Exponential Moving Average idea. This strategy uses the exponential moving average as the baseline indicator, and adds an adaptive method of Instantaneous Frequency Measurement to dynamically optimize the period parameters of the exponential moving average.

@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1bae1c066c2cfe584b1.png)
+![IMG](assets/images/e2d2e5e46beeea0b00c37e10f5ad86f5696e9bff17aa806470c7cf0aa7043ed8.png)
 [trans]
 ## Overview
 The moving average crossover strategy is a relatively common stock trading strategy. This strategy works by calculating a fast moving average and a slow moving average and generating buy and sell signals when they cross. Specifically, when the fast moving average crosses the slow moving average from below, a buy signal is generated; when the fast moving average crosses below the slow moving average from above, a sell signal is generated.

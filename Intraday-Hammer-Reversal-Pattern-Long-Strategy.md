@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/e08122ee4d83f8aa37.png)
+![IMG](assets/images/6819c42a7e98d8bed2b35e9da7dccfe9d125276055e563d102ffe84bb46a28f7.png)
 [trans]
 ## Overview
 This strategy uses a combination of an intraday hammer reversal pattern and a subsequent green candle to look for potential upside opportunities. When a hammer reversal pattern appears and the next candle is a green up candle, the strategy opens a long position. The stop loss position is set at the low point of the hammer candle, and the take profit position is set at 1.5 times the opening price.

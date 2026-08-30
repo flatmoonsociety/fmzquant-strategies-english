@@ -24,7 +24,7 @@ Limitations of the indicator include the following:
 **backtest**
 
 
- ![IMG](https://www.fmz.com/upload/asset/14fa3cc24d4b26b9884.png) 
+ ![IMG](assets/images/41e5d0111eab92467d9575dd2ec86778384174579b5cedb8d22f99aabcebdc9c.png) 
 
 > Strategy Arguments
 

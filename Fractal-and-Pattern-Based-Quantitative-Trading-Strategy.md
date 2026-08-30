@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/b589721f196ad7ad04.png)
+![IMG](assets/images/ae111deac11eeafa5adc28bc7c42b649ff83141247b2b74e1c40c64ecc5f8186.png)
 [trans]
 ### Overview
 This article will introduce a quantitative trading strategy that combines morphological analysis and candlestick patterns. This strategy achieves low-risk, high-yield automated trading by detecting important turning points in price graphs and candle patterns that represent strong reversals.

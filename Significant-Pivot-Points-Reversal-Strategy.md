@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/ce944a720ed9db1712.png)
+![IMG](assets/images/a67232eed2c2dec1dbce5058beaace9d59ae2f58d5f4bc745797a379525f6cd6.png)
 [trans]
 ### Overview
 This strategy is optimized based on the traditional pivot point reversal strategy. It mainly calculates ATR and sets the ATR filter factor to filter out some meaningless pivot points and only trade those truly important pivot points.

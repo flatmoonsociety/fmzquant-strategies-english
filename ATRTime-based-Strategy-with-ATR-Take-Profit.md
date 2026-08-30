@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1036cf76fbff6016d6f.png)
+![IMG](assets/images/e92b405e06b8067c70b5d565d9b36f40191a204e42f7d0b37d538d630028a159.png)
  [trans]
 ## Overview
 The main idea of ​​this strategy is to combine time and ATR indicators to achieve automated stop loss and take profit. The strategy will open a position for buying or selling at a fixed time point, and calculate a reasonable stop-loss and take-profit price based on the ATR indicator. This can achieve efficient and automated transactions, reduce the frequency of manual operations, and effectively control risks through the ATR indicator.

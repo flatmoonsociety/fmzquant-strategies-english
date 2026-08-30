@@ -37,11 +37,11 @@ The principle of the strategy is very simple. OKEX contracts are intertemporally
 - Strategy charts
     The strategy automatically generates spread K-line charts and marks relevant transaction information.
 - ### Backtesting
-  ![IMG](https://www.fmz.com/upload/asset/165549c612d8ba5ae550.png) 
+  ![IMG](assets/images/0c87e1017dea29b018c3f6f8e625d3b3de076a90bf077c6329b4a7b28e5ec01c.png) 
 
-  ![IMG](https://www.fmz.com/upload/asset/168d0e671a56094b28c3.png) 
+  ![IMG](assets/images/5bfe6ea20dcb5993954c70eaf08df83305138b6f11e025c03c10bb73e66188b8.png) 
 
-  ![IMG](https://www.fmz.com/upload/asset/170dcc772a1925d46885.png)
+  ![IMG](assets/images/6c05879f68a0e56bb68bc05c9de06758527cb6fd4acee492903eb2fb0e5a74b0.png)
 
 > Strategy Arguments
 

@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/11db85fc63a5ef3853d.png)
+![IMG](assets/images/4295afe8c289b1f282ec578e5fb602c1b0cde66b4ad2762ccb02d27a096341b4.png)
 [trans]
 ## Overview
 The Double Moving Average HullMA crossover trend strategy is a trend following strategy based on double moving average crossovers. It uses weighted moving averages (WMA) to build a dual moving average system and generates trading signals when they cross. This strategy also combines price breakthrough judgment to further filter signals.

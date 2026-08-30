@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1a17df2c37392ffb0fc.png)
+![IMG](assets/images/09745a44e9277fb82a6bbcc504ecdf6ecc5a7b67b4ef858883cb3f7edebfa6c3.png)
 [trans]
 ## Strategy Overview
 This strategy is based on the Bollinger Band indicator, opening a position when the price touches the upper and lower rails of the Bollinger Band, and setting up dynamic take-profit and dynamic position-adding logic. When the price rebounds from the lower track and breaks through the middle track of the Bollinger Bands, the strategy believes that an upward trend has formed. At this time, the strategy will increase the position when the price retraces to a certain proportion of the middle track; when the price finally breaks through the upper track of the Bollinger Bands, the strategy closes the position and takes profits. In a downtrend, the strategy adopts the opposite operating logic. Through Bollinger Bands' dynamic take-profit and dynamic position-adding, this strategy can gain more profits in trending markets.

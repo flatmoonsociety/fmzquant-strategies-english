@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/ec8b4d127bb6734839.png)
+![IMG](assets/images/58cf00bbdb27369d6adb7dc4bd92709eade65602ddafe721df48fb7bf717cff5.png)
 [trans]
 #### Overview
 This strategy is a cryptocurrency high-frequency trading strategy based on the Relative Strength Index (RSI) and Moving Average Convergence Divergence (MACD) indicators. It uses two moving averages (MA) of different periods to determine trends, and combines RSI and MACD indicators to confirm entry and exit signals. This strategy aims to achieve low-risk, steady profits.

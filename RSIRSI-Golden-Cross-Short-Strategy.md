@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/207fa87c14544977ee5.png)
+![IMG](assets/images/765635e2309b6b4f6233bf30fbc5ee7bfebdc524dc1778f626e23305ab83510b.png)
 [trans]
 ### 1. Strategy Overview
 The RSI golden cross super short-selling strategy uses the ATR band, double RSI indicators and the golden cross of the EMA moving average to achieve trend judgment and entries. The ATR band is used to determine whether the price is overbought and oversold, the double RSI indicator is used to confirm the price trend, and the EMA moving average golden cross is used to find entry opportunities. This strategy is simple in design and easy to implement, making it an efficient and flexible short-selling strategy.

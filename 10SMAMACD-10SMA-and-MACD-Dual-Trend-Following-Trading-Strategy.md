@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/157d56d28188a46a65a.png)
+![IMG](assets/images/68fced4bf6db22c9fb3e0b18198937359d855e69d7401f1723c8bcfaf9927882.png)
 [trans]
 #### Overview
 This strategy uses two technical indicators, the 10-day simple moving average (10SMA) and the moving average convergence divergence indicator (MACD), to judge the trend direction of the price through their cross signals to make trading decisions. When the price crosses the 10SMA and the MACD fast line crosses the slow line, a long signal is generated; when the price falls below the 10SMA and the MACD fast line crosses the slow line, close the long position. This strategy attempts to capture market trend opportunities and at the same time improve the reliability of the signal through the joint confirmation of the two indicators.

@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1027409f8e007535a66.png)
+![IMG](assets/images/fcbae4b0f5fea20b93346f7bdb96621c15908b95f04a52d2cc91097cc3944114.png)
 [trans]
 ## Overview
 This strategy realizes trend following trading by calculating two moving averages with different parameter settings and comparing their intersections to determine the direction of the price trend. When the fast moving average breaks through the slow moving average from below, it is judged to be a bullish signal; when the fast moving average breaks below the slow moving average from above, it is judged to be a bearish signal. This strategy can realize trend judgment in different periods through parameter settings.

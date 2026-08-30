@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1f2e206d271871c8fe8.png)
+![IMG](assets/images/522f2ba54bbd4e269eac2f463ed2935417becab1101f5de3f12622861d4e9ab8.png)
 [trans]
 ### Overview
 This strategy is based on the intersection of the simple moving average and the weighted moving average to generate trading signals, while combining stop loss and take profit to manage positions. This strategy combines dynamic factors (moving average crossover) and static factors (fixed stop loss and take profit ratio) to achieve the effect of interweaving dynamic and static factors.

@@ -9,9 +9,9 @@ Zer3192
 
 > Strategy Description
 
- ![IMG](https://www.fmz.com/upload/asset/1483bbf4b8e38d8d4d65e.png) 
- ![IMG](https://www.fmz.com/upload/asset/1485dd6a930fe8e336169.png) 
- ![IMG](https://www.fmz.com/upload/asset/1487774e19f755ee216e5.png) 
+ ![IMG](assets/images/28181413c04e12a7e11e913d38f1bbf949ab3c0bfdb2094185e9b8ad78cf4fbd.png) 
+ ![IMG](assets/images/6bb9bc5e1e5a02e777790ebd5c6eb158405b18c7cfb595251be60ab07dbf0cd5.png) 
+ ![IMG](assets/images/bc618c87c9212af5047c1a432f2f5258c25460b48088affdd6cedecc2afb752b.png) 
 
 > Strategy Arguments
 

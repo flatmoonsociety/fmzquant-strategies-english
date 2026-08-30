@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/9a2f80880af9c66343.png)
+![IMG](assets/images/3fd36df1bbc89f14e7c1edfa0e6a5b57c9a93dfe24c83788292d53c6f3c9400d.png)
 [trans]
 ## Overview
 This strategy combines multiple technical indicators such as double moving averages, relative strength indicator (RSI) and Bollinger Bands, and constructs buy and sell signals based on them. The purpose is to identify potential trend reversal points and overbought and oversold conditions, and track stock price trends for trading.

@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1e9cd628e4939244df4.png)
+![IMG](assets/images/91b3b3899392eb0c35f0c142a30fc8827f19a43981aef7ccc735d9eae8b172a7.png)
 [trans]
 ## Overview
 This strategy is a long-term trend strategy for use in the stock and cryptocurrency markets. It combines three indicators: ATR (Average True Range), EOM (Easy Moving Average) and VORTEX (Vortex Indicator) to identify the trend direction.

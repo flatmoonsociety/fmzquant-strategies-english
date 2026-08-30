@@ -35,7 +35,7 @@ Other than the SweetSpot Gold10 indicator, you should not need any other indicat
 
 
 **backtest**
- ![IMG](https://www.fmz.com/upload/asset/108b0415e329fb1a830.png) 
+ ![IMG](assets/images/98e317acf2b986af234e6e68c7b992022d89038f3462825b5c6200818171fb49.png) 
 
 > Strategy Arguments
 

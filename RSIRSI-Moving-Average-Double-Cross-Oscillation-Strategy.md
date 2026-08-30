@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/f8cae4528e6c8aff06.png)
+![IMG](assets/images/573cbff0e3319fb3831bcb9eb0501df88dd5911f35abd00840026d455ccd6016.png)
 [trans]
 ## Overview
 The RSI moving average double golden cross shock strategy is a quantitative trading strategy that uses both the RSI indicator and the moving average golden cross signal to determine buying and selling. This strategy uses the RSI indicator to determine whether the market is overvalued or undervalued, and combines it with the trend judgment of the moving average to send trading signals when the RSI indicator shows overbought and oversold conditions. This can effectively filter false signals and improve the stability of the strategy.

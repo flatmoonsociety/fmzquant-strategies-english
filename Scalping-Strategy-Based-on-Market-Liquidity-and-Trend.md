@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1c3a9e1d77657d124f2.png)
+![IMG](assets/images/5e6e825a828acd2c5e3a6277d10fc08a6bf7df42c93954c5ef0a696672f7d6bc.png)
  [trans]
 ### Overview
 This strategy comprehensively considers multiple dimensions such as market liquidity, trends and technical indicators to achieve short-term strategic trading. This strategy can follow the trend and take advantage of the market liquidity to open positions to obtain short-term profits.

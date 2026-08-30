@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/14eb3efb32b80d3f373.png)
+![IMG](assets/images/1026d879763565a6128db2a27d3c47b98fc8eb5eb182e877ee899a69e24cca2d.png)
 [trans]
 ### Overview
 This article introduces a quantitative trading strategy based on exponential moving average (EMA) crossovers of three different periods. This strategy aims to use EMA crossovers to identify long-term and short-term trends in the stock market and enable effective trading decisions.

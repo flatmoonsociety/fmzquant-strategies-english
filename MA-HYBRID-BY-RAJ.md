@@ -12,7 +12,7 @@ ChaoZhang
 This script is designed for the NNFX Method, so it is recommended for Daily charts only. This script has a SSL / Baseline (you can choose between the SSL or MA), a secondary SSL for continiuation trades and a third SSL for exit trades.
 
 **backtest**
- ![IMG](https://www.fmz.com/upload/asset/1677d02f99fb95590c2.png) 
+ ![IMG](assets/images/af472377341022643f6db65f33d1e91d2f3a9440beb41d758f8a4113a3e7a41d.png) 
 
 > Strategy Arguments
 

@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1b8ca85bd0157792ac6.png)
+![IMG](assets/images/97976d763a8e1779e57301e7717b867659c3e0fc62b62c7bf67c6e728614dd52.png)
 [trans]
 ### Overview
 The Price Channel Robot white box strategy is a simple mechanized trading strategy based on the Price Channel indicator. It uses the upper and lower limits of the price channel to determine entry and exit timing. This strategy is long-term for long-term and short-term for short-term.

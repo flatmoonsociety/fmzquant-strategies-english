@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1337c3be6e01f53ca8f.png)
+![IMG](assets/images/424f55c824e3ce3f2d61f9ec26045773c97bfadd081a0ad3c950b64634e20b40.png)
  [trans]
 ### Overview
 The moving average stacking strategy calculates moving averages of different periods and generates trading signals based on their intersections. This strategy uses 8 exponential moving averages with different periods to construct a moving average stack, and determines market trends and generates trading signals based on the intersection of the shortest period and the longest period moving averages.

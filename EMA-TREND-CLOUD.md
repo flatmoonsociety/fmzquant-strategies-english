@@ -21,7 +21,7 @@ Exits can happen when price closes in the cloud or on the opposite side of the c
 
 **backtest**
 
- ![IMG](https://www.fmz.com/upload/asset/184ea44f346ab988372.png) 
+ ![IMG](assets/images/69f266195953fa7eef334af7780af3d4e0b418942bde907cb8fe610d3b2d0eab.png) 
 
 > Strategy Arguments
 

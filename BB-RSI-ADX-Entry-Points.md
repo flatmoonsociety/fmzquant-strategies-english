@@ -38,7 +38,7 @@ Note: The bb %B is calculated for stDev - 1. This will help you see a change hap
 
 **backtest**
 
- ![IMG](https://www.fmz.com/upload/asset/95057c5dafb05dd468.png) 
+ ![IMG](assets/images/19f88251ccd66b103890ada52b4c3a569559beb509a82aa334ffadbe0a7bf6fb.png) 
 
 > Strategy Arguments
 

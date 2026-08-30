@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/16ce552f134ca90245f.png)
+![IMG](assets/images/4c4a356d6dc1fb68024034965d8ee3e857927284b12c9cb29ba1b85dd9814cbf.png)
 [trans]
 ## Overview
 Intelligent Trailing Stop Loss Strategy is a strategy that automatically adjusts the stop loss point according to price changes. It combines the logic of the SAR indicator. When the price reaches a new high or low, it tracks and adjusts the stop loss line to achieve maximum retracement control.

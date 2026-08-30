@@ -30,7 +30,7 @@ RSI ve Stoch asırı alım bölgesinde iken awesome negatife döner ise short 
 
 
 **backtest**
- ![IMG](https://www.fmz.com/upload/asset/12d6d36c626f331a198.png) 
+ ![IMG](assets/images/a22e49696944ac2a1076348bccfd6a8eb59623ebec77c9da01e231463e4df39a.png) 
 
 > Strategy Arguments
 

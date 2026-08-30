@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1dddd9f21c1df8c48d8.png)
+![IMG](assets/images/390001515bc7eb97c5e115e27ad70d1963106e06d9b080ab5cf979d07068ac1c.png)
  [trans]
 ## Overview
 This strategy is designed to identify potential retracement opportunities in the market. This strategy uses a dual moving average system: the long-term moving average (MA1) and the short-term moving average (MA2). The main goal is to go long when the closing price is below MA1 but above MA2, indicating a potential retracement opportunity in the general trend.

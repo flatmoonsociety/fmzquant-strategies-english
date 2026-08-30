@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1dbf10fc99a3e1dd9c2.png)
+![IMG](assets/images/375ea1cdc6b4182f73ff9d7f1c5dafff9415a7b467c977c66fbde738ecef36c6.png)
 [trans]
 ## Overview
 This strategy designs trading signals based on the Bollinger Bands %B indicator. It goes long when the %B value is lower than the set threshold. It uses dynamic position addition to track the trend and closes the position after reaching the preset stop-profit and stop-loss conditions. This strategy is useful for identifying rallies following a breakout of descending Bollinger Band support.

@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1705b2c15e0d05537ed.png)
+![IMG](assets/images/92f6b7c988efe47c688db8540f58d96ccf3832a5a2611da3d6c23dc3b2a42115.png)
 Here is a detailed analysis article on the trend following strategy using double moving averages:
 [trans]
 

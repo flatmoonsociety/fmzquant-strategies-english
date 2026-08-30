@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1412a1b5ebb351360ef.png)
+![IMG](assets/images/828b045c32dc62b421ed83320d46fbde1f91d290ab0b6d71e6562558bdb23389.png)
 [trans]
 ## Overview
 The TradingVMA strategy is a quantitative trading strategy based on variable moving averages. This strategy uses changing moving averages to capture market trends and generate trading signals accordingly.

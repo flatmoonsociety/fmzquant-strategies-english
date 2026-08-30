@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1699377c94ac268c2ae.png)
+![IMG](assets/images/4078f7a539edb2c9246af0b14cccc8fe9978c437568a1d6cdebada4f8a4f821b.png)
 [trans]
 ### Overview
 The main idea of ​​this strategy is to identify the trend direction on a larger time frame and find a breakthrough point to enter the market on a smaller time frame. The stop loss exit tracks the moving average on the larger time frame.

@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/5a2fb23485f666db03.png)
+![IMG](assets/images/39bf9a9c28623278174edc88e6ee420fc3ef2912d59646b6a34fbfa7d7f3ab3b.png)
 [trans]
 ## Overview
 This strategy develops buy and sell signals based on regular moving average crossovers, but with some modifications made to produce more accurate trading signals. This strategy combines the intersection of the fast moving average and the slow moving average to determine the trend and is a trend following strategy.

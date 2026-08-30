@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1137f5e4061730e286c.png)
+![IMG](assets/images/c763ac0de3cd3540ce601049875487a7b6527ffdb45687efbf0cc4ad8896c34b.png)
 [trans]
 ## Overview
 This strategy achieves trend judgment and tracking by combining a variety of SMA moving averages with different periods. The core idea is: compare the upward and downward directions of SMAs of different periods to determine the trend; when the short-period SMA crosses above the longer-period SMA, go long; when the short-period SMA crosses below the longer-period SMA, go short. At the same time, the ZeroLagEMA indicator is used to confirm entry and exit.

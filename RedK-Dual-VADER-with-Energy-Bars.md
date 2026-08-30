@@ -25,7 +25,7 @@ If you're happy with VADER v3.0, please feel free to continue to use it.
 good luck !
 
 **backtest**
- ![IMG](https://www.fmz.com/upload/asset/18a93e656d65507c1cf.png) 
+ ![IMG](assets/images/53af318ea614d6b0532b9bac058fb27a7d288b3b9e3d9cf7b8c98d4ffac4c808.png) 
 
 > Strategy Arguments
 

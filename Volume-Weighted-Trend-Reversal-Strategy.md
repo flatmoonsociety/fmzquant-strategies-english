@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/6c074a4ebb877cac3d.png)
+![IMG](assets/images/4ab8efe91f6a9cc0c0364556a55a1ed5c354c16342cfd26aeded7899820b2e4a.png)
 [trans]
 ## Overview
 The name of this strategy is Volume Weighted Trend Reversal Strategy (a trend reversal strategy based on volume and price indicators). This strategy aims to identify potential trend reversal points and profit when prices deviate from the average. It uses a combination of Volume Weighted Average Price (VWAP) and Quantitative Qualitative Estimate Modification (QQE Mod) indicators to generate trading signals.

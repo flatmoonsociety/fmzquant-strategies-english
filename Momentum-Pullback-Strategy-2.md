@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/180f71489e86f079f61.png)
+![IMG](assets/images/c265c7629de504fe966a3c629ab28f2cbb3b15e3c3d752b7ac6665c9ad7b69d3.png)
  [trans]
 ## Overview
 The momentum bargaining strategy is a short- to medium-term trading strategy that combines moving average indicators and K-line pattern models to discover trading opportunities by identifying breakthrough points and callback points. This strategy is suitable for trading in highly leveraged financial products such as call options, put options, and futures.

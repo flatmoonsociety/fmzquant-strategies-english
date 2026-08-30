@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1150265a28bdf2b4beb.png)
+![IMG](assets/images/d9649ec1b1373331d56ca0e6fc84aa3dad84a638b33b8833db60c5612b2eb9f4.png)
 [trans]
 #### Overview
 The Magic Channel Price Action Trading Strategy is an advanced technical analysis method that combines classic channel analysis with modern indicator techniques. This strategy uses historical price data and moving averages to calculate key price levels to form dynamic trading channels. By analyzing the interaction between price and these channel levels, the strategy is able to generate precise buy and sell signals. In addition, the strategy integrates automatic stop loss and take profit functions to effectively manage risk. The visual components of the strategy include price channel displays, trading signal markers, and color coding of trading areas, which help traders quickly identify potential trading opportunities.

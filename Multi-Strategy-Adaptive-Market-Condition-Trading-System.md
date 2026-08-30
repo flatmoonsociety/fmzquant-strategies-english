@@ -8,8 +8,8 @@ ianzeng123
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/2d8ae53e8c7714af916a5.png)
-![IMG](https://www.fmz.com/upload/asset/2d81f2cabf07fac83493d.png)
+![IMG](assets/images/9e062c7d82e2762325048772ebcd37e4af6d8237c0f234a06577d0ee8125f4a4.png)
+![IMG](assets/images/62a8d00855d6810437e1bcc891d971585eae8ace4e7a260705f86de5981230b7.png)
 
 [trans]## Overview
 The multi-strategy adaptive market conditions trading system is a quantitative trading system that combines a variety of technical analysis strategies. It can automatically switch trading strategies according to different market conditions. The system integrates three core strategies: a trend following strategy (using the intersection of fast and slow moving averages), a momentum strategy (using the relative strength index RSI to detect overbought and oversold conditions), and a volatility strategy (using Bollinger Bands to buy near the lower band and sell near the upper band). The system will dynamically adjust according to the market environment and select the strategy most suitable for the current market conditions to execute trading signals, thereby improving the adaptability and robustness of the trading system.

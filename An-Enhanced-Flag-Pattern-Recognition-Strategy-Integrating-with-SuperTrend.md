@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/14d3addfdabb74b5beb.png)
+![IMG](assets/images/a8a483680f0fc2fd6216c7909562b9a85233492e603acc87eee27c1e4b4c9020.png)
 [trans]
 
 Overview: This strategy cleverly combines the trend-breaking flag pattern with the famous super-trend indicator to achieve a unique flag identification method. Not only can it spot traditional flags, but it can also use supertrend indicators to determine trend direction and potential stop loss locations.

@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/160654298be628dd5d3.png)
+![IMG](assets/images/ab79cd80b1e70796b13f2a46b68eaeb9b36ad76267d107dd6f11b15edc39238e.png)
 [trans]
 ## Overview
 The core idea of ​​this strategy is to combine the Kama moving average indicator and the moving average indicator to identify market trends and achieve trend tracking. When the Kama moving average and the moving average have a golden cross, it is judged that it has entered an upward trend, so go long; when the Kama moving average and the moving average have a death cross, it is judged that it has entered a downward trend, so go short.

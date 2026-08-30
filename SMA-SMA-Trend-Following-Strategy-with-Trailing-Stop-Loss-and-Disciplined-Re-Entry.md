@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/d544852eacbfdc7b69.png)
+![IMG](assets/images/e84a6c878247a5efd772e9d4a876d40f91cb2cfaa07398b12dcaced6467606cc.png)
 [trans]
 #### Overview
 This strategy is based on the slope of the Simple Moving Average (SMA) to identify an uptrend and open a long position when certain conditions are met. At the same time, an optional trailing stop loss mechanism is introduced to protect profits by dynamically adjusting the stop loss price. In addition, this strategy also sets conditions for re-entering the market after stop loss to prevent re-opening when the price is too high. Through these features, the strategy can effectively capture rising trends, control risks, and achieve disciplined trading.

@@ -15,7 +15,7 @@ If you like this one then let me know and I will continue publishing more Demark
 
 **backtest**
 
- ![IMG](https://www.fmz.com/upload/asset/7f49aa3c981ee6ed0e.png) 
+ ![IMG](assets/images/141e7bbb8e2be881badada042b6e4caa3ec1b36838c01cf826e1f0a0044abaae.png) 
 
 > Strategy Arguments
 

@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/370addf975c81b5b05.png)
+![IMG](assets/images/3916c659973f9ef6d140b611365c3bb26d88d1b78fb6791f632ec153781d9e0c.png)
 [trans]
 ## Overview
 The dual trend breakout strategy comprehensively uses a variety of technical indicators, mainly including trend lines, moving average crossovers and price channel breakthroughs, to identify market trend changes and capture trend reversal opportunities. This strategy combines trend tracking and breakthrough signals, and is relatively stable in and out of positions, but there is also a certain risk of false breakthroughs.

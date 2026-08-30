@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1f5e9e12cd4244e49e4.png)
+![IMG](assets/images/e91204edc340f3d25ce55b8776b0dcdf3a7521eb7d7b0eb5dc113bd04d3bdcdd.png)
 [trans]
 ## Overview
 This strategy is based on three EMA average lines of different periods, and determines the current trend direction by judging whether the price is above the EMA average line. A buy signal is generated when the short-term EMA line crosses the long-term EMA line; a sell signal is generated when the short-term EMA line crosses below the long-term EMA line. This strategy tracks the trend and closes positions promptly when the trend turns.

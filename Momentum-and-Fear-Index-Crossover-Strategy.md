@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1cad99c9cb1a1c80ac9.png)
+![IMG](assets/images/e3d5ca847901cc2175da0e6bd1cfad2214f9cf4f92f726cd43d9109ec94e9a68.png)
  [trans]
 ### Overview
 This strategy determines market trends by calculating the intersection of the momentum indicator and the fear index, and issues a sell signal when the two indicators cross at a specific time to capture sharp declines.

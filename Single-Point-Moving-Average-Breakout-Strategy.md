@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/410ee8a992aa95bf0b.png)
+![IMG](assets/images/645fc8d589a1c0e25be05879185395e20d2009a1dc246281cbcb4742b9e5d9b9.png)
 [trans]
 ## Overview
 The single average point sideways breakthrough strategy is a quantitative trading strategy based on the Chande momentum indicator. This strategy determines whether the market is in a sideways consolidation phase by calculating price momentum changes. When the Chande momentum indicator line breaks through the set buy line or sell line, perform corresponding buy or sell operations.

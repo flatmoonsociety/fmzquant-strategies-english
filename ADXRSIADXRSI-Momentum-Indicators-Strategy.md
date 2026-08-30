@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/13ea780e8d31b825e6f.png)
+![IMG](assets/images/4a447ee7f5684695a56e1a4d4c41631a5bfaa7c6362e41c4b4ffa128dd3f1d5e.png)
 [trans]
 ### Overview
 This strategy uses momentum indicators ADX, RSI and Bollinger Bands to determine market trends and overbought and oversold conditions to achieve an automatic trading strategy of buying low, selling high, and exiting at a profit.

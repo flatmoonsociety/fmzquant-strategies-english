@@ -20,7 +20,7 @@ This is not financial advice. Use at your own risk.
 
 **backtest**
 
- ![IMG](https://www.fmz.com/upload/asset/eb4b87871c37c0b178.png) 
+ ![IMG](assets/images/943d2f4842195d29fa2af0482b187d50c3a10e9802e9067af634acb759022634.png) 
 
 > Strategy Arguments
 

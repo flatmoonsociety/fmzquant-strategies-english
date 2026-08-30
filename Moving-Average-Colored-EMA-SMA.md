@@ -13,7 +13,7 @@ Amazon Prime Video presents Garaj Garaj Jugalbandi Video Song from Bandish Bandi
 
 **backtest**
 
- ![IMG](https://www.fmz.com/upload/asset/1758ea192f6c8cff0bf.png) 
+ ![IMG](assets/images/e283fbc39c53c2e2d3cd25bb575f5a394b60a66ccfec74b3389235407b256e19.png) 
 
 > Strategy Arguments
 

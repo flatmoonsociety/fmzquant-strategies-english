@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/19cfa6268c9df13b37a.png)
+![IMG](assets/images/8d31d88ac2a4bc93d8a42655c0cc5c98ead3dc57cc90c0a6c550c5627a88fe52.png)
 [trans]
 ## Overview
 This strategy combines two mainstream technical indicators, the Omar indicator and the Apollo indicator, to achieve long-short dual-track trading. The basic idea is to look for short-term price correction entry opportunities to establish long positions when the mid- to long-term trend is judged to be long; when the mid-to-long-term trend is judged to be short, look for short-term price rebound entry opportunities to establish short positions.

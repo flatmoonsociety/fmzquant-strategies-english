@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/11f106c662ba999a7e7.png)
+![IMG](assets/images/df04b66c74694b5ab3b2a2bb3cfe930a23bc0afa0cbc5d413131a600ba3baf78.png)
 [trans]
 
 This strategy comprehensively uses two different types of technical indicators, RSI and Estocastic, to design trading rules under the dual time frames of TSLA 5 minutes and S&P 100 1 minute to implement an automated TSLA stock trading system.

@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/ed2bd65340652c549a.png)
+![IMG](assets/images/40d2547fd15b4242266d9ea6f8672dcff6b378d14998a30fc0c81157b61a3b05.png)
 [trans]
 ## Overview
 The double EMA golden cross long-term strategy is a trend following strategy that only opens long positions. This strategy uses three moving averages: short-term EMA, medium-term EMA and long-term EMA. The specific entry rules are: when the price is higher than the long-term EMA, and at the same time, the short-term EMA crosses the mid-term EMA from below to form a golden cross, open a long position.

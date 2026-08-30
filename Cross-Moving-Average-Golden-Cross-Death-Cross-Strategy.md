@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/db21560b7a7df2f192.png)
+![IMG](assets/images/64e22a0868f0af31c7f3db9cb077e2059d9c2ec1128749be549cd7402e0dae96.png)
 
 [trans]
 This is a very classic moving average golden cross and dead cross strategy. This strategy uses two moving averages of different periods, TENKAN and KIJUN, to form golden cross and dead cross signals for long and short operations.

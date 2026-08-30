@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/174d81ca6f8b66f0b74.png)
+![IMG](assets/images/756033e121d74706d4a76032d88a69d966a47d947080b689b5073fdd0ba3152e.png)
 [trans]
 ## Overview
 "Stock-based Dual Time Frame Trend Following Strategy" is an advanced algorithmic trading strategy designed to capture and track the trend of a popular stock in 2023. This strategy uses a combination of indicators on the daily and 1-hour lines to identify trading signals, achieve dynamic stop-loss and take-profit optimization for risk management, and is committed to obtaining stable returns while controlling risks.

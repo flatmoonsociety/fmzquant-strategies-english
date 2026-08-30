@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/19b93afc51902bcfde0.png)
+![IMG](assets/images/afeb314774894ff7efb0fe8531d46fdfedc4fe412c01ed626ae2c24b443c39f7.png)
 [trans]
 ## Overview
 This strategy uses the 500-day simple moving average to determine the market trend direction. When the price breaks through the moving average, a trading signal is generated. It is a typical trend following strategy. This strategy is simple to understand and implement, and is suitable for medium and long-term trend trading.

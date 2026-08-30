@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/ad5868b2904b80b92d.png)
+![IMG](assets/images/e94639addce47ce6c62bb09aa65bb4bd73c92a3391cafe16e060f772d5a3dce3.png)
  [trans]
 #### Overview
 The name of this strategy is "Double Envelope Trend Following Strategy". This strategy uses the Nadaraya-Watson (NW) envelope line and the ROC indicator to identify the trend direction and achieve trend tracking. Go long when the NW envelope line expands and the ROC is positive; go short when the NW envelope line contracts and the ROC is negative. This strategy sets both stop-loss and take-profit conditions to control risk.

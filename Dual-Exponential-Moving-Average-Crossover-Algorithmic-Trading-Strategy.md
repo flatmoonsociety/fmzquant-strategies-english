@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1caf8bf6da5777bc5aa.png)
+![IMG](assets/images/d9067ebd356ccaf8dfb8bfe5a5d78638684198e445e1746c688f97fdfdc98ab4.png)
 [trans]
 ## Overview
 The name of this strategy is "Double Index Average Cross Quantitative Trading Strategy". This strategy realizes automated trading by calculating the Exponential Moving Average (EMA) and judging the cross buying and selling points, combined with the principles of quantitative trading opening positions.

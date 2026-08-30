@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1437bf26b1f41e131a0.png)
+![IMG](assets/images/ead2a81a3672396f07bedc921c62ab2b2ddd127927d7a43a074438d5aaa69082.png)
  [trans]
 ## Overview
 This strategy is named "RSI-VWAP short-term strategy". This strategy uses the RSI indicator and the volume-weighted average price (VWAP) as technical indicators to set up long and short signals to generate buying and selling decisions. The strategy pursues to capture the overbought and oversold phenomenon of the market in the short term in order to obtain excess returns.

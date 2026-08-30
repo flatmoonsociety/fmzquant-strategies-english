@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1b8e91ebc3345f23ea7.png)
+![IMG](assets/images/79749df2d23ae509207cbca23036999c4ae0915175a612a9fcf8772bbb33d59a.png)
 [trans]
 ## Overview
 This strategy calculates three sets of RSI indexes with different parameter settings and the corresponding six moving averages to form three moving average bands, based on which the market trend direction is judged and long-term operations are carried out.

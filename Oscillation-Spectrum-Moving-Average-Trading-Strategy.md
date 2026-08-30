@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/114501057fe941e769c.png)
+![IMG](assets/images/f69d9f107f4029897f7bf4f0fc2a958cb09f5079c2a78aa9d8b12da1ffc293eb.png)
  [trans]
 ### Overview
 This strategy is based on broad-spectrum moving averages and forms trading signals through golden crosses and dead crosses of fast and slow moving averages. Broad-spectrum moving averages cover a variety of types, from simple moving averages to oscillating moving averages. They can be freely combined through parameter adjustment and have strong adaptability.

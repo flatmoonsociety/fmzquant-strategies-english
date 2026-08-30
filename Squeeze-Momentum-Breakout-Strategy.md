@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/d536d98a5808139977.png)
+![IMG](assets/images/773b23005c8edf722fe76b414436573eb94a4891b5053f59af0e80e8690ad010.png)
  [trans]
 ## Overview
 This is a quantitative trading strategy developed based on LazyBear’s Momentum Squeeze indicator. This strategy integrates Bollinger Bands, Culkin Channel and momentum indicators, and achieves momentum breakout trading with a high winning rate through a combination of multiple technical indicators.

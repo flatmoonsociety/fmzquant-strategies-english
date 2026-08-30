@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/fba296ac068d4a9731.png)
+![IMG](assets/images/8b3a12540799585d59c97dbd8493cdd1471527c75e1b1259a22b7bed35ec6a01.png)
 [trans]
 ## Overview
 This strategy tracks SPY trading data and combines various technical indicator signals such as moving averages, MACD, RSI, etc. to accurately judge short-term trends and make buying and selling decisions to achieve short-term trading profits.

@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/10ec51b33944b7bdd21.png)
+![IMG](assets/images/404cbb7dd5e6def1c503fc32fe2d3a622b7b96ee15c61e650f62247d0a2893ad.png)
 [trans]
 #### Overview
 This strategy uses two exponential moving averages (EMA) to capture changes in price trend. When the short-term EMA crosses the long-term EMA from below, a buy signal is generated; when the short-term EMA crosses the long-term EMA from above, a sell signal is generated. This strategy also sets daily stop loss and take profit limits to control single day losses and profits.

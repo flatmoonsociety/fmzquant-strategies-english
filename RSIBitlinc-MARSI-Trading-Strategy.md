@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/110a1b3b5c9bf530647.png)
+![IMG](assets/images/8770d97dca3cef2fa43a210f3e594890dbaabbaf4afd4f7f510e9c7df16bba86.png)
 [trans]
 ## Overview
 This strategy is an RSI shock trading strategy based on adjustments during the year. By tracking the shock characteristics of the RSI indicator between the set upper and lower rails, it sends a trading signal when the RSI indicator touches the upper and lower rails.

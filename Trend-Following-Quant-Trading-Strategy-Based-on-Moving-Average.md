@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/10c7865264ec638616c.png)
+![IMG](assets/images/efd9e5c29b495510d97e68b70047883c557a2afb886beb70f39dfae73919f47f.png)
 [trans]
 ### Overview
 This strategy uses the moving average as the main technical indicator and combines the RSI indicator as the filter condition to implement a relatively simple trend following strategy. A trading signal is generated when the price falls below or exceeds the moving average for a specified period. At the same time, the RSI indicator can be used to determine overbuying or selling to avoid wrong transactions. Generally speaking, this strategy is suitable for tracking medium and long-term trends, and can obtain better returns in strong trends.

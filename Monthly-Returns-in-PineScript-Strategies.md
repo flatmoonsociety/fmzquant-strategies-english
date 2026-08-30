@@ -21,7 +21,7 @@ Due to various factors, including changing market conditions, the strategy may n
 This post and the script don’t provide any financial advice.
 
 **Backtest**
- ![IMG](https://www.fmz.com/upload/asset/9905438f5790a4926c.png)
+ ![IMG](assets/images/577e79e3ab7816f987c0ebc02fada11d8707dec95a4fb74aa42f9a2db7bc212c.png)
 > Strategy Arguments
 
 

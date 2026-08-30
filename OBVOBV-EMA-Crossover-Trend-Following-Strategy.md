@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/a04fc9786fc20fc829.png)
+![IMG](assets/images/fdea193c95a2b96d05d9d441ef24a190fcff6bf8389efe6736293db064ff82c2.png)
 [trans]
 ## Overview
 This strategy uses the double EMA moving average span to determine the long and short trend of the OBV indicator, and makes long and short moves based on the trend direction. Among them, the OBV indicator can more clearly reflect the relationship between price and trading volume and judge the willingness of market participants, so it can be used to capture market trends. This strategy, combined with the indicator smoothing of moving averages, can effectively filter out market noise and capture the main trend.

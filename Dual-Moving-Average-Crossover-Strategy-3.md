@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1afceaa164a9b8804b9.png)
+![IMG](assets/images/649a67382b542970a2da228731f6ad2866f3f3a6b48897778432a315b2c13935.png)
 [trans]
 #### Overview
 The double moving average crossover strategy is a classic trend following trading strategy. This strategy uses two moving averages, one is a fast moving average and the other is a slow moving average. When the fast moving average crosses the slow moving average from bottom to top, it is called a "golden cross", indicating that an upward trend may be formed, and a long position is opened at this time. When the fast moving average crosses the slow moving average from top to bottom, it is called a "death cross", indicating that a downward trend may form, and a short position is opened at this time. The strategy code supports the use of simple moving averages (SMA) and exponential moving averages (EMA), and can set stop losses.

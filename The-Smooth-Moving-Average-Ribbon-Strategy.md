@@ -9,7 +9,7 @@ ChaoZhang
 > Strategy Description
 
 
-![IMG](https://www.fmz.com/upload/asset/5c1befdc76383edf19.png)
+![IMG](assets/images/30737e14bc6ed16896456e1457f4ab9c3458234ea20a347c9e51e6d892884a1c.png)
 [trans]
 ## Overview
 This strategy builds a smooth price band by using a smooth moving average and integrates a variety of smooth moving averages to achieve the function of filtering trends in real time. It is a typical trend following strategy.

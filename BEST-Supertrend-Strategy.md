@@ -9,7 +9,7 @@ ChaoZhang
 
 > Strategy Description
 
- ![IMG](https://www.fmz.com/upload/asset/112d5650fcb1ecdeb15.png) 
+ ![IMG](assets/images/813351e09ecd962604c19c56a96f8b1635cdca6aa2d335f6a54de09d4a80a38d.png) 
  The Supertrend Strategy is a simple and effective trading strategy that can be used to profit from both the uptrend and downtrend markets. The strategy is based on the Supertrend indicator, which is a trend-following indicator that helps to identify the current trend and potential reversal points.
 
 The BEST Supertrend Strategy is a modification of the standard Supertrend strategy that uses a higher factor and period. This makes the indicator more sensitive to changes in the trend, and can help to identify more profitable trading opportunities.

@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1e3e3abce5fe52cebd8.png)
+![IMG](assets/images/2232878939ddcaeec1136fef466e1ec1b882bc826956c10cb3d5e76302117c1d.png)
 [trans]
 ## Overview
 The core idea of ​​this strategy is to dynamically adjust the position size of each transaction based on account equity. It can automatically increase positions when making profits and reduce positions when losing money, thus achieving automatic amplification of the compound interest effect.

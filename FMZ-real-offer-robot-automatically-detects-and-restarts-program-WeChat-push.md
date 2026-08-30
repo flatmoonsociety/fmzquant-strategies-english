@@ -9,18 +9,18 @@ eason04
 > Strategy Description
 
 **FMZ real-time robot automatically detects and restarts the program (WeChat push)**
- ![IMG](https://www.fmz.com/upload/asset/27d06163dac4df7fe8520.png)
+ ![IMG](assets/images/8b232746d51ac8cf3c1d94c764bde5678cb081f138592c4d2891e4ff7b6e5048.png)
  Fill in the API and APIkey you applied for on the FMZ platform here
- ![IMG](https://www.fmz.com/upload/asset/27cef09a09fbccac93116.png)
+ ![IMG](assets/images/9e793ceb8b5d0a91a221e461f0e628a0cdbcf08935c1c9a6767677069ece0c64.png)
  The variable token is the code used to send WeChat push. The following is the application method
  Open the website: https://www.pushplus.plus/ Log in with your own WeChat and follow the official account (not advertising)
- ![IMG](https://www.fmz.com/upload/asset/27d5d579fa87c8f486136.png)
+ ![IMG](assets/images/e4fbba69943ac0783e6e8c1bcae9af8122ac42fb3290fc1495ac840305b5bfe5.png)
  Click for one-to-one message
- ![IMG](https://www.fmz.com/upload/asset/27d526d1a1f71b1e4fc15.png)
+ ![IMG](assets/images/fc1898f1828cceca4af720945cb98a45ad63baff35f14548cb482950b7e04136.png)
  Copy the token and fill it in the token variable
- ![IMG](https://www.fmz.com/upload/asset/27dd43d36cf1e78165bc7.png)
+ ![IMG](assets/images/2c8a704551f45b1c27d9b03bc22cf613b938427604cb0a3ab9343fa4e45aacd6.png)
  Fill in the robotId variable with the number of the real robot you need to monitor (list format)
- ![IMG](https://www.fmz.com/upload/asset/27e6ff0ca668d74343caf.png)
+ ![IMG](assets/images/df5586cab9058e5e952c5bd553b98bbd2bac4a0e69cf7d2d76727c6e5567017e.png)
  The real offer robot number can be opened on the FMZ web version and obtained on the website. 
 **The code can be run directly locally,
 But you need to turn on the computer all the time.

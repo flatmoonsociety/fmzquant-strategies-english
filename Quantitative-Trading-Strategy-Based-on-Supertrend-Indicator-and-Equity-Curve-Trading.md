@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/18bf6a6b52c39b3c56d.png)
+![IMG](assets/images/617bdb097e0a34c0a9400f66bcd1d10d3f66718f6dc71963f1f7030866ae92dc.png)
 [trans]
 ## Overview
 The core idea of ​​this strategy is to combine the super-trend indicator with equity curve trading. When the super-trend indicator sends a buy or sell signal, we do not directly execute the transaction, but determine whether the current equity curve is lower than its moving average. We will open a position only when the equity curve is above the moving average. When the equity curve is below the moving average, we will suspend trading on the current strategy. This can effectively prevent the expansion of losses.

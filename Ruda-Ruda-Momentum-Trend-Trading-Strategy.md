@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/d56483cba8a45b2649.png)
+![IMG](assets/images/7e8ead5be007fcad736ea1f9f7aa5b52c9d24b388d490fbfd63de38dda989947.png)
 [trans]
 #### Overview
 Ruda Momentum Trend Trading Strategy is a quantitative trading strategy based on momentum and trend indicators. This strategy uses indicators such as OBV (On Balance Volume), EMA (Exponential Moving Average) and K-line entity ratio to determine the timing of buying and selling. When the short-term EMA crosses the long-term EMA, the OBV reaches a new high, and the proportion of K-line entities is greater than the set threshold, the strategy will buy at the opening price of the next day; when the price falls below the stop loss price or the closing price falls below the short-term EMA, the strategy will close the position.

@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/dc2a2b6cc048e0528a.png)
+![IMG](assets/images/8f6a93855abe747f90bc00c71d22557bbc2cc9b76ce00af7e74e1d9d5137d8e9.png)
 [trans]
 ### Overview
 The shock reversal CAT strategy is a quantitative trading strategy based on technical indicators. This strategy uses MA, EMA and other indicators to determine market trends and support and resistance positions, and combines customized black swan and white swan indicators to determine abnormal fluctuations to achieve a trend trading strategy of buying low and selling high.

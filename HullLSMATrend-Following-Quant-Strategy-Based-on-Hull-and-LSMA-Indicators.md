@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/129e281b8eacb15d51f.png)
+![IMG](assets/images/2d59d753ad7b68507e4ab235f06cb395fff28cafe0633660cbb0e9506a50b4c0.png)
 [trans]
 ## Overview
 This strategy combines the Hull indicator and the LSMA (least squares moving average) indicator to identify the trend direction and trend reversal points to track the trend. Go long when the Hull indicator shows an upward trend and LSMA crosses above the Hull indicator; go short when the Hull indicator shows a downward trend and LSMA crosses below the Hull indicator. This strategy is suitable for low to medium frequency trading and can be used on the 1 minute time frame.

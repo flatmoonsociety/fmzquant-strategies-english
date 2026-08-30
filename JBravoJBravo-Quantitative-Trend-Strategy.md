@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/104cd777d5a0d5d7e0f.png)
+![IMG](assets/images/5ae0c5b078214560a191b341e85b97174188cafc06a08d4d12cc5c908713542f.png)
 
 ## Strategy Overview ##
 JBravo Quantitative Trend Strategy is a trend following strategy based on moving averages. It uses the 9-day simple moving average, the 20-day exponential moving average, and the 180-day simple moving average to determine the trend direction of the market, as well as the final buy and sell signals.

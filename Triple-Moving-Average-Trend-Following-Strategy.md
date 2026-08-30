@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/d1a724e56314e21002.png)
+![IMG](assets/images/215cbe4e3730875291a61b9623795f3f15e4860bd1626fcc3314fbe45a4009c7.png)
 [trans]
 ### Overview
 This strategy combines the concept of the turtle trading method with Niko Bakkers' phase analysis, using three moving averages of different periods to determine the direction of the trend and achieve profits by following the trend. Go long when the fast moving average crosses the medium-speed moving average and all three moving averages are in the same upward or downward trend; go short when the fast moving average crosses below the medium-speed moving average and the three moving averages are in the same upward or downward trend.

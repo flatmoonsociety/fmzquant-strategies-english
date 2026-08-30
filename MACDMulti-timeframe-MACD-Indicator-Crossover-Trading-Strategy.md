@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/f9a26b90f06ceaa92f.png)
+![IMG](assets/images/c53ebfff94e74e3757e386a023ccd4900ef03a6ab9401f51aa70c95de81db874.png)
 [trans]
 ### Overview
 The multi-timeline MACD indicator crossover trading strategy is a trend following strategy. It calculates the MACD indicator with different parameter settings, generates trading signals when the price breaks through the indicator, and realizes automated trading of financial products such as stocks, indices, and foreign exchange.

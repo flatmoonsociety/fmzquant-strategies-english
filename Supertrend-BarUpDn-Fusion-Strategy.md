@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/14eb20869c1bc5ec474.png)
+![IMG](assets/images/57e92dbdd53a3a9cbbffd328953b113f9461c858c8565c7599aeb07d724d4731.png)
 [trans]
 ## Overview
 The super trend bar turning fusion strategy is a strategy that fuses the super trend indicator and the bar turning indicator. This strategy will perform the corresponding long or short operation when either the super trend indicator or the bar steering indicator is long or short.

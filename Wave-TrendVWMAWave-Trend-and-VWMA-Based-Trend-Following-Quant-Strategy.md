@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/145765ee7e18aaff4a7.png)
+![IMG](assets/images/792f01b3b4319b7dff3dfb3fd9cf811303919b755e1908d8fb660ea966f8f3f0.png)
  [trans]
 ## Overview
 This strategy combines the Wave Trend oscillator and the VWMA indicator to implement a trend-following quantitative trading strategy. This strategy identifies market trends and makes buy or sell decisions based on the signals of the Wave Trend oscillator. Additionally, the trade size is determined based on the signal of the VWMA indicator.

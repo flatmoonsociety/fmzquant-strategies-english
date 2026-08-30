@@ -14,7 +14,7 @@ This strategy utilizes the 9 and 20 period exponential moving averages to create
 
 **backtest**
 
- ![IMG](https://www.fmz.com/upload/asset/1dec397823194b25bf3.png) 
+ ![IMG](assets/images/92ab6245708be90143e02edd4c1e40fdd50c60a62349ca31a2703635b54f99ec.png) 
 
 > Strategy Arguments
 

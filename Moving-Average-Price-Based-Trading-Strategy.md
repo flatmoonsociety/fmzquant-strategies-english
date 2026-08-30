@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/135bb068a7cd8948252.png)
+![IMG](assets/images/3a4eed61296f80ff4da1ffe7f37fb1ed94dc9eff09c91030cb17f094cfcc0bf1.png)
 [trans]
 ## Overview
 The core idea of ​​this strategy is to generate trading signals based on average price movements. It combines three super-trend indicators with different parameter settings, and sets multiple stop loss methods such as ATR stop loss, anchor stop loss, percentage stop loss, and point stop loss.

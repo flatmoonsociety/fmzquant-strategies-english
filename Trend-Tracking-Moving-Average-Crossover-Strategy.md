@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/96480b71e8a3cb4e26.png)
+![IMG](assets/images/c51e06dd692d72f71f645847edceedbbc950d6de3d447724c602fb945565aaa7.png)
  [trans]
 ## Overview
 This strategy is a simple strategy based on moving averages, which can achieve good results on different currency pairs. It plots the opening and closing averages and determines whether to enter or exit a long position when the two lines cross. The principle is to open a position when the average closing price rises, which may indicate future price increases. Closing a position when the average closing price drops may indicate lower prices in the future. This is just a guess, but sometimes it can be very accurate in predicting future prices.

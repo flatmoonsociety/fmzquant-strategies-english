@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/de64521d7174bbf752.png)
+![IMG](assets/images/3989bba0d386266a321c6c12bf9c1f7cefa38656b5a0a596978eed49b073fb28.png)
 [trans]
 ## Overview
 This strategy is a long-term trend tracking strategy based on EMA moving average and RSI and ATR indicators. The strategy uses fast and slow EMA to form golden cross and dead cross signals, combines long-term EMA to determine the trend direction, and uses RSI and ATR to filter consolidation to track the long-term trend.

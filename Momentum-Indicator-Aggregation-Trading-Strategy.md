@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/dc9df152428ade2217.png)
+![IMG](assets/images/f7a46a2f1cb309857f1e3c7feb6a2e9b611400baff97253d85aa3de7dbc06bad.png)
 [trans]
 ### Overview
 This strategy comprehensively uses a variety of technical indicators such as moving averages, MACD, RSI, Bollinger Bands, etc., to achieve the aggregation of multiple buy and sell signals, forming a relatively complete momentum indicator aggregation trading strategy.

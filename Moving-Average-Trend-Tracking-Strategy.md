@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/17196add57260196fb3.png)
+![IMG](assets/images/a726863738ceb174fde9da0ae11b7a4db0e1f98fdc19a5e573a4b516acdc07ee.png)
 [trans]
 #### Overview
 This strategy is built based on the DMI indicator. It monitors the intersection of +DI and -DI to determine the direction of the stock price trend, and cooperates with the ADX indicator to identify the strength of the trend, thereby achieving trend tracking. When +DI crosses above -DI, ​​enter the long position, and when the stop loss price is triggered or -DI crosses below +DI, close the position.

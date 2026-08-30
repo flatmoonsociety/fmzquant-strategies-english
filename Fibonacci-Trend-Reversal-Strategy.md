@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1265dca7825d877f2a1.png)
+![IMG](assets/images/ba10ad8f6f4b3b15da48c80cd56301192d34616d70741a65da1b7a95cc347ed2.png)
 [trans]
 #### Overview
 "Fibonacci Trend Reversal Strategy" is a trading strategy that uses Fibonacci retracement levels and the Trend Strength Indicator (TSOT) to capture market trend reversal points. This strategy achieves risk management and profit maximization through dynamic ATR stop loss and partial take profit. Strategy works on 5-minute scalable markets.

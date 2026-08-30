@@ -16,7 +16,7 @@ MTF
 
 **backtest**
 
- ![IMG](https://www.fmz.com/upload/asset/1377dfc3d2a8a60c192.png) 
+ ![IMG](assets/images/ee15835cf0c93412046fa77a93a3e1df9c2094cb9d84e7514297a4f88d999421.png) 
 
 > Strategy Arguments
 

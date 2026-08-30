@@ -19,7 +19,7 @@ Strategy Code Example by JayRogers
 
 
 **backtest**
- ![IMG](https://www.fmz.com/upload/asset/fe14c620de17b78dc2.png) 
+ ![IMG](assets/images/7605b163ed84465ce323bb519ee842449b007007d99e0d745fa7251cc1d3cfc4.png) 
 
 > Strategy Arguments
 

@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/ce01781cc07ea12da5.png)
+![IMG](assets/images/3afa41748909f86a28595c891248e13269324e9dc925b988ac93762b9085b98d.png)
 [trans]
 ## Overview
 This strategy is a long- and short-term quantitative trading strategy based on breakthrough theory. It determines whether a breakthrough has occurred by calculating the highest closing price in the last 100 trading days. If the closing price of the most recent day exceeds the highest closing price of the previous 100 days, a buy signal is issued. After entering a long position, the position will be forced to be stopped and closed after 25 trading days.

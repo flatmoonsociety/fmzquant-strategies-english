@@ -15,7 +15,7 @@ Also you can check divergences for trend reversal and momentum loss.
 
 **backtest**
 
- ![IMG](https://www.fmz.com/upload/asset/af6d0a4629bc6e121a.png) 
+ ![IMG](assets/images/4866b2aade5669b0e11c2dd9e69f34c0f867fcd4a33339312a9ca847714424f7.png) 
 
 > Strategy Arguments
 

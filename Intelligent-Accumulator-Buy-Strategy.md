@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/185e0a3fa28ad1a1e7d.png)
+![IMG](assets/images/daa46c5275988678519ca7a85484da677b4ed185dbd5844125a664b7289bb6c3.png)
 [trans]
 ## Overview
 The Smart Accumulation Buy Strategy is a proof-of-concept strategy. It is a combination of a recursive buying strategy and entries and exits based on technical analysis.

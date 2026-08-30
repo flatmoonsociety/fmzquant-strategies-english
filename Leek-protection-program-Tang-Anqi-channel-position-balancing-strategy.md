@@ -10,11 +10,11 @@ Go to Boren
 Applicable to all cash currencies
 In fact, what you are eating is the bull market dividend. The function of the strategy is only to reduce the retracement and avoid the plunge.
 Latest backtest results: successfully escaped the plunge, and ended up short on 4.22
-![](https://www.fmz.com![IMG](https://www.fmz.com/upload/asset/11b300fd2690d0eec7869.png) )
+![](assets/images/23cd2ae5b4228bfb3f2f25f7efdae1444d687ef73b72deff685df729ea39a1d7.png )
 Usage requirements: 1% of your funds must be able to purchase the minimum trading unit of the currency
-![](https://www.fmz.com![IMG](https://www.fmz.com/upload/asset/11b032bdb578ffad9a820.png))
+![](assets/images/dfa4d42558ba6d645583b286b1f951fe2bf2c130cb76626a512e0949649519a0.png)
 The boss who makes money is welcome to reward me with a cup of milk tea.
-![](https://www.fmz.com![IMG](https://www.fmz.com/upload/asset/11c58db65dd31bc41a6c5.jpg))
+![](assets/images/11df60886d543a518c90e61f4e88aa8a4982b246f7bfe14423b7a2d8f3e55cd3.jpg)
 
 
 

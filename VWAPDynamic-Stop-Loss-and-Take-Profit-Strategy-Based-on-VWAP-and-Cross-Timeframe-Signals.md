@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/fe74f9988e6c2d6162.png)
+![IMG](assets/images/5b2f3596920a843d5d387d8c00a7482fd3f62c496763a7ea6a199ee870273313.png)
 [trans]
 ## Overview
 This strategy uses the daily VWAP (Volume Weighted Average Price) as entry and exit signals. When the closing price crosses VWAP, a long position is triggered, and the stop loss is set at the low point of the previous K line below VWAP, and the target price is set 3 points above the opening price; when the closing price crosses below VWAP, a short position is triggered, the stop loss is set at the high point of the previous K line above VWAP, and the target price is set 3 points below the opening price. This strategy does not include exit conditions and the trade will be held until a reversal signal occurs.

@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/157bcd5750de7105a73.png)
+![IMG](assets/images/c23126f226ad3d760d5f982f45dee3eceb21dada4a566b78fd7ab975182ba6bc.png)
 [trans]
 ## Overview
 The fast RSI reversal trading strategy uses a combination of fast RSI indicators, K-line entity filtering, maximum and minimum price filtering, and SMA moving average filtering to determine trend reversal points and achieve low-risk reversal trading. This strategy is designed to capture short-term reversal opportunities.

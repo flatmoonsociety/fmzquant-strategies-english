@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1098eed70e6a8da3153.png)
+![IMG](assets/images/8a7c0c715b6d460b71a26742a3fe29aeb0131d1ffa29e847dbae077c5de853c8.png)
 [trans]
 
 Strategy Overview: This strategy opens long/short positions through the golden cross/dead cross signals of Bollinger Bands. The advantage of the strategy lies in continuous tracking of the trending market, reasonable stop-profit and stop-loss settings, and proper retracement control, which is suitable for medium and long-term operations. It is mainly suitable for markets with obvious trend characteristics such as stock indexes, foreign exchange, and cryptocurrency.

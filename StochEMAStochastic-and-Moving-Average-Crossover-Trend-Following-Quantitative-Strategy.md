@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/14a6ce95456462b04b6.png)
+![IMG](assets/images/0135bb0dfcf715e9265146211ca70fc2e83b3d70e61f01692578dfe718935899.png)
 [trans]
 ## Overview
 This strategy mainly uses the cross of the Stoch indicator in the overbought and oversold area as an entry signal, and combines it with the EMA indicator to determine the current trend direction. It only performs long operations when the EMA continues to rise, and performs short operations when the EMA continues to fall. It is a typical trend following strategy.

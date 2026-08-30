@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/15e79dbf906671d6dbd.png)
+![IMG](assets/images/43daecf17ffd99b4eb8b07cebc0f90c37047bdcc018930d1fc562bc104e892f5.png)
 [trans]
 #### Overview
 This strategy is designed to capture breakout trading opportunities by combining trend lines, Fibonacci retracement levels, and moving averages. The strategy begins by identifying a crossover between fast and slow EMAs, indicating a potential trendline breakout. Then, use Fibonacci golden pockets (61.8% and 65% retracement levels) for confirmation. Finally, the 200-day EMA and 300-day HMA provide further confirmation of the trend direction. The strategy executes a buy or sell operation when price breaks through the gold pocket level and is confirmed by a moving average crossover. 

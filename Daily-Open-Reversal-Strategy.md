@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1173c8852a8a559d3b3.png)
+![IMG](assets/images/8aa25bb3e2ddd6ece52965eb2b272859c945706eb2df917eb934ace15f3ffa40.png)
  [trans]
 ### Overview
 The Daily Open Reversal Strategy is an intraday trading strategy based on mean reversal. It determines the reversal opportunity of the current K line based on the physical size of the previous K line. If there is a clear gap between the opening price of the current K line and the previous K line, and the size of the entity exceeds the range set by the parameters, then a long or short trading signal will be triggered.

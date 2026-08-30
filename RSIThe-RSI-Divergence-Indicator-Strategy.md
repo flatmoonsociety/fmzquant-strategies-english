@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/13e40afa7130b7b74d6.png)
+![IMG](assets/images/dfc4f23ca82eb1490dce2489077e95d07d41b86552ce34951b7fc1bf575086be.png)
  [trans]
 ### Overview
 The RSI long-short divergence indicator is a quantitative trading strategy based on the relative strength index (RSI). By analyzing the divergence between the RSI indicator and the price, it finds opportunities for price trend reversal and achieves the purpose of buying low and selling high.

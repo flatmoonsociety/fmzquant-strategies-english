@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/eda9e9968d85dd0e1c.png)
+![IMG](assets/images/85289b54f9ab47b1a254335bfa2b914bda586e7f81e9bb7d285b10aee77f9e61.png)
 [trans]
 #### Overview
 This strategy is based on the Keltner channel indicator, using the exponential moving average (EMA) and the average true range (ATR) to construct an upper and lower channel. When the price breaks through the lower track, a long position is opened, and when the price breaks through the upper track, the position is closed. This strategy attempts to capture the price fluctuation range and take profits when the price breaks above the channel upper rail.

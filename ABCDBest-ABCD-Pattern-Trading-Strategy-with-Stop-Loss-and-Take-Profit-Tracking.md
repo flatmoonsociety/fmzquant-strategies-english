@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/a75f9643f0b0d15320.png)
+![IMG](assets/images/576d3efd996c4f59657af855b16acf95497005ab010a50787b42ba9b2d1b7e71.png)
 [trans]
 ### 1. Strategy Overview
 The name of this strategy is "Best ABCD Pattern Trading Strategy (with Stop Loss Trailing and Take Profit Trailing)". It is a quantitative strategy based on a clear ABCD price pattern model for trading operations. The main idea is to identify the complete ABCD pattern model, go long and short according to the direction of the pattern, and set stop loss and take profit tracking to manage the position.

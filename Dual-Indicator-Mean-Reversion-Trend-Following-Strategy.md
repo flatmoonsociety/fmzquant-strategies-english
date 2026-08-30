@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/12285df40e668473675.png)
+![IMG](assets/images/4a202db666105f8de8d3cc277007b95cd1cc0647536b15be1d67f352a970ebca.png)
 [trans]
 ### Overview
 This strategy combines the signals of the two indicators, the moving average indicator and the market transaction convenience index, and performs buying or selling operations when it is judged that the price reverses. It is a reversal trading strategy.

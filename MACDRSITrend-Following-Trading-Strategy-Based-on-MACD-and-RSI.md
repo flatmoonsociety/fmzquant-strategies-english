@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/8f1a72ec09d8c2034d.png)
+![IMG](assets/images/9346e46770b10c9738750b9944524afc5721e8a5b4435f96de706fd7297eb13d.png)
  [trans]
 ## Overview
 This strategy implements trend following trading by calculating MACD and RSI indicators, combined with trend and overbought and oversold filters. This strategy is suitable for medium and long-term trading. It can effectively filter out false breakthroughs, confirm the trend direction, establish a position in the early stage of trend development, and then use methods such as trailing stop loss to lock in profits.

@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/150477f408b60aa5de1.png)
+![IMG](assets/images/af9b039d9cb6f9d7772cb3a50de5f5cc33d2ed6a5f5a3a8e54958768f8454b10.png)
 [trans]
 ## Overview
 The core idea of ​​this strategy is to use the price fluctuation range calculated by the ATR indicator to determine price breakthroughs, and the EMA indicator to determine the overall trend direction to achieve trend following transactions. When the price breaks through the upper or lower edge of the ATR range, if the direction of the breakthrough is consistent with the direction of the EMA, enter the market to go long or short. The condition for closing the position is that the price falls back below the ATR range.

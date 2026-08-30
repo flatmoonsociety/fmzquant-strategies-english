@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/5d029cba0ad9d90c33.png)
+![IMG](assets/images/8776518af01c4d399bdf6f065a6f8e6981fd9433485f9a80647dbbae64906ce0.png)
 [trans]
 ## Overview
 This strategy is a trend following trading strategy based on moving averages. It uses the 14-day simple moving average to determine the direction of the market trend, and makes buys or sells when the price is close to the moving average.

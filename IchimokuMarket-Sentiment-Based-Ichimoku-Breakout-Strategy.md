@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/11a0bb50187e9a54be7.png)
+![IMG](assets/images/8a601ee70fcaa9fa4499afcf12206ac26da57de4759b240ef08e262d9b2ed3e7.png)
 [trans]
 ## Overview
 This strategy is a trend following strategy that also combines the configuration of Ichimoku cloud indicators to judge the long and short strength of the market to discover potential breakthrough opportunities. Key components include Ichimoku cloud-based judgment framework, ATR stop loss, percentage stop loss, and optional take profit mechanism.

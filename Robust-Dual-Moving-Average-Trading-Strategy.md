@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/6d11bbe4e33a9d6334.png)
+![IMG](assets/images/ad0bf9f99e4f8aeae0ac7bc5dd5b6f9ead86637566f5bcf1e2e4d9e0d080f8b0.png)
 [trans]
 ## Overview
 The dual moving average robust trading strategy combines the dual power of the relative strength index (RSI) and the rate of change indicator (ROC) to identify the direction of medium and long-term trends. This strategy sets filter conditions and stop-loss conditions at the same time, enabling entry based on confirmation of the trend direction, which can effectively reduce the risk caused by false breakthroughs.

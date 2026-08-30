@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/f23d47eed832d07f8d.png)
+![IMG](assets/images/4ce3624caaf330816e3b52225b4ca1ecd8009917afd776b7f468aca07f30afdc.png)
 [trans]
 #### Overview
 This strategy combines the Exponential Moving Average (EMA) and the Supertrend indicator to generate buy and sell signals. A buy signal is generated when the price breaks above the 20-day EMA from above and the Supertrend indicator is in a bullish trend; a sell signal is generated when the price breaks below the 20-day EMA from below and the Supertrend indicator is in a bearish trend. This strategy aims to capture trending market conditions while using EMA as a filter to reduce false signals.

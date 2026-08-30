@@ -20,7 +20,7 @@ The strategy is to take position when the two lines get overbought or oversold a
 
 **backtest**
 
- ![IMG](https://www.fmz.com/upload/asset/189dc4ce5df05106d85.png) 
+ ![IMG](assets/images/245f4d49d375e99594196a50005d24ca49edd83c42fdcd068aeb699cd489d855.png) 
 
 > Strategy Arguments
 

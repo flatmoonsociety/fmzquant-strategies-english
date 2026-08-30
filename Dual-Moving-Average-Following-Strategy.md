@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/9843cf0d5a5207492d.png)
+![IMG](assets/images/d0e355129d2d0fda1be974d07b494cca75225029a35659a627e573eca72efb93.png)
 [trans]
 ### Overview
 The dual moving average following strategy is a trend following strategy based on moving averages. It calculates moving averages of different periods to determine the market trend direction to send trading signals. When the short-term moving average crosses the long-term moving average, go long; when the short-term moving average crosses below the long-term moving average, go short. This strategy follows the trend to make profits.

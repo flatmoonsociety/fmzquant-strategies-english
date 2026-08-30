@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1f5f52192fb57f347d8.png)
+![IMG](assets/images/58cbecea3d2e735984792794a25ba43d98acbf60e0f6381b2f9c7c3da0c873a8.png)
  [trans]
 ## Overview
 This article mainly introduces a two-way pyramid strategy for stock trading designed based on the Relative Strength Index (RSI). This strategy uses the RSI indicator to determine the overbought and oversold areas of the stock, and cooperates with the pyramid positioning principle to achieve profits.

@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/db053f4d3fca863eae.png)
+![IMG](assets/images/5e78f95cc0a79918aa1514ac962a1afb4112f8a99f3eb1f95677e7303dc1a8d1.png)
 [trans]
 ## Overview
 This strategy is called "Multi-factor quantitative strategy based on exponential moving average and volume-weighted", which mainly achieves quantitative trading by combining the two factors of exponential moving average and volume-weighted. This strategy comprehensively considers price trends, trading volume information and the latest price information, and can effectively capture market opportunities and has certain advantages.

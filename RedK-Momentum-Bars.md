@@ -43,7 +43,7 @@ Here's the detailed (top chart) setup that Mo_Bars is based on -- The settings f
 
 **backtest**
 
- ![IMG](https://www.fmz.com/upload/asset/9c35dab96de1e2b43f.png) 
+ ![IMG](assets/images/4fe52300576e935dd4c9611abd9db85719e4f940363628fe623d63b74c79a215.png) 
 
 > Strategy Arguments
 

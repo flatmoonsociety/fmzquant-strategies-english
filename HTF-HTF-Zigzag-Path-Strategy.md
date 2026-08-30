@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/f0b3e7613c5aa8f515.png)
+![IMG](assets/images/7bfc26a9ca8b3520922c648297896bb7c65a81934bb2d3b8098919378ffec486.png)
 [trans]
 #### Overview
 This strategy uses the ZigZag indicator on the High Time Frame (HTF), draws the ZigZag path on the Lower Time Frame (LTF), and generates trading signals based on the open and close prices of the HTF candles. The main idea of ​​the strategy is to use the trend direction of HTF to guide LTF trading decisions, while using the ZigZag indicator to determine key support and resistance locations.

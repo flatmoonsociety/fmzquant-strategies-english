@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1a7e279720cb884069d.png)
+![IMG](assets/images/8b8ec21c576a470563312c9ef8c331e963d97c3defaa0aad4804e76f509a15db.png)
 [trans]
 ## Overview
 The trend following reversal strategy is a short-term trend trading strategy based on 15-minute NQ futures. It finds trading opportunities through trend filtering and reversal pattern recognition. This strategy is simple and effective, suitable for short-term active traders.

@@ -14,7 +14,7 @@ Archimedes' bathtub
 - OKEX Futures
 - Contract: this_week current week
 - Official website: www.quantinfo.com
-![IMG](https://www.fmz.com/upload/asset/b2ebaacbe7dbb1bb45bb59ceb80dd37f.png)
+![IMG](assets/images/cf445bf295dc16d749567d3c2cbf4f56d14e5c9092f0a9812c4ccb825ab3b34f.png)
 
 - Main picture:
   Draw UBAND, formula: UBAND^^MAC+M*ATR;
@@ -27,8 +27,8 @@ Archimedes' bathtub
 - Strategy idea: Channel Adaptive Strategy, Fixed Stop + Floating Stop
 - Data Cycle: Multi-Cycle
 
-  ![IMG](https://www.fmz.com/upload/asset/24c0c7b896060cf639540b56028e8d99.png)  
-  ![IMG](https://www.fmz.com/upload/asset/e403406e31b9a3ca04da6ce76e3abe2d.png) 
+  ![IMG](assets/images/d0bf8ff2698b841383e897871ed32e401d2104b426359b967094dff807e3dbf9.png)  
+  ![IMG](assets/images/a201046740eb5a22eb3713828c1bd2645c4838c6ab0665070a2dfc8e011c6d8c.png) 
 
 - Main chart:
   Draw UBAND, formula: UBAND ^^ MAC + MATR;

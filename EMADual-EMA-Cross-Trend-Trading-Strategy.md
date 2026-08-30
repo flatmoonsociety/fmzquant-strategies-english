@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/13d72af2c8506993aa3.png)
+![IMG](assets/images/127ca134226aa5c9c1ae0ce76f56175f90e213de1c642807cbf4b0abe46c6f70.png)
  [trans]
 ## Overview
 This strategy is a strategy that determines the trend based on the cross of the two lines of EMA. It uses two EMA moving averages with different lengths. During the consolidation period, it determines that it is in an upward trend by judging the position of the EMA moving average. During the breakthrough period, it sends a buy signal by judging the intersection of the price and the EMA moving average. This strategy also sets take-profit and stop-loss points to lock in profits and control risks.

@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/8a476a58eb7047f91b.png)
+![IMG](assets/images/fccc87a58d757bb9904f97310745c888f2419dd08e199887fff296366b89c9f9.png)
 [trans]
 ## Overview
 The moving average golden cross and dead cross trading strategy is a quantitative trading strategy that tracks the intersection of short-term and long-term moving averages (EMA) and performs buying and selling operations when the golden cross and dead cross occur. This strategy combines the MACD indicator to determine trading signals.

@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1232c809fa6383856cf.png)
+![IMG](assets/images/c61d4ecb5d902cfa9419ea25dfc77400679b719b45ea223841ee5267478b8744.png)
  [trans]
 ## Overview
 This strategy comprehensively uses two indicators, Stochastic RSI and MFI, to identify overbought and oversold phenomena and make buying and selling decisions. The basic idea is to consider selling when the stock price is overbought and buying when the stock price is oversold.

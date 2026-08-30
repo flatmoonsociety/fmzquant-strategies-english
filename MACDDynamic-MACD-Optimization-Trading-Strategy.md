@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/b34848c72d9fcde243.png)
+![IMG](assets/images/b1f3b5ab6def71c41ac7fb9674da1ef38afd2d6a86722a1236b5be7608971d1d.png)
  [trans]
 ## Overview
 This strategy achieves more accurate and reliable trading signal generation and stricter risk control through multiple optimizations of the classic MACD indicator. The main optimization contents include: 1. Introducing RSI indicator to avoid excessive trading; 2. Adding trading volume confirmation; 3. Setting stop loss and take profit; 4. Optimizing parameter combination.

@@ -28,7 +28,7 @@ I am not liable for any profit, financial improvement, losses or damages, moneta
 
 **backtest**
 
- ![IMG](https://www.fmz.com/upload/asset/bc52f54c413e5d2a42.png) 
+ ![IMG](assets/images/ae16d8e6dc201e183f6b7a8bc16cbbc4706a96dd30be672a6824e45c78bec2db.png) 
 
 > Strategy Arguments
 

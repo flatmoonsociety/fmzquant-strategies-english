@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1f7d6a54c8ac148b4f9.png)
+![IMG](assets/images/db02d593cdd1454517fd399072eff556d9d34fe6e27d99ed638aa8b6bbe1a788.png)
 [trans]
 ### Overview
 This strategy is an optimized and improved strategy based on the momentum indicator - rate of change (ROC). Compared with the original ROC strategy, this strategy has the following optimizations:

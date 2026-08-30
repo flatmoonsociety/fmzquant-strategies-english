@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/f30bf2b8b373577fc0.png)
+![IMG](assets/images/a452b3c05258a9c3bd870815b5f2146d4a2ca65f7e3b6dfe22adaa21eb5764dd.png)
 
 [trans]
 This is a trading strategy based on the crossover signals of two sets of moving average convergence indicators (BBI) with different periods. The strategy captures market trend changes by comparing the intersection of short-period and long-period BBI to make trading decisions.

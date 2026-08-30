@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1999d290c2d1c548ad4.png)
+![IMG](assets/images/21871c9a4e8c96bfaf3aadc661106c742a70a6dc984b285b1d674aedbfb87e05.png)
 [trans]
 ## Overview
 Multi-factor Intelligent Trading Strategy is a powerful algorithmic trading strategy that integrates multiple technical indicators. It comprehensively uses multiple indicators such as Relative Strength Index, Bollinger Bands, Volume Profile, Fibonacci Retracement, Average Directional Index and Volume Weighted Average Price to set buying and selling conditions to identify potential trading opportunities in the financial market.

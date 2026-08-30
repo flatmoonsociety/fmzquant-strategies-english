@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/13fdefc96e895d12839.png)
+![IMG](assets/images/1899eeab1d777c42ce377801cf1dd78f3e0f982e5f3037dac1b8eb8c1a446bf8.png)
 [trans]
 ## Overview
 This strategy is a simple moving average crossover trading strategy based on the crossover of short-term and long-term moving averages. It uses 34-period and 89-period moving averages and observes their crossover as buy and sell signals during the early trading hours. A buy signal is generated when the short-term moving average breaks above the long-term moving average from below; a sell signal is generated when it breaks above the long-term moving average.

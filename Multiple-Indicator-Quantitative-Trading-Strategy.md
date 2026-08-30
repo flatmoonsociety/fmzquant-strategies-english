@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1005f23b21aba2dde79.png)
+![IMG](assets/images/cfcc1b266edc9a7e2501bf471093895fe71a2ebcf56a6c667aaa7a101dbf48d0.png)
  [trans]
 ## Overview
 This strategy is a quantitative trading strategy that uses a variety of technical indicators. It mainly uses EMA moving average crossover, SuperTrend indicator, RSI indicator, MACD indicator and other indicators to cooperate to form trading signals.

@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/10861f32baeebcb497f.png)
+![IMG](assets/images/6e6e7d6f7f6dff2710e8e82a85b3a5e421ef7cf372fd9cd95db5fc3b24d3a215.png)
 [trans]
 ## Overview
 This strategy is a breakout buying strategy based on the price momentum indicator MACD and moving averages, and is suitable for the 1-hour time period of silver (XAG/USD, XAG/EUR). The key point is to combine price trends and momentum indicators to determine the timing of trend reversals.

@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/74494c8c1f10a69203.png)
+![IMG](assets/images/32a4ab788d08658ff5c9e65fbb44a872dfbc0bedb51ddd2fce32ffa6a3e93bf2.png)
 [trans]
 ### Overview
 This strategy is a trend following strategy based on moving averages. It uses the Ichimoku cloud indicator to determine the trend direction, and combines it with the 200-day moving average to filter signals to achieve trend tracking.

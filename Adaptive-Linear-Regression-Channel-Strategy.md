@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1a593d487212c0613ea.png)
+![IMG](assets/images/80976972948a8e6f0562c30536ecd8fb9c82f64c1b5b6f8e6ff76fd0862b2aec.png)
 [trans]
 ## Overview
 The adaptive linear regression channel strategy is a quantitative trading strategy based on linear regression analysis. This strategy forms an upper and lower channel by calculating the linear regression equation of security prices within a certain period of time, and uses the upper and lower rails of the channel as trading signals to conduct interval trading or trend tracking.

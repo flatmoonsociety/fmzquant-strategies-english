@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/14230a88f8341169aea.png)
+![IMG](assets/images/c1ff1a1c97b96474240583f36c8a18e2cf10c696bec92e1a27dd925161aa0094.png)
 
 [trans]
 This strategy is an intelligent trading system that combines volume, price momentum, and multiple take-profit and stop-loss strategies. It identifies potential trading opportunities by monitoring a combination of abnormal volume fluctuations, price gains, and momentum indicators, and uses layered take-profit and stop-loss management to optimize the risk-reward ratio.

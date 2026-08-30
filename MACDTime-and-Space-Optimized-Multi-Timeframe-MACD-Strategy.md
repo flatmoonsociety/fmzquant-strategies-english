@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/98646f9cecc756230c.png)
+![IMG](assets/images/d46afd43eabf562749489585d75c33f9a3846292a67dd811f81112e7eca8470f.png)
  [trans]
 ### Overview
 This strategy achieves a high winning rate exchange rate trading strategy by optimizing the parameters of the MACD indicator, combining moving averages, price actions and specific trading times.

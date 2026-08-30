@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/9c091afdb3d159dc6b.png)
+![IMG](assets/images/5f602f9793a6a10030a8868811f9b32d1801795b4e9468409059327242783014.png)
 [trans]
 Strategy Overview:
 This CVD divergence quantitative trading strategy uses the CVD indicator to form a divergence with price to capture potential trend reversal signals. The strategy calculates the CVD indicator and compares it with the price to determine whether a bullish or bearish divergence has formed. When a divergence signal occurs, the strategy will open a long or short position. Use both trailing stop loss and fixed percentage take profit to control risk and lock in profits. This strategy supports the pyramiding of multiple positions at the same time.

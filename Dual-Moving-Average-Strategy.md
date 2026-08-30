@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/19cc992015e07f4eeab.png)
+![IMG](assets/images/f3fe9fa3d568c3b831696f0f0101422bfcfbcaa3c77ff08f29c89f6d6f60a0dc.png)
 [trans]
 ## Overview
 This strategy utilizes double moving averages to form channels to capture the direction of the trend. Trading signals are generated when price breaks out of the channel. At the same time, combine the RSI indicator to filter out false breakthroughs. Only operates during London trading hours, with a maximum of 5 orders per day and a maximum loss of no more than 2%.

@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/178b530327af43bf59b.png)
+![IMG](assets/images/a77b752cb64e91f57efa1ee404da92f3b94bae1699dd5b60a03d85ad179ce2c3.png)
 [trans]
 ## Overview
 This strategy is implemented based on the crossover of the 30-day and 200-day moving averages on the XAUUSD gold 1-minute time frame. A buy signal is generated when the short-term moving average crosses above the long-term moving average from below; a sell signal is generated when the short-term moving average crosses below the long-term moving average from above.

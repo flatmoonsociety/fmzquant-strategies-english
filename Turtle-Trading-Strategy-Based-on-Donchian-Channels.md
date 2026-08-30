@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/da65fe1b269e54a44d.png)
+![IMG](assets/images/8279d9e8bbd2cc00d01b0f9ee5e5a8aabf871346bbbc3e76ce8785ed779af026.png)
 [trans]
 ## Overview
 Tang Anqi's turtle trading strategy is a very simplified turtle trading strategy. It is very different from the original Turtle trading strategy. This strategy uses two Donchian channels, the fast channel and the slow channel. The channel period is set by the user. The default value is 20 K lines for the fast channel and 50 K lines for the slow channel. The strategy uses the upper and lower rails of the slow channel to enter the market, and the middle rail of the fast channel to set the stop loss.

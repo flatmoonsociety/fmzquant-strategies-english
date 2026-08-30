@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1245c7f5cb6521774a0.png)
+![IMG](assets/images/df94f8d8ea06f49814bb7203229c26fc25dbe076df368c4741bc634c7c4320c8.png)
 [trans]
 ## Overview
 The triple confirmation trend following strategy achieves a high probability of capturing trends by combining the signals of three major indicators such as moving averages, imaginary lines and super trends. When the three major indicators send out buy or sell signals at the same time, the strategy will enter the market in time and follow the trend; when the trend reverses, the strategy will quickly stop the loss and go short on the backhand.

@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/10baa58e8ca203f6839.png)
+![IMG](assets/images/f9a9ad83845e006782c39974e7a513ab97cd16a6c256d66e388b035d11e9c439.png)
 [trans]
 ## Overview
 This strategy builds a Price Channel, calculates the distance of the price from the center line, and then combines it with the moving average to filter the signal to realize the identification and tracking of the trend. A trading signal is generated when the price breaks through the Channel. This strategy has both trend following and breakout characteristics.

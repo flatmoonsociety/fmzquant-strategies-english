@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/13049b3a1cff39ce4bf.png)
+![IMG](assets/images/3adb4244ec9e198cae6bedd2bc4718b2dee4df75680b5023cdb182e7e07f36ae.png)
 [trans]
 #### Overview
 The Price Volume Breakout Buying Strategy is a trading strategy designed to identify buying opportunities by detecting simultaneous price and volume breakouts within a specified candle range. The strategy begins by using a specific number of candles as a check window for price and volume. These values ​​are used as benchmarks to identify breakout conditions. Trading begins when both closing price and volume exceed the observed maximum within the predetermined window. Prices must be above the designated moving average as a trend indicator, ensuring that all trades are in line with the prevailing market trend.

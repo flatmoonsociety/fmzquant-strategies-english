@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1b2969c0105c5eb10f4.png)
+![IMG](assets/images/a8bae302503544fceec74a2bf04cb8fbe8aea92e8db7b122feffcc7a8e7c304e.png)
 [trans]
 ## Overview
 The flag breakout strategy is a technical analysis strategy that aims to capture the beginning of a trend by identifying the flag pattern and entering the market at the breakout point. This strategy uses the average true range (ATR) indicator to assist judgment and determine the flag range after a clear flagpole to screen entry opportunities.

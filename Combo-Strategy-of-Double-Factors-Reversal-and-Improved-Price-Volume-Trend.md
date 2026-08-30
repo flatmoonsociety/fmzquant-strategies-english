@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/19193c9237130c25ad6.png)
+![IMG](assets/images/23a2e8a30c60e044601e535cbfbc771af337f32a1e814c886d5ee4323292f928.png)
  [trans]
 ## Overview
 This strategy combines two sub-strategies, dual-factor reversal and improved price volume trend, to obtain comprehensive trading signals. Among them, the two-factor reversal strategy is based on the idea of ​​​​P183 in Ulf Jensen's book, which generates a signal when the stock's closing price reverses within two days and the stochastic indicator conditions are established. The improved price volume trend strategy is based on the joint analysis of price and trading volume to determine the timing of market consolidation and momentum building. The two strategies can verify each other, and their combination can improve stability.

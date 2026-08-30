@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1f5d2f67707c53e07fb.png)
+![IMG](assets/images/387d9ff916de43ac034a508d6ae566902398b920207be0bcd217d65502d260b7.png)
 [trans]
 ## Overview
 The space-oriented price reversal strategy determines the trend direction of price fluctuations by calculating the center line of the price channel. When the price approaches the center line of the channel, a long or short signal is issued. This strategy combines multiple filters to find high-probability trading opportunities.

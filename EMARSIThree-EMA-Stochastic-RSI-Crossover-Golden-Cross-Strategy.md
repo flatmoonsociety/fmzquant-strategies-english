@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/14657e61c90dcfad8c7.png)
+![IMG](assets/images/d350a53ffaa1dcc81e967a4b6caa7b4996db95830cf75f40092b37a23cb1cc51.png)
 [trans]
 ### Overview
 The Triple EMA Stochastic RSI Cross Golden Cross strategy is a trend following strategy. It combines the triple exponential moving average indicator and the stochastic index relative strength indicator, and uses the cross signals of the dual indicators to determine the timing of entry.

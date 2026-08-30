@@ -14,7 +14,7 @@ And ensure that this line of code is executed before tracing the error
 Finally, add main = $.tryfunc(main) to the strategy code to ensure that all calls go through try
 When a policy error is reported, a line of red text will automatically indicate which line of which file it is in.
 Principle: The way to load js code is to merge all js codes, including class libraries, into one large file for loading; find out the position of each file in the large file, and when the error is finally reported, reverse the correspondence to know the specific line number of the error.
- ![IMG](https://www.fmz.com/upload/asset/443a3c3f50e09c3ca4be.png) 
+ ![IMG](assets/images/1b06037a2e5a58582aab8b29a308375ed49c8021565dcc23d7236ef67fc4c2c1.png) 
 
 
 

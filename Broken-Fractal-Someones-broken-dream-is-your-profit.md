@@ -32,7 +32,7 @@ PS2 : Break of a broken fractal is also very potent. Watch out for those!
 **backtest**
 
 
- ![IMG](https://www.fmz.com/upload/asset/13522764fc0126952eb.png) 
+ ![IMG](assets/images/9a58c58ad0887a936690d2c68a8203b3cf981ef3fa614365fcbfbc40a4e12068.png) 
 
 > Strategy Arguments
 

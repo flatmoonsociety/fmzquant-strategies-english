@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1699747a2aa6b777baa.png)
+![IMG](assets/images/1201716c8daf101df0869f85d5b89abe1e5256573ae59b754b2dc2937e110e66.png)
  [trans]
 ## Overview
 This strategy uses the Parabolic SAR indicator to identify the turning point of the stock price trend, and performs buying or selling operations when the turning point occurs. This strategy can automatically identify rising and falling trends in stock prices and adjust positions accordingly.

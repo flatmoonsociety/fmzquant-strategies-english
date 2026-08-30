@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/11a516a34f43dcd03a1.png)
+![IMG](assets/images/74ed3552aba8c112f240537166ccd0df636570b9fb3246073d5944ce91f12ff4.png)
 [trans]
 ## Overview
 This strategy is a quantitative trading strategy that combines the Ichimoku Balance Sheet indicator and the Bollinger Bands indicator. This strategy uses the conversion line, baseline line, front bet line and back bet line of the Ichimoku Balance Sheet to construct trading signals. At the same time, it uses the Bollinger Bands to judge the volatility of the market and enter the market at the right time.

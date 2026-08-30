@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/168d899ce904ef1ea68.png)
+![IMG](assets/images/a28645071ad51448067f8bbcec3e1c7f1a0c3188d7e309947c761f8896a4e012.png)
 [trans]
 
 Trend following strategy based on the SuperTrend indicator. This strategy uses the SuperTrend indicator to determine the trend direction, and combines the ATR indicator to set stop loss and take profit to achieve low-risk trend tracking.

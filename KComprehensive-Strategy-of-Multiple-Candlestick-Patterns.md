@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/116a43c599c66fdbe4a.png)
+![IMG](assets/images/871450e2867e8880756fde17e7f4e5f676662782a8157df9ed884efcf524a1fb.png)
 [trans]
 The main idea of this strategy is to detect multiple common K-line forms at the same time, including hammer line, morning star line, etc. [10]. When these forms are detected, it is judged as a price reversal signal and corresponding buying or selling operations are made.
 ### Strategy Principles

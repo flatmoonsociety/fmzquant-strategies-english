@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1bcfde9c97cfb820997.png)
+![IMG](assets/images/4b5713d61f9ac0c5c92f5941bce74d1803e6baf73f91a1b8b9aaf73a6135e939.png)
 [trans]
 ## Overview
 The core of this strategy is to use the two indicators EMA and MACD to identify the trend direction and entry timing. When the price breaks through the EMA, it is considered that the trend has changed, and the MACD dispersion indicator further confirms the trend signal. The timing of buying and selling can be determined based on the relationship between price and EMA and MACD.

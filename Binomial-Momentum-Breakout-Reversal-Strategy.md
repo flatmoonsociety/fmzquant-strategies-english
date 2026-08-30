@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/c637380db57cc43567.png)
+![IMG](assets/images/0f667fd859d9ba2d9dfe14d279eacb32c9965eef4448d9d485921eac78b9aa4d.png)
 [trans]
 ## Overview
 The Binomial Momentum Breakout Reversal Strategy combines the Stoxx indicator and the Bull indicator to achieve dual signal filtering, conduct reversal trading at the market reversal point, and pursue oversold and overstretched positions.

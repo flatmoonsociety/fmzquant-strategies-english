@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1c2b068567a8db801ea.png)
+![IMG](assets/images/aea63780bc78031e897dedf6a249348cca6853aaba12a4ce89c0195daa71e1b8.png)
 
 [trans]
 This strategy calculates the ATR volatility of the price, combines it with the VWAP average price of different periods, and sets the entry and exit conditions for long positions to achieve trend-following transactions in stocks.

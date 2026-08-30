@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/16e566fe96e1d0694f0.png)
+![IMG](assets/images/640041ef6f7bfeea76c956063d2b9f8900f3bd86799bded165d0d26ce496970b.png)
 [trans]
 
 The name of this strategy is "Dual MA Indicator Oscillatory Price Tracking Strategy". It uses a combination of multiple MA moving averages such as SMA and EMA to track market prices in real time by setting multiple fast and slow indicators, and can give trading signals when the market fluctuates.

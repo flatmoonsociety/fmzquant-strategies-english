@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/f3459bc572a6315a86.png)
+![IMG](assets/images/835c432d0f1de24a4a3ce2194c181f4dd500e2809924a9abb4a322df9319a909.png)
 
 [trans]
 This is a trend following strategy based on multiple technical indicators, which realizes swing trading by dynamically adjusting positions. This strategy mainly uses the exponential moving average (EMA), the relative strength index (RSI) and the trend direction index (ADX) for market trend analysis and trading signal generation, while using the true range (ATR) to set dynamic stop loss and profit targets.

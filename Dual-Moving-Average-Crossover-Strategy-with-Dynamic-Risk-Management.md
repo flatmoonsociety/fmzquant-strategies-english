@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/17b7b3b5abada8902d8.png)
+![IMG](assets/images/f7bf3c529bfed2f4e3c6558dc6327b4942615873604bda6519cf5307b94557b4.png)
 [trans]
 #### Overview
 This strategy is a quantitative trading system based on double moving average crossover signals. It identifies market trend changes through the crossover of short-term and long-term moving averages, and combines dynamic stop-profit and stop-loss management to control risks. The strategy uses market orders for trading, automatically closing existing positions and opening new positions when the signal is triggered, and protecting the safety of funds by setting take-profit and stop-loss points.

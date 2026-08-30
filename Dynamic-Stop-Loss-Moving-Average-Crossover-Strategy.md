@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/115d31f2974761c741a.png)
+![IMG](assets/images/3896d156f53a53f6697214a09066251586eef604bf5c266bcccd2a39734a8e83.png)
 [trans]
 #### Overview
 The moving average crossover dynamic stop-profit and stop-loss strategy is a quantitative trading method based on technical analysis, which mainly uses the intersection of short-term and long-term moving averages to identify market trends and conduct transactions. This strategy combines multiple key elements such as moving average crossover, dynamic stop loss and fixed risk-to-return ratio, aiming to capture market trends while effectively controlling risks.

@@ -16,7 +16,7 @@ This indicator was originally developed by Charles Le Beau and popularized by Dr
 In short, this is a trailing stop-loss based on the Average True Range (ATR).
 
 **backtest**
- ![IMG](https://www.fmz.com/upload/asset/eb0bb76fedf761b0b8.png) 
+ ![IMG](assets/images/330cde3e2fd9dfb56e7248e1f49babe2916815f3bc1342a404945b8e223fe531.png) 
 
 > Strategy Arguments
 

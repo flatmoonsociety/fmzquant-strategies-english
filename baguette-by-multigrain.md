@@ -27,7 +27,7 @@ ATR Multiplier: This multiplier controls the 'width' of our envelope or our extr
 @redktrader for the ATR envelope calculations.
 
 **Backtest**
- ![IMG](https://www.fmz.com/upload/asset/b551d763796cea8a3c.png) 
+ ![IMG](assets/images/0eb7cda956600087f11fc6ffcef3f6bbcd47b4ff8ab47b042a1ebeaa77594142.png) 
 
 > Strategy Arguments
 

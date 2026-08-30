@@ -15,19 +15,19 @@ When the OKEX V5 exchange object is configured (using OKEX V5's simulated disk A
 
 You can use this plug-in to switch, as shown in the figure:
 - #### Click the Add button:
-  ![IMG](https://www.fmz.com/upload/asset/1789d89b0004425112f5.png) 
+  ![IMG](assets/images/f926a39d3bba29202a73c4bf86c620d6a0e8c267297fd677d2e84150d520ae32.png) 
 
 - #### Select plugin:
-  ![IMG](https://www.fmz.com/upload/asset/1714b6edacde6828eba2.png) 
+  ![IMG](assets/images/3468ee8a03eaa7165771ab66cceefd9d414200941297d5e65ac7131f5668afbd.png) 
 
 - #### Execute plugin
-  ![IMG](https://www.fmz.com/upload/asset/169ace291c5d0da6e210.png) 
+  ![IMG](assets/images/f0bc729e1e86fdd29448b4d5cfb3201f98c472c4925a26993d8914936dbea7dd.png) 
 
 - #### Execute immediately
-  ![IMG](https://www.fmz.com/upload/asset/170bac2eacc494c2eba3.png)  
+  ![IMG](assets/images/bb9e0e5c3541d7835a968e2a26272ee26b13e6c94f0e9f985f5c1a576c445459.png)  
 
 - #### The simulated disk assets are read out
-  ![IMG](https://www.fmz.com/upload/asset/168a45cf491f249d7189.png) 
+  ![IMG](assets/images/b1262d5d0481e50724a21de5ac784beb23b6bbcaea4b90c21bfb9fb609a92c76.png) 
 
 If you want to switch back to the real disk environment, just uncheck the option and execute it again.
 

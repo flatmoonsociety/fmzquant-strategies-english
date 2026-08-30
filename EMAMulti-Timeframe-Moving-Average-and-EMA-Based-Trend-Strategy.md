@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/165a2c604b97a24919b.png)
+![IMG](assets/images/70136de51cbe528dff472367cf536f891e75166542797920219adae17322365a.png)
 [trans]
 ## Overview
 This strategy is a strategy that uses moving averages and EMA to achieve trend trading across time frames. The strategy determines the trend direction by combining SMA, EMA and K-line entities of different periods to achieve low-risk trend tracking.

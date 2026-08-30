@@ -29,7 +29,7 @@ SELL= All Ema turn to gray color.
 
 **backtest**
 
- ![IMG](https://www.fmz.com/upload/asset/8f65855b35cf7e6a02.jpg) 
+ ![IMG](assets/images/9fdd9ba6e5f7090eccb1001ac22b9cffb9e0e68bf80088f8e85e5b59674c04ae.jpg) 
 
 > Strategy Arguments
 

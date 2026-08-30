@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/121c2631bed1ec27937.png)
+![IMG](assets/images/369bcf27d3691c1051cce93e185baeb94608200c5fecb82abe94a85d3a5d51d4.png)
 [trans]
 ## Overview
 The double-base indicator following strategy is a digital currency quantitative trading strategy. This strategy generates trading signals by combining the signals of two basic indicators, the 123 reversal indicator and the Qstick indicator, and decides whether to enter the market based on the consistency of the two indicators.

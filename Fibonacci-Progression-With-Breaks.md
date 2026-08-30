@@ -31,7 +31,7 @@ Upper and lower extremities made from the central level and threshold distance a
 
 **backtest**
 
- ![IMG](https://www.fmz.com/upload/asset/c3049b5140ba230397.jpg) 
+ ![IMG](assets/images/70c2e73b50d463697b2259f446e11d394fd44adeda0c8fc96594b3bd10cbeeea.jpg) 
 
 > Strategy Arguments
 

@@ -11,9 +11,9 @@ program
 **Introduction:** Sell and hold the currency when MACD volume and price divergence
 **Principle implementation:** Starting from the current macd value, traverse forward to find the closing price of the k-line corresponding to the index greater than the current macd value, lock the corresponding k-line price to the maximum value within the current closing k-line range, and trigger selling if the current price is greater than the highest price in the area.
 Traverse macd data forward. When the maximum retention length is greater than 15, select the nearest macd maximum value.
- ![IMG](https://www.fmz.com/upload/asset/245a08277f17f12091cf4.png)
+ ![IMG](assets/images/f61324806dae82707707f023621e4735d6faba7af74e5f625675d4064097a3b3.png)
 **Backtest data:**
- ![IMG](https://www.fmz.com/upload/asset/245180e358693ba791ce0.png)
+ ![IMG](assets/images/90a1f4091ee54eebdd2528749506caed2bdedf9259c5f687066dce71210d8c76.png)
 **Note:** The strategy only supports spot prices and can be run in multiple currencies at the same time. The source code is for reference only. Please run with caution during real-time operations.
 > Strategy Arguments
 

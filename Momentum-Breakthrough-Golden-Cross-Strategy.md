@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/8a0cbeb83994166356.png)
+![IMG](assets/images/d3c6e7cf2064e3fbcf9ca45bfecf62e54de603f3eb50c5b88366cc6d54e6ee4c.png)
 [trans]
 ## Overview
 This is a quantitative trading strategy that combines MACD, RSI and EMA moving averages. It uses the MACD golden cross to go long, the RMSI high reversal and the price falling below the EMA moving average as a stop-loss exit method to achieve the effect of tracking the long-term market trend.

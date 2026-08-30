@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/121c31729344b02cb36.png)
+![IMG](assets/images/fe7c79b4290319dd0a79ed2052b596eff0393834e90d7887ce386a2beaba5fdc.png)
 CASHISKING | CASHISKING
 CMF, EMA, SMA
 

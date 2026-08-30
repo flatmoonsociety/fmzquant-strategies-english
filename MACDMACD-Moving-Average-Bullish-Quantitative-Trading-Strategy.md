@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/15a347363e858fceffe.png)
+![IMG](assets/images/0e2dea46d64465cd0f65566cd43f249160d82baf00245bcb05e2693f50e62eb3.png)
 [trans]
 ## Overview
 The MACD moving average long quantitative trading strategy is a quantitative trading strategy based on the MACD indicator and the 20-day moving average. This strategy determines buy and sell signals by determining the intersection between the short-term and long-term lines of the MACD indicator and the position of the stock price relative to the 20-day moving average. When the short-term MACD line crosses the long-term line and is above the 0 axis, and the closing price of the stock price is higher than the 20-day moving average, a buy signal is generated; when the closing price of the stock price falls below the 20-day moving average, a sell signal is generated.

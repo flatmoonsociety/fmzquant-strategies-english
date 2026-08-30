@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/12d2261c6ce4229dfe3.png)
+![IMG](assets/images/837334c8fd180a412afac35c57703ad6821a9415151e841fe8eb76a02356350f.png)
 [trans]
 ## Overview
 The Ichimoku Cloud Nine strategy is a trading strategy based on the Ichimoku Cloud indicator combined with the Williams Tract. This strategy utilizes multiple trading signals provided by Ichimoku Cloud Indicators to generate trading signals. This is a strategy geared toward actual trading.

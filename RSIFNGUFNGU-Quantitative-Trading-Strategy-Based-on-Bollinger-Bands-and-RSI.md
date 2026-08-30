@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/125edaab2fed0d40a10.png)
+![IMG](assets/images/eeea3efa6e0510d162ec91abc901e37230341e811af34e7279ed40c33b2c0b8c.png)
  [trans]
 ## Overview
 This strategy is called "FNGU Quantitative Trading Strategy of Bollinger Bands and RSI" and is a long position strategy specifically used for the FNGU stock. This strategy mainly uses the Bollinger Bands indicator and the RSI indicator to identify overbought and oversold conditions in a stock, thereby generating buy and sell signals.

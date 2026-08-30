@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/15fd7335d0cead19160.png)
+![IMG](assets/images/804cb887ae4d160de773aed3855ba1cdfde313493670a121f131713594c217ff.png)
 [trans]
 ## Overview
 The shock profit band Grid strategy is a trend following strategy that automatically establishes a grid based on price fluctuations and can continue to make profits when prices fluctuate.

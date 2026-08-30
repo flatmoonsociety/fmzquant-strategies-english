@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/6335f8bef5faad5006.png)
+![IMG](assets/images/f0d84c128ac33db12c1bcc7dd9158f1de8c985e7ea37ee78e87d57aea014d7c8.png)
  [trans]
 ## Overview
 This strategy uses a combination of momentum indicators and moving averages to identify market trends and reversal points, and trade when the trend turns. It is a trend following and counter-trend trading strategy. It is mainly composed of supply and demand areas, EMA moving average, various HH, LL, LH, HL long and short area markers, ATR stop loss and other modules.

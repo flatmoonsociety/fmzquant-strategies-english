@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/eb5f0000756bccc664.png)
+![IMG](assets/images/f4a1ca7bf41a0c27e3aef3a7a76cead3f3086c8968d8c800c7893b60e81707da.png)
 [trans]
 ## Overview
 This strategy designs a set of trend reversal trading strategies by calculating the difference in trading volume and buying pressure within different time windows and combining the long and short signals of the MACD indicator. This strategy mainly uses changes in trading volume as a signal to judge trend reversal, and verifies it through MACD's long and short signals to capture reversal opportunities.

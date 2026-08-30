@@ -27,7 +27,7 @@ Contact information:
 WeChat: DuQi_SEC/autobitmaker/Shawn_gb2312/ABM_DD
 Email: liuhongyu.louie@autobitmaker.com/autobitmaker_master@autobitmaker.com
 Submit trial application for WeChat mini program:
-![WeChat Mini Program Code](https://www.fmz.cn![IMG](https://www.fmz.com/upload/asset/1281e73989f891ac26aa9.jpg))
+![WeChat Mini Program Code](assets/images/c7a6edcbe4f0664578e903d0bf81ed61883aa1f6fe5c2989ca8e2322c0166b0e.jpg)
 > Strategy Arguments
 
 

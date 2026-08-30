@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/965f7182cf1f86410f.png)
+![IMG](assets/images/f5854505dc98d4e7a3fd5c8a131087859072c9c03ecc49304fc7c2d7e6876f3d.png)
 
 [trans]
 This strategy is called "Dynamic Threshold Price Change Breakout Strategy". The main idea of ​​this strategy is to set a dynamic threshold. When the price change rate exceeds the threshold, a buy signal is generated. When the price change rate is lower than the negative value of the threshold, a sell signal is generated. At the same time, the strategy also sets a stop loss to close the position when the price falls below the lowest price of the first 6 K lines.

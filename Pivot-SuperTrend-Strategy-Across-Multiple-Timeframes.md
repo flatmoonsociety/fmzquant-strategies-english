@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/12d99dd2a6950dcc06c.png)
+![IMG](assets/images/b1d6a9e0e929fda125aa5208ba644f26378af985c4b9f5f76cd42fcdfddb5552.png)
 [trans]
 ## Overview
 This strategy combines the Pivot Point indicator and the Average True Band indicator to implement a multi-time frame trend following system. It can capture the trend of the mid-cycle, while using pivot points to determine long-term support and resistance to achieve better entry and exit.

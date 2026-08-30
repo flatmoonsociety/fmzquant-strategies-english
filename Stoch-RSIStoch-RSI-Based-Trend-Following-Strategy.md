@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/b610e42659c8185d7e.png)
+![IMG](assets/images/8a0cd7f3cdc95a81bdfe557262ea898f0f4255a8974f4aaa80c5fba5476da7d2.png)
 [trans]
 ## Overview
 This strategy is a trend following strategy designed based on the Stoch RSI indicator. It combines the advantages of RSI and Stoch indicators, generates trading signals through the intersection of Stoch RSI, adopts a trend tracking mechanism, and dynamically adjusts stop loss and take profit lines to achieve optimized fund management.

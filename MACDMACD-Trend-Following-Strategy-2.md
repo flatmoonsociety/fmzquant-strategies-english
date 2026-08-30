@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/10f4a7de16353ec4c9d.png)
+![IMG](assets/images/51123b04f9d1038872d1d4a82e3bef8d0ce4fd0afcb5a81c6be00621d68faf47.png)
 [trans]
 ### Overview
 The MACD trend following strategy determines the trend by calculating the golden cross of the MACD indicator and its signal line and realizes profits from following the trend.

@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1dbe0e0fa8f95f1eed3.png)
+![IMG](assets/images/11292804088a268c7196ef1b32e60d82bb648bfa4abf678b1bf8244b24a28bc5.png)
  [trans]
 ## Overview
 This strategy uses the wave theory of market cryptographic indicators and combines a variety of technical indicators to achieve automatic buying and selling. It can identify opportunities when a trend starts and enable trend tracking.

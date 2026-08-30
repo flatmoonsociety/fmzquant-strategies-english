@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/10c6bbd681a1d826c79.png)
+![IMG](assets/images/f18294b509e1b17ac205fd93f3456753b500fd9bfce6708c65b1496aef4eafe4.png)
 [trans]
 #### Overview
 This strategy is a trend following system that combines the AlphaTrend indicator and the Kaufman Adaptive Moving Average (KAMA), while integrating risk management functions. This strategy is designed to capture market trends while managing risk through partial take-profit. The core of the strategy is to use the AlphaTrend indicator to identify the overall trend direction, while KAMA is used to generate more precise entry and exit signals. In addition, the strategy also includes a percentage-based partial take-profit mechanism to lock in partial profits when a specific profit target is reached.

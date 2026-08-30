@@ -7,7 +7,7 @@ Contract Hedging_Order Multi-threaded Version
 Reading the sword while drunk
 > Strategy Description
 
-Developed a long time ago, JavaScript can be developed as soon as you learn it, and you don’t like to spit it out. ![](![IMG](https://www.fmz.com/upload/asset/1c0a7b8670d7529f0f63.jpeg))
+Developed a long time ago, JavaScript can be developed as soon as you learn it, and you don’t like to spit it out. ![](![IMG](assets/images/f8e268e46424f9c4be7a2c560da736f64c827e1cdd9802c28921ae21ba8d06d0.jpg))
 Those who are interested can update in the secondary development. WeChat:fzqtdkj
 > Strategy Arguments
 

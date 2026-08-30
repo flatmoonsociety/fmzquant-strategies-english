@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/12e87ec3128611adf7f.png)
+![IMG](assets/images/3acac89d38ffc0136da701ec2d4ff55a7e0e2d894f261511fafcd9f5ea1ee070.png)
 [trans]
 ## Strategy Overview
 Flawless Victory DCA momentum and volatility strategy is a quantitative trading strategy based on the momentum indicator RSI and the volatility indicator Bollinger Bands, combined with DCA (Dollar Cost Averaging, dollar cost averaging). The strategy is designed to capture the market's momentum and volatility while managing risk through stop-loss and take-profit levels.

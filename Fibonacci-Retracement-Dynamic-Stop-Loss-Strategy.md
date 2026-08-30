@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/b263f415fa69916127.png)
+![IMG](assets/images/8d04f6c723f83b7b04fea85992bfd1e9ffe9159ffdfc5c5b6ee4ae9afaeecb33.png)
 [trans]
 ## Overview
 This strategy uses the fiber indicator to automatically set stop loss and take profit prices to implement trailing stop loss limit trading. It can obtain greater profits in trending markets and reduce losses in volatile markets.

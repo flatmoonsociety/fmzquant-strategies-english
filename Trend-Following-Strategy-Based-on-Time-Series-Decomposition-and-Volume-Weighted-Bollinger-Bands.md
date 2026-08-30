@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/12c0c22334818516af8.png)
+![IMG](assets/images/4102db3db5357208e83730f3aca4eec31a50aa6b1a1562482f6afc40e42e7b05.png)
 [trans]
 ## Overview
 This strategy combines four technical indicators: time series decomposition, volume weighted average price, Bollinger Bands and delta (OBV-PVT) to achieve multi-dimensional judgments on price trends, overbought and oversold.

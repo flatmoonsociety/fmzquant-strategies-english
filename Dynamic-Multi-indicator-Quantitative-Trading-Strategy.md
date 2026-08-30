@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1350fb76e951e99defe.png)
+![IMG](assets/images/96a304bf5dbcfb2576db8493ae0176e1bb790c487154d42147d5b557a40a959c.png)
 [trans]
 ## Overview
 This strategy uses the combined signals of multiple technical indicators to achieve dynamic trading of underlying assets such as stocks and digital currencies. The strategy can automatically identify market trends and conduct trend tracking. At the same time, the strategy adds a stop-loss mechanism to control risks.

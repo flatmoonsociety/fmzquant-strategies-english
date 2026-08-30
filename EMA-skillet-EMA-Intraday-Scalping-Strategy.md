@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/19676937f6d8dae99f8.png)
+![IMG](assets/images/ff78212f2d6ac11a8d952dd94fb9da27dfce4d19cfd177cf319d297a695d2225.png)
  [trans]
 ## Summary
 This strategy calculates the exponential moving average on the 9th and 15th day, and identifies the buy and sell signals formed by the EMA golden cross and dead cross, and is used for short-term trading within the day. When the 9EMA crosses the 15EMA, and the last K line is a positive line, a buy signal is generated; when the 9EMA crosses below the 15EMA, and the last K line is a negative line, a sell signal is generated. This strategy also combines the ATR indicator to draw a stop loss line.

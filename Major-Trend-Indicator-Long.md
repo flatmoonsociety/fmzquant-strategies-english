@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/b8483df4023645aa48.png)
+![IMG](assets/images/2400c7fcdf17ef35827a30e50620907e03c76d368ea832f7cfb9bc5de189b128.png)
 [trans]
 ## Overview
 Major Trend Indicator Long (MTIL) is a trading strategy used in various financial instruments, including cryptocurrencies Bitcoin, Ethereum, and traditional stocks such as Apple. It is designed to identify potential bull trends for long-term positioning.

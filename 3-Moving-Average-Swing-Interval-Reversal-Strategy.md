@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/161a13f61dad8bd5698.png)
+![IMG](assets/images/20aa10c99be80ec2f61565b628a2bcc7e1c8906338373bc2322cb7ed82c9792b.png)
 [trans]
 ## Overview
 This strategy uses the 3-day fast moving average, the 10-day slow moving average, and the 16-day signal smoothed moving average to construct the MACD indicator, supplemented by the RSI indicator and trading volume characteristics, and sets multi-dimensional K-line characteristics to determine whether the market has been over-settled and formed a range-bound trend to make profits by reversing Entries.

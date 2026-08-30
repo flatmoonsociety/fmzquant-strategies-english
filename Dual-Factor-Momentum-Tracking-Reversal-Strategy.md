@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/10d584072907d16248d.png)
+![IMG](assets/images/230d8cd64cf749ee6e31470e2b31234a434cc8168b2c2644aa2ea9267e748cb0.png)
  [trans]
 ## Overview
 This strategy comprehensively uses the stock volume and price reversal factor and momentum factor to construct a two-factor model in order to capture the opportunities of short-term market reversal and medium- and long-term persistence. The strategy first uses the 123 pattern to determine the recent price reversal signal, and then combines it with the Laguerre RSI indicator to determine the medium and long-term trend, and finally achieves an effective combination of two-factor signals.

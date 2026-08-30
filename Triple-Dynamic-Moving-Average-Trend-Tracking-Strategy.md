@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/148b79eb6d07576c669.png)
+![IMG](assets/images/6ca8982f08f96c9a744db35fe0d9dca7eb6f8d64a5411fb5e1bb778b4ede436a.png)
 [trans]
 ## Overview
 The dynamic three-moving average trend tracking strategy uses dynamic smoothed moving averages of multiple time periods to identify market trends and achieve trend consistency filtering between different time periods, thereby improving the reliability of trading signals.

@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/ca547c55c87963664e.png)
+![IMG](assets/images/346341c7e8318358dcecb405a0f9be3f9c75be5f4e74094455c5e14b0aca6954.png)
 [trans]
 ### Overview
 Ichimoku Entries is a quantitative strategy that uses the Ichimoku cloud indicator to identify trend directions and combines Bollinger Bands and RSI indicators to send trading signals. This strategy mainly determines whether it is in a long market or a short market based on the golden cross of the ten-turn line and the baseline, thereby generating entry signals for long and short positions.

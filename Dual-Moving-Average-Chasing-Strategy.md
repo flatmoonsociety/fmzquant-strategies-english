@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/170652bf9606d7e20e3.png)
+![IMG](assets/images/ef17f34be575f473fca071c7545e7d2e36ca1f61036a7e5474cbda3703c51d1a.png)
 [trans]
 ## Overview
 This strategy is a tracking strategy based on moving averages. It uses the direction of the moving average and the shadow line of the candle to judge the price trend and strength to determine entries and exits. The core logic is to go long/short when the color of the second moving average changes, and then use the strong signal of the third moving average to add positions, up to 5 orders.

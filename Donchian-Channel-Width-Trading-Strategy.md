@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/11c002c2286519677f4.png)
+![IMG](assets/images/fd0793e4c8ca80fe6b7fb9f8de93ec8495f72978a3290c73aac00430814a5d24.png)
 [trans]
 ## Overview
 The Donchian Channel Width trading strategy is a quantitative trading strategy developed based on the Donchian Channel indicator. This strategy determines the degree of market volatility and risk level by calculating the difference between the highest price and the lowest price within a certain period, which is the width of the Donchian Channel. When the width of the Donchian channel is greater than its smooth moving average, it means that the market volatility has increased and it has entered a high-risk state; when it is less than it, it means that the market volatility has decreased and it has entered a low-risk state. Through such judgment, market trends and operating directions can be clarified.

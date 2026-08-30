@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1dec8d30ab7b99cf6ee.png)
+![IMG](assets/images/c6d1f61ce643117e1291930ae526df826586aaf00ef2b1a3c2d4568470c41a39.png)
 [trans]
 ## Overview
 This strategy designs Entries and Exits signals based on the supertrend channel indicator to achieve automated quantitative trading. The supertrend channel indicator can identify breakthrough points and support and resistance levels to help determine the direction of the trend. This strategy integrates the advantages of this indicator and conducts long and short two-way trading.

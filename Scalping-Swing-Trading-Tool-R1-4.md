@@ -53,7 +53,7 @@ Other than the "SweetSpot Gold2" indicator, you should not need any other indica
 
 **backtest**
 
- ![IMG](https://www.fmz.com/upload/asset/11a7ebca21140501d74.png) 
+ ![IMG](assets/images/ddee94fc620c99a9f7d97bf4b9b8d1b0adab261d2b15bcaa5210647fb9024210.png) 
 
 > Strategy Arguments
 

@@ -16,7 +16,7 @@ A RED triangle ABOVE the bar pointing DOWN indicates that the candle is BEARISH 
 
 **backtest**
 
- ![IMG](https://www.fmz.com/upload/asset/103dadd430525108401.png) 
+ ![IMG](assets/images/35afc89274da3683af5402fb083259bb6ceb266cfe3dfef02179455fc045b4c5.png) 
 
 
 

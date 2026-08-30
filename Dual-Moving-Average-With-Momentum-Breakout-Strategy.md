@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/11b07431125922ce1ec.png)
+![IMG](assets/images/5985968ee695afe4c9646af2c2184836db9df72506d5c44ba80b6ff3d200d0d6.png)
 [trans]
 ## Overview
 This strategy is based on the golden cross of the 12-day exponential moving average (EMA) and the 26-day EMA as entry signals. In order to filter out false breakthroughs, the strategy also introduces the MACD indicator to determine the market trend and the RSI indicator to determine whether it is in the overbought and oversold area. At the same time, the strategy will also determine whether the price breaks through the resistance level to confirm the trend.

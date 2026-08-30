@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/12b8075cd07a74b1683.png)
+![IMG](assets/images/a196e528d62db7d1c7f5de1ecb308ae7abc645a99cc8f6b132783ac1d45f3873.png)
 [trans]
 ### Overview
 The Dual Momentum Index and Reversal Composite Strategy is a composite strategy that combines a reversal strategy and a momentum strategy. It comprehensively uses two sub-strategies, the 123 reversal strategy and the Commodity Selection Index (CSI), to determine the entry opportunity based on dual signals. This strategy is designed to increase the accuracy of trading signals.

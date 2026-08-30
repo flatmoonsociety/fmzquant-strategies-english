@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1b5cb668aa015a95ac2.png)
+![IMG](assets/images/b8f982164bf7fb0a7e3e3ef03fdaedf6289930a9d68a79c582a42b56112303a3.png)
  [trans]
 ## Overview
 The Dual Moving Average Breakout Strategy is a quantitative trading strategy based on fast moving averages and slow moving averages. It uses two exponential moving averages (EMA) with different periods as trading signals. When the fast moving average crosses the slow moving average, a buy signal is generated; when the fast moving average crosses below the slow moving average, a sell signal is generated.

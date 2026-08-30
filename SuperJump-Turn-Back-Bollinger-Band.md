@@ -18,7 +18,7 @@ Usually there are more than two triangles, so you can wait after ordering a bett
 
 **backtest**
 
- ![IMG](https://www.fmz.com/upload/asset/1489631d2f4d125bf8a.png) 
+ ![IMG](assets/images/16210ba76ebe1e6c55216ae269189167bff1fca7bb1aef58ac6147e1b1e908dc.png) 
 
 > Strategy Arguments
 

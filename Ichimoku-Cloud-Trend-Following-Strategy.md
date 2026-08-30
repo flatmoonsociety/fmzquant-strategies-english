@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/cf603d9a4b31ba3f47.png)
+![IMG](assets/images/b5d34ffd9bbf6b6b39573925103e24de56b462a8f53e951d8411f32370ce4344.png)
 [trans]
 ## Overview
 The Ichimoku Cloud Trend Following Strategy is a technical analysis strategy. It uses the five indicator lines of the Ichimoku equilibrium chart to determine the market trend direction, support and resistance levels, and entry timing.

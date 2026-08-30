@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/172eebf5bfdee16735c.png)
+![IMG](assets/images/e968c62e4f8336c15e684caa0bf46aa895887ff195a9cecc51fcc48547d4d05c.png)
  [trans]
 ## Overview
 The Dynamic Support and Resistance Channel Breakout Strategy is a powerful strategy for identifying key support and resistance levels and breakout signals. This strategy visualizes these key levels on the chart, making it easy for traders to spot potential trading opportunities.

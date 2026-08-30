@@ -9,7 +9,7 @@ fmzero
 > Strategy Description
 
 **Test [Quote Center](https://www.fmz.com/strategy/182185) delay**
-![IMG](https://www.fmz.com/upload/asset/3c072bb7197f82f80b68.png)
+![IMG](assets/images/212109bef4635deb9bdee77a0d7b6e912bd3e00dbe3b47d1722082c59a89b499.png)
 
 
 

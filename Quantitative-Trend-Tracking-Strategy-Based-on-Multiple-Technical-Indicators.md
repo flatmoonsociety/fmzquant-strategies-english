@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/13b8b28c632b2cafe88.png)
+![IMG](assets/images/9c57adae76be81245c7d530d1ebd680bca946751579637f2c561b867ae16c43c.png)
  [trans]
 ### Overview
 This strategy combines multiple technical indicators such as Bollinger Bands, Stochastic Oscillator and Relative Strength Index to set buy and sell signals to achieve long-term tracking operations on cryptocurrencies and other assets. The strategy name is set to be “Multi-Factor Cryptocurrency Quantitative Strategy.”

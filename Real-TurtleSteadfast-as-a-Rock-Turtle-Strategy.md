@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/17395aa63e37b6c45b6.png)
+![IMG](assets/images/89a7bc4743a6cad8d19f814ef9aff63761a4f50f83b1e6dc508bf61c88a90c46.png)
 [trans]
 ## Overview
 The Rock Solid Turtle Strategy is a quantitative trading strategy that follows the Brady Turtle Trading Rules. It adopts the method of entry when price breaks and stop-loss tracking to exit, calculates the position size based on the real volatility, and strictly controls single losses. This strategy operates stably in the long term and has strong resistance to decline and retracement, just like a solid rock.

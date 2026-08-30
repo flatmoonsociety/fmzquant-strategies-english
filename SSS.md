@@ -27,7 +27,7 @@ For any notes on the strategy to be edited, or for another strategies ideas plea
 
 **backtest**
 
- ![IMG](https://www.fmz.com/upload/asset/f14d7393482822707c.png) 
+ ![IMG](assets/images/014231ff257ea40bfec6d8119395fded11c52ed8f3dc28ef3863343a99e01ad3.png) 
 
 > Strategy Arguments
 

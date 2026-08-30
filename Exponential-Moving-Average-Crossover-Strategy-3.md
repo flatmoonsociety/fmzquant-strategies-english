@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/181aa8a4d91462210af.png)
+![IMG](assets/images/da5ef2f3f41cbb941648eefeeda8fcef53e0f34b3ea36a2ecbdc98f2471676f7.png)
 [trans]
 Moving average crossovers are a common trading signal. This strategy uses the intersection of the fast moving average and the slow moving average as a trading signal. Specifically, when the fast moving average crosses the slow moving average from below, go long; when the fast moving average crosses the slow moving average from above, go short.
 This strategy uses the 20-day exponential moving average (EMA) as the fast moving average, the 50-day EMA as the medium-speed line, and the 200-day EMA as the slow moving average. Go long when the 20-day EMA and 50-day EMA cross above the 200-day EMA at the same time; go short when the 20-day EMA and the 50-day EMA fall below the 200-day EMA at the same time. This can filter out some false signals.

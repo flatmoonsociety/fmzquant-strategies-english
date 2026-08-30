@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/197c44bc52a0e2761ab.png)
+![IMG](assets/images/2baf500f71a4c4118d209a495506b520178cc0d66d8224d5d2bf4bde1fa72b79.png)
 [trans]
 ## Overview
 The swing breakout trading strategy is a strategy based on a single price action. It triggers buy and sell signals by analyzing changes in price and volume. This strategy can also be used in conjunction with alerts to trigger orders on other exchanges or systems.

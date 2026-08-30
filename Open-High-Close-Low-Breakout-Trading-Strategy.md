@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/182bbfbfa131788ee9f.png)
+![IMG](assets/images/cc444d6881c2c2649c858c22dc2611b68ba1a9b692e3a5eb78e48758e8403300.png)
 [trans]
 ## Overview
 The open high close buy low trading strategy is a trend following trading strategy. This strategy determines the relationship between the opening price and closing price of the K-line, identifies the short-term trend direction of the price, and builds long and short positions when the trend starts, so as to quickly enter the market and track the trend.

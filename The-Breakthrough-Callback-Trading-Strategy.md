@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/ac51030ac10a407833.png)
+![IMG](assets/images/c4f8cc7db892652069575c9dba214d295f2f7380a7f7cb72375e83d71f3c923a.png)
 [trans]
 ## Overview
 The breakout callback trading strategy realizes breakout callback trading under a specific trend by calculating the absolute strength indicator and MACD indicator of price, and is a short-term trading strategy. This strategy combines multiple indicators to judge the general trend, mid-term trend and short-term trend, and conducts trend following transactions by confirming signals with the same trend and complementary indicators.

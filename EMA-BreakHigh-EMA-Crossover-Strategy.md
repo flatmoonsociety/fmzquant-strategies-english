@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1587d81ec67a06232b3.png)
+![IMG](assets/images/71f9c5865a6ac35206d2c59a7291e0d88829b868ac1e44402a15b7ed98660611.png)
 [trans]
 #### Overview
 The Breakout High EMA Crossover Strategy is a trading strategy based on price breakouts and exponential moving average (EMA) crossovers. This strategy uses the highest price within a specified period as a buy signal and the EMA as a sell signal. When the closing price breaks through the highest price in the specified period, the strategy will generate a buy signal; when the closing price falls below the EMA, the strategy will generate a sell signal. This strategy also sets a stop loss price to control risk. In addition, the strategy also provides multiple parameters for users to customize to adapt to different trading styles and market environments.

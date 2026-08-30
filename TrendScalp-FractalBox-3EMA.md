@@ -27,7 +27,7 @@ DISCLAIMER: This indicator has been created for educational reference only and d
 
 **backtest**
 
- ![IMG](https://www.fmz.com/upload/asset/190db5ecaaed28b368d.png) 
+ ![IMG](assets/images/cd11bfe17c5d975a9169103bacc75fcb746cc9a7d00a3935b41121492bf63e03.png) 
 
 > Strategy Arguments
 

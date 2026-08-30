@@ -23,7 +23,7 @@ Use Smoothing – turns on and off smoothing of the price with HMA . With the sm
 
 **backtest**
 
- ![IMG](https://www.fmz.com/upload/asset/174e3fb47f122e56769.png) 
+ ![IMG](assets/images/c07dbd78a7e7fa11c41c91d4ddc7e916e532d4615858ba5e0414bc138d74d41e.png) 
 
 > Strategy Arguments
 

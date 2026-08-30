@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/123731aa43c64119188.png)
+![IMG](assets/images/0cebe520e97fb6147d95df44d612610cded0c2e387cafca3346b7f994b91c363.png)
 [trans]
 ## Overview
 The core idea of ​​this strategy is to buy when the closing price of the stock is higher than the opening price. When the buying conditions are met, the strategy will enter a long position at the closing price when the K-line closes. Then set the stop loss price and take profit price, and the position will be closed when the price touches these two prices.

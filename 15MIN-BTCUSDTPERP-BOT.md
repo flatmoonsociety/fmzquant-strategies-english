@@ -48,7 +48,7 @@ Today, macd just like JMA is neccessary to make a profitable bots.
 Enjoy ;)
 
 **backtest**
- ![IMG](https://www.fmz.com/upload/asset/16ed324d9172131e373.png) 
+ ![IMG](assets/images/296994c3c441c8ef522637d261e197f3e04e5260db8d8a37e0f3bff1d034da21.png) 
 
 > Strategy Arguments
 

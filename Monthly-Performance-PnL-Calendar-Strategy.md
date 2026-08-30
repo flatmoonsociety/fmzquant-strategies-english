@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1129a28cb6e7ab90f50.png)
+![IMG](assets/images/bb1ad883f1f80adc4ea3b7db7495eb61b070984b7e984e50612586a8a321539a.png)
 [trans]
 ## Overview
 The main function of this strategy is to track and display monthly performance in real time. It will update the specific monthly profit and loss in a table in real time.

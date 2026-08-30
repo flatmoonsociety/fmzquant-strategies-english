@@ -34,7 +34,7 @@ Thanks @LucF and @a.tesla2018 for helping me with code fixes :)
 
 **backtest**
 
- ![IMG](https://www.fmz.com/upload/asset/c1704916f81332fd29.png) 
+ ![IMG](assets/images/9ad16b78dfcafaa450f70584caf0f2efbbb7483b737d60deafa31cdd91ff2ccd.png) 
 
 > Strategy Arguments
 

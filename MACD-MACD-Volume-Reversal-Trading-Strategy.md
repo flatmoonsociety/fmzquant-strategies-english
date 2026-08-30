@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/12b70ce0eeaa2f19093.png)
+![IMG](assets/images/74e49fb9968662f4bfb41453a2b435005caf3b7d7eefc4f00efa0b0f234eda52.png)
 [trans]
 ## Overview
 The MACD Volume Reversal trading strategy is a strategy that uses a combination of the Moving Average Convergence Divergence (MACD) indicator and trading volume data to identify potential reversal points or continuation points in stock prices. The name of this strategy reflects its essence of using a combination of MACD and volume energy to detect reversal patterns. It can help traders improve their profit opportunities while using trading volume to filter out false signals.

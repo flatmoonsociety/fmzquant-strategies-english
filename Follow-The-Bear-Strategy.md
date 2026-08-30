@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/16ed7571374388d206f.png)
+![IMG](assets/images/56506dc2a7a13a8775e05772600e7aa311ef848c51f3b09cf2b80956233f0cc3.png)
 [trans]
 ## Overview
 The Trailing Bear Strategy is a Forex trading strategy designed to capture the typical behavioral pattern of EUR/USD at the opening of European markets. This strategy takes advantage of the fact that euro bulls are trapped during the European market opening and are forced to close their positions to establish short positions. Specifically, after discovering that a reversal pattern candle (shooting star or hammer) appears on the 1-hour K-line of EUR/USD, this strategy will examine indicators such as RSI to filter the signal. Once it is confirmed that the conditions are met, it will decisively go short, with the stop loss level set above the high point of the reversal candle, and the target profit set based on the acceptable risk-return rate.

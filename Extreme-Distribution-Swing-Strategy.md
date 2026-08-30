@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/bb0f4082e65255cb84.png)
+![IMG](assets/images/4eef90c055526eeb8760787a7c8ce19140a6d9f31ba8eff81c3abaeb8e1dbea9.png)
 [trans]
 
 This strategy aims to use extreme distributions to detect extreme values ​​of the Chande Momentum Oscillator and trade on the 1-minute time frame of Bitcoin and cryptocurrencies. But the parameters can be adjusted to apply to any trading pair.

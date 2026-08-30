@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/13b6a5ad7c9a9c699a9.png)
+![IMG](assets/images/b110dd1d9320a9be452d27f1f9a37e027f14f2a24c43c8500ce2d694bf1d0260.png)
 [trans]
 #### Overview
 This strategy combines two technical indicators, the Relative Strength Index (RSI) and the Linear Regression Channel (LRC), to capture overbought and oversold opportunities in the market. When the price touches the lower track of the linear regression channel and the RSI indicator is below 30, the strategy will issue a buy signal; when the price touches the upper track of the linear regression channel and the RSI indicator is above 70, the strategy will issue a sell signal. This method of combining RSI and LRC can effectively identify potential trading opportunities while reducing the possibility of false signals.

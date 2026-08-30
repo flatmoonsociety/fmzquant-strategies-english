@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/c21d7a4492972c1c7d.png)
+![IMG](assets/images/05828cbeab733134e8f2160bba5d5caaf5586f5f69806dbb4f8a70ea3b40ca8c.png)
 [trans]
 ## Overview
 This strategy combines the 123 reversal strategy and the CMO moving average strategy to form a combination of buy and sell signals. The 123 reversal strategy uses the closing price of the stock for two consecutive days to form a new high or low, and combines the stochastic indicator to determine the market buying and selling intensity to generate trading signals. The CMO moving average strategy uses the CMO indicator to determine price momentum and generate trading signals. Combining the signals of the two strategies can form a more reliable combination signal.

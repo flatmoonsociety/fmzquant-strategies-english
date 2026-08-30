@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/127a9af0d2fb1389c56.png)
+![IMG](assets/images/09207e16f8d0b151b4e34ca991cb0293ce762a4bcf05b2577a440bf1c84305b9.png)
 [trans]
 
 This strategy uses a two-way tracking mechanism, combined with price reversal signals and trading volume indicators, to achieve automated quantitative trading. Its biggest advantage lies in reliable risk control, which locks in profits through trailing stop loss and avoids expansion of losses. At the same time, reversal trading signals enhance the winning rate of the strategy. This article will analyze in detail the principles, advantages, risks and optimization directions of this strategy.

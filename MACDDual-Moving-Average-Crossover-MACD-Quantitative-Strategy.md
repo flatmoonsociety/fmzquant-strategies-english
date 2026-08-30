@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1b492b19e40d435e6fa.png)
+![IMG](assets/images/2d8f01a898dbd9e30364dc7de77e3cccca0d7eff610e9655fbd75395a284f282.png)
 [trans]
 ## Overview
 This strategy forms the MACD indicator by calculating the difference between the fast moving average and the slow moving average, and then combines it with the signal line to determine the trend of the financial market and the overbought and oversold areas. It goes long when the MACD and the signal line form a long cross and the price is higher than the 200-day moving average, and goes short when a short cross is formed and the price is lower than the 200-day moving average. It is a typical double cross moving average breakthrough strategy.

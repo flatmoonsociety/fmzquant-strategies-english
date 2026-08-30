@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/13310a1cd3d81105cfb.png)
+![IMG](assets/images/be17a9bee7a70131169f2f10d2d528fbd05bf7ea62f5cab2bc16926a5b3b5172.png)
 [trans]
 ### Overview
 This strategy combines two technical indicators, the William Double Exponential Moving Average and the Ichimoku Balance Chart, to leverage their respective advantages and improve the accuracy of trading decisions. Among them, the William Double Exponential Moving Average can fully reflect the price change trend, and the Ichimoku Balance Chart can judge trend reversal in advance.

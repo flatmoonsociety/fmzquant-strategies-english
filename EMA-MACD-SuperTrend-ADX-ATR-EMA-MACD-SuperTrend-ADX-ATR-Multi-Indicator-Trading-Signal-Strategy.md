@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/19fb19950ef210113c6.png)
+![IMG](assets/images/6960fac647acf58ac015b8c577a607962b1c9a71fea25fdcb6bf38680b5b0177.png)
 [trans]
 #### Overview
 This strategy comprehensively uses multiple technical indicators, including exponential moving average (EMA), moving average convergence divergence indicator (MACD), SuperTrend, average direction index (ADX) and average true range (ATR), through the combination of these indicators to determine market trends, volatility and trading signals, in order to obtain good returns in cryptocurrency trading. This strategy takes advantage of different indicators and strives to achieve a balance in trend judgment, shock judgment and risk control, thereby providing traders with reliable trading signals.

@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/15f98682e9ad037ec9f.png)
+![IMG](assets/images/891d94120c63011d4f1e095f3737e50ab5af6e3f8d09bdbfd480e2e374291834.png)
 [trans]
 ## Overview
 This strategy uses two-way adaptive Bollinger Bands indicators to identify the trend direction, and combines market orders with trailing stops to achieve efficient trend-following transactions.

@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/209e374f223308fa9fe.png)
+![IMG](assets/images/8b16425b47b0f07474d093f0954783b323fbd044eb92a2db1ba34c066932e245.png)
 [trans]
 ### Overview
 Dual EMA Crossover Strategy is a quantitative trading strategy based on the intersection of two EMA moving averages of different periods to open and close positions. This strategy is simple, effective and easy to understand, and is a commonly used strategy in quantitative trading.

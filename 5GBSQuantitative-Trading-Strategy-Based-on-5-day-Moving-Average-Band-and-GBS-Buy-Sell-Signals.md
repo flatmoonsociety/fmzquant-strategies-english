@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/eb06f8047df5cdcebd.png)
+![IMG](assets/images/19f67c444e38ec4c9c8e6a49ad31863fd453325ea709b1a11f7d4dc0a0066194.png)
 [trans]
 ### Overview
 This strategy uses a combination of 5-day moving average bands and GBS buy and sell points to identify trend direction and generate trading signals. The moving average band is used to determine the trend direction and large-level support and resistance, and the GBS buying and selling points are used to find accurate entry opportunities when the trend direction cooperates. This strategy is suitable for short- and medium-term trend trading and can achieve excess returns in volatile market conditions.

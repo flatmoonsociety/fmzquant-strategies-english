@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1dedccf5d2b3457bfda.png)
+![IMG](assets/images/d7bb2e83b0b52c7a56118ddd54c415d4625573692957ed62e695ae15ada15546.png)
  [trans]
 ## Overview
 This strategy is based on the classic MACD indicator, and combines various auxiliary judgments such as trend judgment indicators, stop loss methods, and take profit methods to form a relatively complete trend following trading strategy. It can be used for both digital currencies and foreign exchange and stock trading.

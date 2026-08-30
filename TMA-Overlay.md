@@ -13,7 +13,7 @@ This indicator help identify momentum by offering a visual representation of eng
 
 **backtest**
 
- ![IMG](https://www.fmz.com/upload/asset/9f32a7e78810b1cc45.jpg) 
+ ![IMG](assets/images/dd6eb14175a10b0b5c42260890df979ccd3aead96567a4facaf50b4d112e3410.jpg) 
 
 > Strategy Arguments
 

@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/117017a279c9aa6d9ee.png)
+![IMG](assets/images/67f290b0a350833ab60a30e0010e10d7e2cf1d0468fe9d7cd9837bfc346ccc20.png)
 [trans]
 ## Overview
 The historical trend mutation strategy uses eddy current indicators to identify market trend reversal points and combines them with exponential moving averages to generate trading signals, aiming to capture favor markets. This strategy cleverly combines the advantages of eddy current indicators and moving averages to effectively judge market trends and provide trading guidance.

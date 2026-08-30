@@ -16,7 +16,7 @@ Position enter is the breakout of SR, defined by fractals.
 Position exit is: bar change in opposite to position direction > difference is sma of highs and of lows.
 
 **backtest**
- ![IMG](https://www.fmz.com/upload/asset/e46dc598125cff334f.png) 
+ ![IMG](assets/images/e42504616a370133181a7dd4eed1292a7c192034ad45ba902de6648a33fd35ce.png) 
 
 > Strategy Arguments
 

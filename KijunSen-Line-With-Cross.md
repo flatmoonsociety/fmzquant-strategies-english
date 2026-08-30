@@ -16,7 +16,7 @@ Many traders in the financial markets use Ichimoku components to detect trends, 
 
 **backtest**
 
- ![IMG](https://www.fmz.com/upload/asset/159637efb31d4192cce.png) 
+ ![IMG](assets/images/42b1c4a7ffbd0a4b12433fe3df3c745062fcd96dd1e4f2a63271d92f40680847.png) 
 
 > Strategy Arguments
 

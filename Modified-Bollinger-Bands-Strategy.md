@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/196d6ba10c9f6c74298.png)
+![IMG](assets/images/5f22018647bde527feb24a3607d382aea51f086774dc0e2f06241e203fc06670.png)
 [trans]
 #### Overview
 Modified Bollinger Bands Strategy is a technical analysis trading strategy designed to capture pullback buying opportunities in strong uptrends. This strategy combines Bollinger Bands, Moving Averages, and Stochastic RSI indicators to determine the best time to buy. The strategy will issue a buy signal when the price retraces to the lower Bollinger Bands in an uptrend and the Stochastic RSI indicator indicates oversold. The strategy will close the position when the price breaks above the upper Bollinger Band.

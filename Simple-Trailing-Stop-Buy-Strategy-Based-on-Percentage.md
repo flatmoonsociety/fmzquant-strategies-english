@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/12868ce7bcb9d7da998.png)
+![IMG](assets/images/3d0d5c5c9cc6895d5bc281c8caab604a33daa1d1dd87ee9d463e834dabef91b8.png)
  [trans]
 ## Overview
 This strategy implements a simple percentage-based trailing stop and trailing buy combination. Optimization of the strategy parameters can be achieved by experimenting with different percentage combinations on different time frames and on different charts.

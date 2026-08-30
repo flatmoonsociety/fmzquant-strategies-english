@@ -37,7 +37,7 @@ These 3 indicators are used for all types of assets: FOREX, CRYPT, CFD's, ETC.
 **backtest**
 
 
- ![IMG](https://www.fmz.com/upload/asset/122a49ccf6f2d1c3856.png) 
+ ![IMG](assets/images/1775ecacc6c55a91431f9999b8ff607a16e7f5511b566348ef97bba838d2aa82.png) 
 
 > Strategy Arguments
 

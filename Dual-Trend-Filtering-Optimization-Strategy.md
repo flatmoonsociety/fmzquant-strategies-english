@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1e1d7482bf8258a29e2.png)
+![IMG](assets/images/93174b2703eef8b9989985cbf485c414a5a75d378eb94939ebf7269979c69d90.png)
 [trans]
 ## Overview
 This strategy uses the double filtering of the average line and the multiple confirmation mechanism of the 추세 direction to design a relatively stable tracking system. Mainly consists of three parts:

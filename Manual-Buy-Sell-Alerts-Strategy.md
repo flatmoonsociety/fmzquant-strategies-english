@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/12a66b2a151b370f89c.png)
+![IMG](assets/images/b300da129d8390242ca35c1e195a27dc3cbc383db2a9b833a099f14135a8254f.png)
 [trans]
 This strategy is a manual buying and selling alert tool that can set parameters such as buying price and selling price. When the price triggers conditions, a buying or selling alert will be issued.
 ### Strategy Overview

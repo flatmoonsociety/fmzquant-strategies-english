@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/d8456dc38ce29ce26b.png)
+![IMG](assets/images/1dffa2ea9f0f565fac3bc70490adaf901808f91e2fbbdcf7781a7bccaf31dec7.png)
 [trans]
 ## Overview
 This strategy determines the long-term and short-term trends of the stock price by calculating the EMA moving average of two different periods; at the same time, combined with the upper and lower Bollinger Bands, it determines whether the stock price is in an overbought or oversold state, which serves as a signal for entry and exit. It comprehensively uses a variety of technical indicators such as moving averages and Bollinger Bands to determine the market's reversal point, which is a typical trend following and reversal trading strategy.

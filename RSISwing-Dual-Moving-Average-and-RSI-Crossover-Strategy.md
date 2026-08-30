@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/17075ed24b72b396dd3.png)
+![IMG](assets/images/16378f63ce5306120f6fff04325aab9a0e3484f18ff377fd21e7fe8428419db3.png)
 [trans]
 
 This strategy comprehensively uses double moving averages and RSI indicators to construct a long-short crossover trading strategy. This strategy can capture medium and long-term trends while using short-term indicators to avoid unnecessary shocks.

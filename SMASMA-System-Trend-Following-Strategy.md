@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/e8bdb47e0d75714703.png)
+![IMG](assets/images/ef63b1988c16d0a47c04d2106e709501762b46f65bd62975da63657a81ee469f.png)
 [trans]
 ## Overview
 The name of this strategy is "Trend following strategy based on SMA moving average system". Its main idea is to use SMA moving averages of different parameter lengths to construct trading signals, enter the market at the breakthrough point, and combine with the stop loss mechanism to control risks.

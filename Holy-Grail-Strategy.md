@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/d37574303a15711b36.png)
+![IMG](assets/images/39bd6d2a5202fadccaf5b223f85e62d6e78ca3046313de1bd148d718028e5db0.png)
 [trans]
 
 Holy Grail Strategy is a quantitative trading strategy that combines the dual moving average system and the ADX indicator. It is designed to identify the direction and strength of trends and to trade when trends turn.

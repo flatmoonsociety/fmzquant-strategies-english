@@ -9,7 +9,7 @@ ChaoZhang
 
 > Strategy Description
 
- ![IMG](https://www.fmz.com/upload/asset/19689a930d8082aa3e5.png) 
+ ![IMG](assets/images/3d158c3ad96d0122667854aef8e2f7f5430a9ef559edd23a44dfa134ef2610d7.png) 
 The Squeeze Momentum on Reversal Strategy is a technical trading strategy that uses the Bollinger Bands (BB) and Keltner Channel (KC) indicators to identify potential reversals in the market. The strategy is based on the idea that when the BB and KC bands are squeezed together, it indicates that the market is in a period of consolidation. This can be a sign that a reversal is imminent.
 
 The strategy works by first calculating the BB and KC bands for the specified length. The default length is 20 bars. The BB bands are then multiplied by the specified multiplier, which is 2.0 by default. The KC bands are then multiplied by the specified multiplier, which is 1.5 by default.

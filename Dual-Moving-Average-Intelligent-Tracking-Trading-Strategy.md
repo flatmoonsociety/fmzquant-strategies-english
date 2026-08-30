@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/16cd6e895ad50f0be6e.png)
+![IMG](assets/images/6992bfb479781fe78019a77c59253b90205b2b21ec59f87a2a8d1e8a5c416126.png)
 [trans]
 ## Overview
 The dual moving average intelligent tracking trading strategy is a trend following strategy based on moving averages and specific indicators. This strategy uses two moving averages with different parameter settings to build a channel, and combines the OTT indicator to set the upper and lower limits of the channel to achieve intelligent tracking of price trends. When the price breaks out of the channel, buy or sell.

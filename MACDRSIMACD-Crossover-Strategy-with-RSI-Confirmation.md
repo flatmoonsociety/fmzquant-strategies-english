@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/121f5912c74e6ad1804.png)
+![IMG](assets/images/7f35e6cef9b13caf6f7bd5a2cba95cb29afe637b871641076da5e7c903730b43.png)
 [trans]
 ## Overview
 This strategy combines the Moving Average Convergence Index (MACD) with the Relative Strength Index (RSI). It checks whether the RSI is above 50 when the MACD crosses to confirm a buy signal, and checks whether the RSI is below 50 when the MACD crosses to confirm a sell signal. This can filter out some false signals and improve the stability of the strategy.

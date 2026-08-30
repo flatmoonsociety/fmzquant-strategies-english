@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1768cebdd183dccd1c2.png)
+![IMG](assets/images/5cad7d675c0d5e9546e2599eb5fc52118f577b04e90602be68b354e5b5ca21f9.png)
 [trans]
 ### Overview
 This strategy calculates the intersection of the 30-day simple moving average (MA30) and the 200-day simple moving average (MA200) of XAUUSD (gold) to achieve quantitative transactions of golden cross buying and dead cross selling. This strategy sets both stop-loss and take-profit prices and can automatically close positions.

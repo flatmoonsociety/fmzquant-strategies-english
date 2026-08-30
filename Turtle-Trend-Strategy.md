@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1b1e61b2431b0d19ca3.png)
+![IMG](assets/images/a724518a73aad0918254a9b7c5f3c2a2d96d49829373ba74c681cc18cd5cd32d.png)
 [trans]
 ### Overview
 The turtle trading strategy is an improved and optimized trend following strategy based on the famous turtle trading strategy. This strategy uses trading signals formed by double moving averages to achieve low-risk trend following trading. Its standardized entry and exit rules can effectively control transaction risks and achieve stable capital growth.

@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1838a44c7a016528ad1.png)
+![IMG](assets/images/c0cb8e68b92884ca7c6a151a826a308aabdafd3fbc63bdc8dd1d6efd8ef857ec.png)
  [trans]
 ### Overview
 This strategy is based on the line called Lagging Span 2 of the Ichimoku cloud indicator. Based on the movement of this line, the trend direction is judged and the position is established. When the price breaks through the Lagging Span 2 line, it is judged as a trend turning point, and a new position can be established at this time.

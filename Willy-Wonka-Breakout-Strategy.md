@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/160ecc50260cd21b44c.png)
+![IMG](assets/images/ca97434068027a9876a197faa79a3bcee603d93d7907a147694155f606929c84.png)
 [trans]
 ## Overview
 The Willy Wonka Breakout Strategy is a breakout trading strategy that integrates the analysis of multiple technical indicators, mainly using RSI, Stochastics, EMA and price patterns to identify buying and selling opportunities.

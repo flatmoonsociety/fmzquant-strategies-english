@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1a2ea5f39e01bad7690.png)
+![IMG](assets/images/64e4a86f48e12bf5af3a84205e35c89efa0ecf56c732456730f3e096de23b95e.png)
 [trans]
 ## Overview
 This strategy is a trend following strategy based on the Bollinger Bands indicator. It uses the upper and lower rails of Bollinger Bands to determine the trend direction and implement trend tracking. Go long when the price breaks through the upper track of the Bollinger Bands, go short when the price falls below the lower track of the Bollinger Bands, and set the stop loss position at the middle track of the Bollinger Bands.

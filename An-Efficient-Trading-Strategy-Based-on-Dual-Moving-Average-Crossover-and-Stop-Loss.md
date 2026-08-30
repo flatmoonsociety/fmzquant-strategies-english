@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/18f6c3a67e6ba88b7fb.png)
+![IMG](assets/images/9b25546c60077ba0a5d70a7488d84e437cb38126a718f0a472d6e57ccd364ad5.png)
 [trans]
 ## Overview
 EfficiVision Trader is an efficient trading strategy based on double moving average crossover and stop loss strategy. This strategy uses two moving averages (MA) of different periods to determine the market trend, and determines the entry direction based on the intersection of the moving averages. At the same time, this strategy adopts a stop-loss mechanism to control risks by setting a stop-loss price.

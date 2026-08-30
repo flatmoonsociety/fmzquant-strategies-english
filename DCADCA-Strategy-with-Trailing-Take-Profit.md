@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/13aa367f64e0285816f.png)
+![IMG](assets/images/6ec6cd35af9a3ebda23b7657a59bf996e0733c9f9024bd4e440192b69c2aa7b3.png)
 [trans]
 #### Overview
 The strategy combines Dollar Cost Averaging (DCA) with the Trailing Take Profit feature on the exchange platform. It sets a 1% price deviation for purchases and targets a 0.5% profit on each sale. The rationale for this small profit is to ensure that the trading robot runs smoothly and avoid the risk of getting stuck during slow market periods. According to the backtest results, the robot has proven to be adaptable enough to market fluctuations and manipulations. Although the Annual Percentage Rate (APR) may not be particularly high, it provides a satisfactory and safe long-term investment option that is often better than the traditional buy and hold (HODL) strategy.

@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/178ac5727b39a77ada4.png)
+![IMG](assets/images/0dcdb91315db859d433b68f7a2ee80e4a585fc4bd3752cde8e9ab03073cca5c4.png)
 [trans]
 ### Overview
 The Candle Wrap RSI trading strategy is a strategy that attempts to generate trading signals using a combination of candle pattern analysis and the Relative Strength Index (RSI) indicator. It detects the two extreme levels of the RSI indicator, as well as the long and short candle wrapping patterns, and generates trading signals.

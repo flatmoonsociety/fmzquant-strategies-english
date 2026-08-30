@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1abe7e415f7d5666c9c.png)
+![IMG](assets/images/f34cb94fbf11bbe9d9cea73737f2829b24442817b6baab026de687380aeb29b1.png)
 [trans]
 ## Overview
 This article introduces a momentum reversal tracking strategy based on the Parabolic SAR indicator. This strategy utilizes the Parabolic SAR indicator to identify potential trend reversals in the Nifty futures market, enabling automated trend following trading.

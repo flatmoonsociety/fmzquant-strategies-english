@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/13de7c679d2a76f9e2e.png)
+![IMG](assets/images/c5152e656d7e238331aafc7aec3d67d5a20bdd38146bc51230a8266e97e5261b.png)
 [trans]
 #### Overview
 The Starlight Moving Average Crossover Strategy is a quantitative trading strategy based on moving averages and MACD indicators. This strategy uses the cross signal of two simple moving averages (SMA) of different periods to determine the timing of buying and selling, and is supplemented by the MACD indicator to assist in judging trends and momentum. When the short-term moving average breaks above the long-term moving average, a buy signal is generated; conversely, when the short-term moving average breaks below the long-term moving average, a sell signal is generated. This strategy attempts to capture the mid- to long-term trends of the market while using the MACD indicator to confirm the strength and sustainability of the trend.

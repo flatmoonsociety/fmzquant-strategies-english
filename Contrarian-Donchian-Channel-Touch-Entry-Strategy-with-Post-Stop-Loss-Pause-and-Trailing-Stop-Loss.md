@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1eaeeebf7685728b0d4.png)
+![IMG](assets/images/f124719e04b0ef66684d26ffad98a041547da9c316694f31d51bc5955bfd6c37.png)
  [trans]
 ## Overview
 The reverse Tang Xiao channel pressure trading strategy is a quantitative trading strategy based on the Tang Xiao channel indicator. This strategy combines stop-loss and trailing stops for risk management.

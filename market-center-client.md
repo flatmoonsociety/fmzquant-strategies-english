@@ -14,8 +14,8 @@ This [client](https://github.com/goex-top/market_center_client_fmz) is used with
 There are REST and Websocket for accessing the market. However, due to various irresistible factors, the connection of Websocket is forcibly disconnected. At this time, the strategy needs to prepare various fault-tolerant mechanisms. REST is often the most stable way.
 When you have multiple strategies running on the same platform, such as OKEx, and these multiple strategies are on the same server, there are frequency restrictions on access to the REST API (please refer to the individual platform API documentation for details). There are many ways to restrict, such as IP restrictions, account restrictions, or a combination of the two.
 Using the market center can reduce the frequency of REST requests
-![Traditional way](https://raw.githubusercontent.com/goex-top/market_center/master/trandition.png)
-![Quote Center](https://raw.githubusercontent.com/goex-top/market_center/master/market_center.png)
+![Traditional way](assets/images/f65b569922afc1e17ae1a9e87015cf5450461e7c4512395ec999fe8fd39703bd.png)
+![Quote Center](assets/images/4f37146fcd5b40a0f066e621eb9c649ac629cc42fe64984fc245f973aa484411.png)
 ## Market Center Deployment
 1. [Source code](https://github.com/goex-top/market_center) compile and deploy
 2. [Binary deployment](https://github.com/goex-top/market_center/releases)

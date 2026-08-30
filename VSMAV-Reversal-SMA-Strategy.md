@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/bd64708e4561311f31.png)
+![IMG](assets/images/24111ab34412f504ca4efdb2ca0bf411f9769acdcd4f3f5c9be99fb529fc381d.png)
 [trans]
 ## Overview
 Based on the V-shaped reversal indicator, the SMA strategy calculates the absolute difference between the 14-day highest price of the stock price and the previous day's lowest price and the absolute difference between the 14-day lowest price and the previous day's highest price, and then calculates its 14-day simple moving average respectively to form VI+ and VI- curves. When VI+ crosses VI-, it is a bullish signal. When VI- crosses VI+, it is a short signal.

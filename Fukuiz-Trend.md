@@ -25,7 +25,7 @@ Crossunder = Bearish trend (red zone)
 
 **backtesting**
 
- ![IMG](https://www.fmz.com/upload/asset/11cc3389245551b4231.png) 
+ ![IMG](assets/images/0f2cdebbf30afef4b85b28f5e7dc4d3c8a764c8034d234117d210d5ae57a2040.png) 
 
 
 

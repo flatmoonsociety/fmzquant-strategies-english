@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/6d32d2638892606913.png)
+![IMG](assets/images/bd105576eebf2d36ce614d85b749e91c28636894f1f925bcaf5dfd3ccdd196a7.png)
 [trans]
 ## Overview
 This strategy is a cryptocurrency trading strategy based on a combination of MACD indicator and stochastic indicator. It generates trading signals by calculating the MACD indicator of Bitcoin price and applying the stochastic indicator to it to capture trend changes in the cryptocurrency market.

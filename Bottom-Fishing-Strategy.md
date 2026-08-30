@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/10b6780cb1b83528b7c.png)
+![IMG](assets/images/ea25bb3baa0b5497652838321d9eb01dbb4a102aaef03d9a53cb47bd50b5c420.png)
 [trans]
 ## Overview
 The bottom-covering strategy is a typical buy-low-sell-high strategy. It uses the RSI indicator to identify oversold points, issues a buy signal after the price drops to a certain level, and Accumulate tokens at a lower price; when the price rises again, profit taking is achieved by setting an RSI exit threshold. This strategy is suitable for medium and long-term holdings, and can effectively filter out false breakthroughs in volatile market conditions and optimize the cost of holding currency.

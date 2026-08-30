@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/11dc0c6fec3849d0e35.png)
+![IMG](assets/images/4c0f3ca643e62cc0f3afb6a9f18698f53d205194b1282c4a3d2df853e2d78a19.png)
  [trans]
 ### Overview
 This strategy combines three technical indicators, the Super Trend Indicator, the Moving Average Convergence Indicator and the Volume Weighted Average Price, to identify potential entry and exit points by confirming the direction of the trend and considering the proximity of price to the Volume Weighted Average Price. The strategy also incorporates stop-loss and take-profit mechanisms as well as trailing stops to lock in profits.

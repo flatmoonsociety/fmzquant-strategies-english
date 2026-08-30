@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/12a17e4dff25e3058eb.png)
+![IMG](assets/images/ea10f94501243d3f92ebcc3fa4770c2decb28c5fd9a2b14493c33ec9a2d9059b.png)
 [trans]
 #### Overview
 This strategy is an intelligent trading system based on MACD (Moving Average Convergence Divergence Index) crossover signals. It generates buy and sell signals by analyzing the intersection of the MACD line and the signal line, and displays them visually on the chart. The system integrates a real-time reminder function to promptly notify traders of potential trading opportunities.

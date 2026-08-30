@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/170dc3c75c659180f6c.png)
+![IMG](assets/images/304f186bac0945329aa3750a5ff20ac1bdc0271f9fb96258e57e64b8ef843d67.png)
 [trans]
 ### Overview
 The Super ATR trend following strategy is a trend following strategy based on the ATR indicator. It uses the ATR indicator to measure market volatility, and uses multiples of ATR as stop loss lines to achieve trend tracking.

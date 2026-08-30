@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/8f51bd3a61fa03de16.png)
+![IMG](assets/images/b41324914c0e7bfefa9f208116c50c2ffd98fea0a098f5564fdc53927340a687.png)
 [trans]
 ## Overview
 Jia Yibing's quantitative trend momentum trading strategy is a long and short quantitative trading strategy that combines trend tracking, momentum indicators and Bollinger Bands channels. This strategy uses the intersection of fast and slow moving averages to determine the direction of the trend, while combining Bollinger Bands channels and momentum indicators to confirm entry signals. This strategy also has risk control measures such as stop-profit and stop-loss, trailing stop-profit and stop-loss, and position management.

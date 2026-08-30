@@ -16,7 +16,7 @@ Argus (Argus Ἄργος) a hundred-eyed giant in Greek mythology
 This system is a project of Quanke Online, a subsidiary of the inventor. After five years of research and development, the entire network monitors price fluctuations and related information in futures, stocks, options, commodities, foreign exchange, etc.
 Using the most cutting-edge artificial intelligence neural network, trained hundreds of millions of times
 It can predict effective stock order quotations, predict financial asset price changes, predict S&P 500 index volatility, optimize investment portfolios, and predict price fluctuations based on news headlines.
- ![IMG](https://www.fmz.com/upload/asset/18bc0cc19ceb00d6bc9.png) 
+ ![IMG](assets/images/43c91abf6cf6962e5d67136a1d1325c8ebd6008b84566073e76b242c3fc7dd3e.png) 
 
 > Landing
 Although the bullshit is fine, embarrassing facts prove that it is better to counter-invert with Argos, which uses AI technology. If it predicts a rise, we will sell, and if it predicts a fall, we will buy.
@@ -24,7 +24,7 @@ If others are crazy, I will be afraid. If others are afraid, I will be crazy, be
 > Strategy
 With the help of the powerful syntax support of the inventor platform, in order to display the most intuitive effect, the enhanced version of My language is selected. The data source returns a decimal from 0 to 1 to describe the probability of increase. If the user needs to obtain data on other varieties, just modify the variety name in the strategy code URL.
 > Effect
- ![IMG](https://www.fmz.com/upload/asset/2440e3472cba14cd778.png) 
+ ![IMG](assets/images/0e23627ecbfd523955cdacd476ccdb61e3a6d313cfa5a20c383aacbe6aafa50a.png) 
  
 >Finally
 If you want to define your own third-party data source, refer to API https://www.fmz.com/api#exchange.getdata

@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/ca5f2415971c812143.png)
+![IMG](assets/images/f4f21605eea35bc420f9a7e5bf8faea8272ae7fbc5af28dc4490e75fee47b774.png)
  [trans]
 ### Overview
 This strategy is a moving average crossover strategy based on Renko candlesticks. It uses the TEMA indicator to construct crossover signals, combined with long-term moving averages for filtering, and is designed to identify trends on Renko candlesticks and issue buy and sell signals.

@@ -8,8 +8,8 @@ ianzeng123
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/2d90fbf9d45976211349a.png)
-![IMG](https://www.fmz.com/upload/asset/2d8fb7fd8e1c8b5e142c6.png)
+![IMG](assets/images/2e36ff86a295e828210815bb39ccdb2122451e4ada6b5e7caeeecbac101476af.png)
+![IMG](assets/images/852921ee9be4eb8b445e52c84c29bc39224eb14202977050a38391e736efb6b6.png)
 
 
 [trans]

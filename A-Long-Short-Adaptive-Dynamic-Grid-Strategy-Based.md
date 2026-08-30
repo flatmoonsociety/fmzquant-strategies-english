@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1afaee80af5b498eed9.png)
+![IMG](assets/images/fae844b19d036faeb58781a76db2c1b661d4a87768242b64f0b9e2b41b2f035e.png)
 [trans]
 ## Overview
 This is a long-short adaptive dynamic grid trading strategy written based on Pine Script. The core idea of ​​this strategy is to automatically calculate the upper and lower bounds of a grid based on recent price highs and lows or a simple moving average, and then divide the range into multiple grid lines. When the price touches a certain grid line, a long position will be opened or closed at that position. In this way, the strategy can continuously open and close positions in volatile market conditions and obtain spread profits. At the same time, by dynamically adjusting the grid boundaries, it can also adapt to different market trends.

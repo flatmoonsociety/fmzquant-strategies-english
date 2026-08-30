@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/178f816ec574dacad58.png)
+![IMG](assets/images/34bf99a443bcd99ea8d952d00bb3fc28d4bb224b64d8943f8bb32cfa2b537fbf.png)
 [trans]
 ## Overview
 The name of this strategy is "Quantitative Trading Momentum Directional Convergence Strategy", which is a quantitative trading strategy designed based on the technical indicators described by William Blau in his book "Momentum, Direction and Divergence". This strategy focuses on the three key aspects of momentum, direction and convergence. By calculating the momentum indicator of the stock price, it determines the direction of the market trend and looks for the divergence between the price and the indicator to obtain trading opportunities.

@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/e7b4a6654ecf776f0b.png)
+![IMG](assets/images/4bb3356611fc9613c547bfc3e1fd36aab08729597b7ab0639ff9bca3c222292b.png)
 [trans]
 ### Overview
 The dynamic amplitude capture RSI-Bollinger Bands strategy is a trading strategy that integrates the concepts of Bollinger Bands (BB), Relative Strength Index (RSI) and Simple Moving Average (SMA). What is unique about this strategy is that it calculates a dynamic level between the upper and lower bands based on closing prices. This unique feature allows the strategy to adapt to market volatility and price changes.

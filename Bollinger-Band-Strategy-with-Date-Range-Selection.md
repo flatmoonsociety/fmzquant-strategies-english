@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1364909e8d194dc20c5.png)
+![IMG](assets/images/4f85a3c5229b4ee9940d50c1880c891d85264d386d94910b6d9fa87f1cfe6e27.png)
 [trans]
 ## Overview
 This strategy implements a dynamic Bollinger Bands trading strategy that can select a historical time range based on the Bollinger Bands indicator. This strategy allows users to select the start and end time of backtesting, thereby enabling dynamic Bollinger Band strategy backtesting and comparison in different time periods.

@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1659e14abd448394d9f.png)
+![IMG](assets/images/af5f8595a2dd7ac72c761bfe601f290e63f80afde26783d912aa959c09546a82.png)
 [trans]
 
 The core idea of ​​this strategy is to judge the short, medium and long-term trend direction of the stock based on moving averages of different periods such as EMA 36, 143, 169, etc., and combine it with the MACD indicator to issue buy and sell signals. Specifically, the short-term judgment is based on the 5 and 10-day EMA, the medium-term judgment is based on the 20- and 60-day EMA, and the long-term judgment is based on the 120 and 250-day EMA. When the short-term EMA crosses above the mid-term EMA, it is bullish, and when it crosses below, it is bearish; combined with the MACD long and short indicator, the buying and selling timing is judged.

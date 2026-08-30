@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1309afcc075cbc7cb6e.png)
+![IMG](assets/images/bad3044df5372d882fb726370094ac8d1f58d85909963fa076c9387a19179e9d.png)
 [trans]
 
 Strategy name: Momentum-driven linear MACD strategy

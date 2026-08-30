@@ -22,7 +22,7 @@ The moving averages can be plotted from different time-frames, like e.g. the wee
 
 **backtest**
 
- ![IMG](https://www.fmz.com/upload/asset/177719604d95d13a9de.png) 
+ ![IMG](assets/images/c711b4781df3b4fe7f0b4317ca1005d1fc818d22da3f27292561f3de9ff77e68.png) 
 
 > Strategy Arguments
 

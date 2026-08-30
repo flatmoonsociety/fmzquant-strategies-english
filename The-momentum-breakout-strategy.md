@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/f308115b184cce4fc3.png)
+![IMG](assets/images/5425911262e0b48250735f54ccc09ffd84d110e903f7508927a050abf444916c.png)
 [trans]
 ## Overview
 The momentum breakout strategy is a trend strategy that tracks market momentum. It combines a variety of indicators to determine whether the market is currently in an upward or downward trend, and builds a long position when it breaks through a key resistance level, and a short position when it breaks through a key support level.

@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/9856eb45981572d81a.png)
+![IMG](assets/images/8a82a522c761767ceaae5e6c1e7dcbfb2f02c83ba8f786e208258a8b219b0ed9.png)
 [trans]
 ## Overview
 The double reversal arbitrage strategy is an arbitrage algorithm that incorporates the double reversal indicator. It integrates two sub-strategies, the 123 reversal system and the Gann cycloid oscillator indicator. When the two sub-strategies send signals at the same time, a trading signal is generated to realize arbitrage operations.

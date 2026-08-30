@@ -14,7 +14,7 @@ Supertrend+4moving by pejmantak123
 
 **backtest**
 
- ![IMG](https://www.fmz.com/upload/asset/14ee26429757153c544.png) 
+ ![IMG](assets/images/ade8d9221b3dba9f9ab1960503650bffcf8c6bb22ee7ea2fe1d2af1e3ef934d4.png) 
 
 > Strategy Arguments
 

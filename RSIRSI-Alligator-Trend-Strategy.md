@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/b879246e0062392917.png)
+![IMG](assets/images/78e254638fef45f1b0fda631e0f960a52b41c4124b2256f6549aa5a96d8f2830.png)
 [trans]
 ## Overview
 The RSI Alligator trend strategy is a combination of the Alligator indicator based on the RSI indicator and is used to determine the entry and exit of the trend. It uses three average lines - the alligator's palate line, teeth line and lip line, constructed using RSI with different periods. Go long when the tooth line crosses the lip line and the RSI palate line is higher than the tooth line; go short when the tooth line crosses the lip line below and the RSI palate line is lower than the tooth line. This strategy sets both stop-loss and take-profit conditions.

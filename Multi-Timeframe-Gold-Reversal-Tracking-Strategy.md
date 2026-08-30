@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/fe84b10b8b0fced952.png)
+![IMG](assets/images/97748a90e75de2bac1abd7e9c98e6d4bf54dea688a7d04aac4971c57448fcb32.png)
  [trans]
 ## Overview
 This strategy uses a combination of different technical indicators and trading methods to automatically identify trends in the gold market, discover reversal opportunities, and conduct efficient tracking transactions. The strategy is applicable to multiple time frames and can achieve excellent results in both the short-term and medium-term intraday periods.

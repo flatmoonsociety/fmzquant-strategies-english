@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/15f5f3593366117aed8.png)
+![IMG](assets/images/d5a006fa02fe44b47e862aa1960fa2ed849150f131e4c71524f8a53eafc0da2f.png)
 [trans]
 ## Overview
 This strategy uses a combination of three indicators: price trend, volume momentum, and price volatility to generate buy and sell signals. The main idea is to buy in a market environment where prices are on an upward trend and price fluctuations are amplified, and to sell in a market environment where prices are on a downward trend and price fluctuations are contracting, and to make profits by capturing price trends and taking advantage of price fluctuations.

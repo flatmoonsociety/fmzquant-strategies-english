@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1298c4ef5259bb88875.png)
+![IMG](assets/images/34eef0c122903b2f5eed472b13cb124923cad9997e0d4827bd7faabe2590422d.png)
 [trans]
 #### Overview
 This strategy mainly uses the relative strength index (RSI) to determine whether the market is overbought or oversold, and combines the price above the 200-day simple moving average (SMA) as a trend filter to decide whether to enter the market. This strategy jointly constructs the opening conditions through the triple RSI indicator. It will only go long when the short-term RSI is less than 35 and shows a downward trend for three consecutive periods, while the third-period RSI is less than 60, and the current closing price is above the 200-day SMA. The condition for closing the position is that the RSI crosses 50.

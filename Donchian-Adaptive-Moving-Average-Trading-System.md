@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/10352684c9b53ab9689.png)
+![IMG](assets/images/8c44dced0f3bd746772af2e854cd2909cc7d0b7922b93c6a60104e00db618093.png)
 [trans]
 ## Overview
 Tangqian's adaptive moving average trading system is a quantitative trading strategy that tracks price trends. This strategy uses the Donchian Channel indicator, combined with long-term and short-term moving averages, to judge and track price trends to capture mid- and long-term price trends and conduct trend trading.

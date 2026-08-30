@@ -25,7 +25,7 @@ Then look for pullback between price level of break and areas of liquidity (wick
 
 **backtest**
 
- ![IMG](https://www.fmz.com/upload/asset/218f429f1e8d47fc2fc.png) 
+ ![IMG](assets/images/5d4c07d409ee861b49c2eb5d594697df6e259568f727568aed9fc0b9e55eafb0.png) 
 
 > Strategy Arguments
 

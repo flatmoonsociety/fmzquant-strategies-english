@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1ddd62a7c2c6d4bacdf.png)
+![IMG](assets/images/b1a22adc7cf247467775b3f87b1b58b178326a455ae5539becf291aa289963eb.png)
 [trans]
 ## Overview
 The price shock-assisted judgment three-factor model is a short-term trading strategy that integrates multi-factor judgment. This strategy comprehensively considers the multi-factor judgment of the trading volume ratio, RSI indicator, MACD indicator, and signal line indicator to judge price shock behavior to discover short-term trading opportunities.

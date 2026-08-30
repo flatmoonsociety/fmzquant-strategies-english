@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/132172773aba47f9af3.png)
+![IMG](assets/images/0455a1a914351a7792671449d61f828b70cbf814142a2321131949111e1a6157.png)
 [trans]
 ## Overview
 The moving average crossover quantitative strategy is a quantitative trading strategy that generates buy and sell signals based on the crossover signals of two moving averages with different periods. This strategy uses two simple moving averages on the 9th and 20th. When the short-term moving average crosses the long-term moving average from bottom to top, a buy signal is generated. When the short-term moving average crosses the long-term moving average from top to bottom, a sell signal is generated. The strategy logic is simple and clear, easy to implement and optimize.

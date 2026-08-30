@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/187ac41149845a8cbb3.png)
+![IMG](assets/images/c3e1272ceaabc2115356f8c86e2173110bd3e951d29a58ecb8aaa6caa3f9fbbd.png)
 [trans]
 ## Overview
 The moving average crossover trend strategy is a trend following strategy based on moving average crossover signals. This strategy uses the golden cross of the fast moving average and the slow moving average to determine the market trend, establish a position at the beginning of the trend, and close the position when the trend end signal appears.

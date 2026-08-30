@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/af4d780104ea56dc3a.png)
+![IMG](assets/images/d1cea05f354eb749a838cb9619ed57e42f7088d3af9582337ea915df97bd8b72.png)
 [trans]
 ## Overview
 The Moon Flag MACD Momentum StochRSI trading strategy is a quantitative trading strategy that uses three indicators: MACD, momentum and StochRSI to make judgments. This strategy is primarily suitable for daily trading of Bitcoin and Ethereum.

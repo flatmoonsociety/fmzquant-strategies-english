@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1b7c97deebe8a9a5ac6.png)
+![IMG](assets/images/79eecda8b98bd365328a5cad23735e0f02875ae5e81669f45f9cdf42c7175171.png)
 [trans]
 ## Overview
 This strategy uses the dual RSI indicator for long and short two-way trading, and combines the moving average system to determine the trend direction. It is a dual RSI quantitative strategy. The strategy first uses the RSI indicator to determine the long and short signals, and then combines the moving average to determine the trend direction to decide on long and short positions. It is a typical trend following strategy.

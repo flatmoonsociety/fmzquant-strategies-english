@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/f1c5134f002b90bb04.png)
+![IMG](assets/images/cbaa10bb2485cb03bde9f830ea77a05d3a64cd33eadbb30cad9065f38d25ed44.png)
 [trans]
 ## Overview
 This strategy combines the ATR (Average True Range) indicator and the SMA (Simple Moving Average) indicator to implement a dynamic stop-loss tracking trading system. When the price is above the SMA, open a long order and set a dynamic stop loss based on ATR. The stop loss price will continue to increase as the price rises. The position is closed when the price falls below the dynamic stop price. The main idea of ​​this strategy is to use dynamic stop loss to lock in profits and reduce retracements in trending markets.

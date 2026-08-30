@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/12ff8190fd73cc4670f.png)
+![IMG](assets/images/17134cc4bfd2fdca0c52406eeb29366bf5beee5e415f7c00a245805deada9998.png)
 [trans]
 #### Overview
 This strategy combines two technical indicators, the Donchian Channel and the Simple Moving Average. Open a long position when the price breaks through the lower track of the Donchian Channel and is above the simple moving average, and open a short position when the price breaks through the upper track of the Donchian Channel and is below the simple moving average. Long positions are closed when the price hits the upper track of the Donchian Channel, and short positions are closed when the price hits the lower track of the Donchian Channel. This strategy is suitable for markets with strong trends.

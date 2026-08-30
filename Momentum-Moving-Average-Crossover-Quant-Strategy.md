@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/a4553a4d75f4e66627.png)
+![IMG](assets/images/f4437320fe2a04361c29c3e2e9cc34d5cec61cf8c5d3c60e8582e5581e80c46a.png)
  [trans]
 ## Overview
 This strategy combines two key technical indicators, moving average and trading volume, and designs entry and exit rules for long and short positions to form a complete quantitative trading strategy.

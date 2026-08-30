@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/b44a0fc2fd496b1242.png)
+![IMG](assets/images/057d9e8f72e2f3369a4fdda0e7aadcf32fb841e235184066bfda60c280276ccc.png)
 [trans]
 ## Overview
 This strategy is a trend following strategy based on EMA crossover to generate trading signals. Use the intersection of fast and slow moving averages to judge changes in price trends, enter the market when the trend begins, and exit the market when the trend ends to make profits.

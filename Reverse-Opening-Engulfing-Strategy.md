@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/12918e9fcf2d93d72e9.png)
+![IMG](assets/images/56cfd060c5831c1f57c48b49fa80605ab00d4614d6f0ef3e15e3d7959d7ec198.png)
 [trans]
 ## Overview
 The reverse opening engulfing strategy is a simple intraday trading strategy based on a stock's first candlestick. The core idea of ​​this strategy is to determine the direction of the rise or fall when the first K line appears after the market opens each day, and make reverse operations. If the first K line is a red Yang line, go long; if the first K line is a green Yin line, go short. This strategy also sets up stop-loss and take-profit exit mechanisms.

@@ -24,7 +24,7 @@ Enjoy~~!
 
 **backtest**
 
- ![IMG](https://www.fmz.com/upload/asset/be759889670f5c8d21.png) 
+ ![IMG](assets/images/9ce62ed9b5ec6cde309b38d0c1f663a08415a2d32523b213923d2c399505beb4.png) 
 
 > Strategy Arguments
 

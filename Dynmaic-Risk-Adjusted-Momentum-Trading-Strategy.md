@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/6901cab4d6304b2240.png)
+![IMG](assets/images/c9cf1efc04c3d01fe982f5cbe3deebd28eebb365cc121bed86985a503c27889a.png)
 [trans]
 ### Overview
 This unique rules-based systematic trading strategy falls under the trend following category. It uses price-normalized price series to generate trading signals, rather than using stock prices directly. The strategy uses advanced position sizing and risk management techniques that are typically only used in institutional portfolio management and are proven position sizing techniques for commodity trading advisors (CTAs) and managed futures funds, among others.

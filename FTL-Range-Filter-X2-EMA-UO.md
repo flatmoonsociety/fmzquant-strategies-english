@@ -24,7 +24,7 @@ Additional features of this indicator:
 
 **backtest**
 
- ![IMG](https://www.fmz.com/upload/asset/19cf79e165de560657d.png) 
+ ![IMG](assets/images/417377db9a038cba6fd298fd92e63bb787f0fe243b5ea1b4bdf290c02eebeb5f.png) 
 
 > Strategy Arguments
 

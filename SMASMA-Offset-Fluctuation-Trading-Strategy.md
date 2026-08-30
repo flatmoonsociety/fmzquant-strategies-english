@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/c52fdaee272021af6e.png)
+![IMG](assets/images/7f33f0e1d4aecaac0af05d99e7842921843b7a0fd68344dbace6de18129243bf.png)
  [trans]
 
 ## SMA Swing Offset Trading Strategy

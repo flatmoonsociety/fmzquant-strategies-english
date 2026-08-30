@@ -36,7 +36,7 @@ Changed: Signals will check up to 2 candles before if the RSI is below or above 
 **backtest**
 
 
- ![IMG](https://www.fmz.com/upload/asset/5627c204e26ab04507.png) 
+ ![IMG](assets/images/98b498cee84aad1f382a6ada9384d0e9f429372702f939ec7faec6de5f25e6c7.png) 
 
 > Strategy Arguments
 

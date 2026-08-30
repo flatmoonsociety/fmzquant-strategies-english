@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1a2b5b290e11aa667c5.png)
+![IMG](assets/images/bda41c552e9953a3667a1ee4dced31775644440d917f8f25d7ce5a38f993ee5c.png)
 [trans]
 ## Overview
 This strategy is a swing trading strategy based on double moving averages. It uses the crossover of the fast and slow moving averages as buy and sell signals. A buy signal is generated when the fast moving average crosses above the slow moving average from below; a sell signal is generated when the fast moving average crosses below the slow moving average from above. This strategy is suitable for volatile market conditions and can capture short-term price fluctuations to make profits.

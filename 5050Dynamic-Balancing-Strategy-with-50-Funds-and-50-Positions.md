@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/198847a3568ae2ba0ec.png)
+![IMG](assets/images/7128372e06bb4705574f6a47c7794ede4242d5ae3f346888ffdef45ea25ac8ff.png)
 [trans]
 ### Strategy Overview
 This strategy is dynamically balanced with 50% of funds and 50% of positions, and risk control is achieved by continuously adjusting the proportion of positions and funds. Suitable for investors who are unable to monitor the market in real time.

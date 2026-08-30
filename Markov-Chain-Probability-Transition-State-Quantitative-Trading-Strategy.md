@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/193f4c5d5bc925ec777.png)
+![IMG](assets/images/ff52ef465be0334a15d62e46c0fc019e68a9067f49bea16162bb3edfa8ef23c7.png)
 [trans]
 #### Overview
 The Markov chain probability transition state quantitative trading strategy is an innovative trading method based on the Markov chain model. This strategy uses the state transition probability of the Markov chain to predict market trends and make trading decisions accordingly. The core idea of ​​the strategy is to divide the market state into multiple discrete states (such as rising, falling and sideways), and then calculate the conversion probability between these states based on historical data to predict the next possible market state.

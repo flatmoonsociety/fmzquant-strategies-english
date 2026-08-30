@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/14d68280ed91732fbbd.png)
+![IMG](assets/images/717f427db8b22be2e60422193905403bf7164660cc642a8818f7d6733f5e78b9.png)
 [trans]
 #### Overview
 This trading system called "Multiple Indicator Trend Following Strategy" is a complex and comprehensive method of trend following. It combines the Relative Strength Index (RSI) and the exponential moving average (EMA) over multiple periods to identify market trends and generate trading signals. The core of this strategy is to use both short-term momentum indicators and long-term trend indicators to capture market movements on different time frames.

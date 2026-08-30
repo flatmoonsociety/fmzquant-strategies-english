@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1533e224f5c399b28ed.png)
+![IMG](assets/images/65bf54e6de61b39d0b4e69b173d0d7939c8efa27ad110a08ee0845fdea710cd7.png)
 [trans]
 
 This strategy is an innovative **comprehensive long and short automatic futures trading strategy** that integrates multiple indicators such as SuperTrend, QQE and Trend Indicator A-V2 to automatically discover trading signals and conduct long and short transactions. This strategy aims to explore the main trends of the market and obtain stable returns while controlling risks.

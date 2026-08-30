@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1159a773149e732e153.png)
+![IMG](assets/images/a4262912056573c553eec822f1877316dddc23f426125cc21cf87364d8f5584d.png)
 [trans]
 ## Overview
 This strategy is a trend following strategy based on adaptive moving averages. It uses two DEMA moving averages of different periods for buy and sell signal generation. The strategy will automatically adapt to the analysis granularity according to different periods to achieve multi-time frame tracking.

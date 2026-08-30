@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/a374cd354cbddf7607.png)
+![IMG](assets/images/24c63a9f4c7592dd758140415f2b6fa3d51f58b87736688a04354a180667db02.png)
 [trans]
 ## Overview
 This strategy is based on moving averages and dynamic envelopes, and realizes long and short two-way trading. It will track the price to break through the upper and lower envelopes to establish a position, and close the position when the price falls below the base moving average again. This strategy is suitable for stocks and digital currencies with obvious trends.

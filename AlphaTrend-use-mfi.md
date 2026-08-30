@@ -8,7 +8,7 @@ AlphaTrend-use-mfi
 inventor quantification
 > Strategy Description
 
- ![IMG](https://www.fmz.com/upload/asset/fac92b30d9603ace21.png) 
+ ![IMG](assets/images/6311a741d8117b995abe185ca066a711f6371ede8f540e9523eb687bca9ed587.png) 
 
 > Strategy Arguments
 

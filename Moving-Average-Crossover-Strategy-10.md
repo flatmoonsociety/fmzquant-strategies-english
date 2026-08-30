@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/7422a3ce910453942a.png)
+![IMG](assets/images/1f71c80a2509862f39e51cbe274ab2fd697180705271a852cde6ef3f7de1ed62.png)
 [trans]
 ### Overview
 The moving average crossover strategy is a quantitative trading strategy based on moving averages. This strategy calculates the average price of a security over a period of time and uses the intersection of the moving average of the price to generate trading signals and achieve profits.

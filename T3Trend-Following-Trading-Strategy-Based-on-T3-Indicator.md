@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/107d015e0635530270f.png)
+![IMG](assets/images/248153940119842bf09225713c40899bcdb814bc914569265ee34c7127f55754.png)
  [trans]
 ## Strategy Overview
 This strategy designs a trend following trading system based on the T3 Moving Average indicator. The system can automatically identify the price trend direction and make long and short positions accordingly. Go long when prices rise and go short when prices fall. The system also has the ability to reverse trades.

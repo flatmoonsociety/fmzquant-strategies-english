@@ -26,7 +26,7 @@ scope.TEST = function(obj) {
 上一个收盘价放大100倍:TEST(REF(C, 1)); // 鼠标移动到回测的K线上就会提示变量值
 ```
 
- ![IMG](https://www.fmz.com/upload/asset/7c0bc45baa22107d6f.png)  
+ ![IMG](assets/images/a27a0a046309119a3b5727a1893363ef2028d9a9d780360debb399e0dbbbcfee.png)  
 
 > Strategy Arguments
 

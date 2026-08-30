@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/86062198e3522c2858.png)
+![IMG](assets/images/589a2d5094fd6467d160da6ccbcfc969694fb67e26dc0e4ecac5f3236bdea76f.png)
 [trans]
 ## Overview
 This strategy is a trading strategy based on the exponential moving average crossover principle. It combines the RSI indicator and moving average filter at the same time to form a relatively complete trend tracking and reversal trading system.

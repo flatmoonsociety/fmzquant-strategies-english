@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/17cb875618693df1e9c.png)
+![IMG](assets/images/0fbbc52ba572d154173ace5a59b44b36735cb6bad01fec1701f8d679cd5df54a.png)
 [trans]
 ### Overview
 The bandpass filter reversal strategy is a stock trading strategy based on a bandpass filter. It simulates a bandpass filter by constructing a cos and sine function and generates buy and sell signals. When the filter output is above or below a certain trigger level, the strategy proceeds in the opposite direction, buying or selling.

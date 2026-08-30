@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1c8a90d884d702376f7.png)
+![IMG](assets/images/f45ee4ff0e33689462c58ff3fa18e0fd25bfcc39ed236367e49faef6e1615ee4.png)
 [trans]
 ## Overview
 This strategy is a trend following strategy that utilizes multiple time frame indicator consensus. It will open a long or short position when the daily line, 10-day line, 15-day line and 30-day line are bullish or bearish at the same time, and use the dynamic stop loss method to stop the loss.

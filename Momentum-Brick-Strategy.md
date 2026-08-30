@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/10d1b3cbff17bd4e2ca.png)
+![IMG](assets/images/1cbc52fb17be6c0279bb3d2987514a6689d7465a19cb96c8a9150a4fd8268fc7.png)
 [trans]
 This strategy judges changes in market momentum by simulating the formation of bricks, and goes long and short based on the direction of the bricks.
 ### Strategy Principle

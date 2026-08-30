@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1d5bb5ddb552f6f96f2.png)
+![IMG](assets/images/b2a058c412db26c42fe262645baf736310568fa0292adca3c3bfa1d0cd75de5a.png)
 [trans]
 ## Overview
 This strategy is based on two super-trend indicators and CCI indicators with different parameter settings. The goal is to capture short-term price fluctuations and achieve high-frequency trading. The super trend indicator determines the trend direction of the price by dynamically calculating ATR; while the CCI indicator is used to determine whether the market is overbought and oversold. Strategies combine the two to form trading signals.

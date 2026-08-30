@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/cf4d0769b98659985a.png)
+![IMG](assets/images/b359c8668d1b7845dc79176e8b23a6a9f376fbdf4dc9e58eb0971ddbe4ce7491.png)
 [trans]
 #### Overview
 This strategy is based on the Bollinger Bands indicator and captures market trends by going short when the price hits the upper band of the Bollinger Bands and going long when it hits the lower band. At the same time, this strategy also introduces the concept of pyramid position increase. When the number of positions does not reach the set maximum value, it will continue to increase positions in the original direction.

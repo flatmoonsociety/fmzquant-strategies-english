@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/c76acb0f5e9b040035.png)
+![IMG](assets/images/c204ce597d310b738051af4ac824e232cdf1a40eefe9868e2ef548152420a4e0.png)
 [trans]
 ### Overview
 This strategy is called "Dynamic Double Exponential Moving Average Trading Strategy" and is a quantitative trading strategy based on Double Exponential Moving Average (DEMA). This strategy calculates the stock's price change rate, and then performs double exponential smoothing on its absolute value and non-absolute value to obtain the True Strength Index (TSI). The strategy generates buy and sell signals based on the TSI value and the golden cross of its signal line.

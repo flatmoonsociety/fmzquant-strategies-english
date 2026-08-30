@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/18e8186eab063f482e5.png)
+![IMG](assets/images/269e63f3cb70f4521468c283d8ceeb045468e9f12ee6fd5e0e894fe1644ea6cc.png)
 [trans]
 ## Overview
 This strategy combines the Ichimoku equilibrium indicator and the implicit conflict indicator to implement a relatively simple quantitative trading strategy. A buy signal is generated when the Ichimoku Line is higher than the hidden conflict line and the closing price is higher than the Ichimoku Line; a sell signal is generated when the Ichimoku Line is lower than the hidden conflict line and the closing price is lower than the Ichimoku Line. This strategy is suitable for short-term trading of highly volatile assets such as cryptocurrencies.

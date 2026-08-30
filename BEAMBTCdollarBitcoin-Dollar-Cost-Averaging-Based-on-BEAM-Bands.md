@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/f486d27ae7852df146.png)
+![IMG](assets/images/c5d9559915b7c9eb35bde9b9004e320d2891b7da82ff7af31f27a16fa8d4baf5.png)
 [trans]
 ## Overview
 This strategy is based on Ben Cowen's risk level theory and aims to implement a similar approach using levels of BEAM bands. The upper bound of the BEAM band is the logarithm of the 200-week moving average, and the lower bound is the 200-week moving average itself. This gives us a range from 0 to 1. When the price is below the 0.5 band, a buy order will be issued; when the price is above the 0.5 band, a sell order will be issued.

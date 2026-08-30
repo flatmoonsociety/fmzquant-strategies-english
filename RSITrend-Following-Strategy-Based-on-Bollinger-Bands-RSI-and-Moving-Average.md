@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/200f319f243687d07e5.png)
+![IMG](assets/images/5213289ffb960aa1ee0d446ff7496acf03d1ea421d37b680066d8ad848a2f280.png)
 [trans]
 ## Overview
 This strategy integrates the Bollinger Bands indicator, the Relative Strength Index (RSI) and the Moving Average (MA) with the aim of identifying potential entry and exit points in the market. It can generate buy and sell signal alerts, which can be executed by manual trading or automated trading systems.

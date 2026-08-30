@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/161aff24c004b03288a.png)
+![IMG](assets/images/2a5dd74038a69fffec33c656108f2635bf0b404089e2c57510fc186a881a62ea.png)
 [trans]
 
 This strategy is based on the Donchian Channel indicator and implements the trading strategy of buying upper track breakthroughs and selling lower track breakthroughs.

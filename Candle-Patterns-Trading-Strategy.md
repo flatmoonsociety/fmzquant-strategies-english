@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/f2756b12da30f54255.png)
+![IMG](assets/images/6af5e60ad32b4b1968c996d856a9d578a6b1f9bbd8b8b5b650c342ea2cd81336.png)
 [trans]
 ## Overview
 This is an automated trading strategy based on card patterns. This strategy controls risk by identifying multiple card pattern signals, entering the market when the pattern conditions are met, and setting stop loss, take profit and trailing stop loss.

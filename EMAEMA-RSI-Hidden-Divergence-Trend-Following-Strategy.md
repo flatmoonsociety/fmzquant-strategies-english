@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/128851a669ab157747b.png)
+![IMG](assets/images/29a1579d75cd4f66abfafe9171f1053eb267fcb21b228df4575127573525e420.png)
 [trans]
 ### Overview
 This strategy opens a long position based on the hidden divergence signals of the EMA moving average and the RSI indicator. By identifying the characteristic points formed by the hidden long divergence, it is judged that the current upward trend is at the beginning, which is used as a signal to open a position. At the same time, combined with the golden cross of the EMA moving average and the K-line closing price above the EMA moving average, it can ensure that the trend is upward. This strategy is suitable for tracking the mid- to long-term trend and opening long positions during the re-rising stage after the consolidation.

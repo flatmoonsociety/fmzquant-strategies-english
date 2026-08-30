@@ -32,7 +32,7 @@ rsi vwwap open new position only if there is no bullish signal from Cloud , Adx 
 
 **backtest**
 
- ![IMG](https://www.fmz.com/upload/asset/10b6726f9fa1eb5447c.jpg) 
+ ![IMG](assets/images/16f876c5d95d255459cb4cb3e9885730573a6b5124f5bc18ca8fa40e298dc0a8.jpg) 
 
 > Strategy Arguments
 

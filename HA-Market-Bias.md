@@ -27,7 +27,7 @@ By the way, I would be going with the name 'CEREBR' for any subsequent scripts I
 **backtest**
 
 
- ![IMG](https://www.fmz.com/upload/asset/102d86d1df109ae1a02.png) 
+ ![IMG](assets/images/cc2df0ff4533523e6817a9b3c60d0252cda304afa5d9b0e57228fe8c0156fe23.png) 
 
 > Strategy Arguments
 

@@ -13,7 +13,7 @@ The Ichimoku Cloud is a powerful indicator to track trends. By smoothing it and 
 
 **backtest**
 
- ![IMG](https://www.fmz.com/upload/asset/18da159feb076ddb1c4.png) 
+ ![IMG](assets/images/f92ef43fc381577d645e6e8428249e7f2fab47ff00f8c3b4a5240bc0e645bb7b.png) 
 
 > Strategy Arguments
 

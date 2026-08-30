@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/177c877e47160fc0587.png)
+![IMG](assets/images/941192f6ee1261b2b8a1b4a9f494de7b9e399ff19c0c380f09b529d9344a44b0.png)
 [trans]
 ### Overview
 The high and low point breakout strategy is a long-term volatility strategy based on the identification of high and low points. In the direction of the strategy direction parameter, this strategy goes long when it breaks through the highest price of a recent specific window period, and goes short when it breaks through the lowest price of a recent specific window period.

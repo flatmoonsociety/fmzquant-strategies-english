@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/11ddb3b9afabc59941a.png)
+![IMG](assets/images/c2db27ef5a6693ac6087fc013edbeb5431e16185f11998695e2a8f65c923a311.png)
 [trans]
 ## Overview
 This strategy is based on the UT Bot indicator developed by QuantNomad and combines the idea of ​​trailing stop loss. The original code was written by @Yo_adriiiiaan and modified by @HPotter. This strategy will work with LuxAlgo’s Smart Money Concepts. The strategy is currently in the testing phase.

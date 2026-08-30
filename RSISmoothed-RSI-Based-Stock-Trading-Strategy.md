@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/d46699b5d805be1e46.png)
+![IMG](assets/images/4bf7a00de4b38c031fcc84057bb988c712b56d9d3a4e686f1342536032ebeb3d.png)
  [trans]
 ## Overview
 This strategy is based on the smoothed relative strength index (RSI) to determine buy and sell signals, and is a typical trend following strategy. By calculating the rise and fall of stock prices within a certain period, it helps investors determine whether the market is overbought or oversold, and thus make investment decisions.

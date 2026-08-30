@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/101c228d67d7f7cd717.png)
+![IMG](assets/images/985aafec8dda1ed22b1b42a47b04bbc8044377d4a56f606cd532386d7a3e49ed.png)
 [trans]
 ### Overview
 This strategy is based on the Kaufman Adaptive Moving Average (KAMA) design, which can dynamically adjust trading positions and automatically track market trends. The main features of the strategy include:

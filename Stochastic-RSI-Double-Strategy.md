@@ -19,7 +19,7 @@ All trading involves high risk; past performance is not necessarily indicative o
 
 **backtest**
 
- ![IMG](https://www.fmz.com/upload/asset/7d33b6438e380b1a22.png) 
+ ![IMG](assets/images/edb25d847345e4f26fc297e11dc1d41ea127d8bcf217cf8688a4d21e542e25eb.png) 
 
 > Strategy Arguments
 

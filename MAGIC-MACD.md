@@ -84,7 +84,7 @@ This is purely for Educational purpose only. Not to be used as a stand alone ind
 
 **backtest**
 
- ![IMG](https://www.fmz.com/upload/asset/4802b7293091d73f1e.png) 
+ ![IMG](assets/images/3a2d9fb5a57eb7001964b61cba253b932aa55776b8ee2c3c391f2f1def47abe1.png) 
 
 > Strategy Arguments
 

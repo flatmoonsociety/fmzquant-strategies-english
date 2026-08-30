@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/801ec15c9d0ca8263a.png)
+![IMG](assets/images/d2dcd2259018ee3485cf55c8864f3fec0cee3cbf33c58576df49c242bcfde51e.png)
 [trans]
 ### Overview
 This is a long-only Ichimoku cloud quant strategy. The strategy uses the Ichimoku indicator to determine the direction of the trend, and uses K-line patterns, moving averages and Stochastic RSI indicators to filter signals, and choose a better entry point to go long when the trend is upward.

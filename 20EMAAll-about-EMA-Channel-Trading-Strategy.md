@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/12562d91e413c84509b.png)
+![IMG](assets/images/4797c6226eca9f1e5842c84ebad27c7edf74ab70ba1c3a450f40930c17892e72.png)
  [trans]
 ## Overview
 This strategy builds a channel based on the 20-day exponential moving average (EMA). When the price breaks through the upper edge of the channel, it goes long and when the price falls below the lower edge of the channel, it goes short. It is a trend following strategy.

@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1b5aae9bae4d105dee3.png)
+![IMG](assets/images/314fc3a644abb0fca0ea913ed98cd3162692caf774f543942a5b2134ece7db6c.png)
 [trans]
 #### Overview
 The STARC channel backtesting strategy is a quantitative trading strategy based on the STARC indicator. This strategy generates trading signals for breakout buying and breakout selling by constructing the STARC upper and lower channels. At the same time, the strategy has a built-in long and short position switching mechanism that can adapt to different market environments.

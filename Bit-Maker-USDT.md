@@ -32,7 +32,7 @@ Contact information:
 3. Email: liuhongyu.louie@autobitmaker.com/autobitmaker_master@autobitmaker.com
 * Special reminder (WeChat ID autobitmaker001 is not us!! We are not called makebit either!! WeChat ID autobitmaker_001 is us)
 Submit trial application for WeChat mini program:
-![WeChat Mini Program Code](https://www.fmz.cn![IMG](https://www.fmz.com/upload/asset/1281e73989f891ac26aa9.jpg))
+![WeChat Mini Program Code](assets/images/c7a6edcbe4f0664578e903d0bf81ed61883aa1f6fe5c2989ca8e2322c0166b0e.jpg)
 > Strategy Arguments
 
 

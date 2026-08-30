@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1358a4e796b841cd183.png)
+![IMG](assets/images/b71ce8953f347aed052d60b5fa0543c4487eba4f7a45297b2f9628dabfdfd0af.png)
 [trans]
 ## Overview
 Richard's Turtle Trading Strategy is a buying and selling strategy based on the Turtle trading techniques of Richard Dennis. This strategy uses price breakouts to implement trend following trades. Go long when the price breaks through a new high on the 20th, and go short when the price breaks through a new low on the 20th.

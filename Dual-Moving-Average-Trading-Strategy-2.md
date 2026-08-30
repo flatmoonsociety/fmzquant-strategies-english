@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/117a7a92eff754fc648.png)
+![IMG](assets/images/2439ef1ab9fd7ab3f9158919d21c6f810c4465f8efb07f352316f1cc22e8eabd.png)
  [trans]
 ## Overview
 Dual Moving Average Trading Strategy is a common quantitative trading strategy. This strategy uses two moving averages with different time periods to generate trading signals based on their intersections. Specifically, when the short-term moving average crosses the long-term moving average, it is considered a buy signal; when the short-term moving average crosses below the long-term moving average, it is considered a sell signal.

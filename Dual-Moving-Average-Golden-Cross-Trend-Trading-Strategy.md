@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/e58e42b80ae4a28c2f.png)
+![IMG](assets/images/53c5ca3235a1e47c7ae05bd51ad1e67c8ff51618c401aa13c1a3d0a90c889c80.png)
 [trans]
 ## Overview
 The double moving average golden cross trend tracking strategy determines the overall market trend and issues trading signals by calculating the price's double moving averages (DEMA and TEMA) and detecting their intersection to form a golden cross signal. This strategy combines trend indicators and breakout signals to track medium and long-term trends and capture signals at the beginning of the trend.

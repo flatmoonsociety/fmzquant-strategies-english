@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1d1e7f29743af21ecc2.png)
+![IMG](assets/images/e8197590aa1c0a0f2c2b6b7b59fe5552b19f519c92caaf4a61e190a8d701fea2.png)
 [trans]
 ## Overview
 Dual Moving Average Crossover Strategy (Dual Moving Average Crossover Strategy) is a quantitative trading strategy that uses moving average golden crosses and dead crosses to determine entry and exit. This strategy also combines moving averages of different periods to form multi-layer filtering, which can effectively reduce false signals and improve the reliability of trading signals.

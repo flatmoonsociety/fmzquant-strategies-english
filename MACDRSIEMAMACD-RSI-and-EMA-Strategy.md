@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1715d6499a48a9ee3ec.png)
+![IMG](assets/images/17591cf238bf7eee193a1b124fc426c1a2a1adaca08a7caabed9b45ea36daed7.png)
 [trans]
 ## Overview
 This strategy combines the Moving Average (SMA), Average True Range Indicator (ATR), Concurrent Trend Indicator (CCI) and Bollinger Bands to discover short- and medium-term price trends to support trading decisions.

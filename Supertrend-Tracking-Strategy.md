@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1c1d69db1e551d6c2c3.png)
+![IMG](assets/images/3bc9c01e0bf23a384a6a598dcd792e5336fd2c4f806124dc139dcf1493cdcd20.png)
  [trans]
 ## Overview
 This strategy is called "Super Trend Following Strategy". This strategy develops a long-short automatic trading system based on the super-trend indicator, which can automatically identify the trend direction and combine the RSI indicator and the ADX indicator for entry and exit.

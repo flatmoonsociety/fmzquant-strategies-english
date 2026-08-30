@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/137636ba3c3b3e555ac.png)
+![IMG](assets/images/5a0cded759b8e334054e6bd51c5c53006c7578cdb363d0c0b5d6e8057ad45add.png)
 [trans]
 ## Overview
 The Bollinger Bands RSI OBV strategy combines Bollinger Bands, the Relative Strength Index (RSI) and the Balanced Balanced Index (OBV) to identify breakout and reversal points in stock prices. This strategy will send a trading signal when the stock price breaks through the upper and lower Bollinger Bands, the RSI indicator shows overbought and oversold, and the OBV indicator turns around.

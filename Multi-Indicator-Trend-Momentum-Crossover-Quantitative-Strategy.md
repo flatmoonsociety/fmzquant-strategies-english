@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/e53b9b454c6c214482.png)
+![IMG](assets/images/fa25dd4049a29834739c3e509c1e8d3804bf0cf08e2c1d4ff7f02e9c3c9eeb40.png)
 [trans]
 #### Overview
 This is a multi-indicator trading strategy that combines Supertrend, Exponential Moving Average (EMA), and Relative Strength Index (RSI). The strategy uses the crossover signals and overbought and oversold levels of these three technical indicators to identify market trends, momentum, and potential reversal points to find ideal trading opportunities in the market. This strategy makes full use of the advantages of multiple indicators and improves the accuracy and reliability of transactions through market analysis in different dimensions.

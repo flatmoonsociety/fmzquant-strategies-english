@@ -17,7 +17,7 @@ Best to perform with 3 min timeframe on Crude Oil Futures
 
 **backtest**
 
- ![IMG](https://www.fmz.com/upload/asset/ae4be0a059edbbe53b.png) 
+ ![IMG](assets/images/22e14df52f9b3029cd0dc6bab870a7bae6545d7c91bdb7ff88ecdcd8948635ad.png) 
 
 > Strategy Arguments
 

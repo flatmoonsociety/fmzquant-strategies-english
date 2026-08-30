@@ -13,7 +13,7 @@ Archimedes' bathtub
 - Support: commodity futures, digital currency, digital currency futures
 - Official website: www.quantinfo.com
 
-  ![IMG](https://www.fmz.com/upload/asset/2e346e6e3b2edda65576ffe7d35e104b.png) 
+  ![IMG](assets/images/d1598ea6d7f8a0c9b3b340759615bbec327699547c16420a752257a0e9440f7e.png) 
 
 
 
@@ -28,8 +28,8 @@ Archimedes' bathtub
 - Data cycle: 1H
 - Support: Commodity Futures, Digital Currency and Digital Currency Futures
 
-  ![IMG](https://www.fmz.com/upload/asset/45096a9dbc8e6361219bd4957494ac60.png)  
-  ![IMG](https://www.fmz.com/upload/asset/bcf5916794bbc6d9e5e8332b6fa9798c.png) 
+  ![IMG](assets/images/61d799a49854a72b2413ee18152af3c0e7d4af745965cc97a3dca8a4442e2a3a.png)  
+  ![IMG](assets/images/76e86fbed7afa2b561710e3756fb8ead0d5daadd50dfc1c426728404bceec359.png) 
 
 - Main chart:
   MA, formula: MAN^^MA(C,N);

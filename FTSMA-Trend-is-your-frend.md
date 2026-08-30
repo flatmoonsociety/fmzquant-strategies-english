@@ -40,7 +40,7 @@ I WILL PROVIDE A DETAILED QUICK INSTALLATION GUIDE WITH THE STUDY!
 
 **backtest**
 
- ![IMG](https://www.fmz.com/upload/asset/1b7ceae2fe73402c7c1.png) 
+ ![IMG](assets/images/7872dc09e32273472d488b2afe4676b596a198bffff33eb56f1ab0f248ebb21e.png) 
 
 > Strategy Arguments
 

@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/4911126239dcaa3210.png)
+![IMG](assets/images/999a0996f0e539b141b7b869356156e119553886433ca2c051871da7cd5e9322.png)
 [trans]
 #### Overview
 This strategy is a trading strategy based on momentum and trend, which mainly uses the exponential moving average (EMA) and the relative strength index (RSI) to capture short-term momentum opportunities in the market. The core idea of ​​the strategy is to enter the market when the price breaks through the long-term EMA and the RSI reaches the overbought area, and exit when the RSI reaches the oversold area, so as to grasp the short-term strong market. This method aims to capture rapid changes in market sentiment and is particularly suitable for application in volatile market environments.

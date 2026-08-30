@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/6d25a219a081bc2720.png)
+![IMG](assets/images/4c381c5bba90fa799d2c0782862e95337081c7d7166d78ddf6c57e328e9aaf1f.png)
 [trans]
 ## Overview
 This strategy is a trend following strategy based on the momentum crossover of EMA 34 as an entry signal. It combines both the breakout signal of price destruction of the EMA momentum line and the golden cross of the EMA 34 moving average to generate trading signals.

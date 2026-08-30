@@ -8,7 +8,7 @@ Inventor Quantification-Little Dream
 > Strategy Description
 
 ## Minimalist version of OKEX intertemporal hedging strategy (tutorial)   
-  ![IMG](https://www.fmz.com/upload/asset/16f1d9f01f17d547a55c.png)
+  ![IMG](assets/images/2445c2e3f54c207feeb922d08a05d6b3be9609fd7c45a354bf7230c066417dbf.png)
 
 - Only the positive move is done, the reverse move can be modified, and the contract is exchanged to achieve the reverse move.
 - Add two exchange objects, the first one is the quarter, the second one is the current week.

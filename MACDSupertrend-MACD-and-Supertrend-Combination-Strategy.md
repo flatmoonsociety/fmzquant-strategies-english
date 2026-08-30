@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1414e271de8c8f71ecb.png)
+![IMG](assets/images/4a809d4443453119b4f0f41f09ccccc6031fd794967ec3800e9c2ffd25a1770e.png)
 [trans]
 #### Overview
 This article introduces a trading strategy that combines two technical indicators, MACD and Supertrend. This strategy uses the cross signal of the MACD indicator and the trend direction of the Supertrend indicator to determine the timing of entry and exit, in order to obtain profits in the trend market. The main idea of ​​the strategy is to go long when MACD is a golden cross and Supertrend is green, and to go short when MACD is a dead cross and Supertrend is red. The intersection of the MACD signal line and the MACD line is used as a closing signal.

@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/cf130f46a88686f394.png)
+![IMG](assets/images/c2b2c0be1e898e568da15b56aad20ce2b04a8b7128fa7c360cef78ced8eb031b.png)
  [trans]
 ## Overview
 This strategy is a short-term trading strategy based on RSI (relative strength indicator). It uses the RSI indicator to identify the potential strength and weakness of the market to assist trading decisions.

@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/17ce5841e6fec85846f.png)
+![IMG](assets/images/e527c4b64d306fbee472d557f534cb6b3a9059cec346ac6d2278abbf6f40ce29.png)
 [trans]
 ## Overview
 The dynamic regression channel strategy is a quantitative trading strategy that uses linear regression to analyze price trends and combines dynamic stop loss to achieve trend tracking. This strategy uses linear regression to draw price channels, determines the signal when the price breaks through the channel, and issues buy and sell orders. At the same time, the strategy will track the price and update the stop loss position in real time to lock in profits.

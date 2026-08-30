@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1718e71156b17e000bb.png)
+![IMG](assets/images/dadd5bbaf2e4ea12f2d9039f4bd1de9266d3aa38d01362c5f9b034c06e104cfc.png)
 [trans]
 ## Strategy Overview
 This strategy combines two indicators, MACD and RSI, to identify trend reversal points and achieve buy low and sell high. When the MACD indicator appears golden cross and the RSI indicator is in an oversold state, perform a buying operation. When the MACD indicator appears dead cross and the RSI indicator reaches the overbought state, a selling operation is performed to complete a trading cycle.

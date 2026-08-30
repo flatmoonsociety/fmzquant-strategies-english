@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/7837116f837f4fe619.png)
+![IMG](assets/images/fcc1043dde02760d0e5b91fd0763020fb85da41e31583bbfcf380f09d685dd7c.png)
 
 [trans]
 This strategy is a cross-market overnight holding strategy based on EMA technical indicators, designed to capture trading opportunities before the market closes and after the market opens. The strategy realizes intelligent trading in different market environments through precise time control and technical indicator filtering.

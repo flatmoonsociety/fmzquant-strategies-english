@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/151ea7cde4f10686e3f.png)
+![IMG](assets/images/e2fa0116d36104219b4303149b440da220e7f0c8717acef8b1b191ff198b2cb2.png)
 [trans]
 #### Overview
 The EMA SAR mid- and long-term trend following strategy is a quantitative trading strategy that uses a combination of exponential moving averages (EMA) and parabolic indicators (SAR) to capture mid- and long-term market trends. This strategy determines the trend direction of the current market by comparing the 20-period and 60-period EMA, combined with the SAR indicator, and trades after the trend is established. The main goal of this strategy is to intervene in the early stages of a trend and hold the position until a trend reversal signal appears.

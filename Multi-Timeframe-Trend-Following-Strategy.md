@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/17751ad0907e99107fe.png)
+![IMG](assets/images/b3c16e2640c5a0d50ba4bfb9c1dd16aa5d6c5362639e80c38c2acabc1cc704b6.png)
  [trans]
 ## Overview
 A multi-timeline trend following strategy is a trend following strategy that incorporates multiple different moving averages and regression lines. This strategy can choose from more than 20 different trend indicators for automatic buying and selling.

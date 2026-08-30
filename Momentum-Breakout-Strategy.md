@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1bbb73a5550072804dc.png)
+![IMG](assets/images/ba8352c57b10c0f88232517074643214198b70dfe2e920621e8098afb28d787a.png)
 [trans]
 ### Overview
 This strategy calculates the EMA moving average, MACD indicator and single-day increase, comprehensively determines the market's breakthrough signal, and implements a momentum trading strategy of buying low and selling high.

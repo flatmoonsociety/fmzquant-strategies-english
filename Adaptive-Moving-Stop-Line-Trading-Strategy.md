@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1300e9c43e724f504fa.png)
+![IMG](assets/images/fae7696766351bc7280bb382bc190608941ac1be4eea4f2b08cbf897af8a94c1.png)
 [trans]
 ### Overview
 The core idea of ​​this strategy is to use T3 moving average and ATR adaptive moving stop to capture the entry and exit points on the trend, which belongs to the trend following strategy. When the price breaks through the T3 moving average, a trading signal is generated, and the ATR value is used to set the stop loss and take profit levels at the breakthrough point to achieve automatic stop loss and take profit.

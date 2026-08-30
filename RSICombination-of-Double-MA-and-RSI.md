@@ -13,7 +13,7 @@ Archimedes' bathtub
 - Data cycle: 15M, 30M, etc.
 -Support: commodity futures, digital currency
 - Official website: www.quantinfo.com
-![IMG](https://www.fmz.com/upload/asset/9955a36cca1be0e9d73f99fa8bdb4ac8.png) 
+![IMG](assets/images/7df0ecfef16b2984330085fbb159b4f9e89ef566dbf221b7656ba096ba89d945.png) 
 
 - Main picture:
   Moving average 1, formula: MA1^^EMA(C,N1);
@@ -26,8 +26,8 @@ Archimedes' bathtub
 - Data Cycle: 15M, 30M, etc.
 - Support: Commodity Futures
 
-  ![IMG](https://www.fmz.com/upload/asset/3115dab65deb2ed7d795cdabb32d88be.png)  
-  ![IMG](https://www.fmz.com/upload/asset/1a352942b56f16cddab02f1692c909f2.png) 
+  ![IMG](assets/images/ecf9361301c76986c4f720affe87a13bdc7de006ee34190ce633e8edb6345e1a.png)  
+  ![IMG](assets/images/cb906352b4d70aa833b72b17dae04d2a38d2287b32495412800ba06e77b90485.png) 
 
 - Main chart:
   MA 1, formula: MA1 ^^ EMA (C, N1);

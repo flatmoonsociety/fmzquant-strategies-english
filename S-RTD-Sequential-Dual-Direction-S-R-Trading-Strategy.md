@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/ef31ab46610ecf0e96.png)
+![IMG](assets/images/b9e5bc102393548985d5cb08819b8d9125105ec0d92afd7103b802b57463cc19.png)
 [trans]
 ## Overview
 This strategy identifies support and resistance levels by tracking the number of consecutive price increases or decreases, and then combines moving averages as entry and stop loss signals to construct long and short position trading strategies. This strategy can be long and short at the same time, or only unilateral.

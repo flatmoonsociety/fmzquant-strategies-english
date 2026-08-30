@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1099ab2847b82ef7447.png)
+![IMG](assets/images/c02a2f1e32c520e7e82a6d6e3a3737ad51108a10a007a6a35d6580fb1eb2deec.png)
 [trans]
 ## Overview
 This strategy combines the features of the AlphaTrend indicator and the Bollinger Bands strategy. The AlphaTrend indicator is used to capture market trends, and the Bollinger Bands strategy is used to capture the mean reversion characteristics of the market. The main idea of ​​the strategy is: go long when the price breaks through the upper Bollinger Band and the AlphaTrend indicator goes up; go short when the price breaks through the lower Bollinger Band and the AlphaTrend indicator goes down. The exit condition of the strategy is: close the position when the price falls below the AlphaTrend indicator.

@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/191f19f3021fea76d78.png)
+![IMG](assets/images/21a50c198e9cb58ef62044cc7c419f6caf82d17795657085ec77fad619b48d74.png)
  [trans]
 ## Overview
 This indicator is designed to identify key support and resistance levels in the market and plot support and resistance clouds on the chart to represent the areas between these points. This indicator combines statistical analysis and graphical display, and can assist traders in determining trend reversal points and breakthroughs. It is a commonly used auxiliary analysis tool.

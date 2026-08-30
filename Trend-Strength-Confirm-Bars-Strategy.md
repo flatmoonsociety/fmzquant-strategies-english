@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/f71003009473fb8ebf.png)
+![IMG](assets/images/59e1554c5d7a1abba3d7de4a9d71a4bcec7966d38d6658b32a0219373b69652c.png)
 [trans]
 Overview:
 This strategy determines the trend direction through the closing prices of N consecutive K lines, and generates trading signals when the closing prices of N consecutive K lines meet the conditions. The size of N is set by the confirmBars input parameter. This strategy mainly uses the direction of the closing prices of N consecutive K lines to determine the strength of the trend. The larger N means that more K lines are needed to confirm the trend, which can filter out false breakthroughs, but it may also miss the early stage of the trend.

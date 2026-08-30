@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1d4c19aa3be3f8e76eb.png)
+![IMG](assets/images/5458c98774c7756399cee04cde478232a983596112542dbf43c13f658f140b87.png)
 [trans]
 ### Overview
 This strategy uses three moving averages with different periods to identify the market trend direction. When the three moving averages are in the same direction, enter the position. At the same time, set a stop loss and take profit based on the highest price or lowest price of the recent N K lines.

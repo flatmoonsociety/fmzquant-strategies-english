@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/a94ac819e9d4d41f37.png)
+![IMG](assets/images/8e1268130429675d98042d32b0061ced1cf4b588cd7f71ea22fcd8694b57ec18.png)
 [trans]
 ## Overview
 This strategy calculates the deviation of the gold price from the 21-day exponential moving average and combines the standard deviation to determine the overbought and oversold situation of the market. When the deviation reaches a certain standard deviation, a trend following strategy is adopted and a stop-loss mechanism is set to control risks.

@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/9103cf5b2adf212866.png)
+![IMG](assets/images/77ed652e0d7e5577aa9765d1a91b5e3e335052ec40ab43a4f039b870dc989d75.png)
 [trans]
 ## Overview
 The Moving Average Turning Point Crossover trading strategy is a classic technical indicator strategy. The core idea of ​​this strategy is to combine moving averages of different periods to generate buy and sell signals, and use the moving average turning points to further optimize transaction exit. This strategy is suitable for various time periods and varieties, and can obtain stable returns.

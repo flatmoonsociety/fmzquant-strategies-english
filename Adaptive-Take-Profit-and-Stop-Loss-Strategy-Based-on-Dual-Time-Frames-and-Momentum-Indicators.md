@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/19fdd9be2cc59cd469a.png)
+![IMG](assets/images/30b6be12a03144ab9d68be07ae1235a6ef71f31f82e6e2460c06dedaa828f80a.png)
 [trans]
 ## Overview
 This strategy uses a combination of dual time frames and momentum indicators to implement adaptive take-profit and stop-loss. The primary time frame monitors trend direction, and the secondary time frame is used to confirm signals. When the two directions are consistent, a trading signal is generated. After entering the market, use the progressive take-profit method to update the take-profit and stop-loss levels.

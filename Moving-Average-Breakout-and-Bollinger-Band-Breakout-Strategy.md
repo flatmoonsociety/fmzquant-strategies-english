@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/16c59433070ef4d5eeb.png)
+![IMG](assets/images/5c7070994db6ca10378465d99207f1653075a4d00baf7b4f0bf26e9249686633.png)
 [trans]
 ## Overview
 This strategy comprehensively uses the RSI indicator to identify overbought and oversold signals, the Bollinger Bands to determine price breakthroughs and operate, and the golden cross pattern of the moving average, so as to judge the market at different stages of the trend and achieve profits.

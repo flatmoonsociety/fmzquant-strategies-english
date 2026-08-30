@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/c67bdc37d01cc6b423.png)
+![IMG](assets/images/046c256d2e16729e368a202c6653af266e6867c0a933d75c382c06b5c268281f.png)
 [trans]
 ## Overview
 The double moving average breakthrough strategy is a typical quantitative trading strategy that follows trends. This strategy determines positions by calculating simple moving averages of different periods and setting trading signals when the price breaks through the moving average. This strategy uses the 20-day line and the 60-day line as trading signals.

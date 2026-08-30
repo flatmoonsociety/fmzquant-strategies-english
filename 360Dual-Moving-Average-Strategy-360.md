@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1f0f44c7ab39e16b9d4.png)
+![IMG](assets/images/135a0971cdde8e43c7419b3c0bd458d37aebba5121d7c517b3aa65413dd99a08.png)
 [trans]
 ## Overview
 Double moving average strategy 360° is a quantitative trading strategy that combines double moving averages and trend strength determination. This strategy determines the price trend by calculating the moving averages of different periods; at the same time, it combines the accumulation of tangent angles to determine the strength of the trend, achieving more accurate selection of buying and selling timing.

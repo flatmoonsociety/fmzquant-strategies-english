@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/570a16ae6a3da1e925.png)
+![IMG](assets/images/7a0355b81c2ff437f7ce270634d7a8a1f076358cb03cff335a04eb10e26254bf.png)
 [trans]
 ### Overview
 This strategy generates buy and sell signals on two different time frames by calculating two different types of moving averages. This is a great sandbox strategy for experimenting with different types of moving averages and different time frame combinations.

@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1bdc9865aa167bb7acc.png)
+![IMG](assets/images/3d6c144d447c1847a9a4c6741dec13eb04ce984bb5d11b643bcf8a055e79579b.png)
  [trans]
 ## Overview
 The Donic Trend Following strategy is a trend following strategy developed based on the Donic Channel principles described in the article “Black Box Trend Following – Lifting the Veil”. This strategy uses the Donic Channel to determine the price trend and build long or short positions based on the price's new high or new low.

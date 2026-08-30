@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/133f3f4ab85a747d318.png)
+![IMG](assets/images/b2418fe926fecac1aa8a8d59b36c462730c13fe04ed3c445f73e1bb9bc524593.png)
  [trans]
 ### Overview
 This is a simple quantitative strategy that uses the Morphin indicator to identify "big sharks" in the market. It works on the 5-minute time frame and is mainly used for cryptocurrency trading.

@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/ef74cb8c02fc0b6d53.png)
+![IMG](assets/images/32319afcec34268517b529fc1088579af4c9a25ce1fddba0bb24424738ebd35a.png)
 [trans]
 ## Overview
 The extreme reversal tracking strategy realizes trend tracking by tracking the extreme points of the price fluctuation range and reversing long and short positions at the extreme points.

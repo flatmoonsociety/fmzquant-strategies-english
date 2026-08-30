@@ -71,7 +71,7 @@ Type of moving average, average for the formation of a smoothing overbought and 
 
 **backtest**
 
- ![IMG](https://www.fmz.com/upload/asset/e04e6f9a46dda5a36a.png) 
+ ![IMG](assets/images/7b0be632beddc97e20f05c9658b512c2ec839d9974051bfc45c76bb754347cd6.png) 
 
 
 > Strategy Arguments

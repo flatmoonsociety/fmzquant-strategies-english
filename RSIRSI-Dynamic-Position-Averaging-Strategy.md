@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/83517f5bd3bd11440a.png)
+![IMG](assets/images/6654a782662b0453dd22feaad8994e4090e5207e42a0c33491a0c8972fd6bcc5.png)
 [trans]
 ## Overview
 This strategy combines the relative strength index (RSI) and the Martingale principle of adding positions. When the RSI is below the oversold line, the first buying position is opened; if the price continues to fall, the position will be increased with an index of 2 to take profit. This strategy is suitable for spot trading of high market value currencies and can obtain long-term stable returns.

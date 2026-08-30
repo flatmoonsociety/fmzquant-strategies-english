@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/112cce31fb9981ae51e.png)
+![IMG](assets/images/36200a32cf5128eabe4bf5daf3e43f90e000a6eceeeb419c63eea4be2e3a26b2.png)
 [trans]
 ## Overview
 This strategy combines two technical indicators, Bollinger Bands and Exponential Moving Average (EMA), to capture market trend opportunities. The main idea of ​​the strategy is to use Bollinger Bands to determine whether the price is at a relatively high or low level, while using EMA as a filter condition for the trend, and finally make trading decisions based on certain logical rules.

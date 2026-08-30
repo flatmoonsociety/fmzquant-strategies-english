@@ -22,7 +22,7 @@ Note: Due to limited conditions, this strategy has not been back-tested and is f
 - The strategy needs to run in cross position mode. **The strategy supports Binance. When creating the robot, just use the default trading pair and K-line cycle. The strategy does not use K-line**
 ## Strategy Principle
 We will short the currency whose price is higher than the altcoin-Bitcoin price index and long the currency whose price is lower than the index. The greater the deviation, the larger the position. (This strategy has no hedging, and BTC can also be added to the trading pair). Performance in the past two months (about 3 times leverage, data updated to 4.8):
- ![IMG](https://www.fmz.com/upload/asset/2546f22f018c51604db.png)
+ ![IMG](assets/images/9a9d9ef256973eb2e44f4de3edbf91dad98770869cbbecf9260e4e4a2729fd02.png)
 ## Strategy logic
 1. Update market conditions and account positions. The initial price will be recorded during the first run (newly added currencies are calculated based on the time of addition)
 2. Update the index. The index is Altcoin-Bitcoin price index = mean(sum((Altcoin price/Bitcoin price)/(Altcoin initial price/Bitcoin initial price)))
@@ -31,7 +31,7 @@ We will short the currency whose price is higher than the altcoin-Bitcoin price 
 5. Cycle again
 
 ## Strategy parameters
- ![IMG](https://www.fmz.com/upload/asset/272b24a9c0018c96fb6.png) 
+ ![IMG](assets/images/1db2260b20ab52334af839b288bb2c34a0c7247d73c804e5944ab58b5526b8eb.png) 
 
 - Trade_symbols: The currency for trading, you need to filter it yourself according to the research platform, you can also add BTC
 - Trade_value: The value of short selling altcoins needs to be determined based on the total funds invested. You can check the size of the leverage through backtesting in the research environment.

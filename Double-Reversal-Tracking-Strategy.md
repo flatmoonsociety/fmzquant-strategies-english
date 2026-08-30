@@ -9,7 +9,7 @@ ChaoZhang
 > Strategy Description
 
 
-![IMG](https://www.fmz.com/upload/asset/12a2094b9f28b5cd3e2.png)
+![IMG](assets/images/3ed5af1fccab7e6be19256c02f751e0bafab71114b37a0e4fde7eb101f78212a.png)
 [trans]
 ### Overview
 The double-turn tracking strategy generates trading signals by tracking double turning points in price. When the price makes a new high, the strategy will enter a short position; when the price makes a new low, the strategy will enter a long position. This real-time tracking of price turning points can capture reversals in market momentum in real time.

@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/bf4787ce01d2476950.png)
+![IMG](assets/images/b2e4a72159f16eaf213d3a7ff0d7647b7aacc3616ce308eaa94df7254b4a6a21.png)
 [trans]
 #### Overview
 This strategy trades based on the crossover signal of EMA23 and EMA50. A buy signal is generated when EMA23 crosses above EMA50, and a sell signal is generated when it crosses below. This strategy also stops long positions when the price falls below EMA50 and stops short positions otherwise. In addition, this strategy will re-enter the market when the price regains EMA50. This strategy works on the 30-minute time frame.

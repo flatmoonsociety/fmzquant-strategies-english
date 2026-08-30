@@ -9,7 +9,7 @@ Zer3192
 
 > Strategy Description
 
- ![IMG](https://www.fmz.com/upload/asset/147b58e59ce07a8a3f609.png) 
+ ![IMG](assets/images/3a0b728a227a7c9cb2ce6a1c716fa138e601ee3c5f9771cebe742ef3bbb842e6.png) 
 
 > Strategy Arguments
 

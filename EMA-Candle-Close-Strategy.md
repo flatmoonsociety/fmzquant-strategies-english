@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/112b85c731ff60e0b32.png)
+![IMG](assets/images/477ea1d0e13a0d193ab45f94d87a483e436a823e209ccbc0d0d3a3010dd60697.png)
 [trans]
 ## Overview
 This strategy develops trading signals based on the golden cross and dead cross principle of the moving average. It combines three moving averages with different parameter settings in the short-term, mid-term and long-term. By comparing the high and low relationships of these three moving averages, it determines the long and short status of the market and generates trading signals.

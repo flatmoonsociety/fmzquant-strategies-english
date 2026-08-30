@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/7d40088943fb372215.png)
+![IMG](assets/images/b8643b3d858321324d17df02092ded31b5ff6d32578a0bb22d9e13ef2d16bff6.png)
 [trans]
 ## Overview
 The Golden Forest 1-minute breakthrough strategy is a short-term quantitative trading strategy that is dedicated to capturing price breakthrough signals within the 1-minute time frame and achieving quick profits. This strategy integrates multiple indicators such as moving average, ATR, RSI, etc. to form trading signals in order to achieve a higher profit-loss ratio in a short period of time.

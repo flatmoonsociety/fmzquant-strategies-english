@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/fd91bf5107fab48144.png)
+![IMG](assets/images/460239ee6e9ae74f448f55a11b89e5dcb224035058a166c12f7c67c3c18c443a.png)
 [trans]
 ## Overview
 The Multitimeframe Trend Hunter Strategy is a strategy that uses a variety of indicators to achieve automated trading signals. This strategy comprehensively uses moving averages, super trend indicators, and cloud indicators to determine the trend direction within multiple time frames to discover potential trading opportunities.

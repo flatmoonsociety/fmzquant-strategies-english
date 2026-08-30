@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/15e93b609a51ed804a3.png)
+![IMG](assets/images/00d745eae06793cd34c761c56a67d8440c3e55b280ba5dccbbf413337f494824.png)
 [trans]
 
 This strategy generates trading signals based on the Moving Average Displacement Envelope indicator. Among them, the envelope is calculated by the percentage factor of the moving average. If the previous high point breaks through the upper track, a sell signal is generated; if the previous low point falls below the lower track, a buy signal is generated.

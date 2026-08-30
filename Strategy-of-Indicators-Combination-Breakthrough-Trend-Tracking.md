@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/eb736c3cb47fc69d50.png)
+![IMG](assets/images/a61ce14009082a901a33a7e831d265e97234d9ad4caaee06d2fef0e844b5d5f2.png)
 [trans]
 ## Overview
 The name of this strategy is "Indicator Combination Breakthrough Trend Tracking Strategy". This strategy comprehensively uses a variety of indicators to identify the market trend direction and perform trend tracking operations. It mainly includes the following parts:

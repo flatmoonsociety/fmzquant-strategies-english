@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/f1a6a411ed45086a23.png)
+![IMG](assets/images/da1792970dc44a57fea23784629dc72b1503250555970e1e58c434f69fb572f9.png)
 [trans]
 ## Overview
 The Dynamic Moving Average Crossover Combo Strategy is a compound trading strategy that integrates multiple technical indicators and market stage detection. It dynamically calculates the volatility of the market and determines the three stages of the market based on the distance and volatility between the price and the long-term moving average: shock, trend and consolidation. In different market stages, the strategy adopts different market entry and exit rules, and combines multiple indicators such as EMA/SMA crossover, MACD and Bollinger Bands to issue buy and sell signals.

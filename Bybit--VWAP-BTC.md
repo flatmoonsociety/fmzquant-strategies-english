@@ -9,7 +9,7 @@ Lentils
 
 Let’s start sharing the original version of Bybit’s pin picking strategy here~
 What is the main reason///
- ![IMG](https://www.fmz.com/upload/asset/95a9985fc126e73d27e9.png) 
+ ![IMG](assets/images/27750e87f199eac8e9951dbde0da1020c8dffb53227872f6915477282d357021.png) 
 This is very annoying, isn't it...
  You said good open source, but you didn't get angry when you didn't know the situation...
  I hope I won’t be like this anymore~

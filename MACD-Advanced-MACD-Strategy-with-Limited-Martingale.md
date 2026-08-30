@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/f245491b735f033b85.png)
+![IMG](assets/images/3086ee849b515093b441405c84918a6ab0a736eb39bd4279fa2f6274e9da15e4.png)
 [trans]
 #### Overview
 This strategy combines the MACD indicator and Martingale capital management methods, aiming to capture trending market conditions while controlling risks. The strategy uses the intersection of the fast and slow lines of the MACD indicator as a trading signal, and uses a limited number of martingale methods to control the position size. When a losing trade occurs, the strategy will double the number of contracts on the next trade, up to three times, in an attempt to make up for the previous loss. At the same time, the strategy sets take-profit and stop-loss conditions to further control risks.

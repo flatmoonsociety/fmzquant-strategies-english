@@ -19,7 +19,7 @@ When Trading with the Equity Curve" is active, the position size will be reduced
 
 **backtest**
 
- ![IMG](https://www.fmz.com/upload/asset/1075924a21fd5a3f586.png) 
+ ![IMG](assets/images/0e465d13f5b3a2afd32f388cfa08d58d3f88d79d36329ee632ab8dbd42a631d6.png) 
 
 > Strategy Arguments
 

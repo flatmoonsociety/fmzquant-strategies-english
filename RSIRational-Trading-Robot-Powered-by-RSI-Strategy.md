@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/ca19b487c9ed499589.png)
+![IMG](assets/images/018b6c0653e7d5da8beb11a3dc359cc8ef85a1889bbb54021a25b29f2473f194.png)
 [trans]
 ## Overview
 This trading strategy automates trading decisions by combining three powerful technical indicators - the Relative Strength Index (RSI), Bollinger Bands, and support and resistance levels. The robot can intelligently identify potential entry and exit points based on market conditions, thereby automatically placing orders without manual intervention.

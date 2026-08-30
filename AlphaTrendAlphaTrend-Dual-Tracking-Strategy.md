@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1468954639487047195.png)
+![IMG](assets/images/d1f67387c9311ddbdea4ba6946da7a9cec93d01f8db97d9caa057b522a68d347.png)
 [trans]
 ### Overview
 The AlphaTrend two-way tracking strategy is a strategy for trading based on the buy and sell signals of the AlphaTrend indicator. This strategy can open long and short positions in areas where the AlphaTrend indicator generates buy and sell signals.

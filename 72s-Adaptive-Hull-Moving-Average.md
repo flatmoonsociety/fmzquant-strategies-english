@@ -60,7 +60,7 @@ Clear SELL entry signal is same as above, just the opposite.
 
 **backtest**
 
- ![IMG](https://www.fmz.com/upload/asset/c26d83c2b416482e2d.png) 
+ ![IMG](assets/images/ec703b7869b1a84b0dd5e11fba82ed209f76e15c5322d97134b521d8fc124266.png) 
 
 > Strategy Arguments
 

@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/eb9bccd1a192833528.png)
+![IMG](assets/images/49aab7de6c112bf27300e3a52b59851b1fab019ca577b2384085c51f901e7430.png)
 [trans]
 ## Overview
 Grid dollar cost averaging strategy (GridDCA) is an automated trading strategy that uses dollar cost averaging (DCA) to make fixed investments on multiple price grids to reduce investment risks and increase the stability of asset accumulation. This strategy is developed based on the Pine Script on the TradingView platform. It can flexibly set parameters such as grid number, grid distance, stop loss ratio and profit target, and supports two ordering methods: market order and limit order.

@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/190d14b1ac506100b97.png)
+![IMG](assets/images/b00a506a04b8e5bb801ac41047e3c4b7ea1ec5934b5f0ef32bffb1496ad5fdb6.png)
 [trans]
 ### Overview
 This strategy comprehensively uses multiple technical indicators such as RSI, MACD, OBV, CCI, CMF, MFI and VWMACD to detect the divergence between price and trading volume to identify potential entry opportunities. The strategy also combines user dip detection indicators to issue trading signals when high volatility and depth or VFI conditions are met. The strategy is only long, and uses trailing stop loss to gradually add positions to establish positions.

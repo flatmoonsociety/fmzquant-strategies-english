@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/12fd3e1ebfd70c5bf34.png)
+![IMG](assets/images/522ce3fb81090600efb6c6024bfe5330372c2e8abf730a793e5e36b61af541b2.png)
 [trans]
 ## Overview
 This strategy is a dual-track breakout trading strategy based on Bollinger Bands. It uses the upper and lower bands of Bollinger Bands as buy and sell signals, and sets stop loss points to control risks.

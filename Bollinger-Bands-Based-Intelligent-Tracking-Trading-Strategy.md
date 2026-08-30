@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/f4934c8eab7e89e839.png)
+![IMG](assets/images/a78ca77707f987f9a9f5754641b4962fbec92bfb62656d5fd30b849275645aa3.png)
  [trans]
 ## Overview
 This strategy is based on the design of the Bollinger Band indicator. When the price breaks through the upper band of the Bollinger Band, go short and go long when it breaks through the lower band to achieve intelligent tracking transactions.

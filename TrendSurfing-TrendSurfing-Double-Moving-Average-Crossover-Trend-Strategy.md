@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/12c312dee13cb14a6d3.png)
+![IMG](assets/images/81a41995ec32533f19c0cc183a710c075376c06b7c84212ac3ed801a58468d89.png)
 
 ## Overview
 The TrendSurfing strategy is a trend following strategy that uses double moving average crossovers as its main trading signal. It also combines the triangle visual indicator, 200-day EMA, ROC indicator and RSI indicator to filter out noise and accurately capture the new trend direction at trend turning points. This strategy is suitable for medium and long-term positions and can achieve stable growth in the bull market.

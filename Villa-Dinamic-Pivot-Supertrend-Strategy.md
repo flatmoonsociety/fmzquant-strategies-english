@@ -22,7 +22,7 @@ This strategy works better on AUD/USD in the 15 min timeframe. It uses the Pivot
 
 **backtest**
 
- ![IMG](https://www.fmz.com/upload/asset/4d0c276dfb86f39819.png) 
+ ![IMG](assets/images/675cd649ccdd2686fa65a938e0a40de6e863b144babb0174a949df4e7a11f128.png) 
 
 > Strategy Arguments
 

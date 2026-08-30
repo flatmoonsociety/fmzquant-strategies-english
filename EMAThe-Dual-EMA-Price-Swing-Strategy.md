@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/913c26eb71715e742d.png)
+![IMG](assets/images/1183c13417b4ad71d4781635e1dde2d3519fe18898d1093acf1cd75358449ce0.png)
 [trans]
 ### Overview
 The double EMA price swing strategy determines the long and short situation and strength of the market by calculating the difference between two EMAs of different periods. When the difference between the fast and slow lines crosses 0, it is a bullish signal. When the difference between the fast and slow lines crosses below 0, it is a bearish signal.

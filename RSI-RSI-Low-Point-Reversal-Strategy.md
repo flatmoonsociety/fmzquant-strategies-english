@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/12ec3d628a054d73743.png)
+![IMG](assets/images/7b5b8bdfb2522ca3351b54714ed654673bea000aea33058f52a1c447298446a5.png)
 [trans]
 #### Overview
 This strategy uses the Relative Strength Index (RSI) to determine the oversold state of the market. When the RSI is lower than the set oversold threshold, a buy signal is generated, and Stop Loss and Take Profit are set to control risks and lock in profits. This strategy only goes long, not short.

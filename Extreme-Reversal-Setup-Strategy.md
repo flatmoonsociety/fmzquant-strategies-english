@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1135cf284cbff8d898f.png)
+![IMG](assets/images/f38926e6708c10606eee53f45fe1b81c26d929a797f0002d227669ca7ec32653.png)
 [trans]
 ## Overview
 The reversal extreme setup strategy is a strategy that takes advantage of extreme K-line reversals. It will judge based on the entity size and average value of the latest K line. When the entity size is greater than the average value and a reversal occurs, a trading signal will be generated.

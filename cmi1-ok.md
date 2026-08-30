@@ -9,7 +9,7 @@ Reading the sword while drunk
 
 According to the backtest results, under the same parameters, the effect of reducing positions seems to be better than increasing positions. . .
 embarrassed. .
-![](![IMG](https://www.fmz.com/upload/asset/1c1f3f16b6a9fd54bfb4.jpeg))
+![](![IMG](assets/images/349ba91fae3205500a5da725888a19a1c523e6825b62685f58c5f758e02ab1d9.jpg))
 This version is a perfect version, with a higher degree of freedom. You can use it as you like.
 WeChat: fzqtdkj, an old antique code from many years ago. After studying it for so many years, my hair has turned gray, and I haven’t even figured it out yet. It’s so difficult to trade, it’s so difficult to go to heaven. Damn it, I’m almost going to become an immortal. . .
 > Strategy Arguments

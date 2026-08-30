@@ -16,7 +16,7 @@ tyvm have a nice day
 
 **backtest**
 
- ![IMG](https://www.fmz.com/upload/asset/11f50a9e26890f755a7.png) 
+ ![IMG](assets/images/88b9c8dd98eb3223a96621b6195da5df4b51418ca4974175e4ad4cc0570f6611.png) 
 
 > Strategy Arguments
 

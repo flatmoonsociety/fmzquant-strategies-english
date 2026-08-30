@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/52167a15e79643e814.png)
+![IMG](assets/images/23ff6e6f3823645d009310f8ce4e06b0597742a707f660c69227de1c6bf860f2.png)
 [trans]
 
 The main idea of ​​this strategy is to use the Williams Business District buying and selling pressure indicator to determine the accumulation and distribution stages of the market, in order to discover the divergence between the price and the Williams indicator, thereby generating trading signals. When safe assets reach new highs but the Williams indicator does not hit new highs, it represents allocation by game participants and should be sold; when safe assets hit new lows but the Williams indicator does not hit new lows, it represents accumulation by game participants and should be bought.

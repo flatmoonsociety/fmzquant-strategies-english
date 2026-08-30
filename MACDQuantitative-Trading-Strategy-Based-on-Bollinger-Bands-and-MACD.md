@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/a93af5a801808bb447.png)
+![IMG](assets/images/fbf96698a266d84b3222b5e7acc6f493e19ea4edf9c98e02c1faaf235b6423f6.png)
 [trans]
 ## Overview
 This strategy is a quantitative trading strategy based on Bollinger Bands and MACD indicators. It combines Bollinger Bands breakout trading and MACD trend following, aiming to improve the quality of trading signals.

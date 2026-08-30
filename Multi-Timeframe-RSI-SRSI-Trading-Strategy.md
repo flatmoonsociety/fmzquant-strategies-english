@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/13c6d14e89a7fa34ca7.png)
+![IMG](assets/images/655a5fe70e97265eb3ef92f509c2b308e53ca0a816f738d62b60b7d48481b2dd.png)
 [trans]
 ## Overview
 This trading strategy uses a combination of two technical indicators, the Relative Strength Index (RSI) and the Stochastic RSI, to generate trading signals. The strategy additionally utilizes higher timeframe cryptocurrency price movements to confirm trends to increase signal reliability.

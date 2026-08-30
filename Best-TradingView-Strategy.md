@@ -19,7 +19,7 @@ The script is totally based on momentum , volume and price. We have used :
 
 **backtest**
 
- ![IMG](https://www.fmz.com/upload/asset/1cbcd9497b9cc5e9ad6.jpg) 
+ ![IMG](assets/images/bd4cd6fc05247996e590c8fb93058b7787f28d8e62cde20037d7478b61067df2.jpg) 
 
 > Strategy Arguments
 

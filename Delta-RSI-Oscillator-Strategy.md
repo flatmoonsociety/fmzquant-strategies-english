@@ -23,7 +23,7 @@ Since D-RSI oscillator is based on polynomial fitting of the RSI curve, there is
 
 **backtest**
 
- ![IMG](https://www.fmz.com/upload/asset/1c3e958742896a384b2.png) 
+ ![IMG](assets/images/1bd7bc470071b42a1cb6a847e2b1416de3355fd1ff06ea1ea7594ea442029729.png) 
 
 > Strategy Arguments
 

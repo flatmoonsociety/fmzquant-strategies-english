@@ -13,7 +13,7 @@ This strategy combines Supertrend, 200 EMA , Stochastic , and an ATR stop loss i
 
 **backtest**
 
- ![IMG](https://www.fmz.com/upload/asset/15ffad236de4dff553d.png) 
+ ![IMG](assets/images/08662d8376486c6174e1eaf628ca60d2489445704b546bf117ef4f70c3b64802.png) 
 
 > Strategy Arguments
 

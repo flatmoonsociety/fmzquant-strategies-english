@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1ad9856d943f5c411ed.png)
+![IMG](assets/images/666df96c56343e8ae62e06004d17fd67bd1fef05287b46b03579518c233f6c48.png)
 [trans]
 ## Overview
 The Double Smoothed Stochastic Bressert Strategy is a quantitative trading strategy designed by William Blau. It attempts to combine the moving average method with the oscillator principle.

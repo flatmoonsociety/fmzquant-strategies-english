@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/12472fbe51399e5028a.png)
+![IMG](assets/images/f925335a579a55db41c6803a6a268fbf00dc9b47d3bedc9d9291eb94d1f58efe.png)
 [trans]
 ## Overview
 This strategy is designed based on the trend following principles of dynamic channels and moving averages. It calculates the dynamic channel of price, determines the price trend direction through the upper and lower rails of the channel, and combines the moving average filter with price dispersion to generate trading signals. This strategy is suitable for short- to medium-term trend trading.

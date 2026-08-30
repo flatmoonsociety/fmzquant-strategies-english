@@ -17,7 +17,7 @@ To know which settings for PSAR are the most profitable on your instrument and t
 
 
 **backtest**
- ![IMG](https://www.fmz.com/upload/asset/18fc8e68728079fd29f.png) 
+ ![IMG](assets/images/60e200b1bcfab20abd9c768b51ca643a151b47d21433a2070f7f067bf84ccd0c.png) 
 
 > Strategy Arguments
 

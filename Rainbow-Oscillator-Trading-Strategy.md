@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/14e36a681b5895a1bf0.png)
+![IMG](assets/images/853176a5aa308489aaf132906b0e69e135c7ddf9e66a58d6a6a5f110d55705b2.png)
 [trans]
 ### Overview
 The Rainbow Oscillator trading strategy mainly uses multiple exponential smoothing moving averages and oscillators to build multi-layered oscillatory channels to form clear-level long and short signals, which is a trend following strategy. This strategy comprehensively uses RSI, CCI, Stochastic and MA combination indicators to determine the overall market trend and overbought and oversold areas, and is a multi-factor rating strategy.

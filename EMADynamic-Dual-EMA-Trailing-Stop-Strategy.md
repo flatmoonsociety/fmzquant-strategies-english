@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/491cae7fee727a0b05.png)
+![IMG](assets/images/2525e843798b170e369151802214024266a3419a4536349070756e1b06b11b6b.png)
 [trans]
 ### Overview
 This strategy is designed to spot potential trend reversals or continuations using exponential moving averages and free stops based on the Chande Dynamic Convergence Divergence Average True Range. This strategy combines multiple indicators to determine the timing of entry, and sets stop loss and take profit levels based on market volatility, striving to control risks while discovering new trends.

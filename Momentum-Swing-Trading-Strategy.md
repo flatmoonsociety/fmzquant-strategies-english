@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/10e3464b94e8c9296b2.png)
+![IMG](assets/images/4d6e9d28f9e5cd699234d6ccc786526967f37ddda68ad74e115fae8753db7c98.png)
 [trans]
 ## Overview
 This strategy is a daily interval swing trading strategy based on momentum technology, using ATR stop loss. This strategy was created by Stably's Kory Hoang.

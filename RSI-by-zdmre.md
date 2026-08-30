@@ -18,7 +18,7 @@ Thanks @DieGobelMonte for your suggestion.
 
 **backtest**
 
- ![IMG](https://www.fmz.com/upload/asset/10d58845636280dcd8d.png) 
+ ![IMG](assets/images/bb5119035ec14d35a5d146ffbbd21615ddd712db0a42595d3e5af0f3c0947648.png) 
 
 > Strategy Arguments
 

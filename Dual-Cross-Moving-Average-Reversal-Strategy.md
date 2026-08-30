@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/f071d5236b56952b57.png)
+![IMG](assets/images/1e6556195c77972c2e4c03099c2012d3209d7dcdf21d24c0e70f6598b3f81006.png)
 Here is the article I tried to write based on your request:
 [trans]
 

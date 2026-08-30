@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/112686506afc4b86b82.png)
+![IMG](assets/images/56e83345b2be99c6fe2996a0153609226927315553456e8692ce8689b214a2c7.png)
 [trans]
 ## Overview
 This strategy is a dual strategy that combines a reversal trend capturing strategy and a dynamic stop loss strategy. The purpose is to capture the reversal trend while setting a dynamic stop loss to control risks.

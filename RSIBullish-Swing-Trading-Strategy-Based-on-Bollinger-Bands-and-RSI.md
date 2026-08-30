@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1f7f39b4b0ebdb0e9dc.png)
+![IMG](assets/images/5e569f9fcb341137e1cc6dbd5fd0f34f17c6e0b50ebe8152ad2c4427cbf284c6.png)
 [trans]
 ## Overview
 This strategy is based on two technical indicators, the Bollinger Band and the Relative Strength Index (RSI), and is used for long swing trading in an uptrend. The strategy logic is simple but effective: open long when the price falls below the lower Bollinger Band and RSI is below 35, and close long when RSI crosses 69. At the same time, stop-profit and stop-loss are set.

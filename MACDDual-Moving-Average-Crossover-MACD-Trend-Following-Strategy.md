@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/14472979c85b47597aa.png)
+![IMG](assets/images/73c713a791c11697751d5f6d814d304e88753e6c03e7016e1d260bc715c8095b.png)
  [trans]
 ## Overview
 This strategy is an automated trading strategy based on the MACD technical indicator of a double moving average crossover. It uses the fast and slow line cross signals of the MACD indicator to determine the trend direction and implement trend tracking.

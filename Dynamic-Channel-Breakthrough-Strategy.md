@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/11be9ee78d7176ac20a.png)
+![IMG](assets/images/2431435644c7aef6dc2444fd236e5869e360322300a97a835545ee5c650d3052.png)
 [trans]
 ### Overview
 This strategy uses the Keltner channel indicator, combined with the moving average, to set dynamic breakthrough buying and selling prices to achieve breakthrough operations of buying low and selling high. The strategy automatically identifies channel breakout buying and selling opportunities.

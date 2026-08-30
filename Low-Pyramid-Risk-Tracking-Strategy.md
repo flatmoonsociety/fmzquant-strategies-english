@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/190799ca3c70c5fb0ef.png)
+![IMG](assets/images/5d884bd761365a9d0260cb8e3453cba150643ecb674fd56dcbc7016731261144.png)
 [trans]
 
 This strategy identifies potential lows in price movements by combining different indicators and reduces risk by gradually building positions through pyramid tracking. This strategy also combines stop loss, take profit, trailing stop and other functions, which can effectively control risks.

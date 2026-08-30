@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1a3a03c9d7bf66605db.png)
+![IMG](assets/images/ae6e773f420eeece5ad3a4e1060f544ac6336e8527b5fab3c8a396cd542ed98f.png)
 [trans]
 ## Overview
 According to technical analysis, an RSI indicator above 70 should indicate an overbought condition and therefore a sell signal. Cryptocurrencies represent a completely new asset class that reshapes the concept of technical analysis. FOMO-type buying can generate strong power, allowing digital assets to remain in an overbought state for a long enough time, providing good short-term trading opportunities for tracking upward trends.

@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1e4e353f0649aafd4d9.png)
+![IMG](assets/images/c205b2173853721cbed389518b40d44697130de3eadaf826145e87b9508e9c71.png)
  [trans]
 ## Overview
 This strategy uses fast moving averages and slow moving averages to construct trading signals to identify and track trends. When the fast line crosses the slow line, a buy signal is generated; when the fast line crosses below the slow line, a sell signal is generated. This strategy is suitable for tracking medium and long-term trends and can effectively filter market noise.

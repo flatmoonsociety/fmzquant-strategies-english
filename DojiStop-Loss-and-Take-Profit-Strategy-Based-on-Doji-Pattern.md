@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1151d70d1bfa465f8d0.png)
+![IMG](assets/images/64ae1f1a5dd1eebe47286dc6d380064546c1eb0a4c9024377c10ab6332fd8146.png)
 [trans]
 ## Overview
 This strategy is based on the Doji star pattern. When the Doji star pattern appears, a buy stop order is placed between the Doji star high point and the previous K line high point, and a sell stop order is placed between the Doji star low point and the previous K line low point. When the price triggers a stop order, you can choose to exit with a fixed stop loss and take profit, or use the highest and lowest prices of the Doji star pattern as a stop loss and take profit. This strategy is suitable for running on high time frames such as daily and weekly lines, and can effectively filter out noise.

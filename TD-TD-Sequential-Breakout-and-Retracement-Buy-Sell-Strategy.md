@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/13a58109d3bcaeb44ba.png)
+![IMG](assets/images/edcd630d237cc3e85106c7c5bc9665cfaca3708d10dfeee604ee586002ed4c08.png)
 [trans]
 #### Overview
 This strategy is a breakout and retracement buying and selling point strategy based on the TD sequence. It identifies potential trend reversal points by identifying the 8th and 9th candlesticks in the TD sequence. At the same time, this strategy also takes into account the retracement after the TD sequence breakthrough to improve the accuracy of the entry point. In addition, this strategy also uses moving averages as an auxiliary tool for trend judgment.

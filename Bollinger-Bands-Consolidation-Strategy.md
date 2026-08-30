@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/ecad07894837b87017.png)
+![IMG](assets/images/a23bde71749f995e0ea971a9cec6cd35a6355b7396e6407c67ebf0b37c111b4f.png)
 [trans]
 ## Overview
 The broadband shock locking strategy is a long-term breakthrough strategy based on the Bollinger Bands indicator to determine whether market volatility has decreased. When the market enters the shock consolidation stage, the upper and lower rails of the Bollinger Bands will converge. At this time, we judge that it is an opportunity to enter the market. We also combine this with the Average True Range indicator to confirm the reduction in price volatility.

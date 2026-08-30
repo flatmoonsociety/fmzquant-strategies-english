@@ -32,7 +32,7 @@ I personally like this for swing trading on the 1 hour chart; however, this can 
 
 **backtest**
 
- ![IMG](https://www.fmz.com/upload/asset/198cf288b9754a0b8a1.png) 
+ ![IMG](assets/images/62acaa25ae41a680c2f270bdd866d2c87f65b108b0f64c1cfc31e085df67412e.png) 
 
 
 

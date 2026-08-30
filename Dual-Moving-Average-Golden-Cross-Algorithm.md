@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/e437e543ad23bfba85.png)
+![IMG](assets/images/0ba9bca10e80e004d2327f537cf31760e4c8b1dd5170c175694d3b493866c7e4.png)
  [trans]
 ### Overview
 The double moving average golden cross algorithm determines the timing of buying and selling by calculating the intersection of the fast line and the slow line. The fast line uses the 8-day exponential moving average, and the slow line uses the exponential moving average of the lowest price in the last 8 days. A buy signal is generated when the fast line crosses the slow line from below; a sell signal is generated when the fast line crosses the slow line from above.

@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/17e77a4afcfef6ae8df.png)
+![IMG](assets/images/96f97641d13d6a357471a726e956d77a2eb82b9066ae9b855ba203c75648d9bc.png)
  [trans]
 ## Overview
 This strategy is a trading strategy based on moving averages. It uses the 45-day moving average as the main technical indicator, and performs buy and sell operations based on the signal that the price breaks through the moving average.

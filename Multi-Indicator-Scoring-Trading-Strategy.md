@@ -9,7 +9,7 @@ ChaoZhang
 > Strategy Description
 
 
-![IMG](https://www.fmz.com/upload/asset/13bb02828065dee9763.png)
+![IMG](assets/images/d9fda36c2b1430635d4942fc8933a22360005720bf3de79077fbb438022afdc7.png)
 [trans]
 ## Overview
 The multi-indicator scoring trading strategy integrates technical indicator scoring to identify trend direction and strength to achieve automatic trading. This strategy takes into account a set of indicators including the Ichimoku Cloud, HMA, RSI, Stoch, CCI and MACD. According to the results of each indicator, it is scored, and then the scores of all indicators are combined to form an overall score. Go long when the overall score is above the threshold, go short when it is below the threshold.

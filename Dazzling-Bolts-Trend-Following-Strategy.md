@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/11ea8dec289591b6f4e.png)
+![IMG](assets/images/629070c1eb1c2777380c6ecf6c9aaa6cbbc35cf319261db1a4c05336da0f8739.png)
 [trans]
 ### Overview
 This strategy is called "Colorful Lightning" and is a trend following strategy based on three moving averages. It determines the price trend by calculating the intersection of the fast line, the middle line and the slow line, and sets the target price and stop loss price with the ATR value.

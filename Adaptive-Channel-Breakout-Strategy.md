@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/a02903c6a69880274f.png)
+![IMG](assets/images/6f80060b313bef209cd45cecfaf1598db87100fc7f43ac0a1ec205b8869afbe1.png)
 [trans]
 ## Overview
 Adaptive Channel Breakout Strategy is a trend strategy that tracks market price channels. It determines price channels by calculating the highest and lowest prices for a specified period and sends a trading signal when the price breaks out of the channel.

@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/14efb8d20274adb822b.png)
+![IMG](assets/images/3dfb654ca1c3db3876f20ee3ced0d7c8ef43e570ace56c16e8008db0d77ad554.png)
 [trans]
 #### Overview
 The moving average strategy based on double moving average crossover is a simple and effective intraday trading method that aims to identify potential buying and selling opportunities in the market by analyzing the relationship between two moving averages of different periods. This strategy uses a short-term simple moving average (SMA) and a long-term simple moving average. When the short-term moving average crosses the long-term moving average, it indicates a bullish signal and prompts a potential buying opportunity; conversely, when the short-term moving average crosses below the long-term moving average, it indicates a bearish signal and prompts a potential selling opportunity. This crossover method helps traders capture market trends while minimizing market noise.

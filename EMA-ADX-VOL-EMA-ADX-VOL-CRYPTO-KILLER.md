@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1c9e738520dfa402fba.png)
+![IMG](assets/images/8b71c14c3cfbfa48e18bae58eca3bfd2bfcf8dca1c890380e573fee134c56fef.png)
 [trans]
 Use the EMA moving average system to determine the direction of the trend, the ADX indicator to determine the strength of the trend, and combine it with transaction volume filtering to carry out quantitative trading strategies for entry.
 ## Principle

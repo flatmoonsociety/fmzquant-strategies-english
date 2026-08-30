@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/14a73ad1069582e20af.png)
+![IMG](assets/images/ec65a6b2ae6e4b359607cb4c8327ab617604275835164beebf4e802d581823d2.png)
 [trans]
 ### Overview
 The Double Stochastic Filter Sharp Dispersion Strategy identifies potential buying and selling opportunities by detecting divergences between the Dispersion Analysis Index (AO) and price action, combined with the overbought and oversold status of the Stochastic indicator as an additional filter.

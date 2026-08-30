@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1209cdd3a4654be6e5c.png)
+![IMG](assets/images/f827933c4eab9472bf25c47f26338a36373c70e76afc9b073dc1ec4291aac7b5.png)
 [trans]
 ## Overview
 This strategy is a high-frequency quantitative trading strategy based on the Nifty 50 Index. It tracks the price changes of the Nifty 50 index, combines the changes in open interest, buys on dips near the support level, and sells on the highs near the resistance level to achieve profits.

@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1817bd16391af9a4dde.png)
+![IMG](assets/images/ab2e59f2cf63bc1f102a7974fbe94bf17e3a188d89b726bafe546fd080612b07.png)
 [trans]
 ## Overview
 The name of this strategy is "Quantitative trading strategy with dynamic moving average breakthrough for entry and fixed stop-profit and stop-loss for exit". The main idea of ​​this strategy is that during the trading period of every Monday, if the closing price is lower than the 115-period Hull dynamic moving average, then a long position operation will be carried out; in the subsequent trading period of every Wednesday, the position will be unconditionally closed and exited, and a fixed stop-profit and stop-loss point will be set.

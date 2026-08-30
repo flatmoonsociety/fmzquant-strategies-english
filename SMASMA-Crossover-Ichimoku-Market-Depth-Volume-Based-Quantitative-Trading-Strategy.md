@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1d8c1c6ddb80ddf8fef.png)
+![IMG](assets/images/4a3c213b4de009bec388acc29954a7e629862316b9ea96e9c830186c674827e3.png)
  [trans]
 ## Overview
 The name of this strategy is "a quantitative trading strategy based on the cross of SMA moving average and the market depth indicator." This strategy mainly uses the golden cross signal of the SMA moving average, combined with the conversion line, baseline and front line in the Ichimoku market depth cloud indicator, as well as the long and short indicator of trading volume, to achieve automatic trading of positive and negative Bitcoin.

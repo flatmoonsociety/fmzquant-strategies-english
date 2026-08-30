@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/11313da58fe220ebbd8.png)
+![IMG](assets/images/a46fd8af222dc72e69bfb73485d0ea65a66af987c738cedc0f9f5ca9f872016c.png)
 [trans]
 ## Overview
 This strategy uses a combination of the Bollinger Bands indicator and the Relative Strength Index (RSI) indicator to generate trading signals. It monitors whether the closing prices of three K lines break through the upper or lower rails at the same time, and combines the turbine indicator and RSI indicator to confirm trading signals.

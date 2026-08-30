@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/114bb4780e389482e31.png)
+![IMG](assets/images/34755f835a61f2c2a797ad3d786590cf49eb3fb9048fdd990853f5d762f41422.png)
 [trans]
 ### Overview
 The 3-10 oscillator contour marking strategy calculates the difference between the 3-day and 10-day simple moving averages as the MACD indicator, and combines the analysis of trading volume to determine the strength of market buying and selling orders, thereby generating trading signals. The strategy also combines key price areas, volume characteristics, and MACD reversals to identify entry and exit opportunities.

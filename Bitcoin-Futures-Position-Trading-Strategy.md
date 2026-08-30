@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1f3e70c1a025dc443e4.png)
+![IMG](assets/images/8b02852130525786caef4d060565c6b47ac06bf4f6cc47b8f116c1eadd9fe5bb.png)
 [trans]
 
 Overview: This strategy uses Bitfinex’s BTC futures position data to guide trades. Go short when the number of short positions rises and go long when the number of short positions decreases. Suitable for following "think tank" trading behavior.

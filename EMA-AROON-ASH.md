@@ -45,7 +45,7 @@ Thanks again to the authors of the indicators that compose this script and to TR
 
 **backtest**
 
- ![IMG](https://www.fmz.com/upload/asset/149789d550e035016a9.png) 
+ ![IMG](assets/images/c49bda611afe8ad102d3ede8f50a2eb987d95f19a0036ffb2c2763b0481ca682.png) 
 
 > Strategy Arguments
 

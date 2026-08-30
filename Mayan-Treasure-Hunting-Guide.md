@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/d71e9bf31fb7d3f991.png)
+![IMG](assets/images/a0c5515258a4142d29753b7cfd04e252f6794a7a7a4651be6636336ab7a904d7.png)
 [trans]
 ## Overview
 Mayan Treasure Hunt Guide is a simple stock trading strategy based on the EMA indicator. This strategy combines the EMA moving average indicator and price high and low point judgment, sets buying and selling conditions, and realizes automated trading.

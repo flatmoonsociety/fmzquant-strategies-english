@@ -13,13 +13,13 @@ The parameters of this strategy are suitable for operation at the 1-hour level, 
 The following backtest results are for hourly periods
 ****4-27 to 7-25****
 The principal is 300, the order amount is 0.04btc
- ![IMG](https://www.fmz.com/upload/asset/1f4e9984f53d575c506c1.png)
+ ![IMG](assets/images/2ae8ce8da340855d90d2f12fcf6bca17c342ea0e2e811cb86179a3d51d9e2f26.png)
 ****1-1 to 7-25****
 The principal is 300, the order volume is 0.03btc, the order volume of 0.04 is insufficient principal.
 If you want to use it yourself, please conduct a backtest to determine your order volume.
- ![IMG](https://www.fmz.com/upload/asset/1f47c59a9ac1f93694193.png) 
+ ![IMG](assets/images/8f58b6515919d66fd787083ac18708e8895794a68e8719a0ad667eb917e37364.png) 
 If you make money, you might as well support the author
-  ![IMG](https://www.fmz.com/upload/asset/1f4c36c1fca8b23e727c7.jpg)  
+  ![IMG](assets/images/21e9af5137dc91413f0ee2503ee292235839748e7aa3db0f68ed37e5631e86d5.jpg)  
 
 > Strategy Arguments
 

@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/10cd87c0ffee787280c.png)
+![IMG](assets/images/164cac8630574ff3351723860ee073b1c58692dc0a65f7190302754d3aa2d721.png)
 [trans]
 ## Overview
 This strategy locates the short-term bottom by judging the outstanding trading volume in the downward trend, and performs buying operations under oversold conditions. It is an active short-term trading strategy.

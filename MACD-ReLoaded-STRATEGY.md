@@ -34,7 +34,7 @@ In longer time frames like daily charts WMA , Volume Weighted MACD V2, and MACDA
 
 **backtest**
 
- ![IMG](https://www.fmz.com/upload/asset/1358cd85827a8416981.png) 
+ ![IMG](assets/images/201fcea281e0ce0ce57953efa2f0b17cad129c5ab954cbd50df3beb02006bdd9.png) 
 
 > Strategy Arguments
 

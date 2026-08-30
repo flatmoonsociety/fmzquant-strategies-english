@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/12f0debed65665af0fa.png)
+![IMG](assets/images/15750daa18c6c6d31c0d5217082023e7597d2b6068da9076353bac4dc24142c7.png)
 [trans]
 #### Overview
 This strategy is a quantitative trading strategy based on moving average crossovers. It calculates two moving averages of different periods (fast line and slow line), and generates a buy signal when the fast line crosses the slow line from bottom to top, and a sell signal when the fast line crosses the slow line from top to bottom. At the same time, this strategy also introduces the concept of dynamic position management, dynamically adjusting the position size of each transaction according to the profit and loss of the account to control risks.

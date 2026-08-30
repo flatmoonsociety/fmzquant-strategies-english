@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/132bb571707eaf0804f.png)
+![IMG](assets/images/1aad18c022897f1e3d930fa7eb4bd9fb96a839d2bee62599ca4e68eb3393f298.png)
 [trans]
 ## Overview
 This strategy builds trading signals based on moving averages, Hull moving averages and the relative strength index (RSI), and is a typical opportunity tracking strategy. It can automatically identify market opportunities, perform long-short switching, and is suitable for short- and medium-term transactions.

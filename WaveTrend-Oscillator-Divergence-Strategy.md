@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/10cd391a3ffbeeb2711.png)
+![IMG](assets/images/652a71f4cc416c303bf12009b86a8503cf3e4883b396f20972419f0f3d718eec.png)
 [trans]
 #### Overview
 This strategy combines the WaveTrend Oscillator (WT) and the Volume Weighted Average Price (VWAP) to capture potential trend reversal opportunities by identifying divergences between price and indicators. This strategy uses ATR (Average True Range) to determine the stop loss position and dynamically adjusts the position size based on the account risk percentage. The main advantages of this strategy are its trend following capabilities and risk management measures, but it is possible to suffer losses in volatile markets. Optimization directions include adding additional filtering conditions and improving entry and exit rules.

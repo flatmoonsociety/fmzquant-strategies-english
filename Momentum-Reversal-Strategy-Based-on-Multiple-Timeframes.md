@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/e475cd1061caeb3247.png)
+![IMG](assets/images/a177e95f3191aebd55fe2f1a06f1b9f26af2d3efea2f1f56bd0b78810fff7c62.png)
 [trans]
 ## Overview
 This strategy is based on price momentum by calculating the ratio of K-line entities and shadow lines, combined with the RSI indicator to determine the overbought and oversold state of the market, and looks for reversal opportunities for trading. It is mainly used for short-term trading, tracking the price potential reversal points in the short and medium term to obtain a higher winning rate.

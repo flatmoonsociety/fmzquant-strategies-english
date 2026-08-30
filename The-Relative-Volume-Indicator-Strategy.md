@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/6f34d614e599f38d13.png)
+![IMG](assets/images/43d02f89591aee18eca307465e96461543190022a79aacff8ebc780145be01f5.png)
  [trans]
 ### Strategy Overview ###
 This is a quantitative trading strategy based on the relative strength indicator (RSI) and the relative volume indicator. This strategy captures excess returns by capturing trading signals at the fastest stage of a strong market.

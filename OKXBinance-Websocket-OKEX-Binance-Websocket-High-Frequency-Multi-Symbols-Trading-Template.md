@@ -136,17 +136,17 @@ The running effect is as follows, you can also subscribe to multiple varieties i
 ||
 The running status is as follows, you can also subscribe to multiple symbols in the subscribe function
 [/trans]
- ![IMG](https://www.fmz.com/upload/asset/107646c11b93b32c493.png) 
+ ![IMG](assets/images/6735e1bd299c99d35a53e1782ad7c92b36d8301e3016c94f29ab9d276f00186f.png) 
  
 [trans]
 The following is the effect of a market strategy common to OKX and Binance based on this template.
 ||
 The following is the a common market maker robot for OKX and Binance based on this template
 [/trans]
- ![IMG](https://www.fmz.com/upload/asset/73393d2122c1f41a2a.png) 
+ ![IMG](assets/images/e6fdb5df025e0f94f91e24702c29ffa4b8eddce10796ed0f8a5d65fa9b2c9974.png) 
  
  
- ![IMG](https://www.fmz.com/upload/asset/17efd8896a74dc9e271.gif) 
+ ![IMG](assets/images/26b6b22689ce73b2ef6c2b8d606948e18d0314a9b67d16cca9cdd812bfad1595.gif) 
 
 
 

@@ -46,7 +46,7 @@ The original formula for calculation is posted there
 
 **backtest**
 
- ![IMG](https://www.fmz.com/upload/asset/12d9252c09f58fd6c73.png) 
+ ![IMG](assets/images/f61176bcde251931578d84ee3df779b40d0caeae63144a9171826d43c044d960.png) 
 
 > Strategy Arguments
 

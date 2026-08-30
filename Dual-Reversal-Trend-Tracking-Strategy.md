@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/f0a1922718badc9227.png)
+![IMG](assets/images/2f16755f5a017d744c424079c3d55835cc7b3bd9bdb3b17feac913ec2748273e.png)
 [trans]
 ## Overview
 This is a trend following strategy that combines dual reversal signals. It integrates the 123 reversal strategy and the performance index strategy to track price reversal points and achieve more reliable trend judgment.

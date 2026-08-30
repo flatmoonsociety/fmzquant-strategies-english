@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/107bc45e949b3e2cf23.png)
+![IMG](assets/images/02fb0c7169d62f2ab816a7807b4b694452c0c6dd1057872267e6d79894c9f9ad.png)
  [trans]
 
 This strategy calculates three moving averages of different periods and combines price breakthroughs to form trading signals. It is a typical trend following strategy. This strategy is designed to track the mid-term market trend and can be applied to different varieties and trading environments by dynamically adjusting parameters.

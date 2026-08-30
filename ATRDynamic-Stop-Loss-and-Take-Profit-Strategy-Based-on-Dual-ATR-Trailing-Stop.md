@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/d55a8a9a5b95019c53.png)
+![IMG](assets/images/aa906b2f8298152bd7aeb323feb1a3a06a4c867bee22f25b346fd19ba20cfd2b.png)
 [trans]
 ## Overview
 This strategy uses two ATR (Average True Range) indicators with different periods to construct dual dynamic trailing stop loss lines and generate trading signals when the price breaks through the stop loss line. At the same time, the actual length of the candle line is used to dynamically set the take-profit price to achieve dynamic take-profit and stop-loss. The strategy also incorporates the EMA indicator to assist in determining trends.

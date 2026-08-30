@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/e32108b76a2a98659a.png)
+![IMG](assets/images/902cf82b50c3fb4d22efd261bca3345ea5d981fe085f31a5e6ff8b307539d516.png)
 [trans]
 #### Overview
 This strategy combines two technical indicators, the Relative Strength Index (RSI) and Supertrend, to capture market trends and identify potential trading opportunities. The main idea of ​​the strategy is to use RSI to determine the overbought and oversold status of the market, and at the same time use the Supertrend indicator to confirm the trend direction. When the RSI and Supertrend indicators meet specific conditions at the same time, the strategy generates a buy or sell signal.

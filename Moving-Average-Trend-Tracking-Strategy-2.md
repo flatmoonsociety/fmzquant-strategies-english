@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1675646b92ccac1aae9.png)
+![IMG](assets/images/397d1f600c53486b6e8c547f4af71802686ffb056e72e73eb44697990a4635fa.png)
  [trans]
 ### Overview
 This strategy is a quantitative trading strategy based on trend indicators. It mainly uses three moving averages of different periods, combined with the ATR indicator, to track market trends and assist in determining the timing of entry and exit.

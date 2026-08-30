@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/124a9e4a96ad6f09453.png)
+![IMG](assets/images/b54adbfd8e582852fa7eac5f0800e6740ac36869c5d854bb457698acd384d41c.png)
 [trans]
 ### Overview
 The dual moving average volatility tracking strategy combines the two main ideas of the golden cross and dead cross strategy and the moving average volatility indicator tracking strategy. By calculating simple moving average crossovers in different periods, the golden cross and dead cross are determined. At the same time, the Bollinger fluctuation band and VIDYA indicator are combined to determine the market trend and volatility, achieving a clear judgment of the trend and efficient capture of key points.

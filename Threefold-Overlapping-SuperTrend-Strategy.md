@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/17997fae09a4a0064ba.png)
+![IMG](assets/images/649dea216d610a6c50d090c92f8fb91c5dca2273ca7fb71b2b19c0247ae5fc98.png)
 [trans]
 ## Overview
 This is a strategy that utilizes the Triple Overlay Supertrend indicator for trading decisions. It can capture larger directional opportunities in trend markets.

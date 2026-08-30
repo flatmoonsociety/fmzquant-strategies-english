@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1bcea81cfe1913af0aa.png)
+![IMG](assets/images/48d852d341da09a84801c4647f24045f31e494a9833cdcf4863492ce1500ce4c.png)
 [trans]
 ## Overview
 The Momentum Absolute Value Indicator strategy is an improved version of the Momentum Indicator CMO developed by Tushar Chande. This strategy determines whether the market is currently overbought or oversold by calculating the absolute momentum value of the price to capture mid-term price fluctuations in the market.

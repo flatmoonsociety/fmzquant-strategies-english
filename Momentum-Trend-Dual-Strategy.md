@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/874d90cb2e7e47c812.png)
+![IMG](assets/images/2cf72c66edf4bcc71a2bbd837ddc38c263f849dad0b4139d23d3ea9b5c6154c0.png)
  [trans]
 ## Overview
 This strategy combines two indicators, the Relative Strength Index (RSI) and Bollinger Bands, to implement a double-confirmed opening and closing logic. This strategy will only issue a trading signal when the RSI and Bollinger Bands both display overbought or oversold signals. This can effectively reduce false signals and improve strategy stability.

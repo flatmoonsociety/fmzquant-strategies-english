@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/12dc597f9f0488ab640.png)
+![IMG](assets/images/8e47a35fe417817ca5da1904582b4ef079bc1bdf41cec5816944840bf7c0cfee.png)
 [trans]
 #### Overview
 This strategy uses Bollinger Bands and the Relative Strength Index (RSI) to identify trading signals. When the price breaks through the upper or lower Bollinger Bands and the RSI is above the overbought level or below the oversold level, a buy or sell signal is generated. This strategy is designed to capture extreme moves in price and uses RSI to confirm the strength of the trend.

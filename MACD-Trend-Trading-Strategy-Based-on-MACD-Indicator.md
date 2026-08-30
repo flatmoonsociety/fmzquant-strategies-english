@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/196a1a2b261653f67cd.png)
+![IMG](assets/images/544caa4d0fc4ccac400dbc715b5899e66b6c3c6055e8884eec8052dba1d7a08d.png)
 [trans]
 ## Overview
 The core of the strategy is based on an indicator developed by Andrew Abraham in an article published in the September 1998 TASC column of Trading Trends magazine. This indicator uses the average true fluctuation range and price channel to determine the market trend direction, and combines it with the MACD indicator to filter trading signals, aiming to capture medium and long-term trends.

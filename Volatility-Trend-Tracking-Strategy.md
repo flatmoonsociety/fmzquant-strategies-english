@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/c5820774c1f3cee91b.png)
+![IMG](assets/images/3bd55f7ffaf122fe8b27ba7c7dd85c3e0dba61a0cdb0b7c7d18868429b05f2b9.png)
 [trans]
 ## Overview
 This strategy uses the WaveTrend indicator to determine price trends and overbought and oversold conditions, combines the RSI indicator to filter signals, and uses trend tracking to perform reverse operations at overbought and oversold levels.

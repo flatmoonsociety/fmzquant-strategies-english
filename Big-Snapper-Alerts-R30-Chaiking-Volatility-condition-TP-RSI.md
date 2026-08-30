@@ -16,7 +16,7 @@ Educational Script - Use this tool at your own responsability.
 
 **backtest**
 
- ![IMG](https://www.fmz.com/upload/asset/1625ca6598ac6191ade.jpg) 
+ ![IMG](assets/images/cd85d73811399fc301f92ae3ef0d78b2a68dc9bac69f6bef1b17f0a5b4493dd9.jpg) 
 
 > Strategy Arguments
 

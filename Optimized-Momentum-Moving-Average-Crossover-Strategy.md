@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1b1d0e6f91343dfbfb9.png)
+![IMG](assets/images/1ff05e3a9a9010d298de91e26bd0b96824b3925b2ed0ec1bacc52840fcb0f5b1.png)
 [trans]
 ## Overview
 The momentum average crossover optimization strategy is a quantitative trading strategy that integrates multiple functions such as moving average crossover, position control, and risk management. This strategy uses the intersection of the fast moving average and the slow moving average as a buying and selling signal, and combines it with the dynamic control of position size to achieve risk management. Compared with the traditional moving average crossover strategy, this strategy has been optimized in many aspects and can provide a more advanced and reliable quantitative trading solution.

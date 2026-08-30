@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1a6e76dbbe7e4cef797.png)
+![IMG](assets/images/1f01c3851c7bc29571c282b50720ab15a1235405bf5467fda959a3b7885ac73f.png)
 [trans]
 ## Overview
 This strategy is a breakthrough strategy that uses the ATR indicator to construct trading signals. This strategy uses the moving average system to generate trading signals, and builds long and short positions through the upper and lower channels of the ATR indicator amplified by the golden section. Able to make large profits in trends and obtain small, stable profits in volatile market conditions.

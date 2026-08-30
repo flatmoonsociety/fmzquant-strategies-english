@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/12468a2db0101907594.png)
+![IMG](assets/images/ff36488fce999e99c96a23c9226d06ca59c68f2cd7ba37f320c53f65e3584ffa.png)
 [trans]
 ## Overview
 The RSI indicator sucker trading strategy is a fixed grid trading method that integrates RSI and CCI technical indicators. This strategy determines the entry timing based on the values ​​of RSI and CCI indicators, and uses a fixed profit ratio and a fixed number of grids to set take-profit orders and position-adding orders. At the same time, the strategy also integrates a hedging mechanism for breakthrough price movements.

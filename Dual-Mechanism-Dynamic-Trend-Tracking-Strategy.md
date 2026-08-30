@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/144204ead13ae3b34fc.png)
+![IMG](assets/images/9328a662b16e97bb9c537b13ad4cfd1357cb6f31fd4578e0594f5085891d689d.png)
 [trans]
 ## Overview
 The dual mechanism dynamic trend following strategy is a trend following strategy that combines signals from two different trading strategies. This strategy first uses the 123 reversal strategy to determine the price reversal point, then combines the detrended synthetic price (D_DSP) index to determine the price trend direction, and finally combines the two signals to generate trading instructions.

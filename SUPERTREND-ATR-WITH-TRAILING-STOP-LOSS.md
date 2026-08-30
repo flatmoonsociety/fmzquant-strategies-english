@@ -40,7 +40,7 @@ The strategy has the following parameters:
 ## NOTE
 
 **backtest**
- ![IMG](https://www.fmz.com/upload/asset/1b6e2cd4525c73f55ac.png) 
+ ![IMG](assets/images/d7de758828a3726f8068935a671dd94e5d31ab2e2b1e53ef4936e8adc13ac736.png) 
 
 > Strategy Arguments
 

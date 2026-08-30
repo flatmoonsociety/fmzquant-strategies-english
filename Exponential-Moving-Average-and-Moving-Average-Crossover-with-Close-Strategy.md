@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/f25abf80efbe906870.png)
+![IMG](assets/images/6d1d5df581612546da0195ac10e097331a638ccecbf3e81b816a7a012f8a6bc1.png)
  [trans]
 ## Overview
 The moving average crossover and closing trading strategy is a strategy that conducts trading operations based on the price movement of the 9-day exponential moving average (EMA) and the 20-day simple moving average (MA). This strategy uses the crossover signals of EMA and MA to determine the direction of the trend to issue buy and sell signals. Once the price crosses the moving average again, the strategy closes the existing position.

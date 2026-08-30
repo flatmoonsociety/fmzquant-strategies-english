@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/12cea905217ba13a11a.png)
+![IMG](assets/images/baeb990c86b029172a38aeb1135c268c50d0a67125ca04d7970b14c30f35a2ca.png)
  [trans]
 ## Overview
 This is a trend following strategy designed based on the Ichimoku indicator. This strategy uses the conversion line, baseline and cloud formation of the Ichimoku Balance Sheet, sets very strict entry conditions, and uses a simple stop loss method to close the order. This strategy is suitable for long-term trend trading.

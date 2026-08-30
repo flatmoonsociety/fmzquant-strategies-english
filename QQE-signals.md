@@ -12,7 +12,7 @@ ChaoZhang
 Converted the QQE oscillator to in-chart long and short signals with built in alerts. This is multi-timeframe and quite robust.
 **backtest**
 
- ![IMG](https://www.fmz.com/upload/asset/169ba0815c6b2e0b187.png) 
+ ![IMG](assets/images/69c75f71682eb71d38811664236059f770917d0628ef4a8195dec27a12aa7709.png) 
 
 > Strategy Arguments
 

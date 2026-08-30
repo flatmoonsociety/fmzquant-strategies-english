@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/135d93e3523629b7234.png)
+![IMG](assets/images/eada30fa633b9fac3c57f2a9b9af9bd379b42fa77f621f60b603a370178d4abc.png)
 [trans]
 ### Overview
 This strategy uses a combination of three different technical indicators to build a multi-time frame arbitrage strategy to achieve low-risk excess returns by capturing price trends in different time periods.

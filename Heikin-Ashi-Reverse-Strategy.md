@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/12e58f09124d01f95ae.png)
+![IMG](assets/images/0790ec4fa5ed731bc76cd2a024a920062aa3985ba746799f60d072482d34171d.png)
 [trans]
 ### Overview
 This strategy is mainly based on the improved HA moving average to identify the price turning point to capture relatively obvious trend changes, and is a short-term trading strategy. The strategy uses HA to calculate the opening, high, low, and closing prices of the K line, and determines the final K line color based on the price relationship. When the price rises, it is represented by a green columnar line, and when the price falls, it is represented by a red columnar line. The strategy uses the color change of the HA column line as a trading signal. It goes short when the green turns to red and goes long when the red turns to green. It is a typical reversal strategy.

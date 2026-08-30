@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1d2c8e4caaaf440cce2.png)
+![IMG](assets/images/892b4737ed79eadbcf66f015d43b9294a4ce4418a39e45a7d359cec7725d57d0.png)
  [trans]
 ## Overview
 This strategy develops a relatively stable and reliable quantitative trading strategy by combining the triple moving average indicator and the MACD indicator. This strategy aims to capture possible future trends and is particularly suitable for medium and long-term positions.

@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1351b3dcd32a5335df2.png)
+![IMG](assets/images/2aeff5958d60b5bd9c5ca1b546a5193c76f660e5fa3d8a85b0debabbc7749c46.png)
 [trans]
 ### Overview
 The core idea of ​​this strategy is to combine the super trend indicator and the average trend indicator (ADX) to realize the judgment and tracking of the trend. The super trend indicator is used to identify the direction of the current price trend, and ADX is used to judge the strength of the trend. Trade only when there is a strong trend. In addition, the strategy also uses K-line entity color, trading volume indicators, etc. for confirmation to form relatively complete trading rules.

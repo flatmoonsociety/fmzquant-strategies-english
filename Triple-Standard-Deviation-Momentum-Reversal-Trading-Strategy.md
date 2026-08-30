@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/db1617f3fbf4a88d9d.png)
+![IMG](assets/images/b06d7348dbd34553ef94b76ddf819faca02c94423bacd4e932665aad38a4c740.png)
 [trans]
 #### Overview
 The three standard deviation momentum reversal trading strategy is a quantitative trading method based on statistical principles. This strategy takes advantage of the characteristics of price fluctuations around the moving average, determines the abnormal price fluctuation range by calculating the standard deviation, and conducts counter-trend trading when the price reaches extreme deviations. This method aims to capture the return behavior after short-term market overreaction, and is especially suitable for volatile trading varieties and smaller time periods.

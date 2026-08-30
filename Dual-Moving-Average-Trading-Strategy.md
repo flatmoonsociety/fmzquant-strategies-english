@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/19593d399da9dc214da.png)
+![IMG](assets/images/c51278c36c421b1ea44d90c6d79eba09243b5fd80242721b5cdbad03a36b2c87.png)
  [trans]
 ## Overview
 Dual Moving Average Trading Strategy is a quantitative trading strategy that uses two moving averages of different periods to construct trading signals. This strategy determines market trends and opportunities by calculating the relationship between two moving averages, and has a good tracking effect in trending markets.

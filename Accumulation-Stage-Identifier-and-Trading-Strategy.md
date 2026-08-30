@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/14fb3c5f93cca937174.png)
+![IMG](assets/images/dd22957959de5398b10bad0293a6b0b936fda3cb4e06e74be69cbfb70c098c73.png)
 [trans]
 ### Overview
 This strategy uses a combination of moving averages, volume indicators, and price momentum indicators to design a set of quantitative rules to identify when stocks enter the accumulation phase. At this stage, the stock is usually in a state of price consolidation and momentum, providing a good opportunity to enter the market at a lower price.

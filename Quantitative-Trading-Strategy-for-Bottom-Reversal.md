@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/12dae229e36addb8257.png)
+![IMG](assets/images/86cb61eb6b482aa5941c7cee4fbd269a6bfe49c0f7909607e7e322745424d0dd.png)
 [trans]
 ## Overview
 This strategy calculates the fast RSI indicator and K-line entity filtering to determine whether the market is in an oversold state, thereby achieving low-priced operations. When the rapid RSI is lower than 10 and the K-line entity is enlarged, it is considered that the signal of market reversal appears, so that the judgment of the market bottom can be realized.

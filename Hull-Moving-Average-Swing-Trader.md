@@ -18,7 +18,7 @@ Buy and Sell signals on chart, red & green view pane (Green Buy, Red Sell)
 **backtest**
 
 
- ![IMG](https://www.fmz.com/upload/asset/1a38528566ff6c42af6.png) 
+ ![IMG](assets/images/ed0f360f40edd9aba8087df6f17f4078d7ccab3d64049d7189ed22dff333ced3.png) 
 
 > Strategy Arguments
 

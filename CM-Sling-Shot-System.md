@@ -23,7 +23,7 @@ See Link Below for Main Chart Showing 2nd System!!!
 
 **backtest**
 
- ![IMG](https://www.fmz.com/upload/asset/1cff6c996298e8426b1.png) 
+ ![IMG](assets/images/760d36dd0b892d01c55dfb525e8fdb4ade46c1a6ea0a011da53990639d1bbb57.png) 
 
 > Strategy Arguments
 

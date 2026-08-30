@@ -34,7 +34,7 @@ This one will take a little bit of time to master. But, once you master this, an
 
 **backtest**
 
- ![IMG](https://www.fmz.com/upload/asset/1b1cd2d0ad479aabcbc.jpg) 
+ ![IMG](assets/images/f744b1917c3b9e899d8da34be33b82d675b134d09eb323695e34d0eb3fff921a.jpg) 
 
 > Strategy Arguments
 

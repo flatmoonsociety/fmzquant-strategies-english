@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/f23c8344ea6d11808e.png)
+![IMG](assets/images/18ca5ec361395ca236fe41fb4d554266db96752f4634250707e69481b3090ead.png)
 [trans]
 ## Overview
 This strategy is a long-only Ichimoku cloud trading strategy. It opens a long position when the conversion line crosses the base line and closes the position when the base line crosses below the conversion line. In addition, the lag span will be detected when opening and closing positions. If the lag span is higher than the cloud layer, the position will be opened, and if the lag span is lower than the cloud layer, the position will be closed.

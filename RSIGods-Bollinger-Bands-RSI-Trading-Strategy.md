@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/f781fc6f8091d36a4e.png)
+![IMG](assets/images/2dbfc9b530e96b5aa3c4d1d5174e01f66c35058b5de54cb0372ca9386d40441b.png)
  [trans]
 ### Overview
 Dashen's volatility band RSI trading strategy combines the volatility band indicator and the relative strength index (RSI) indicator to generate a buy signal when the price breaks through the upper track and the RSI indicator shows an oversold signal; when the price falls below the upper track and the RSI indicator shows an overbought signal, a sell signal is generated. This strategy mainly uses the fluctuation band indicator to judge the rhythm changes of market fluctuations, combines the RSI indicator to find overbought and oversold phenomena, and sends trading signals at reversal points.

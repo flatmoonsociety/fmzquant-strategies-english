@@ -30,7 +30,7 @@ function main() {
 }
 ```
 
-![IMG](https://www.fmz.com/upload/asset/16d33bb293b09726b5dc.png) 
+![IMG](assets/images/b78dd37b03abf3dbab07c5ea4f311f86a099836f3b5771fcd023e273015f4a81.png) 
 
 ```main```函数是使用例子，其它函数可以摘出来直接使用。
 

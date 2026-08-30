@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1a2d435d9c8a513d0a6.png)
+![IMG](assets/images/5e83997bca364e98493f248397835b061b556d3adf715b2e7d0299c855ea1e80.png)
  [trans]
 ## Overview
 This strategy combines the two factors of the Moving Average Convergence Index (MACD) and the Stochastic Relative Strength Index (Stoch RSI) to determine the market trend direction. It goes long when the trend is upward and short when the trend is downward. It is a trend following type strategy.

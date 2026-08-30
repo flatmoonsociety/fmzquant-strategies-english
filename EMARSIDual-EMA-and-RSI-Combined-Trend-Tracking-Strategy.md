@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1888a2176014adf0cd6.png)
+![IMG](assets/images/96ac5317412275b99383965fb17adc41e7ae17307e3c61af966f5314fdeb05ae.png)
  [trans]
 ## Overview
 This strategy uses a combination of dual EMA and RSI indicators to identify price trends and timely enter the market when the trend direction changes. Specifically, the strategy uses the longer-period EMA to determine the direction of the general trend, while using the RSI indicator to determine short-term overbought and oversold phenomena. When the price pulls back in the direction of the main trend, a trading signal is sent through the RSI indicator to go long or short according to the direction of the trend.

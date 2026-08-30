@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/16f517e1fd1f7d5fdf6.png)
+![IMG](assets/images/ac23969dbaa709faefb58c0ab5c0d97b2df25bb11849620033c5743c9b84e784.png)
  [trans]
 ## Overview
 This strategy is named "Moving Average Span Reversal". It calculates the intersection between moving averages of different periods, determines the timing of market reversal, and takes appropriate long and short operations.

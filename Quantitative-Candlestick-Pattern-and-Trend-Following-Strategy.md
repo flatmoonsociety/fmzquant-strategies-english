@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/172df88247c909ff16b.png)
+![IMG](assets/images/21116682c7f41bd6540161820f90701510748e832e02cfd5311d3cb9ab1a5ee7.png)
  [trans]
 ## Overview
 The name of this strategy is "Quantitative Trading Candlestick Pattern and Trend Following Strategy". This strategy combines the strategic ideas of candle pattern analysis and trend following trading.

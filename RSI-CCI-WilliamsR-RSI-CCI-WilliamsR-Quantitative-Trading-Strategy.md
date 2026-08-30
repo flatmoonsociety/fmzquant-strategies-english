@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/d145c1ffd030492c64.png)
+![IMG](assets/images/d49e40157d548366013d0e49b7cdc5a8ce8db200bd32b1c61d59515109f3bc61.png)
  [trans]
 ##Strategy Overview
 This strategy is a short- to medium-term strategy that combines three classification indicators: RSI, CCI and William indicator to achieve an effective combination of buying and selling signals. The strategy issues a trade signal when three indicators simultaneously display overbought or oversold signals. Compared with using a single indicator, this combination strategy can filter out more false signals, thus improving the stability of the strategy.

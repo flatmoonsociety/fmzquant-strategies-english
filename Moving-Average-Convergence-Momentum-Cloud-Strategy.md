@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/172a246afcf7f3546a8.png)
+![IMG](assets/images/9beb3bfb71f12b5869657d6fd990f9ec9c0c95623e34ea3bf7d22835c9a2fb37.png)
 [trans]
 #### Overview
 The Moving Average Aggregation Momentum Cloud Strategy is a comprehensive trading strategy designed to provide powerful signals for trending and range-bound market conditions by combining multiple technical indicators. This strategy integrates moving averages, Bollinger Bands, Relative Strength Index (RSI) and Ichimoku Cloud to provide a comprehensive perspective on market dynamics and help traders make informed decisions.

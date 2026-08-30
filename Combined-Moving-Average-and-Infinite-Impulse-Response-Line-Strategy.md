@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/17ed5ee4641bca88c81.png)
+![IMG](assets/images/b269ff518bae10aeac1fe904ec016823aa3c719120d6b4eca563530c0872a73e.png)
  [trans]
 ## Overview
 This is a quantitative strategy that uses a combination of moving averages, infinite impulse response averages (IIR), and adaptive linear moving averages (ALMA). This strategy has a variety of indicator combinations that can provide traders with rich trading signals.

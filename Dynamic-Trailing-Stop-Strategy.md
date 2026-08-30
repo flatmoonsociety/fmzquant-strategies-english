@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/1afc532d51fa268bbc2.png)
+![IMG](assets/images/64778a32e2a71324147c17bc4079958cb6cbd3489cbbc2ef3b6597850cc59449.png)
 [trans]
 ## Overview
 This strategy aims to use the trailing stop loss function of the Viemstra platform to dynamically adjust the stop loss price to achieve a more accurate and flexible stop loss. The strategy is not used for entry and exit, but gives a reasonable stop loss range under different market conditions. It is recommended that you optimize different parameters through backtesting. This strategy can also be integrated into existing entry and exit strategies as a stop loss.

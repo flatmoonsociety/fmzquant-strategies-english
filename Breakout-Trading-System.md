@@ -8,7 +8,7 @@ ChaoZhang
 
 > Strategy Description
 
-![IMG](https://www.fmz.com/upload/asset/187a52fb1a583d963ba.png)
+![IMG](assets/images/fe729ae792860ba6484119f89b0847f35c37dd6d070fb9d193fac4fe416ac293.png)
 [trans]
 ### Overview
 This strategy is a breakout trading system that mainly conducts buying and selling operations based on price breakthroughs. This system uses the Bollinger Bands indicator to identify breakout price areas. When the price breaks upward from the lower track of Bollinger Bands, a buying operation is carried out; when the price breaks downward from the middle or lower track of Bollinger Bands, a selling operation is carried out.
