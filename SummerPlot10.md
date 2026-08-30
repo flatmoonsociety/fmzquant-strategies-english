@@ -5,8 +5,7 @@ SummerPlot10
 
 > Author
 
-夏天不打你
-
+I won’t hit you in the summer
 
 
 

@@ -30,9 +30,8 @@ Additionally, as mentioned above, it can be hard to determine when selling press
 **Summary**
 The Bollinger Bands strategy is often used with the assistance of other indicators to make strategic trading decisions based on the status of the market and position of stocks. When there is consistent seller pressure present, and this pressure is not corrected in a timely manner, stocks then continue to make new lows into oversold conditions. In order to use the Bollinger Bands strategy effectively, it is advised that you have a decent exit strategy, such as stop-loss orders. This is to ensure that you and your trade are protected from a stock that continues to ride the lower band, without knowing at what point selling pressure will end.
 
-**回测**
- ![IMG](https://www.fmz.com/upload/asset/11ac1fd3c8fe95be131.png) 
-
+**Backtest**
+ ![IMG](https://www.fmz.com/upload/asset/11ac1fd3c8fe95be131.png)
 > Strategy Arguments
 
 

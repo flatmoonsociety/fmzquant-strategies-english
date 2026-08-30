@@ -5,15 +5,13 @@ Iceberg-Buy-Order
 
 > Author
 
-小草
-
+grass
 > Strategy Description
 
-冰山委托指的是投资者在进行大额交易时，为避免对市场造成过大冲击，将大单委托自动拆为多笔委托，根据当前的最新买一/卖一价格和客户设定的价格策略自动进行小单委托，在上一笔委托被全部成交或最新价格明显偏离当前委托价时，自动重新进行委托。
-例子:
-如果单次均值浮动点数设置为10那么:
-每一笔委托的数量为其单次委托平均值的90%~110%，委托价格为最新买1价*（1-委托深度），在上一笔委托全部成交后再进行新的一笔委托，在最新成交价格距离该笔委托超过委托深度*2时自动撤单并重新进行委托。在策略总成交量等于其总委托数量时停止委托。当市场的最新成交价格高于其最高买入价格时停止委托，在最新成交价格重新低于最高买入价后恢复委托。
-
+Iceberg orders mean that when investors conduct large-amount transactions, in order to avoid excessive impact on the market, the large orders are automatically split into multiple orders, and small orders are automatically made based on the current latest buy/sell price and the price strategy set by the customer. When the previous order is fully completed or the latest price deviates significantly from the current order price, the order is automatically re-entrusted.
+Example:
+If the number of single-time average floating points is set to 10, then:
+The quantity of each order is 90% to 110% of the average value of a single order, and the order price is the latest buying price * (1 - order depth). A new order will be placed after all the previous orders are completed. When the latest transaction price is more than the order depth * 2 from the order, the order will be automatically canceled and the order will be re-entrusted. Stop placing orders when the strategy's total trading volume equals its total order quantity. The order is stopped when the latest transaction price of the market is higher than the highest bid price, and the order is resumed after the latest transaction price is lower than the highest bid price again.
 > Strategy Arguments
 
 

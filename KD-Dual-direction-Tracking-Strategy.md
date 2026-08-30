@@ -11,14 +11,10 @@ ChaoZhang
 
 
 [trans]
-KD指标双向追踪策略
-
-该策略通过KD指标判断市场的强弱趋势,并基于强弱态势进行双向追踪交易。具体来说,当K值上穿80时判定为强势市场;当K值下穿20时判定为弱势市场。在强势市场,当K值首次下穿50时做多追涨;在弱势市场,当K值首次上穿50时做空追跌。平仓条件为强势转弱做多平仓,弱势转强做空平仓。
-
-该策略的优点是可以顺势而为,及时追踪市场的各种转折点。但KD本身滞后性较强,无法提前判断转折。同时,该策略存在加仓追涨追跌的高风险。这需要严格的止损控制,否则亏损将快速扩大。
-
-总的来说,KD指标双向追踪策略可以抓住强势行情但风险很大。它需要详尽的回测优化参数,并配合好的止损机制,才能在实盘中稳定运用。
-
+KD indicator two-way tracking strategy
+This strategy uses the KD indicator to determine the strength and weakness of the market, and conducts two-way tracking transactions based on the strength and weakness. Specifically, when the K value goes above 80, it is determined to be a strong market; when the K value goes below 20, it is determined to be a weak market. In a strong market, when the K value crosses 50 for the first time, go long to chase the rise; in a weak market, when the K value crosses 50 for the first time, go short to chase the fall. The conditions for closing a position are that if the strength turns weak, long positions will be closed, and if the weakness turns strong, short positions will be closed.
+The advantage of this strategy is that it can follow the trend and track various turning points in the market in a timely manner. However, KD itself has a strong hysteresis and cannot judge the turning point in advance. At the same time, this strategy has a high risk of adding positions to chase the rise and the fall. This requires strict stop loss control, otherwise losses will expand rapidly.
+In general, the KD indicator two-way tracking strategy can capture the strong market but the risk is high. It requires detailed backtest optimization parameters and a good stop-loss mechanism to be used stably in real trading.
 || 
 
 This strategy uses the KD indicator to determine market strength and weakness, and trades both directions based on the momentum. Specifically, the market is considered strong when K crosses above 80, and weak when K crosses below 20. In a strong market, long positions are added when K first crosses below 50. In a weak market, short positions are added when K first crosses above 50. Exits occur when strong turns weak or vice versa. 
@@ -35,10 +31,9 @@ In summary, the KD dual-direction tracking strategy can capitalize on strong mom
 
 |Argument|Default|Description|
 |----|----|----|
-|v_input_1|20|庫存上限(share)|
-|v_input_2|-10|庫存下限(share)|
-|v_input_3|9|KD 週期(KD period)|
-
+|v_input_1|20|Inventory limit (share)|
+|v_input_2|-10|Inventory lower limit (share)|
+|v_input_3|9|KD period(KD period)|
 
 > Source (PineScript)
 

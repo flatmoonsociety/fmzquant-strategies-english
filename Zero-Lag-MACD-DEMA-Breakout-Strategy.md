@@ -11,16 +11,11 @@ ChaoZhang
 
 
 [trans]
-零拉格MACD DEMA突破策略
-
-该策略基于Toff的MACD DEMA指标构建交易信号。MACD DEMA指标通过计算DEMA快线和DEMA慢线的差值,再经过去相移处理,可以有效消除MACD指标的滞后问题。
-
-该策略的交易规则是:当零拉格MACD上穿0轴做多;当零拉格MACD下穿0轴做空。通过MACD对0轴的突破来判断市场的多空态势。
-
-这种基于零拉格MACD的策略的优势在于可以更敏感地捕捉趋势的变化,采用DEMA而非EMA可以过滤假突破。但是MACD指标本身对复杂行情的判断力有限,存在一定的错误信号风险,需要配合趋势过滤指标来提高稳定性。
-
-总的来说,零拉格MACD DEMA突破策略对强势趋势行情效果很好,可以快速抓住机会。但在盘整行情中表现较差,需要谨慎使用。只有不断优化参数并严格控制风险,才能长期应用该策略。
-
+Zero Rag MACD DEMA Breakout Strategy
+This strategy builds trading signals based on Toff’s MACD DEMA indicator. The MACD DEMA indicator can effectively eliminate the lag problem of the MACD indicator by calculating the difference between the DEMA fast line and the DEMA slow line, and then undergoing phase shift processing.
+The trading rules of this strategy are: go long when the zero-lag MACD crosses the 0 axis above; go short when the zero-lag MACD crosses the 0 axis below. The long and short situation of the market can be judged by MACD's breakthrough on the 0 axis.
+The advantage of this strategy based on zero-lag MACD is that it can capture trend changes more sensitively, and using DEMA instead of EMA can filter out false breakthroughs. However, the MACD indicator itself has limited ability to judge complex market conditions, and there is a certain risk of false signals. It needs to be combined with the trend filter indicator to improve stability.
+In general, the zero-lag MACD DEMA breakthrough strategy works well for strong trending markets and can quickly seize opportunities. However, its performance is poor in consolidation market and needs to be used with caution. Only by continuously optimizing parameters and strictly controlling risks can this strategy be applied in the long term.
 ||
 
 This strategy builds trading signals based on Toff's MACD DEMA indicator. The MACD DEMA indicator calculates the difference between DEMA fast line and DEMA slow line, with zero-lag processing, effectively eliminating the lagging issue of regular MACD. 

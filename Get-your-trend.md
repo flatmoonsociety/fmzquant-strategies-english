@@ -5,12 +5,10 @@ Get-your-trend
 
 > Author
 
-发明者量化
-
+inventor quantification
 > Strategy Description
 
-来自tradingview社区热门策略
-
+Popular strategies from the tradingview community
 > Strategy Arguments
 
 

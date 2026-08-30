@@ -5,8 +5,7 @@ js-R-Breaker
 
 > Author
 
-太极
-
+Tai Chi
 > Strategy Description
 
 R-Breaker

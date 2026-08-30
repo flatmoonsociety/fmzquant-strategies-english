@@ -10,28 +10,17 @@ ChaoZhang
 > Strategy Description
 
 [trans]
-多重指标融合交易策略
-
-多重指标融合交易策略通过综合运用RSI、TD Sequential、MACD和布林带等多个指标的信号,在趋势行情中捕捉较高概率的交易机会。
-
-策略原理:
-
-1. 计算14周期RSI,设定RSIdifference参数作为买入卖出的阈值,当RSI低于(50 - RSIdifference)则产生买入信号,当RSI高于(50 + RSIdifference)则产生卖出信号。
-
-2. 计算MACD指标,当MACD历史柱连续5柱为正值时产生买入信号,当连续5柱为负值时产生卖出信号。
-
-3. 计算TD Sequential指标,当TD连续2柱上涨时判定为买入信号,当TS连续2柱下跌时判定为卖出信号。
-
-4. 计算20日布林带,价格突破上轨和下轨时产生相应的买入卖出信号。
-
-5. 只有当RSI、MACD、TD Sequential的三个指标同时发出同方向的信号时,且布林带无背离信号时,才生成最终的买入卖出决策。
-
-6. 根据止盈止损参数设定收益目标和止损点。
-
-该策略综合多个指标的优势,避免单一指标的假信号。同时通过布林带指标过滤,可在趋势行情中获得较高概率的交易机会。但指标参数设定需要反复测试优化,且必须保证同时满足四个指标条件时信号较少,避免过度交易。
-
-总体来说,该多重指标策略能在趋势明显时获取较高概率的交易机会,但需要仔细参数优化,且指标信号必须审慎处理,避免过于积极交易。
-
+Multiple indicator fusion trading strategy
+The multi-indicator fusion trading strategy captures higher probability trading opportunities in trending markets by comprehensively using signals from multiple indicators such as RSI, TD Sequential, MACD and Bollinger Bands.
+Strategy principle:
+1. Calculate the 14-period RSI and set the RSIdifference parameter as the threshold for buying and selling. When the RSI is lower than (50 - RSIdifference), a buy signal is generated. When the RSI is higher than (50 + RSIdifference), a sell signal is generated.
+2. Calculate the MACD indicator. When the MACD historical bar is positive for 5 consecutive bars, a buy signal is generated. When the MACD historical bar is negative for 5 consecutive bars, a sell signal is generated.
+3. Calculate the TD Sequential indicator. When TD rises for 2 consecutive bars, it is determined as a buy signal. When TS falls for 2 consecutive bars, it is determined as a sell signal.
+4. Calculate the 20-day Bollinger Band. When the price breaks through the upper and lower rails, corresponding buy and sell signals will be generated.
+5. Only when the three indicators of RSI, MACD, and TD Sequential send signals in the same direction at the same time, and the Bollinger Bands have no divergence signals, will the final buy or sell decision be generated.
+6. Set the profit target and stop loss point according to the take profit and stop loss parameters.
+This strategy combines the advantages of multiple indicators to avoid false signals from a single indicator. At the same time, through Bollinger Band indicator filtering, you can obtain higher probability trading opportunities in trending markets. However, the setting of indicator parameters requires repeated testing and optimization, and it must be ensured that there are fewer signals when the four indicator conditions are met at the same time to avoid over-trading.
+Generally speaking, this multi-indicator strategy can obtain higher probability trading opportunities when the trend is obvious, but it requires careful parameter optimization, and indicator signals must be handled prudently to avoid overly aggressive trading.
 ||
 
 

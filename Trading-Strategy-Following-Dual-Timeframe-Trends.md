@@ -12,29 +12,19 @@ ChaoZhang
 
 
 [trans]
-双重趋势跟随交易策略
-双重趋势跟随交易策略通过在多个时间周期判断趋势方向,实现在趋势开始时及早进入市场。该策略同时使用MACD和随机指数平滑移动平均线(SRSI)作为判断指标,在日线和4小时线形成一致信号时发出交易指令。
-
-策略原理:
-
-1. 在日线上计算MACD和SRSI指标,当MACD上穿信号线且SRSI%K上穿信号线时,判断为看涨信号。
-
-2. 在4小时线上计算MACD和SRSI指标,当MACD上穿信号线且SRSI%K上穿信号线时,判断为看涨信号。 
-
-3. 仅在日线和4小时线上的看涨信号同时出现时,做多入场。
-
-4. 若日线和4小时线上的看涨信号同时消失,平多仓位。
-
-5. 若日线和4小时线上的看跌信号(MACD和SRSI指标下穿)同时出现,做空入场。
-
-6. 若日线和4小时线上的看跌信号同时消失,平空仓位。
-
-7. 持续监控双重信号,实现趋势跟随。
-
-该策略的优势是能在趋势开始早期就进入市场,通过双重过滤提高信号的可靠性,避免在震荡期错
+Dual Trend Following Trading Strategy
+The dual trend following trading strategy achieves early entry into the market when the trend begins by judging the direction of the trend in multiple time periods. This strategy uses both MACD and the Stochastic Smoothed Moving Average (SRSI) as judgment indicators, and issues trading instructions when the daily line and the 4-hour line form consistent signals.
+Strategy principle:
+1. Calculate the MACD and SRSI indicators on the daily line. When MACD crosses the signal line and SRSI%K crosses the signal line, it is judged to be a bullish signal.
+2. Calculate the MACD and SRSI indicators on the 4-hour line. When MACD crosses the signal line and SRSI%K crosses the signal line, it is judged to be a bullish signal.
+3. Enter long only when the bullish signals on the daily and 4-hour lines appear at the same time.
+4. If the bullish signals on the daily and 4-hour lines disappear at the same time, close the long position.
+5. If the bearish signals on the daily and 4-hour lines appear at the same time (MACD and SRSI indicators cross downward), enter the market short.
+6. If the bearish signals on the daily and 4-hour lines disappear at the same time, close the short position.
+7. Continuously monitor dual signals to achieve trend following.
+The advantage of this strategy is that it can enter the market early in the trend, improve the reliability of the signal through double filtering, and avoid making mistakes during the shock period.
 ||
 Trading Strategy Following Dual Timeframe Trends
-
 This trading strategy identifies trend direction across multiple timeframes to get into trends early. It uses both MACD and Stochastic RSI (SRSI) as indicators, and enters trades when consistent signals are triggered on the daily and 4-hour timeframes.
 
 Strategy Logic:

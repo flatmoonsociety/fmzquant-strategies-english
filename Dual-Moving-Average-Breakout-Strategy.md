@@ -12,14 +12,10 @@ ChaoZhang
 
 [trans]
 
-该策略同时使用SMA和EMA两种移动平均线,根据价格突破的方向判断做多做空方向。当收盘价高于SMA和EMA时,做多;当收盘价低于SMA和EMA时,做空;当收盘价处于SMA和EMA之间时,平仓。用户可以自行设置SMA和EMA的周期长度。
-
-该策略的优点是同时结合两种均线系统,可以提高准确性。但是也存在一些问题,例如在盘整市场中容易产生错误信号,均线本身滞后性较大等。此外,该策略也没有设置止损以控制亏损。
-
-总而言之,该双均线突破策略适合趋势明显的市场,但需要谨慎使用。可通过优化参数,加入止损,以及增加其他指标过滤来完善该策略,减少信号错误率。
-
-综上所述,双均线突破策略具有简单的交易思路,但实际运用时需要注意风险控制。只有参数设置得当,才能将策略稳定运用于实盘。
-
+This strategy uses both SMA and EMA moving averages to determine the long and short direction based on the direction of the price breakthrough. When the closing price is higher than SMA and EMA, go long; when the closing price is lower than SMA and EMA, go short; when the closing price is between SMA and EMA, close the position. Users can set the period length of SMA and EMA by themselves.
+The advantage of this strategy is that it combines two moving average systems at the same time, which can improve accuracy. However, there are also some problems, such as erroneous signals that are prone to occur in consolidation markets, and the moving average itself has a large lag. In addition, this strategy does not set a stop loss to control losses.
+All in all, this double moving average breakthrough strategy is suitable for markets with obvious trends, but it needs to be used with caution. This strategy can be improved by optimizing parameters, adding stop losses, and adding other indicator filters to reduce signal error rates.
+To sum up, the double moving average breakthrough strategy has a simple trading idea, but you need to pay attention to risk control when using it in practice. Only if the parameters are properly set can the strategy be stably applied to real trading.
 ||
 
 This strategy uses both SMA and EMA moving averages to determine long and short direction based on price breakouts. It goes long when the close is above both SMA and EMA, goes short when the close is below both SMA and EMA, and flattens out when the close is between the SMA and EMA. The SMA and EMA periods can be customized by the user. 

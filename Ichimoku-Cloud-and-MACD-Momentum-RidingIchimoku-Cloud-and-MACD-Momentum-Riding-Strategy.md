@@ -13,79 +13,46 @@ ChaoZhang
 
 [trans]
 
-## 概述
+## Overview
+Ichimoku Cloud and MACD Momentum Riding is a trend following strategy that combines the Ichimoku Cloud indicator and the MACD Momentum indicator. This strategy uses the Ichimoku cloud chart to determine the trend direction and support and resistance levels, as well as the MACD indicator to determine momentum reversal, and enter the market at the right time during the trend. At the same time, the strategy uses trailing stop loss to lock in profits and reduce retracement.
+## Strategy Principle
+### Ichimoku cloud map
+The Ichimoku cloud chart consists of the turning line (Tenkan-Sen), the base line (Kijun-Sen), the leading line (Senkou-Span A), the delay line (Senkou-Span B) and the confirmation line (Chikou-Span). This strategy uses the following signals to determine trend direction and support and resistance:
+- When the price is above the cloud chart, it is an upward trend.
+- The price is below the cloud chart, indicating a downward trend
+- When the steering line crosses the baseline, it is a bullish signal
+- When the reversal line crosses the baseline, it is a short signal
+### MACD indicator
+Moving Average Convergence Divergence, or MACD, is a momentum indicator. In this strategy, when the fast line of MACD crosses the slow line, it is a long signal, and when it crosses below, it is a short signal.
+### Entry and Exit
+When the turning line crosses the baseline, the delay line crosses the closing price of the previous 26 K lines, the closing price breaks through the upper edge of the cloud chart, and MACD is golden cross, enter the market long.
+When the price rises by 3%, the strategy will move the stop loss line to 97% of the current price to lock in profits and track the price increase. If the retracement exceeds 3%, stop loss and exit.
+When the turning line crosses the baseline, the delay line crosses the closing price of the previous 26 K lines, the closing price falls below the lower edge of the cloud chart, and MACD crosses dead, enter the market short.
+When the price drops by 3%, the strategy will move the stop loss line to 103% of the current price to lock in profits and track the price drop. If the rebound exceeds 3%, stop loss and exit.
 
-Ichimoku Cloud and MACD Momentum Riding是一个结合Ichimoku云图指标和MACD动量指标的趋势跟踪策略。该策略利用Ichimoku云图判断趋势方向和支持与阻力位,以及MACD指标判断动量反转,在趋势中择时进入场内。同时,策略采用追踪止损来锁定利润,降低回撤。
+## Advantage Analysis
+This strategy combines trend judgment and entry timing to obtain better returns in trending markets.
+1. Ichimoku cloud chart can clearly determine the trend direction. The strategy only enters the market when the direction of the cloud chart is consistent to avoid counter-trend operations.
+2. MACD can effectively determine short-term momentum reversal. Combined with cloud chart judgment, the accuracy of entry can be improved.
+3. Trailing stop loss allows the strategy to run in the trend for a long time. Strategies can be used in conjunction with fund management to effectively control single transaction risks.
 
-## 策略原理
+## Risk Analysis
+This strategy also has certain risks:
+1. Cloud image generation requires a long data cycle, and the judgment may be inaccurate in the short term.
+2. As an indicator that fluctuates with price, MACD is prone to generating false signals. The judgment should be revised based on more indicators.
+3. Trailing stop loss is only suitable for trending markets, and the stop loss range should be adjusted appropriately. Otherwise, you may stop losses too frequently in volatile market conditions.
+4. The strategy itself does not have a risk control module, and users should cooperate with fund management to control losses.
 
-### Ichimoku云图
+## Optimization direction
+Regarding the Ichimoku Cloud and MACD Momentum Riding strategy, it can be optimized from the following directions:
+1. Optimize parameters, adjust the period parameters of the steering line, baseline, etc., and optimize the parameters of MACD to make the signal clearer.
+2. Add filtering conditions and combine RSI, Bollinger Bands and other indicators to verify the signal and reduce the misjudgment rate.
+3. Add dynamic stop loss and dynamically adjust the stop loss range according to the degree of market volatility and risk preference.
+4. Combined with fund management, limit the proportion of single losses and effectively control overall losses.
+5. Develop the function of automatically selecting contracts and adjusting positions. Expand the adaptability of strategies and apply them in more markets.
 
-Ichimoku云图由转向线(Tenkan-Sen)、基准线(Kijun-Sen)、先行线(Senkou-Span A)、延迟线(Senkou-Span B)和确认线(Chikou-Span)组成。该策略使用以下信号来判断趋势方向和支持阻力:
-
-- 价格在云图上方,为上升趋势
-- 价格在云图下方,为下降趋势
-- 转向线上穿基准线,为多头信号  
-- 转向线下穿基准线,为空头信号
-
-### MACD指标  
-
-Moving Average Convergence Divergence,即MACD,是一种动量指标。该策略中MACD的快线上穿慢线为做多信号,下穿为做空信号。
-
-### 入场与退出
-
-当转向线上穿基准线,延迟线上穿前26根K线的收盘价,收盘价突破云图上沿,且MACD金叉时,做多入场。  
-
-当价格上涨3%时,策略会移动止损线至当前价格的97%,以锁定利润并跟踪价格上涨。如果回撤超过3%,则止损退出。
-
-当转向线下穿基准线,延迟线下穿前26根K线的收盘价,收盘价跌破云图下沿,且MACD死叉时,做空入场。
-
-当价格下跌3%时,策略会移动止损线至当前价格的103%,以锁定利润并跟踪价格下跌。如果回升超过3%,则止损退出。
-
-
-## 优势分析
-
-这种策略结合趋势判断和入场时机把握,可以在趋势行情中获得较好收益。
-
-1. Ichimoku云图可以清楚判断趋势方向。策略只在云图方向一致时入场,避免逆势操作。
-
-2. MACD可有效判断短期动量反转。结合云图判断,可提高入场精准度。  
-
-3. 追踪止损使得策略可在趋势中长期运行。策略可配合资金管理有效控制单笔交易风险。
-
-
-## 风险分析
-
-该策略也存在一定风险:  
-
-1. 云图生成需要较长数据周期,在短期内判断可能不准。
-
-2. MACD作为随价格波动的指标,容易产生误信号。应结合更多指标修正判断。  
-
-3. 追踪止损只适合趋势行情,应适当调整止损幅度。否则在震荡行情中可能过于频繁止损。
-
-4. 策略本身并无风控模块,用户应配合资金管理来控制亏损。
-
-
-## 优化方向  
-
-关于Ichimoku Cloud and MACD Momentum Riding策略,可从以下几个方向进行优化:
-
-1. 优化参数,调整转向线、基准线等的周期参数,优化MACD的参数,使信号更明确。
-
-2. 增加过滤条件,结合RSI、布林带等其他指标来验证信号,减少误判率。 
-
-3. 增加动态止损,根据市场波动程度和风险偏好动态调整止损幅度。
-
-4. 结合资金管理,限制单笔损失占比,有效控制总体亏损。
-
-5. 开发自动选择合约、调仓的功能。扩大策略适应性,在更多市场中运用。
-
-
-## 总结  
-
-Ichimoku Cloud and MACD Momentum Riding策略是一个既考虑趋势判断又兼顾交易信号的量化策略。在unfinished参数优化和风控措施的配合下,该策略可以获得较好的策略收益率。它适合有一定量化和编程基础的投资人作为趋势跟踪策略使用,也为量化初学者提供了一个参考实例来学习指标结合和策略开发。
-
+## Summarize
+The Ichimoku Cloud and MACD Momentum Riding strategy is a quantitative strategy that considers both trend judgment and trading signals. With the cooperation of unfinished parameter optimization and risk control measures, this strategy can achieve better strategic profitability. It is suitable for investors with certain quantitative and programming foundations to use as a trend tracking strategy, and also provides a reference example for quantitative beginners to learn indicator combination and strategy development.
 
 ||
 

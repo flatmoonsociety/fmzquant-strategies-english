@@ -11,29 +11,20 @@ ChaoZhang
 
 
 [trans]
-EMA交易策略
-
-该策略基于EMA均线进行判断,具体交易规则如下:
-
-- 如果前一天收盘价高于EMA均线,则第二天开盘做多入场。
-
-- 如果当前K线收盘价低于EMA均线,则平掉多单。
-
-该策略的优点是:
-
-- 使用EMA判断趋势方向
-- 规则简单清晰,容易实现
-- 可自定义EMA周期进行优化
-
-但该策略也存在一些问题:
-
-- 在盘整时容易产生错误信号
-- 入场时机较晚,容易被套
-- 没有止损设置,存在亏损风险
-- 没有考虑交易频率和资金管理
-
-总体来说,EMA策略更适用于趋势行情,但需要谨慎使用,应加入止损和过滤条件来优化该策略。
-
+EMA trading strategy
+This strategy is judged based on the EMA moving average. The specific trading rules are as follows:
+- If the closing price of the previous day is higher than the EMA, enter long at the opening of the next day.
+- If the current K-line closing price is lower than the EMA moving average, close the long order.
+The advantages of this strategy are:
+- Use EMA to determine trend direction
+- The rules are simple, clear and easy to implement
+- Customizable EMA period for optimization
+But there are also some problems with this strategy:
+- Easily generate false signals during consolidation
+- The entry time is late and it is easy to get trapped
+- There is no stop loss setting, and there is a risk of loss
+- Failure to consider trading frequency and money management
+Generally speaking, the EMA strategy is more suitable for trending markets, but it needs to be used with caution. Stop loss and filter conditions should be added to optimize the strategy.
 ||EMA Trading Strategy 
 
 This strategy trades based on EMA analysis, with the following rules:

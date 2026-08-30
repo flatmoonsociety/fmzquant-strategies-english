@@ -9,8 +9,7 @@ ChaoZhang
 
 > Strategy Description
 
-**回测**
-
+**Backtest**
  ![IMG](https://www.fmz.com/upload/asset/fa799e596ca8540459.png) 
 
 > Strategy Arguments

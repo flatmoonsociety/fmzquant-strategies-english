@@ -9,34 +9,21 @@ Zer3192
 
 > Strategy Description
 
-MartinGale（马丁格尔）策略是一种在交易中常用的流行的资金管理策略。它通常用于在交易者通过在每次亏损后增加头寸规模来寻求恢复。所以，MartinGale不是指具体一个策略，而是一类补仓，加仓的策略的统称。
-
-在MartinGale策略中，交易者在每次亏损交易之后会将头寸规模加倍。这样做的目的是希望最终会出现一次盈利交易，以恢复之前的亏损并产生利润。
-
-MartinGale策略背后的理念是利用平均法则。通过在每次亏损后增加头寸规模，该策略假设最终会出现一次盈利交易，这不仅会弥补之前的亏损，还会产生利润。对于寻求快速从亏损中恢复的交易者来说，这可能特别吸引人。
-
-然而，需要注意的是，MartinGale策略存在着重大风险。如果交易者经历了持续的亏损阶段或缺乏足够的资金，该策略可能导致巨额亏损。该策略依赖于盈利交易会在一定时间内发生的假设，这是危险的，因为无法保证在特定时间范围内会出现盈利交易。
-考虑实施MartinGale策略的交易者应仔细评估自己的风险承受能力，并充分了解潜在的缺点。建立一个可靠的风险管理计划以减轻潜在的损失非常重要。此外，交易者应意识到该策略可能并不适用于所有市场情况，并且可能需要根据市场波动进行调整。
-
-总而言之，MartinGale策略是一种资金管理策略，它涉及在每次亏损后增加头寸规模，以试图从亏损阶段中恢复。虽然它可以提供快速恢复的潜力，但也存在着交易者在实施这种交易方法之前应仔细考虑的重大风险。
-
-虽然并不是很认同这种交易观点，但是有人私信说也聊聊这个话题，就写了个简单的38线框架，做短线的MartinGale。
-
-MartinGale抢帽子策略是一种通过频繁交易来产生利润的交易策略。它利用移动平均线的交叉来生成入场和出场信号。该策略使用TradingView的Pine脚本语言实现。
-
-该策略首先定义了输入变量，如止盈和止损水平，以及交易模式（多头、空头或双向）。然后，它设置了一个规则，只有在交易模式设置为“多头”时才允许进场。
-
-策略逻辑使用简单移动平均线（SMA）的交叉信号和交叉信号定义。它计算了短期SMA（SMA3）和长期SMA（SMA8），并在图表上绘制它们。crossoverSignal和crossunderSignal变量用于跟踪交叉和交叉事件的发生，而crossoverState和crossunderState变量确定交叉和交叉条件的状态。
-
-策略执行基于当前持仓大小。如果持仓大小为零（没有持仓），策略会检查交叉和交叉事件。如果发生交叉事件并且交易模式允许多头进场，则会进入多头持仓。入场价格、止损价格、止盈价格和止损价格是基于当前收盘价格和SMA8值计算的。类似地，如果发生交叉事件并且交易模式允许空头进场，则会进入空头持仓，并进行相应的价格计算。
-如果存在多头持仓并且当前收盘价格达到止盈价格或止损价格，并且发生交叉事件，则会平仓多头持仓。入场价格、止损价格、止盈价格和止损价格将被重置为零。
-
-同样，如果存在空头持仓并且当前收盘价格达到止盈价格或止损价格，并且发生交叉事件，则会平仓空头持仓，并重置价格变量。
-
-该策略还使用plotshape函数在图表上绘制入场和出场点。它显示一个指向上的三角形表示买入入场，一个指向下的三角形表示买入出场，一个指向下的三角形表示卖出入场，一个指向上的三角形表示卖出出场。
-
-总体而言，MartinGale剃头策略旨在通过利用短期移动平均线的交叉来捕捉小幅利润。它通过止盈和止损水平实现风险管理，并允许不同的交易模式以适应不同的市场条件。
-
+The MartinGale strategy is a popular money management strategy commonly used in trading. It is often used when traders seek to recover by increasing their position size after each loss. Therefore, MartinGale does not refer to a specific strategy, but a general term for a type of strategies to cover and increase positions.
+In the MartinGale strategy, the trader doubles the position size after each losing trade. The idea is that a winning trade will eventually occur that will recover the previous losses and generate a profit.
+The idea behind the MartinGale strategy is to utilize the law of averages. By increasing the position size after each loss, the strategy assumes that a winning trade will eventually occur, which will not only cover the previous losses but also generate profits. This may be particularly attractive to traders looking to recover quickly from losses.
+However, it should be noted that the MartinGale strategy carries significant risks. This strategy can result in huge losses if the trader goes through a sustained losing phase or lacks sufficient capital. This strategy relies on the assumption that profitable trades will occur within a certain time frame, which is dangerous because there is no guarantee that a profitable trade will occur within a specific time frame.
+Traders considering implementing a MartinGale strategy should carefully evaluate their risk tolerance and be fully aware of the potential drawbacks. It is important to establish a solid risk management plan to mitigate potential losses. Additionally, traders should be aware that this strategy may not work in all market conditions and may need to be adjusted based on market fluctuations.
+To summarize, the MartinGale strategy is a money management strategy that involves increasing the position size after each loss in an attempt to recover from the losing phase. While it can offer the potential for rapid recovery, there are significant risks that traders should consider carefully before implementing this trading method.
+Although I don’t really agree with this trading view, someone sent me a private message to talk about this topic, so I wrote a simple 38-line framework for short-term MartinGale.
+The MartinGale hat-grabbing strategy is a trading strategy that generates profits through frequent trading. It uses moving average crossovers to generate entry and exit signals. This strategy is implemented using TradingView’s Pine scripting language.
+The strategy starts by defining input variables such as take profit and stop loss levels, as well as the trading mode (long, short, or both). It then sets a rule that only allows entries if the trading mode is set to "Long".
+The strategy logic uses crossover signals and crossover signals of the Simple Moving Average (SMA) definition. It calculates the short-term SMA (SMA3) and the long-term SMA (SMA8) and plots them on the chart. The crossoverSignal and crossunderSignal variables are used to track the occurrence of crossover and crossover events, while the crossoverState and crossunderState variables determine the status of crossover and crossover conditions.
+Strategy execution is based on the current position size. If the position size is zero (no position), the strategy checks for crossover and crossover events. A long position will be entered if a crossover event occurs and the trading pattern allows long entries. The entry price, stop loss price, take profit price and stop loss price are calculated based on the current closing price and the SMA8 value. Similarly, if a crossover event occurs and the trading pattern allows a short entry, a short position will be entered and the corresponding price calculation will be performed.
+If a long position exists and the current closing price reaches the take profit price or stop loss price, and a crossover event occurs, the long position will be closed. The Entry Price, Stop Loss Price, Take Profit Price and Stop Loss Price will be reset to zero.
+Likewise, if a short position exists and the current closing price reaches the take profit or stop loss price, and a crossover event occurs, the short position is closed and the price variable is reset.
+The strategy also uses the plotshape function to plot entry and exit points on the chart. It shows an upward-pointing triangle for a buy entry, a downward-pointing triangle for a buy exit, a downward-pointing triangle for a sell entry, and an upward-pointing triangle for a sell exit.
+Overall, the MartinGale head-shaving strategy is designed to capture small profits by taking advantage of crossovers of short-term moving averages. It enables risk management through take-profit and stop-loss levels and allows for different trading modes to suit different market conditions.
 > Strategy Arguments
 
 

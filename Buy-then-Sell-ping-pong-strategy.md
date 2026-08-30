@@ -1,0 +1,64 @@
+
+> Name
+
+Simply book the buy-then-sell plugin Buy-then-Sell-ping-pong-strategy
+> Author
+
+grass
+> Strategy Description
+
+As mentioned, you can set the buying price, and after the purchase is successful, it will automatically sell at the selling price.
+The plug-in can be launched with one click on the trading terminal, free of charge, and convenient for manual trading. Detailed introduction: https://www.fmz.com/digest-topic/5051
+> Strategy Arguments
+
+
+
+|Argument|Default|Description|
+|----|----|----|
+|BUYPRICE|6200|buy price|
+|BUYAMOUNT|0.1|buy amount|
+|SELLPRICE|6400|sell price after buying|
+|Intervel|6|sleep time (second)|
+
+
+> Source (javascript)
+
+``` javascript
+function CancelPendingOrders() {
+    var orders = _C(exchange.GetOrders);
+    for (var j = 0; j < orders.length; j++) {
+        exchange.CancelOrder(orders[j].Id, orders[j]);
+    }
+}
+function main() {
+    Log('robot starts to run')
+    if(BUYPRICE >= SELLPRICE){
+        throw 'check buy and sell price'
+    }
+    CancelPendingOrders()
+    var account = _C(exchange.GetAccount)
+    var init_account = account
+    Log('account: ', account.Balance);
+    if(account.Balance > BUYPRICE*BUYAMOUNT){
+        exchange.Buy(BUYPRICE, BUYAMOUNT);
+    }else{
+        throw 'account balances is not enough'
+    }
+    while(true){
+        account = _C(exchange.GetAccount)
+        if(account.Stocks >= init_account.Stocks + 0.01){
+            exchange.Sell(SELLPRICE, account.Stocks - init_account.Stocks)
+        }
+        Sleep(Intervel*1000)
+    }
+}
+
+```
+
+> Detail
+
+https://www.fmz.com/strategy/121228
+
+> Last Modified
+
+2020-03-24 10:50:59

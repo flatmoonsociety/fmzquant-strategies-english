@@ -15,8 +15,7 @@ linsilence
 
 |Argument|Default|Description|
 |----|----|----|
-|isDebug|false|是否测试|
-
+|isDebug|false|Whether to test|
 
 > Source (javascript)
 

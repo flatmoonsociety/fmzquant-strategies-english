@@ -11,26 +11,19 @@ ChaoZhang
 
 
 [trans]
-多头包围K线反转策略
-
-该策略通过识别“多头包围”K线形态来进行多头反转交易。具体来说,满足以下条件时产生买入信号:
-
-1. 当前K线实体小,完全包围在前一根大阴线内部
-2. 当前K线实体颜色与前一根K线相反
-3. 当前K线开盘价高于前一根K线收盘价
-4. 当前K线实体大小比前一根K线实体小
-
-当满足这些条件时,说明市场出现多头力量反转的迹象,这时做多入场。入场后设置止损和止盈平仓。
-
-这种策略的优点是利用典型的K线形态来识别反转点位,比较直观。但是也存在一定的缺陷:
-
-1. 多头包围形态不一定持续,存在被反转的风险
-2. K线形态识别难度较大,需要参数优化
-3. 滞后信号,入场时机不佳
-4. 回测曲线拟合风险较大
-
-总体来说,多头包围反转策略可以作为趋势判断的参考,但实盘中仍需审慎。应该适当 loosen 参数,并配合其他指标来验证形态。此外,严格的资金管理也是成功运用该策略的关键。
-
+Bull surround K line reversal strategy
+This strategy performs long reversal trades by identifying the "long siege" K-line pattern. Specifically, a buy signal is generated when the following conditions are met:
+1. The current K-line entity is small and completely surrounded by the previous large negative line.
+2. The color of the current K-line entity is opposite to that of the previous K-line
+3. The opening price of the current K-line is higher than the closing price of the previous K-line
+4. The current K-line entity size is smaller than the previous K-line entity size.
+When these conditions are met, it means that the market shows signs of a reversal of bullish power, and it is time to enter the market long. Set stop loss and take profit to close the position after entering the market.
+The advantage of this strategy is that it uses typical K-line patterns to identify reversal points, which is more intuitive. But there are also certain flaws:
+1. The bullish siege pattern may not last, and there is a risk of being reversed.
+2. K-line pattern recognition is difficult and requires parameter optimization
+3. Lagging signals and poor entry timing
+4. Backtest curve fitting is risky
+Generally speaking, the bullish encirclement and reversal strategy can be used as a reference for trend judgment, but caution is still required in real trading. The loosen parameters should be appropriately loosen and used in conjunction with other indicators to verify the pattern. In addition, strict money management is also the key to successfully using this strategy.
 ||
 
 This strategy identifies "bullish harami" candlestick patterns for bullish reversal trades. Specifically, long signals are generated when:

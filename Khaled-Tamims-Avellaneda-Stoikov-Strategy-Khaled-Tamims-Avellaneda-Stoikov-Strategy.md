@@ -12,36 +12,30 @@ ChaoZhang
 ![IMG](https://www.fmz.com/upload/asset/6d31a3f9c61e912914.png)
 
 [trans]
-#### 概述
-Khaled Tamim的Avellaneda-Stoikov策略是一种基于Avellaneda-Stoikov模型的量化交易策略。该策略通过计算中间价、买入价和卖出价,同时考虑交易费用,来确定买入和卖出信号。策略的主要思路是在价格低于买入价一定阈值时买入,在价格高于卖出价一定阈值时卖出,以此来获取价差收益。
-
-#### 策略原理
-该策略的核心是Avellaneda-Stoikov模型,通过以下步骤来计算买入价和卖出价:
-1. 计算中间价,即当前价格与前一个价格的平均值。
-2. 计算买入价,即中间价减去一个包含Gamma、Sigma、T和k的平方根项,再减去交易费用。
-3. 计算卖出价,即中间价加上一个包含Gamma、Sigma、T和k的平方根项,再加上交易费用。
-4. 当价格低于买入价减去阈值M时,产生买入信号;当价格高于卖出价加上阈值M时,产生卖出信号。
-
-#### 策略优势
-1. 该策略基于Avellaneda-Stoikov模型,是一种经典的做市商策略,有坚实的理论基础。
-2. 策略考虑了交易费用的影响,更加贴近实际交易情况。
-3. 通过阈值M的设置,可以灵活调整策略的敏感度,适应不同的市场环境。
-4. 策略逻辑清晰,易于理解和实现。
-
-#### 策略风险
-1. 策略的表现依赖于Gamma、Sigma、T、k和M等参数的选择,参数设置不当可能导致策略表现不佳。
-2. 策略没有考虑市场流动性的影响,在流动性不足的情况下,可能无法按照预期价格成交。
-3. 该策略为高频交易策略,需要较低的交易延迟和较高的执行效率,实现难度较高。
-
-#### 策略优化方向
-1. 引入机器学习算法,动态调整策略参数,以适应不同的市场状况。
-2. 结合其他技术指标或市场微观结构信息,提高信号的准确性。
-3. 优化交易执行算法,降低交易成本,提高策略收益。
-4. 考虑引入风险管理模块,控制策略的回撤和风险敞口。
-
-#### 总结
-Khaled Tamim的Avellaneda-Stoikov策略是一种基于经典做市商模型的量化交易策略,通过计算买入价和卖出价,同时考虑交易费用,来产生交易信号。该策略优势在于理论基础扎实,逻辑清晰,同时考虑了交易费用的影响。但策略的表现依赖于参数选择,并且需要较高的执行效率。未来可以通过引入机器学习算法、优化交易执行、引入风险管理等方式来进一步优化该策略。
-
+#### Overview
+Khaled Tamim's Avellaneda-Stoikov strategy is a quantitative trading strategy based on the Avellaneda-Stoikov model. This strategy determines buy and sell signals by calculating the mid-price, bid and ask prices, taking into account transaction fees. The main idea of ​​the strategy is to buy when the price is lower than a certain threshold of the buying price and sell when the price is higher than a certain threshold of the selling price, in order to obtain spread income.
+#### Strategy Principle
+The core of this strategy is the Avellaneda-Stoikov model, which calculates the bid and ask prices through the following steps:
+1. Calculate the middle price, which is the average of the current price and the previous price.
+2. Calculate the buying price, which is the mid-price minus a square root term including Gamma, Sigma, T and k, and then minus the transaction fee.
+3. Calculate the selling price, which is the mid-price plus a square root term containing Gamma, Sigma, T and k, plus transaction fees.
+4. When the price is lower than the buying price minus the threshold M, a buy signal is generated; when the price is higher than the selling price plus the threshold M, a sell signal is generated.
+#### Strategic Advantages
+1. This strategy is based on the Avellaneda-Stoikov model, which is a classic market maker strategy and has a solid theoretical foundation.
+2. The strategy takes into account the impact of transaction costs and is closer to the actual transaction situation.
+3. By setting the threshold M, the sensitivity of the strategy can be flexibly adjusted to adapt to different market environments.
+4. The strategy logic is clear and easy to understand and implement.
+#### Strategy Risk
+1. The performance of the strategy depends on the selection of parameters such as Gamma, Sigma, T, k and M. Improper parameter settings may lead to poor performance of the strategy.
+2. The strategy does not take into account the impact of market liquidity. In the absence of insufficient liquidity, transactions may not be completed at the expected price.
+3. This strategy is a high-frequency trading strategy, which requires lower transaction delay and higher execution efficiency, and is more difficult to implement.
+#### Strategy optimization direction
+1. Introduce machine learning algorithms and dynamically adjust strategy parameters to adapt to different market conditions.
+2. Combine with other technical indicators or market microstructure information to improve the accuracy of signals.
+3. Optimize the transaction execution algorithm, reduce transaction costs, and increase strategic returns.
+4. Consider introducing a risk management module to control the drawdown and risk exposure of the strategy.
+#### Summary
+Khaled Tamim's Avellaneda-Stoikov strategy is a quantitative trading strategy based on the classic market maker model, which generates trading signals by calculating the bid and ask prices while taking into account transaction costs. The advantage of this strategy is that it has a solid theoretical foundation, clear logic, and takes into account the impact of transaction costs. However, the performance of the strategy depends on parameter selection and requires high execution efficiency. In the future, this strategy can be further optimized by introducing machine learning algorithms, optimizing transaction execution, and introducing risk management.
 ||
 
 #### Overview

@@ -11,18 +11,12 @@ ChaoZhang
 
 
 [trans]
-弗尔干趋势波浪策略
-
-该策略通过计算多组EMA均线的价格差异百分比,判断价格趋势方向,并以弗尔干趋势波浪进行交易。
-
-具体来说,它分别计算144周期、169周期和233周期EMA与价格本身的价格差异百分比。当三者都满足预设的正差异时,产生做多信号。当价格低于三条EMA且144周期EMA已下穿233周期EMA时,产生做空信号。
-
-这种基于EMA均线组合的方法,可以比单一均线过滤更多假突破。同时,弗尔干波浪本身包含多组EMA,可以有效判断趋势方向。
-
-但是,EMA均线本身存在滞后性,无法把握最佳入场时点。而波浪理论也存在一定程度的主观性,实盘效果与参数优化相关度较大。需要谨慎评估该策略的实盘效果。
-
-总体来说,弗尔干趋势波浪策略结合均线分析和波浪理论,可在趋势行情中获得较好效果。但仍需关注风险管理,才能长期运用。
-
+Furgan Trend Wave Strategy
+This strategy determines the price trend direction by calculating the price difference percentage of multiple groups of EMA moving averages, and trades with Furgan trend waves.
+Specifically, it calculates the percentage price difference between the 144-period, 169-period, and 233-period EMA and the price itself respectively. When all three meet the preset positive difference, a long signal is generated. When the price is below three EMAs and the 144-period EMA has crossed below the 233-period EMA, a short signal is generated.
+This method based on EMA moving average combination can filter out more false breakthroughs than a single moving average. At the same time, the Furgan wave itself contains multiple sets of EMA, which can effectively determine the trend direction.
+However, the EMA moving average itself has hysteresis and cannot grasp the best entry point. The wave theory also has a certain degree of subjectivity, and the effect of real trading is highly related to parameter optimization. The actual effect of this strategy needs to be carefully evaluated.
+Generally speaking, Furgan's trend wave strategy, combined with moving average analysis and wave theory, can achieve better results in trend markets. However, you still need to pay attention to risk management before you can use it in the long term.
 ||
 
 This strategy calculates percentage price difference between multiple EMA pairs to determine trend direction, and trades based on the Vegas wave.

@@ -11,20 +11,13 @@ ChaoZhang
 
 
 [trans]
-改良型渔网策略
-
-该策略对经典的渔网策略进行了改进,加入了买卖信号阈值、移动止损等功能,形成较为完整的趋势追踪体系。
-
-渔网策略通过计算价格的力度中心来判断市场趋势,力度中心反映了价格和成交量的关系。当力度中心上升时表示多头力量增强,下降时表示空头力量增强,因此可以据此产生交易信号。
-
-计算力度中心的关键在于价格与时间的关系。简单来说,最近发生的价格变动影响趋势判断的权重更大,久远的价格变动权重更小。因此计算时,乘以一个随时间衰减的权重。这样高位发生的交易对总体判断影响更大。
-
-但原始的渔网策略只根据力度中心曲线的方向判断多空,很容易在横盘时被套牢。这次改进加入了确定的买卖信号阈值,只有在力度中心超过一定幅度时才发出信号,这样可以过滤掉许多噪音信号。
-
-此外,改进版本实现了移动止损和固定止损相结合的出场机制。进入趋势后,移动止损可以随行情的推移不断调整,实现流动的风险控制。而固定止损则可以更加可靠地防止突发事件造成的损失。
-
-当然,力度中心指标对复杂行情的判断力较弱,移动止损在设定不当时也可能被突破,这需要交易者保持警惕,适时优化参数。但总的来说,这套改进型渔网策略机制更加完备,可以产生较好的稳定收益。
-
+Improved fishing net strategy
+This strategy improves the classic fishing net strategy and adds functions such as buying and selling signal thresholds and trailing stop loss, forming a relatively complete trend tracking system.
+The fishing net strategy determines the market trend by calculating the price center of strength, which reflects the relationship between price and trading volume. When the strength center rises, it means that the strength of the bulls has increased, and when it falls, it means that the strength of the shorts has increased, so trading signals can be generated accordingly.
+The key to calculating the center of strength is the relationship between price and time. To put it simply, recent price changes have a greater weight on trend judgment, while long-term price changes have a smaller weight. Therefore, when calculating, multiply by a weight that decays with time. Transactions that occur at such high levels have a greater impact on the overall judgment.
+However, the original fishing net strategy only judges long and short based on the direction of the strength center curve, and it is easy to get stuck in sideways trading. This improvement adds a certain threshold for buying and selling signals, which only sends a signal when the center of strength exceeds a certain range, which can filter out many noise signals.
+In addition, the improved version implements an exit mechanism that combines moving stop loss and fixed stop loss. After entering a trend, the trailing stop loss can be continuously adjusted as the market progresses to achieve fluid risk control. Fixed stop loss can more reliably prevent losses caused by emergencies.
+Of course, the strength center indicator has weak judgment on complex market conditions, and the trailing stop loss may be breached when improperly set. This requires traders to remain vigilant and optimize parameters in a timely manner. But in general, this improved fishing net strategy mechanism is more complete and can produce better and stable returns.
 ||Enhanced Fish Net Strategy 
 
 This strategy improves on the classic Fish Net strategy by adding buy/sell signal thresholds and trailing stop loss to form a more complete trend following system.

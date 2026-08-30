@@ -11,50 +11,29 @@ ChaoZhang
 
 [trans]
 
-这是一个仅做多不做空的策略,它根据用户设置的连续上涨天数和连续下跌天数来决定 entries 和 exits。其交易逻辑非常简单直接。
-
-策略原理
-
-首先,我们需要设置两个参数:
-
-consecutiveBarsUp: 连续上涨天数 
-consecutiveBarsDown: 连续下跌天数
-
-然后我们记录两个变量:
-
-ups: 目前连续上涨天数
-dns: 目前连续下跌天数  
-
-每天我们根据收盘价和前一日收盘价的比较,来判断该日是上涨还是下跌,如果上涨天数,则ups加1,下跌天数则dns加1。
-
-当ups达到consecutiveBarsUp时,我们做多;当dns达到consecutiveBarsDown时,我们平仓。
-
-这样就完成了一个简单的连续涨跌策略。我们只在见底后连续上涨一定天数时做多,在连续下跌一定天数后平仓。避免了在震荡行情中频繁交易。
-
-策略优势
-
-1. 逻辑简单,容易理解和实现
-
-2. 通过设置连续上涨和下跌天数,可以 filtering 一些短线震荡,避免频繁交易
-
-3. 仅做多,可以减少交易频率,降低交易成本和滑点影响 
-
-4. 容易设置止损,可以有效控制单笔损失
-
-潜在风险
-
-1. 无法在见顶的时候做空,可能错过做空机会
-
-2. 需要连续上涨一定天数才入场,可能错过买入最低点
-
-3. 存在一定的时间滞后,无法实时捕捉转折点
-
-4. 如果不设置止损,可能带来较大的单笔损失风险
-
-总结
-
-连续涨跌N天策略以其简单的交易逻辑和较低的交易频率大受投资人欢迎。通过合理设置参数,可有效过滤震荡,避免频繁交易。但也存在一定时间滞后和无法做空的限制。需要投资人综合考量后实施。总体来说,该策略适合追踪中长线趋势的投资人,可以提供稳定的投资回报。
-
+This is a long-only, not short-selling strategy, which determines entries and exits based on the number of consecutive rising days and consecutive falling days set by the user. Its trading logic is very simple and straightforward.
+Strategy principles
+First, we need to set two parameters:
+consecutiveBarsUp: number of consecutive rising days
+consecutiveBarsDown: Number of consecutive down days
+Then we record two variables:
+ups: the current number of consecutive days of ups
+dns: The current number of consecutive days of decline
+Every day, we judge whether the day has risen or fallen based on the comparison between the closing price and the previous day's closing price. If there are rising days, ups will be increased by 1, and if there are falling days, dns will be increased by 1.
+When ups reaches consecutiveBarsUp, we go long; when dns reaches consecutiveBarsDown, we close the position.
+This completes a simple continuous rise and fall strategy. We only go long when prices continue to rise for a certain number of days after bottoming out, and close after a certain number of days of continuous price decline. Avoid frequent trading in volatile market conditions.
+strategic advantage
+1. Simple logic, easy to understand and implement
+2. By setting the number of consecutive rising and falling days, you can filter some short-term fluctuations and avoid frequent transactions.
+3. Only going long can reduce transaction frequency, transaction costs and slippage effects
+4. Easy to set stop loss, which can effectively control single loss
+Potential risks
+1. You cannot go short when it reaches the top, and you may miss the short-selling opportunity.
+2. It needs to rise for a certain number of consecutive days before entering the market, and you may miss the lowest buying point.
+3. There is a certain time lag and the turning point cannot be captured in real time.
+4. If you do not set a stop loss, it may bring greater risk of single loss.
+Summarize
+The N-day continuous rise and fall strategy is very popular among investors for its simple trading logic and low trading frequency. By setting parameters appropriately, shocks can be effectively filtered and frequent transactions can be avoided. However, there is also a certain time lag and the limitation of short selling. It needs to be implemented after comprehensive consideration by investors. Generally speaking, this strategy is suitable for investors who track medium and long-term trends and can provide stable investment returns.
 ||
 Consecutive Up/Down N Days Strategy 
 

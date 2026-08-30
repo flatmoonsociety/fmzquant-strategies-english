@@ -5,16 +5,14 @@ NTPClient-UDP-Exchange-Server-delay
 
 > Author
 
-发明者量化
-
+inventor quantification
 > Strategy Description
 
 [trans]
-获取远程NTP服务器时间的一个函数，在高频交易或者计算延迟时比较常见
+A function to obtain the time of a remote NTP server, which is common in high-frequency trading or calculating delays.
 ||
 A function to obtain the time of the remote NTP server, which is more common in high-frequency trading or calculation delays
 [/trans]
-
 
 
 > Source (javascript)

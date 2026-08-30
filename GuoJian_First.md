@@ -15,9 +15,8 @@ liuguojian
 
 |Argument|Default|Description|
 |----|----|----|
-|min|0.0085|买入最小值|
-|max|0.008534|卖出最大值|
-
+|min|0.0085|Minimum buy value|
+|max|0.008534|Sell maximum value|
 
 > Source (javascript)
 

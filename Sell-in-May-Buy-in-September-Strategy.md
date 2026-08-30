@@ -10,23 +10,15 @@ ChaoZhang
 > Strategy Description
 
 
-[trans]  
-五卖九买策略
-
-该交易策略简单遵循“五月卖出,九月买入”这句老牌交易格言形成交易信号。
-
-具体来说,它仅仅根据日期月份来决定何时开仓做多和平仓。当月份进入9月时,开仓做多;当月份进入5月时,将全部多单平仓。
-
-这种以月份切换来决定策略调仓的方式,其优势在于非常简单易行,无需复杂技术分析和计算。但其弊端也显而易见:
-
-首先,固定按月份交易完全忽视市场实际情况,无法根据行情灵活调整。可能在牛市中过早平仓止盈,也可能在熊市中错过及时止损。
-
-其次,固定月份无法做到灵活的资金管理。无法根据具体每次交易情况来评估是否需要加仓或减仓。
-
-最后,不考虑滑点成本。实际操作中,频繁按月开平仓将产生较多交易成本摩擦。
-
-总体来说,这种简单固定的“五卖九买”策略带有一定娱乐性质,不宜运用于实盘交易中。交易者需要建立系统的交易体系,才能在市场中立足。
-
+[trans]
+Five sell and nine buy strategy
+This trading strategy simply follows the old trading adage "Sell in May, Buy in September" to generate trading signals.
+Specifically, it determines when to open long positions and close positions based solely on the day and month. When the month enters September, open long positions; when the month enters May, close all long positions.
+The advantage of this method of deciding strategic position adjustment by switching months is that it is very simple and easy to implement and does not require complex technical analysis and calculations. But its disadvantages are also obvious:
+First of all, fixed monthly trading completely ignores the actual market conditions and cannot be flexibly adjusted according to market conditions. You may close your position prematurely to take profits in a bull market, or you may miss a timely stop loss in a bear market.
+Secondly, flexible fund management cannot be achieved in fixed months. It is impossible to evaluate whether a position needs to be increased or decreased based on the specific circumstances of each transaction.
+Finally, the cost of slippage is not considered. In actual operation, frequent opening and closing of positions on a monthly basis will generate more transaction cost friction.
+Generally speaking, this simple and fixed "five sells and nine buys" strategy has a certain entertainment nature and should not be used in real transactions. Traders need to establish a systematic trading system in order to gain a foothold in the market.
 || 
 
 This trading strategy simply follows the classic market saying “Sell in May, buy in September” to generate trade signals. 

@@ -10,18 +10,12 @@ ChaoZhang
 > Strategy Description
 
 [trans]
-CMF动量突破均线策略
-
-该策略融合使用CMF动量指标和200日EMA均线来构建交易信号。
-
-具体来说,CMF动量指标反映资金流的变化速度。当其上穿0时为买入信号,下穿0时为卖出信号。同时,价格高于200日EMA时只做多,低于200日EMA时只做空。
-
-止损设定为ATR指标的2倍。止盈为止损的2倍,实现2:1的止盈止损比。
-
-这种策略的优势是利用CMF动量判断资金流向同时辅以EMA判断大趋势。止盈止损设定LETTRE了盈亏比,有利于获得稳定收益。但由于指标滞后,入场时机无法把握最优。
-
-总体来说,CMF动量突破均线策略在趋势明显时效果较好。但实盘中仍需关注指标发出信号的时点,避免不必要的损失。
-
+CMF Momentum Breakthrough Moving Average Strategy
+This strategy uses a combination of the CMF momentum indicator and the 200-day EMA to construct trading signals.
+Specifically, the CMF momentum indicator reflects the rate of change of capital flows. When it crosses 0 above, it is a buy signal, and when it crosses below 0, it is a sell signal. At the same time, only go long when the price is above the 200-day EMA, and only go short when the price is below the 200-day EMA.
+The stop loss is set to 2 times the ATR indicator. The take-profit and stop-loss are twice as high, achieving a take-profit and stop-loss ratio of 2:1.
+The advantage of this strategy is to use CMF momentum to judge the direction of capital flows and supplement it with EMA to judge the general trend. The stop-profit and stop-loss settings LETTRE the profit-loss ratio, which is conducive to obtaining stable income. However, due to the lagging indicators, the timing of entry cannot be optimal.
+Generally speaking, the CMF momentum breaking moving average strategy works better when the trend is obvious. However, in real trading, you still need to pay attention to the time when the indicator sends a signal to avoid unnecessary losses.
 ||
 
 This strategy combines the CMF Momentum indicator and 200-day EMA to construct trading signals.

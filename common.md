@@ -15,9 +15,8 @@ linsilence
 
 |Argument|Default|Description|
 |----|----|----|
-|retryDelay|1000|重试延迟|
-|isDebug|false|是否测试|
-
+|retryDelay|1000|Retry delay|
+|isDebug|false|Whether to test|
 
 > Source (javascript)
 

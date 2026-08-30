@@ -12,33 +12,24 @@ ChaoZhang
 
 
 [trans]
-利用SMA均线交叉进行交易
-
-该交易策略通过两个不同周期的SMA均线的交叉来产生交易信号。当较短周期的SMA线从下方上穿较长周期的SMA线时,做多;而当较短周期的SMA线从上方下穿较长周期的SMA线时,做空。
-
-该策略的主要优势包括:
-
-- 使用均线交叉识别趋势变化
-- 规则简单清晰,易于实施
-- 可调整SMA周期来适应不同市场环境
-- 可用于任何 timeframe
-
-但是该策略也存在一些潜在缺陷:
-
-- 在盘整市场中容易产生错误信号
-- 交易信号通常滞后,入场时机不佳
-- 未设止损,可能给账户带来较大亏损
-- 没有加入其他过滤条件,信号质量无法控制
-
-此外,该策略还可通过添加一些功能来优化:
-
-- 当价格触及较长周期SMA线时设置止损
-- 根据K线实体颜色进行加仓
-- 优化SMA周期参数组合
-- 调整资金管理比例,控制单笔交易仓位
-
-总体来说,SMA交叉策略适合趋势性市场,但需要警惕在盘整市中被套住。加入止损和适当资金管理可降低风险。
-
+Trade using SMA crossovers
+This trading strategy generates trading signals through the intersection of two SMA moving averages with different periods. When the shorter period SMA line crosses the longer period SMA line from below, go long; and when the shorter period SMA line crosses the longer period SMA line from above, go short.
+The main advantages of this strategy include:
+- Use moving average crossovers to identify trend changes
+- The rules are simple, clear and easy to implement
+- The SMA cycle can be adjusted to adapt to different market environments
+- Can be used with any timeframe
+But this strategy also has some potential flaws:
+- Easily generate false signals in a consolidation market
+- Trading signals are usually lagging and entry timing is poor
+- Failure to set a stop loss may cause large losses to the account
+- Without adding other filtering conditions, the signal quality cannot be controlled
+Additionally, the strategy can be optimized by adding some features:
+- Set a stop loss when the price hits the longer period SMA line
+- Add positions based on the color of the K-line entity
+- Optimize SMA cycle parameter combination
+- Adjust fund management ratio and control single transaction position
+Generally speaking, the SMA crossover strategy is suitable for trending markets, but you need to be wary of getting caught in a consolidation market. Incorporating stop losses and proper money management can reduce risk.
 ||SMA Crossover Trading Strategy
 
 This strategy generates trading signals based on crossover between two SMA lines of different periods. A long signal is triggered when the faster SMA crosses above the slower SMA. A short signal occurs when the faster SMA crosses below the slower SMA.  

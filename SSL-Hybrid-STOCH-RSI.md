@@ -9,10 +9,9 @@ luqi0212
 
 > Strategy Description
 
-回测一年，K线周期15分钟
-5万u，开单50个以太，止盈止损10000%（即不设止盈止损）
-开单数量、止盈止损参数以及其他参数自己调整
-
+Backtesting for one year, K-line cycle is 15 minutes
+50,000 u, open an order with 50 ether, take profit and stop loss 10000% (that is, there is no take profit or stop loss)
+Open order quantity, take profit and stop loss parameters and other parameters can be adjusted by yourself
 > Strategy Arguments
 
 
@@ -50,10 +49,9 @@ luqi0212
 |v_input_int_3|14|RSI Length|
 |v_input_int_4|14|Stochastic Length|
 |v_input_27_close|0|RSI Source: close|high|low|open|hl2|hlc3|hlcc4|ohlc4|
-|v_input_28|50|开仓数量|
-|v_input_29|10000|止盈|
-|v_input_30|10000|止损|
-
+|v_input_28|50|Open position quantity|
+|v_input_29|10000|Take profit|
+|v_input_30|10000|Stop loss|
 
 > Source (PineScript)
 

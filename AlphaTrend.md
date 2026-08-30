@@ -47,9 +47,8 @@ common period: 14 which is the length of ATR MFI and RSI
 Wish you all use AlphaTrend in profitable trades.
 Kıvanç Özbilgiç
 
-**回测结果**
- ![IMG](https://www.fmz.com/upload/asset/5b0e559be7c9374225.png) 
-
+**Backtest results**
+ ![IMG](https://www.fmz.com/upload/asset/5b0e559be7c9374225.png)
 > Strategy Arguments
 
 

@@ -5,12 +5,10 @@ TableTemplet
 
 > Author
 
-职业养鸡户
-
+Professional chicken farmer
 > Strategy Description
 
-//by 养鸡专业户 17/6/21
-
+//by professional chicken farmer 17/6/21
 
 
 > Source (javascript)

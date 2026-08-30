@@ -5,8 +5,7 @@ SeamlessConnWS
 
 > Author
 
-发明者量化-小小梦
-
+Inventor Quantification-Little Dream
 > Strategy Description
 
 https://www.fmz.com/bbs-topic/4328
@@ -17,9 +16,8 @@ https://www.fmz.com/bbs-topic/4328
 
 |Argument|Default|Description|
 |----|----|----|
-|IsUsedWebSocket|false|是否启用WebSocket|
-|Hook_GetTicker|false|Hook行情接口GetTicker|
-
+|IsUsedWebSocket|false|Whether WebSocket is enabled|
+|Hook_GetTicker|false|Hook market interface GetTicker|
 
 > Source (javascript)
 

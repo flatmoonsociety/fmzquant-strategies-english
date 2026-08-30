@@ -5,22 +5,17 @@ M-Language-Turtle-Trading-strategy-implementationsV-10
 
 > Author
 
-发明者量化-小小梦
-
+Inventor Quantification-Little Dream
 > Strategy Description
 
 [trans]
-> 尝个鲜
-
-* 完全兼容文华麦语言语法
-* 基于发明者强大的低层, 完全支持数字货币现货期货与国内大宗商品期货
-* 兼容工作会一直持续, 目前兼容度90%大部分策略可以直接运行, 无需修改
-* API文档 https://www.fmz.com/bbs-topic/2569
-
->语言增强
-
-发明者量化不单实现了麦语言的解释器, 而且还增强让其能与高级语言Javascript混合编程，放个例子
-
+> Have a taste
+* Fully compatible with Wenhuamai language grammar
+* Based on the inventor's powerful low-level, fully supports digital currency spot futures and domestic commodity futures
+* Compatibility work will continue. Currently, the compatibility is 90% and most strategies can be run directly without modification.
+* API documentation https://www.fmz.com/bbs-topic/2569
+>Language enhancement
+The inventor Quantified not only implemented the interpreter of the Mac language, but also enhanced it to enable mixed programming with the high-level language Javascript. Here is an example.
 ```
 %%
 // 这里面可以调用发明者量化的任何API 

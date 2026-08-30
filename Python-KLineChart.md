@@ -5,15 +5,12 @@ Python-KLineChart
 
 > Author
 
-发明者量化
-
+inventor quantification
 > Strategy Description
 
- 平台(Javascript/Python语言)开通KLineChart支持, 支持Pine语言全部画图功能(参数保持一致), 支持自定义买卖信号
- 下面是一个演示的例子
- 
- 参考文档 https://www.fmz.com/api#klinechart
- 
+The platform (Javascript/Python language) activates KLineChart support, supports all drawing functions of Pine language (the parameters remain consistent), and supports customized buying and selling signals.
+ Here is a demo example 
+Reference document https://www.fmz.com/api#klinechart 
  
  ![IMG](https://www.fmz.com/upload/asset/bb180d6a028bcc6993.png) 
  

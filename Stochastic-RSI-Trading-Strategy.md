@@ -11,34 +11,20 @@ ChaoZhang
 
 
 [trans]
-Stochastic RSI交易策略
-
-该策略根据Stochastic RSI指标的交叉信号进行交易。
-
-具体交易规则如下:
-
-- 当Stochastic RSI上穿30时做多
-
-- 当Stochastic RSI下穿70时做空
-
-该策略还包括两个附加入场条件: 
-
-- 做多时,9周期SMA必须高于21周期SMA
-
-- 做空时,9周期SMA必须低于21周期SMA
-
-- 做多仅在价格低于VWAP时发出信号
-
-- 做空仅在价格高于VWAP时发出信号
-
-该策略采用止损和止盈进行风险管理:
-
-- 无论做多做空,止损设置为20ticks
-
-- 无论做多做空,止盈设置为25ticks
-
-该策略的优势在于利用Stochastic RSI识别超买超卖区域,并加入SMA和VWAP进行过滤,可有效减少错误信号。但该策略较适合趋势行情,在盘整行情中容易被套住。
-
+Stochastic RSI Trading Strategy
+This strategy trades based on crossover signals of the Stochastic RSI indicator.
+The specific trading rules are as follows:
+- Go long when Stochastic RSI crosses 30
+- Go short when the Stochastic RSI crosses below 70
+The strategy also includes two additional entry conditions:
+- When going long, the 9-period SMA must be higher than the 21-period SMA
+- When shorting, the 9-period SMA must be lower than the 21-period SMA
+- Going long only signals when price is below VWAP
+- Shorting only signals when price is above VWAP
+This strategy uses stop loss and take profit for risk management:
+- Regardless of whether you are long or short, the stop loss is set to 20ticks
+- No matter long or short, the take profit is set to 25ticks
+The advantage of this strategy is that it uses Stochastic RSI to identify overbought and oversold areas, and adds SMA and VWAP for filtering, which can effectively reduce false signals. However, this strategy is more suitable for trending market conditions and can easily be caught in consolidation market conditions.
 ||Stochastic RSI Trading Strategy
 
 This strategy trades based on crossover signals from the Stochastic RSI indicator. 

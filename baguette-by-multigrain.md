@@ -26,8 +26,7 @@ ATR Multiplier: This multiplier controls the 'width' of our envelope or our extr
 @gorx1 for the improved and more accurate (?) Jurik Moving Average calculations.
 @redktrader for the ATR envelope calculations.
 
-**回测**
-
+**Backtest**
  ![IMG](https://www.fmz.com/upload/asset/b551d763796cea8a3c.png) 
 
 > Strategy Arguments

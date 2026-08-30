@@ -9,8 +9,7 @@ btcvegas
 
 > Strategy Description
 
-设置不同的level，控制日志输出等级
-
+Set different levels to control the log output level
 > Strategy Arguments
 
 

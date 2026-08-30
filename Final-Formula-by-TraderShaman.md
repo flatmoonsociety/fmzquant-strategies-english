@@ -51,16 +51,15 @@ TWITTER: https://twitter.com/TraderShaman
 
 |Argument|Default|Description|
 |----|----|----|
-|targetProfit|5|目标利润|
-|amount|0.05|下单量|
-|totalEq|-1|初始总权益|
-|isReset|false|重置|
-|pricePrecision|2|价格精度|
-|amountPrecision|2|下单量精度|
-|isSimulate|false|OKEX_V5模拟盘选项|
-|SpecifyPosField||指定显示的持仓字段|
-|showLine|false|显示曲线图表|
-
+|targetProfit|5|target profit|
+|amount|0.05|Order amount|
+|totalEq|-1|Initial total equity|
+|isReset|false|Reset|
+|pricePrecision|2|Price Precision|
+|amountPrecision|2|Order quantity precision|
+|isSimulate|false|OKEX_V5 simulation disk option|
+|SpecifyPosField||Specify the displayed position field|
+|showLine|false|Show curve chart|
 
 > Source (javascript)
 

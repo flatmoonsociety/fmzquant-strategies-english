@@ -11,16 +11,11 @@ ChaoZhang
 
 
 [trans]
-复合买卖点RSI交易策略
-
-该交易策略通过结合RSI、价格变化率ROC和均线MA等多种指标,形成综合的买卖点判断机制。
-
-具体来说,它计算3周期RSI,2周期RSI变化率,以及100周期价格变化率,取这3者的平均值作为综合RSI指标。当该复合RSI指标线突破40时生成买入信号,突破70时生成卖出信号。
-
-这种策略的优势在于综合多个指标的优点,RSI判断超买超卖,RSI变化率显示势头,ROC反映价格变化率。但每个指标都存在滞后,组合使用也无法完全规避错误信号的风险。
-
-总的来说,该复合买卖点RSI策略融合多种指标的优势,可以提高判断的准确性。但实盘应用时,仍需关注参数优化、止损设置等风险控制手段,才能获得长期稳定的效果。
-
+Composite Buy and Sell Points RSI Trading Strategy
+This trading strategy forms a comprehensive buying and selling point judgment mechanism by combining multiple indicators such as RSI, price change rate ROC, and moving average MA.
+Specifically, it calculates the 3-period RSI, the 2-period RSI change rate, and the 100-period price change rate, and takes the average of these three as the comprehensive RSI indicator. A buy signal is generated when the composite RSI indicator line exceeds 40, and a sell signal is generated when it exceeds 70.
+The advantage of this strategy is to combine the advantages of multiple indicators. RSI determines overbought and oversold, RSI change rate shows momentum, and ROC reflects the price change rate. However, each indicator has a lag, and the risk of false signals cannot be completely avoided when used in combination.
+In general, this composite buying and selling point RSI strategy combines the advantages of multiple indicators and can improve the accuracy of judgment. However, when applying real trading, you still need to pay attention to risk control methods such as parameter optimization and stop loss setting to achieve long-term stable results.
 ||
 
 This trading strategy combines RSI, rate of change ROC, and moving average MA to form an integrated mechanism for identifying entry signals. 

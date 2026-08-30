@@ -5,8 +5,7 @@ Sentiment-Oscillator
 
 > Author
 
-发明者量化
-
+inventor quantification
 
 
 > Strategy Arguments

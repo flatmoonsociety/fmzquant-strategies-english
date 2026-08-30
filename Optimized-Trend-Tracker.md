@@ -50,8 +50,7 @@ SELL when OTT line is Red and makes lower lows.
 
 
 Note: A small coverage with English subtitles will be available on my Youtube Channel soon.
-**回测**
-
+**Backtest**
  ![IMG](https://www.fmz.com/upload/asset/c77ddd12ada704a222.png) 
 
 > Strategy Arguments

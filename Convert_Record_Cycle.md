@@ -9,18 +9,15 @@ jxc6698
 
 > Strategy Description
 
-# 得到指定周期的蜡烛图 线数据
-
-如有BUG ，问题 欢迎留言
-
+# Get the candle chart line data of the specified period
+If there are any bugs or questions, please leave a message
 > Strategy Arguments
 
 
 
 |Argument|Default|Description|
 |----|----|----|
-|UI_NewCycleForMS|1000*60*60*2|合成周期毫秒数|
-
+|UI_NewCycleForMS|1000*60*60*2|Synthesis cycle milliseconds|
 
 > Source (javascript)
 

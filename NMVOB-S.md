@@ -19,20 +19,19 @@ ChaoZhang
 
 |Argument|Default|Description|
 |----|----|----|
-|v_input_float_1|50000|起始资金|
-|v_input_int_1|5|杠杆|
-|v_input_1|false|止损柱数量|
-|v_input_float_2|true|止盈比例|
+|v_input_float_1|50000|Starting capital|
+|v_input_int_1|5|Leverage|
+|v_input_1|false|Number of stop loss bars|
+|v_input_float_2|true|Take profit ratio|
 |v_input_2|13|MACD Fast MA|
 |v_input_3|21|MACD Slow MA|
 |v_input_4|9|MACD Trigger|
 |v_input_5|50|MACD Normalize|
 |v_input_int_2|true|(MACD) 1=Ema, 2=Wma, 3=Sma|
-|v_input_6|100|VS 周期|
-|v_input_int_3|34|布林带周期|
+|v_input_6|100|VS period|
+|v_input_int_3|34|Bollinger Bands Period|
 |v_input_7_close|0|Boollinger Bands Source: close|high|low|open|hl2|hlc3|hlcc4|ohlc4|
 |v_input_float_3|2|StdDev|
-
 
 > Source (PineScript)
 

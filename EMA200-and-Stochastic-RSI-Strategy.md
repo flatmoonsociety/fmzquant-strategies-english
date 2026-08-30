@@ -54,11 +54,10 @@ The EMA200 and Stochastic RSI strategy is a relatively simple and effective trad
 
 |Argument|Default|Description|
 |----|----|----|
-|v_input_1|2|(?用户自定义参数)ATR倍数|
-|v_input_float_1|1.5|盈亏比|
-|v_input_int_1|20|上下影线点比(%)|
-|v_input_float_2|0.5|关键K线涨跌幅(%)|
-
+|v_input_1|2|(?User-defined parameter)ATR multiple|
+|v_input_float_1|1.5|Profit-loss ratio|
+|v_input_int_1|20|Upper and lower shadow line point ratio (%)|
+|v_input_float_2|0.5|Key K-line rise and fall (%)|
 
 > Source (PineScript)
 

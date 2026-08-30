@@ -10,16 +10,11 @@ ChaoZhang
 > Strategy Description
 
 [trans]
-AlphaTrend自适应ATR通道突破策略
-
-AlphaTrend策略运用ATR自适应通道来捕捉价格趋势方向,根据通道的突破情况进行趋势追踪。具体来说,该策略构建了一个以ATR为基础的动态通道,通道的上轨为最低价减去ATR值,下轨为最高价加上ATR值。当价格上穿上轨时,做多进入;当价格下穿下轨时,做空进入。
-
-ATR能够实时反映市场的波动性和热度,上下轨形成的通道可以判断价格走势和力度。当价格突破通道时,说明趋势出现反转或加速的可能,这时进行追踪是较为合理的。AlphaTrend策略的优势在于运用ATR指标的自适应性来捕捉价格变化,同时还结合RSI等其他指标来确定趋势方向,这可以提高entries的准确性。
-
-但是,该策略也存在一些问题需要注意。ATR指标本身有反应滞后的特点,可能导致entries出现在趋势反转后。另外,未设置止损导致持仓期间存在较大的回撤风险。最后,参数设置如ATR周期长度需要优化以适应不同品种和周期。
-
-总的来说,AlphaTrend策略利用动态ATR通道判断趋势反转点有其独特优势,但实盘时仍需严格的资金管理。设置止损,控制单笔仓位规模,优化参数等都是必要的。只有做到风险控制到位,才能长期应用该策略。
-
+AlphaTrend Adaptive ATR Channel Breakout Strategy
+The AlphaTrend strategy uses the ATR adaptive channel to capture the price trend direction and conduct trend tracking based on the breakthrough of the channel. Specifically, this strategy constructs a dynamic channel based on ATR. The upper track of the channel is the lowest price minus the ATR value, and the lower track is the highest price plus the ATR value. When the price goes above the upper band, enter long; when the price goes below the lower band, enter short.
+ATR can reflect the volatility and heat of the market in real time, and the channel formed by the upper and lower rails can determine the price trend and strength. When the price breaks through the channel, it indicates the possibility of trend reversal or acceleration, and it is more reasonable to track at this time. The advantage of the AlphaTrend strategy is to use the adaptive nature of the ATR indicator to capture price changes, and also combine it with other indicators such as RSI to determine the trend direction, which can improve the accuracy of entries.
+However, this strategy also has some problems that need attention. The ATR indicator itself has the characteristic of delayed response, which may cause entries to appear after a trend reversal. In addition, failure to set a stop loss results in a greater risk of retracement during the position period. Finally, parameter settings such as ATR cycle length need to be optimized to adapt to different varieties and cycles.
+In general, the AlphaTrend strategy has its unique advantages in using the dynamic ATR channel to determine trend reversal points, but strict capital management is still required during real trading. Setting stop loss, controlling the size of a single position, optimizing parameters, etc. are all necessary. Only when risk control is in place can this strategy be applied in the long term.
 ||
 
 The AlphaTrend strategy uses an adaptive ATR channel to capture price trend direction and follow trends based on channel breakouts. Specifically, it constructs a dynamic channel based on ATR, with the upper band being the low minus ATR value, and the lower band being the high plus ATR value. Long entries are taken when price breaks above the upper band, and short entries are taken when price breaks below the lower band.

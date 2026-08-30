@@ -5,15 +5,12 @@ MultiSymbolCtrlLib
 
 > Author
 
-发明者量化-小小梦
-
+Inventor Quantification-Little Dream
 > Strategy Description
 
-## 说明
-
-文章https://www.fmz.com/digest-topic/7373中使用的模板
-代码仅供参考学习，实盘慎用。
-
+## illustrate
+Articlehttps://www.fmz.com/digest-topic/7373中使用的模板
+The code is for reference only and should be used with caution.
 
 
 > Source (javascript)

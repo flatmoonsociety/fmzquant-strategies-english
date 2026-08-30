@@ -1,0 +1,151 @@
+
+> Name
+
+Huobi Accuracy
+> Author
+
+one punch boy
+> Strategy Description
+
+- **$.getAmountPrecision(Currency)**
+> Trading pair base currency counting accuracy (digits after decimal point)
+> Return value number type
+- **$.getPricePrecision(Currency)**
+> Precision of trading pair quotation (digits after decimal point)
+> Return value number type
+- **$.getMinOrderAmount(Currency)**
+> Minimum order size for trading pairs
+> Return value number type
+- **$.getMaxOrderAmount(Currency)**
+> Maximum order volume for trading pairs
+> Return value number type
+- **$.getValuePrecision(Currency)**
+> Precision of transaction amount of trading pair (digits after decimal point)
+> Return value number type
+- **$.getMinValue(Currency)**
+> Minimum order amount (the order amount refers to the (amount * price) passed in the order interface when the order type is a limit order. When the order type is buy-market, the 'amount' passed in the order interface)
+> Return value number type
+> Strategy Arguments
+
+
+
+|Argument|Default|Description|
+|----|----|----|
+|TICKER_EXPIRE_TIME|600|Quote cache time (seconds)|
+
+> Source (javascript)
+
+``` javascript
+var _symbols = _C(getSymbols)
+var _cacheTicker = {}
+
+function parseJson(str) {
+    try {
+        return JSON.parse(str)
+    } catch(e) {
+        Log(str + e.message + '#FF0000')
+        return null
+    }
+}
+
+function getSymbols() {
+    var ret = parseJson(HttpQuery('https://api.huobi.pro/v1/common/symbols'))
+    if (ret && ret.status === 'ok') {
+        return ret.data
+    } else {
+        return null
+    }
+}
+
+function getTicker(ex) {
+    var currency = getCurreny(ex)
+    if (_cacheTicker[currency] && Unix() - _cacheTicker[currency].UpdatedAt < TICKER_EXPIRE_TIME) {
+        return _cacheTicker[currency]
+    }
+    var sym = currency.replace('_', '').toLocaleLowerCase()
+    var ret = parseJson(HttpQuery('https://api.huobi.pro/market/detail/merged?symbol=' + sym))
+    if (ret && ret.status === 'ok') {
+        _cacheTicker[currency] = _.extend({ UpdatedAt: Unix() }, ret.tick)
+        return ret.data
+    } else {
+        return null
+    }
+}
+
+function getCurreny(ex) {
+    var currency = null
+    if (typeof(ex) === 'object') {
+        return ex.GetCurrency()
+    } else {
+        return ex
+    }
+}
+
+function getCoin(ex) {
+    var currency = getCurreny(ex)
+    var currencyAry = _.map(currency.split('_'), function(sym) { return sym.toLocaleLowerCase() })
+    return _.find(_symbols, function(coin) {
+        return currencyAry[0] === coin['base-currency'] && currencyAry[1] === coin['quote-currency']
+    })
+}
+
+$.getSymbols = getSymbols
+
+$.getAmountPrecision = function (ex) {
+    var coin = getCoin(ex)
+    if (coin) {
+        return coin['amount-precision']
+    }
+    return 0
+}
+
+$.getPricePrecision = function(ex) {
+    var coin = getCoin(ex)
+    if (coin) {
+        return coin['price-precision']
+    }
+    return 0
+}
+
+$.getMinOrderAmount = function(ex, price) {
+    var coin = getCoin(ex)
+    if (coin) {
+        price = price || _C(getTicker, ex).close
+        return +(new Decimal(coin['min-order-value']).mul(1.1).div(price).toFixed($.getAmountPrecision(ex), Decimal.ROUND_CEIL))
+    }
+    return 0
+}
+
+$.getMaxOrderAmount = function(ex) {
+    var coin = getCoin(ex)
+    if (coin) {
+        return coin['max-order-amt']
+    }
+    return 0
+}
+
+$.getValuePrecision = function(ex) {
+    var coin = getCoin(ex)
+    if (coin) {
+        return coin['value-precision']
+    }
+    return 0
+}
+
+$.getMinValue = function(ex) {
+    var coin = getCoin(ex)
+    if (coin) {
+        return coin['min-order-value']
+    }
+    return 0
+}
+
+```
+
+> Detail
+
+https://www.fmz.com/strategy/159104
+
+> Last Modified
+
+2019-07-31 18:15:19

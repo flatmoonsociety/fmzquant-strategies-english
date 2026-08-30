@@ -5,8 +5,7 @@ AlphaTrend-use-mfi
 
 > Author
 
-发明者量化
-
+inventor quantification
 > Strategy Description
 
  ![IMG](https://www.fmz.com/upload/asset/fac92b30d9603ace21.png) 

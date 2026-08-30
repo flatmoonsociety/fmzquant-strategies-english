@@ -5,8 +5,7 @@ Dual-Thrust-OKEX-Feature
 
 > Author
 
-小草
-
+grass
 > Strategy Description
 
 Check the url below to learn abount Dual Thrust Strategy.

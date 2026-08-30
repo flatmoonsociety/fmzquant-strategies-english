@@ -15,12 +15,11 @@ FawkesPan
 
 |Argument|Default|Description|
 |----|----|----|
-|DELAY|30|平衡间隔|
+|DELAY|30|balance interval|
 |DS|1.04|Sell|
 |DB|1.08|Buy|
 |RSIB|80|RSI Buy|
 |RSIS|20|RSI Sell|
-
 
 > Source (javascript)
 

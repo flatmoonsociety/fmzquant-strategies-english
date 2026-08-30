@@ -10,17 +10,12 @@ ChaoZhang
 > Strategy Description
 
 
-[trans] 
-双均线交叉追踪策略
-
-该策略通过计算两组移动平均线SMA和EMA的交叉情况,判断市场趋势方向并进行追踪交易。
-
-具体来说,它使用一快一慢两组移动平均线,当快线上穿慢线时做多,当快线下穿慢线时做空。平仓条件为价格重新跌破慢线或超过快线。此外,该策略还提供自定义均线周期长度、 barred关闭等参数进行优化。
-
-这种双均线策略的优点是交易规则简单清晰,只需要跟踪两个均线的动态变化。使用EMA可更敏感地捕捉趋势转折。但在盘整行情中也容易被套取反。
-
-总体来说,双均线交叉追踪策略适用于趋势行情,能够顺势而为谋利。但必须适当调整参数,严格控制止损和仓位,才能长期稳定运用该策略。
-
+[trans]
+Double Moving Average Cross Tracking Strategy
+This strategy calculates the intersection of two sets of moving averages SMA and EMA to determine the direction of the market trend and conduct tracking transactions.
+Specifically, it uses two sets of moving averages, one fast and one slow. When the fast line crosses the slow line, it goes long, and when the fast line crosses the slow line, it goes short. The condition for closing the position is that the price falls below the slow line or exceeds the fast line again. In addition, the strategy also provides customized moving average cycle length, barred closing and other parameters for optimization.
+The advantage of this double moving average strategy is that the trading rules are simple and clear, and only need to track the dynamic changes of the two moving averages. Using EMA can capture trend turns more sensitively. However, it is also easy to be cheated in the consolidation market.
+Generally speaking, the double moving average cross tracking strategy is suitable for trending markets and can make profits along with the trend. However, it is necessary to adjust the parameters appropriately and strictly control the stop loss and position in order to use this strategy stably in the long term.
 ||
 
 This strategy calculates crossover between two groups of moving averages SMA and EMA to determine market trend direction for tracking trades.

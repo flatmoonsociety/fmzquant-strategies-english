@@ -9,8 +9,7 @@ Zer3192
 
 > Strategy Description
 
-砖形指标
-
+Renko indicator
 
 
 > Source (PineScript)

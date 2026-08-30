@@ -9,24 +9,21 @@ bollmaboll
 
 > Strategy Description
 
-布林带突破与回撤结合策略
-开仓信号：布林带上轨均线金叉，布林带宽放大，中轨向上，开多。反之开空
-平仓信号：布林带收窄，上轨均线死叉
-逆向信号：布林带回撤
-
-信号还在过滤中
-
+Bollinger Band Breakout and Retracement Combination Strategy
+Signal for opening a position: The upper moving average of the Bollinger Band is golden cross, the Bollinger Band is enlarged, the middle track is upward, open long. Otherwise open short
+Closing signal: Bollinger Bands narrow, upper moving average crosses over
+Counter Signal: Bollinger Bands Retracement
+The signal is still being filtered
 > Strategy Arguments
 
 
 
 |Argument|Default|Description|
 |----|----|----|
-|ma|13|ma周期|
-|bo|25|bo周期|
-|ma2|7|ma2周期|
+|ma|13|ma cycle|
+|bo|25|bo cycle|
+|ma2|7|ma2 period|
 |period|true|period|
-
 
 > Source (python)
 

@@ -5,14 +5,12 @@ Hedge_BTC-ETH-Demo
 
 > Author
 
-发明者量化-小小梦
-
+Inventor Quantification-Little Dream
 > Strategy Description
 
-BTC 和 ETH 的 跨品种对冲 思路测试 DEMO 
-根据价格比  画出 图表，分析 价格比 变化，寻找套利空间。
-策略可行性 未知， 有兴趣的 同学可以研究一下~
-
+Cross-species hedging idea test of BTC and ETH DEMO
+Draw a chart based on the price ratio, analyze changes in the price ratio, and find arbitrage space.
+The feasibility of the strategy is unknown. Interested students can study it~
 by  littleDream
 
 > Strategy Arguments
@@ -21,8 +19,7 @@ by  littleDream
 
 |Argument|Default|Description|
 |----|----|----|
-|Mode|0|模式: BOLL|SMA|
-
+|Mode|0|Mode: BOLL|SMA|
 
 > Source (javascript)
 

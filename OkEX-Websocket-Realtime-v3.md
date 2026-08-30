@@ -10,9 +10,8 @@ FawkesPan
 > Strategy Description
 
 # OkEX WebSocket API Connecter (compress supported)
-因为 `websocket-client` 新版的各种大脑降级设计 很多功能无法使用
-需要安装老版本websocket-client的包才能正常使用 `pip3 install websocket-client==0.46.0`
-
+Because `websocket-client` the new version of various brain downgrade designs many functions cannot be used.
+You need to install the package of the old version of websocket-client for normal use `pip3 install websocket-client==0.46.0`
 
 
 > Source (python)

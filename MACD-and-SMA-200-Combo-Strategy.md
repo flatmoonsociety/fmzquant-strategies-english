@@ -11,16 +11,11 @@ ChaoZhang
 
 [trans]
 
-MACD与SMA 200组合策略
-
-该策略将经典的MACD指标与200周期SMA移动平均线组合使用,形成交易信号。
-
-具体来说,当MACD的直方图和MACD动量均高于0,快速移动平均线高于慢速移动平均线时做多。同时价格高于200周期SMA作为追踪多头的第二条件。反之当直方图和MACD动量低于0,快速移动平均线低于慢速移动平均线并且价格低于200周期SMA时做空。
-
-这种策略的优势是同时利用MACD判断短期趋势和波动节奏,以及SMA判断长期趋势方向。组合使用提高判断准确性,避免被套。但MACD和SMA均有滞后问题,无法及时捕捉转折。
-
-总体来说,MACD与SMA 200组合策略适用于中长期持仓。能够有效捕捉主要趋势转换点。但需要关注指标发出信号时的时间节点,防止追高杀跌之嫌。
-
+MACD and SMA 200 Combination Strategy
+This strategy uses the classic MACD indicator in combination with the 200-period SMA moving average to form trading signals.
+Specifically, go long when the MACD histogram and MACD momentum are both above 0 and the fast moving average is above the slow moving average. At the same time, the price is above the 200-period SMA as the second condition for tracking bulls. Conversely, go short when the histogram and MACD momentum is below 0, the fast moving average is below the slow moving average, and the price is below the 200-period SMA.
+The advantage of this strategy is to simultaneously use MACD to determine short-term trends and fluctuation rhythms, and SMA to determine the long-term trend direction. Use in combination to improve judgment accuracy and avoid being trapped. However, both MACD and SMA have lagging problems and cannot capture turning points in time.
+Generally speaking, the MACD and SMA 200 combination strategy is suitable for medium and long-term positions. Ability to effectively capture major trend transition points. However, it is necessary to pay attention to the time node when the indicator sends a signal to prevent the suspicion of chasing the high and killing the fall.
 ||
 
 This strategy combines the classic MACD indicator with the 200-period SMA moving average to generate trading signals.

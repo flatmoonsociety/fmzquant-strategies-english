@@ -5,16 +5,14 @@ BSC-Transaction
 
 > Author
 
-扁豆子
-
+Lentils
 > Strategy Description
 
-就...
-最近研究打新, 自动链上转帐...
-就... 也没啥, 大家随便玩儿玩儿~
-在此公开一哈~
-祝大家发财!!
-
+Just...
+Recently, we are researching new technologies, automatic on-chain transfer...
+Just... it’s okay, everyone can just have fun~
+Let’s make it public here~
+Wish everyone fortune!!
 > Strategy Arguments
 
 

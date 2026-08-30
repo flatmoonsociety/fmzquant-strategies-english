@@ -11,18 +11,12 @@ ChaoZhang
 
 
 [trans]
-双均线指标融合交易策略
-
-该策略通过整合2/20均线指标和绝对价格震荡指标APO,形成交易信号。
-
-首先,它计算20周期的EMA均线,当价格跌破或突破均线时产生简单的做多做空信号。其次,它计算快速EMA均线和慢速EMA均线的差值得到APO指标,根据其正负情况判断多头和空头趋势。
-
-最后,该策略整合两种指标:当2/20均线和APO同时发出做多或做空信号时,对应的开仓;当两者发出相反信号时,进行平仓。
-
-这种双指标策略的优势在于能够发挥各自的技术优势,互相验证信号,改善策略表现。但也存在整合时滞后的问题。
-
-总的来说,双均线指标融合策略结合简单和复杂指标,能够过滤掉一些噪音交易,但需要适当优化参数,并严格遵循建议的使用时间范围,否则实盘效果无法保证。
-
+Double moving average indicator fusion trading strategy
+This strategy forms trading signals by integrating the 2/20 moving average indicator and the absolute price oscillator APO.
+First, it calculates a 20-period EMA and generates simple long and short signals when the price falls below or breaks above the EMA. Secondly, it calculates the difference between the fast EMA and the slow EMA to obtain the APO indicator, and determines the long and short trends based on its positive and negative conditions.
+Finally, this strategy integrates two indicators: when the 2/20 moving average and APO send out long or short signals at the same time, the corresponding position is opened; when the two send opposite signals, the position is closed.
+The advantage of this dual-index strategy is that it can give full play to their respective technical advantages, verify each other's signals, and improve strategy performance. But there is also the problem of lag in integration.
+In general, the dual moving average indicator fusion strategy combines simple and complex indicators and can filter out some noise transactions, but it needs to properly optimize the parameters and strictly follow the recommended use time range, otherwise the real trading effect cannot be guaranteed.
 ||Dual Moving Average Indicators Fusion Strategy
 
 This strategy integrates the 2/20 MA indicator and the Absolute Price Oscillator (APO) to generate trading signals.
